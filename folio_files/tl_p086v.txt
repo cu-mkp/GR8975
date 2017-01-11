@@ -1,35 +1,34 @@
-<page>086v</page> 
+086v 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image
 
-<div>
 
-<cont/>
 
-<id>p085v_a4</id>
 
-<ab>[or <m>metal</m>] fills with bubbles. Most of all, make sure that the cast is always higher than the molded thing, since the <m>sand</m> swells very often when reheating <del>if the</del><del/>, even in the middle, and therefore with the molded thing remaining higher than the cast, the <m>metal</m> cannot run easily or at all nor enter at all. Also make sure that the mold &amp; the cast are indeed reheated. Also cast in one go &amp; outside of the wind. And if your medal is really thin, when you want to mold it, put a <m>card</m>, or two or three thicknesses of <m>paper</m>, so that the mold will be lower than the cast.  Also cast in the place where your medal will be <del/> least thick &amp; where the relief is lowest.</ab>
+
+p085v_a4
+
+[or metal] fills with bubbles. Most of all, make sure that the cast is always higher than the molded thing, since the sand swells very often when reheating if the, even in the middle, and therefore with the molded thing remaining higher than the cast, the metal cannot run easily or at all nor enter at all. Also make sure that the mold &amp; the cast are indeed reheated. Also cast in one go &amp; outside of the wind. And if your medal is really thin, when you want to mold it, put a card, or two or three thicknesses of paper, so that the mold will be lower than the cast.  Also cast in the place where your medal will be  least thick &amp; where the relief is lowest.
 
   
 
-</div><div><id>p086v_a1</id><head>Excellent <m>sand</m> for <m>lead</m>, <m>tin</m> and <m>copper</m></head>
+p086v_a1Excellent sand for lead, tin and copper
 
-<ab>D</ab>
+D
 
-<ab>Since, I molded with <m>burned bone</m>, <m>dross of iron</m> &amp; burned <m>felt</m>, really crushed and ground on <m>marble</m> and mixed together. I got them very wet with beaten <m>egg white</m>.  And, as in the other [casts], having covered the medal and filled the box frame with <m>sable de mine</m>, I gave it a little tap. I found it really stripped &amp; molded quite neatly. I let it sit for a night. The morning after next I reheated it little by little for over the course of seven or eight hours (because if possible there must not remain any humidity at all in the box frame). Two times, I cast <m>copper</m> alloyed with <m>☾</m> there, as old <m>K</m>. The material came out really lustrous &amp; resonant &amp; without a chappe. And my <m>sand</m> was not corrupted at all.  Since, I have cast in there many casts of <m>sweet lead</m> and <m>tin</m>, which came out the best and neatest of any others I have yet found.</ab>
+Since, I molded with burned bone, dross of iron &amp; burned felt, really crushed and ground on marble and mixed together. I got them very wet with beaten egg white.  And, as in the other [casts], having covered the medal and filled the box frame with sable de mine, I gave it a little tap. I found it really stripped &amp; molded quite neatly. I let it sit for a night. The morning after next I reheated it little by little for over the course of seven or eight hours (because if possible there must not remain any humidity at all in the box frame). Two times, I cast copper alloyed with ☾ there, as old K. The material came out really lustrous &amp; resonant &amp; without a chappe. And my sand was not corrupted at all.  Since, I have cast in there many casts of sweet lead and tin, which came out the best and neatest of any others I have yet found.
 
-<ab>When you mold make some grooves around your mold in the box frame, so that you draw in this manner the matter from all sides.</ab>
+When you mold make some grooves around your mold in the box frame, so that you draw in this manner the matter from all sides.
 
-<figure>
 
-<id>fig_p086v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWFuOW9Db1ZjZFk</link>
+fig_p086v_1
 
-</figure>
+https://drive.google.com/open?id=0B9-oNrvWdlO5dWFuOW9Db1ZjZFk
 
- <ab><m>Potin</m> from <m>sernique</m> &amp; other <del/>works runs yet better than fine <m>latten</m>.  But I believe that half <m>copper</m> and half <m>latten</m> is better, which has served &amp; been in very thin works, like frying pans &amp; similar ones.  I've seen come out quite well this mixture of half</ab>
 
-<cont/>
 
-</div>
+ Potin from sernique &amp; other works runs yet better than fine latten.  But I believe that half copper and half latten is better, which has served &amp; been in very thin works, like frying pans &amp; similar ones.  I've seen come out quite well this mixture of half
+
+
+

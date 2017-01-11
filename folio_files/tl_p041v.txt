@@ -1,47 +1,46 @@
-<page>041v</page>
+041v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image
 
-<div>
 
-<id>p041v_1</id>
 
-<head><pro>Glassmaker</pro>'s <m>black</m></head>
+p041v_1
 
-<ab><m>Filings of iron</m> taken from bars that have been in the fire for a long time, which are thick, are much better than the common soft ones that fall under the anvil in the forge, because they imitate <m>niello</m>. To said <m>black</m>, described elsewhere, some people add a little <m>minium</m>.
+Glassmaker's black
 
-</ab>
+Filings of iron taken from bars that have been in the fire for a long time, which are thick, are much better than the common soft ones that fall under the anvil in the forge, because they imitate niello. To said black, described elsewhere, some people add a little minium.
 
-</div>
 
-<div>
 
-<id>p041v_2</id>
 
-<head>Sheared <al>ewes</al></head>
 
-<ab>If the <pro>shearer</pro> wounds them at some point, he applies the very excrement of the ewe on it. When they are fat, they are easier to shear and do not get hurt as easily.
 
-</ab>
 
-<ab>
+p041v_2
 
-<margin>left-middle</margin>
+Sheared ewes
 
-If the <pro>shearer</pro> wants to 'viscorter' them, that is to castrate them as [they] are one or two years old, he must not have been with his wife, because this would cause the <al>sheep</al> to die.
+If the shearer wounds them at some point, he applies the very excrement of the ewe on it. When they are fat, they are easier to shear and do not get hurt as easily.
 
-</ab>
 
-</div>
 
-<div>
 
-<id>p041v_3</id>
 
-<head>Colors and <m>gilt</m> on <m>glass</m></head>
+left-middle
 
-<ab>You should not put as strong <m>gummed water</m> on <m>glass</m> for the <m>silver</m> layer as for the <m>gold</m> layer because a <m>silver</m> leaf is twice as strong as <m>gold</m> leaf. Also, <m>silver</m> is harder and therefore does not scratch as easily. And if <m>gum</m> was not a little [too] strong for <m>silver</m>, it would not crack so clearly. When you work, the exhalation of your <m>breath</m> humidifies the leaf lying on the <m>glass</m>, and therefore it would be good, when working, to heat it up a few times. You have to very thoroughly wash what you want to be empty and used as a surface painted with colors, because if it is not really clean of the <m>gum</m>'s <m>grease</m> and viscosity, and of other things, the colors will not be so clear on it. To advance your work you can smooth with a <m>pumice stone</m>, or [you can do this] to better lay down <m>gum</m> and leaf on a cut <m>paper</m>. This way, you will have to do very little repairs. If you want a <m>gold</m> color there without <m>gold</m>, mix soaked dried <m>saffron</m> with a little bit of <m>massicot</m>.
+If the shearer wants to 'viscorter' them, that is to castrate them as [they] are one or two years old, he must not have been with his wife, because this would cause the sheep to die.
 
-</ab>
 
-</div>
+
+
+
+
+
+p041v_3
+
+Colors and gilt on glass
+
+You should not put as strong gummed water on glass for the silver layer as for the gold layer because a silver leaf is twice as strong as gold leaf. Also, silver is harder and therefore does not scratch as easily. And if gum was not a little [too] strong for silver, it would not crack so clearly. When you work, the exhalation of your breath humidifies the leaf lying on the glass, and therefore it would be good, when working, to heat it up a few times. You have to very thoroughly wash what you want to be empty and used as a surface painted with colors, because if it is not really clean of the gum's grease and viscosity, and of other things, the colors will not be so clear on it. To advance your work you can smooth with a pumice stone, or [you can do this] to better lay down gum and leaf on a cut paper. This way, you will have to do very little repairs. If you want a gold color there without gold, mix soaked dried saffron with a little bit of massicot.
+
+
+

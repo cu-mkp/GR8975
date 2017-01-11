@@ -1,73 +1,72 @@
-<page>013v</page>
+013v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image
 
-<div>
 
-<cont/>
 
-<id>p013r_4</id>
 
-<ab>
 
-passing through so well. But for this effect, choose yellow and natural raw <m>silk</m> because it is stronger and rejects <m>flour</m> as <m><al>horse</al>hair</m> does.</ab></div>
+p013r_4
 
-<div>
 
-<id>p013v_1</id>
 
-<head>To recognize good <m>azur dust</m> for <m>oil</m></head>
+passing through so well. But for this effect, choose yellow and natural raw silk because it is stronger and rejects flour as horsehair does.
 
-<ab>The one that piles up in small clods and is lumpy is the best because it is finer. Also the one that is also very pale in color, because <m>oil</m> darkens it. Certain sophists mix them together, but you will find this out if you pour some onto a piece of <m>paper</m> and lay it flat and spread it with your <tl><bp>finger</bp></tl> since, if it is mixed, it will be found varied and so to say with light and darker stripes, but if it is whole it will be even and of one color.
 
-</ab>
 
-</div>
+p013v_1
 
-<div>
+To recognize good azur dust for oil
 
-<id>p013v_2</id>
+The one that piles up in small clods and is lumpy is the best because it is finer. Also the one that is also very pale in color, because oil darkens it. Certain sophists mix them together, but you will find this out if you pour some onto a piece of paper and lay it flat and spread it with your finger since, if it is mixed, it will be found varied and so to say with light and darker stripes, but if it is whole it will be even and of one color.
 
-<head>Whitening <m>pearls</m></head>
 
-<ab>When they have been applied in embroidery on some garment, they are greasy and may be cleaned in <m>soapy water</m>.
 
-</ab>
 
-</div>
 
-<div>
 
-<id>p013v_3</id>
 
-<head><m>Toadstone</m></head>
+p013v_2
 
-<ab>That which comes from the head of the <al>toad</al> and has the shape of the <al>toad</al>, painted naturally as you have seen, is the most excellent. It is said that if powder made from it is put on a <tl>brazier</tl> in someone's room at night, they will be unable to move, speak, or stop <pro>thieves</pro>.
+Whitening pearls
 
-</ab>
+When they have been applied in embroidery on some garment, they are greasy and may be cleaned in soapy water.
 
-</div>
 
-<div>
 
-<id>p013v_4</id> 
 
-<head><al>Snakes</al></head>
 
-<ab>It is said that if one calls a <al>snake</al> in Greek, saying <greek>ΟΦΗ ΟΦΗ</greek>, it will flee. Similarly, that if one calls a <al>swine</al> in Greek, <greek>ïon</greek>, it will come.
 
-</ab>
 
-</div>
+p013v_3
 
-<div>
+Toadstone
 
-<id>p013v_5</id> 
+That which comes from the head of the toad and has the shape of the toad, painted naturally as you have seen, is the most excellent. It is said that if powder made from it is put on a brazier in someone's room at night, they will be unable to move, speak, or stop thieves.
 
-<head>Candles</head>
 
-<ab><pro>Candlemakers</pro> never make good candles when the <oc><env>autan</env></oc> wind blows because they always melt, however good is the <m>tallow</m> they use in them.
 
-</ab>
 
-</div>
+
+
+
+p013v_4 
+
+Snakes
+
+It is said that if one calls a snake in Greek, saying ΟΦΗ ΟΦΗ, it will flee. Similarly, that if one calls a swine in Greek, ïon, it will come.
+
+
+
+
+
+
+
+p013v_5 
+
+Candles
+
+Candlemakers never make good candles when the autan wind blows because they always melt, however good is the tallow they use in them.
+
+
+

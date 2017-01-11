@@ -1,119 +1,118 @@
-<page>124v</page>
+124v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f254.image
 
-<div>
 
-<id>p124v_1</id>
 
-<head><m><fr>Rouge clair</fr></m> @ <add><m>enamel</m></add></head>
+p124v_1
 
-<ab>Fine <m>gold</m> is unfavorable for it, for <del>[illegible]</del> on the former it is yellowish. But alloyed <m>gold</m> is more favorable, such as that of <cn>escu</cn> &amp; <cn>pistolet</cn>. <del>If</del> <m>Gold</m> in its pale color decays the <m>enamel</m>’s hue. <del>Ma</del> And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make <m>enamels</m> beautiful. Otherwise, they are subdued.</ab>
+Rouge clair @ enamel
 
-<ab>There is  <m>rouge clair</m> that once worn down with <fr><m>arene</m></fr> loses its beauty.</ab>
+Fine gold is unfavorable for it, for [illegible] on the former it is yellowish. But alloyed gold is more favorable, such as that of escu &amp; pistolet. If Gold in its pale color decays the enamel’s hue. Ma And for this occasion, once cut, one puts it back on the fire to give it a reddish color to make enamels beautiful. Otherwise, they are subdued.
 
-<ab>Some <m>rouge claire</m> is found with grains of <m>gold</m> inside. And it is also the opinion of good <pro>goldsmiths</pro> that the good one is made with <m>gold</m>.</ab>
+There is  rouge clair that once worn down with arene loses its beauty.
 
-</div>
+Some rouge claire is found with grains of gold inside. And it is also the opinion of good goldsmiths that the good one is made with gold.
 
-<div>
 
-<id>p124v_2</id>
+
+
+
+p124v_2
 
  
 
-<head>Casting with <m>gold</m></head>
+Casting with gold
 
-<ab>Molds are recooked better &amp; more surely than otherwise in a closed fire, such as a <del><tl>pot</tl></del> a <tl>reverberatory furnace</tl>. So that when goldsmiths want to cast some piece of important work <del>d’<m>or</m> e</del> that cost a lot to rough out in wax, they put the <tl>molds</tl> in a <tl>pot</tl> &amp; recover them, &amp; fill the pot with earth, sustaining the fire that holds them unified &amp; tight. Then, they recook <tl>mold</tl>, <m>earth</m> &amp; <tl>pot</tl> together and when everything is quite red, they cast the <m>gold</m>. Fine <m>gold</m> does not run well, but rather alloyed <m>gold</m>.</ab>
+Molds are recooked better &amp; more surely than otherwise in a closed fire, such as a pot a reverberatory furnace. So that when goldsmiths want to cast some piece of important work d’or e that cost a lot to rough out in wax, they put the molds in a pot &amp; recover them, &amp; fill the pot with earth, sustaining the fire that holds them unified &amp; tight. Then, they recook mold, earth &amp; pot together and when everything is quite red, they cast the gold. Fine gold does not run well, but rather alloyed gold.
 
-<ab><m>Gold</m> and <m>silver</m> do not become brittle: once entirely red and hot, dip them into <m>water</m>.</ab>
+Gold and silver do not become brittle: once entirely red and hot, dip them into water.
 
-<ab>
 
-<margin>left-middle</margin>
 
-<m>Gold</m> is a quarter heavier than <m>lead</m>.</ab>
+left-middle
 
-<ab>
+Gold is a quarter heavier than lead.
 
-<margin>left-middle</margin>
 
-When <m>gold</m> reaches its perfect heat, it is green like an <m>emerald</m>.</ab>
 
-<ab>
+left-middle
 
-<margin>left-bottom</margin>
+When gold reaches its perfect heat, it is green like an emerald.
 
-Take care that where you want to cast with <m>gold</m>, there must not fall any <m>lead</m>, <m>tin</m>, or <m>lime</m> thereof in the <fr>forge</fr>.</ab>
 
-</div>
 
-<div>
+left-bottom
 
-<id>p124v_3</id>
+Take care that where you want to cast with gold, there must not fall any lead, tin, or lime thereof in the forge.
 
-<head>A way to make the gate for small female <al>lizards</al></head>
 
-<ab>Because you always have to make the gate by the tail, and that it is so delicate and thin that the <del>casting scarcely</del> metal would flow with difficulty, especially when the tail is folded, roll <m>wax</m> in little filaments of this size 
 
-<figure>
 
-<id>fig_p124v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k</link>
+p124v_3
 
-</figure> 
+A way to make the gate for small female lizards
 
-and apply some with the hot <m>wire</m>, as said, one at the end of the tail &amp; others that correspond in the same way, from one <del>end</del> <add>side</add> of the tail to the other, as you see depicted. But take heed to do it with the end of the <tl>hot iron</tl> so that the end of the <m>wax</m> scarcely touches the animal, for the sand of the second gate will not touch this part.  But make the end of the <m>wax</m> arranges itself only at the end of the empty part of the first mold. Make as well channels of <m>wax</m> around the legs &amp;, around the contours of the body, which are a little long &amp; they will serve as a trough for the molded thing.</ab> 
+Because you always have to make the gate by the tail, and that it is so delicate and thin that the casting scarcely metal would flow with difficulty, especially when the tail is folded, roll wax in little filaments of this size 
 
-<cont/>
 
-<ab>
 
-<margin>right-bottom</margin>
+fig_p124v_2
 
-<add>Follow here above</add> 
+https://drive.google.com/open?id=0B9-oNrvWdlO5dWU4UEtpX0hBV0k
 
-<figure>
+ 
 
-<id>fig_p124v_3</id>
+and apply some with the hot wire, as said, one at the end of the tail &amp; others that correspond in the same way, from one end side of the tail to the other, as you see depicted. But take heed to do it with the end of the hot iron so that the end of the wax scarcely touches the animal, for the sand of the second gate will not touch this part.  But make the end of the wax arranges itself only at the end of the empty part of the first mold. Make as well channels of wax around the legs &amp;, around the contours of the body, which are a little long &amp; they will serve as a trough for the molded thing. 
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5STY2ZEpOSXFVWXc</link>
 
-</figure>
 
-</ab>
 
-<cont/>
 
-<ab>
+right-bottom
 
-<margin>left-bottom</margin>
+Follow here above 
 
-When the tail, which is delicate and closer to the gate comes out well, the rest will also come out well.</ab>
 
-<ab>
 
-<margin>left-bottom</margin>
+fig_p124v_3
 
-The most important is that the ears of the <al>snake</al> come out well-molded.</ab>
+https://drive.google.com/open?id=0B9-oNrvWdlO5STY2ZEpOSXFVWXc
 
-<ab>
 
-<margin>left-bottom</margin>
 
-Your gate must be very thin at the entrance of the animal &amp; of the thickness of a knife.</ab>
 
-<figure>
 
-<id>fig_p124v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k</link>
 
-<margin>left-bottom</margin>
 
-</figure>
 
-<cont/>
+left-bottom
 
-</div>
+When the tail, which is delicate and closer to the gate comes out well, the rest will also come out well.
+
+
+
+left-bottom
+
+The most important is that the ears of the snake come out well-molded.
+
+
+
+left-bottom
+
+Your gate must be very thin at the entrance of the animal &amp; of the thickness of a knife.
+
+
+
+fig_p124v_1
+
+https://drive.google.com/open?id=0B9-oNrvWdlO5aGQ0OTFCTklrQ0k
+
+left-bottom
+
+
+
+
+

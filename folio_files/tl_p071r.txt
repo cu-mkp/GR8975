@@ -1,61 +1,60 @@
-<page>071r</page>
+071r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image</image> 
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f147.image 
 
-<div>
 
-<id>p071r_1</id>
 
-<head><m>Amber</m></head>
+p071r_1
 
-<ab>It softens like a paste when it is boiled in molten <m>wax</m>, and colors when boiled with the <m>grease</m> of a young <al>kid</al>, since that <sup>the grease</sup> of a <al>goat</al> would break it, especially if it is glazed.</ab>
+Amber
 
-</div>
+It softens like a paste when it is boiled in molten wax, and colors when boiled with the grease of a young kid, since that the grease of a goat would break it, especially if it is glazed.
 
-<div>
 
-<id>p071r_2</id>
 
-<head>Streaked <m>wood</m></head>
 
-<ab>The <m>elm</m>has in its knotty roots beautiful veins streaked with grey and black, and the <m>root of the maple tree</m> as well, but the grain of the <m>wood</m> needs to be chosen carefully. One gives the <m>maple wood</m> a certain yellow color and then varnishes it.</ab>
 
-</div>
+p071r_2
 
-<div>
+Streaked wood
 
-<id>p071r_3</id>
+The elmhas in its knotty roots beautiful veins streaked with grey and black, and the root of the maple tree as well, but the grain of the wood needs to be chosen carefully. One gives the maple wood a certain yellow color and then varnishes it.
 
-<head><m>Sugared</m> and <m>mulled wine</m></head>
 
-<ab>
 
-When the <pl>English</pl> have a cold, they mull <m>wine</m> in this way. They heat <m>wine</m> in a <del>large</del> <m>tin</m> pot until it boils, and when it becomes frothy, <del/>they light it with burning <m>paper</m> to determine if it is hot enough. After, to mull the whole of it, they pour it from one vessel into another, as if they wanted to churn <m>eau panée</m>, and as they do it, someone else lights with a burning <m>paper</m> what is falling from the one vessel into the other, such that you would think you were pouring fire. When the <m>wine</m> is mulled enough, heat it again a little while adding a few <m>cloves</m> and a sufficient quantity of <m>sugar</m>. And they <sup>the <pl>English</pl></sup> <del/> drink it when it is as hot as possible in order to overcome their melancholy.</ab>
 
-<ab>
 
-<margin>left-middle</margin>
+p071r_3
 
-<pl>English</pl> commoners put <m>sugar</m> in <m>wine</m> as a substitute for new sweet <m>wine</m>, which they cannot have because, owing to the long sea crossing, the <m>wine</m> loses its sweetness and clarifies itself before it reaches their country.</ab>
+Sugared and mulled wine
 
-</div>
+
+
+When the English have a cold, they mull wine in this way. They heat wine in a large tin pot until it boils, and when it becomes frothy, they light it with burning paper to determine if it is hot enough. After, to mull the whole of it, they pour it from one vessel into another, as if they wanted to churn eau panée, and as they do it, someone else lights with a burning paper what is falling from the one vessel into the other, such that you would think you were pouring fire. When the wine is mulled enough, heat it again a little while adding a few cloves and a sufficient quantity of sugar. And they the English  drink it when it is as hot as possible in order to overcome their melancholy.
+
+
+
+left-middle
+
+English commoners put sugar in wine as a substitute for new sweet wine, which they cannot have because, owing to the long sea crossing, the wine loses its sweetness and clarifies itself before it reaches their country.
+
+
 
  
 
-<div>
 
-<id>p071r_4</id>
 
-<head>Weary <al>horses</al></head>
+p071r_4
 
-<ab>In order to restore a harried <al>horse</al>, they make it drink some of the aforesaid <m>wine</m> through a horn, and it finds itself disposed to do an even harder labor.</ab></div>
+Weary horses
 
-<div>
+In order to restore a harried horse, they make it drink some of the aforesaid wine through a horn, and it finds itself disposed to do an even harder labor.
 
-<id>p071r_5</id>
 
-<head><m>Eau de vie</m></head>
 
-<ab>The <al>Irish</al> do not drink any <m>wine</m> because they convert it into <m>spirits</m>, which they use almost as habitually as we use <m>wine</m>.</ab>
+p071r_5
 
-</div>
+Eau de vie
+
+The Irish do not drink any wine because they convert it into spirits, which they use almost as habitually as we use wine.
+

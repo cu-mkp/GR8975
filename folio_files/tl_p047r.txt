@@ -1,63 +1,62 @@
-<page>047r</page>
+047r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f99.image
 
-<div>
 
-<id>p047r_1</id>
 
-<head>For teeth</head>
+p047r_1
 
-<ab><m>Sal ammoniac</m> i <figure>℥</figure>, <m>rock salt</m> 1 <figure>℥</figure>, <m>alum</m> half <figure>℥</figure>. Make <m>water</m> with the cornue, and no matter how little of it you touch the tooth with, the tartar and blackness will go away. It is true that it has a bad odor, but you can mix it with <m>rose honey</m> and a little <m>clove oil</m> or <m>cinnamon<sup> oil</sup></m>.
+For teeth
 
-</ab>
+Sal ammoniac i ℥, rock salt 1 ℥, alum half ℥. Make water with the cornue, and no matter how little of it you touch the tooth with, the tartar and blackness will go away. It is true that it has a bad odor, but you can mix it with rose honey and a little clove oil or cinnamon oil.
 
-</div>
 
-<div>
 
-<id>p047r_2</id>
 
-<head><m>Antimony oil</m></head>
 
-<ab>It yellows quite strongly, even <m>silver</m>, if you put it on it once heated.
 
-</ab>
 
-</div>
+p047r_2
 
-<div>
+Antimony oil
 
-<id>p047r_3</id>
+It yellows quite strongly, even silver, if you put it on it once heated.
 
-<head>Against falling sickness or dizziness</head>
 
-<ab>Wear, hung to your collar, some root of <m>paeonia</m> which has been plucked when the moon is waning.
 
-</ab>
 
-</div>
 
-<div>
 
-<id>p047r_4</id>
 
-<head>Crucibles</head>
+p047r_3
 
-<ab>Those from <m>Bayonne</m>, which seem to be made of <m>grès</m>, are better because they last, without comparison, longer than others. And since they are not very thick, one wastes less <m>charcoal</m> to melt <m>gold</m> and <m>silver</m> because they are quickly heated. They do not absorb <m>silver</m> as much as others, and for this reason, there is not much laveure to be found in them. They are also not as likely to fall over as others that have a flat bottom.
+Against falling sickness or dizziness
 
-</ab>
+Wear, hung to your collar, some root of paeonia which has been plucked when the moon is waning.
 
-</div>
 
-<div>
 
-<id>p047r_5</id>
 
-<head>Against diarrhea and dysentery</head>
 
-<ab>Against diarrhea, it is good to use preserve of <m>symphytum</m>, also [known as] <m>consolida maior</m>. And if it is against dysentery, you can rub the temples, the hollow of the hands, and the sole of the feet with <m>wax oil</m> and take a drop of two of it with a spoonful of <m>broth</m>. The root of <m>consolida maior</m>, crushed and put between <del>pieces</del> cuts in a piece of <m><al>beef</al></m>, then boiled, rejoins them, as it is said.
 
-</ab>
 
-</div>
+p047r_4
+
+Crucibles
+
+Those from Bayonne, which seem to be made of grès, are better because they last, without comparison, longer than others. And since they are not very thick, one wastes less charcoal to melt gold and silver because they are quickly heated. They do not absorb silver as much as others, and for this reason, there is not much laveure to be found in them. They are also not as likely to fall over as others that have a flat bottom.
+
+
+
+
+
+
+
+p047r_5
+
+Against diarrhea and dysentery
+
+Against diarrhea, it is good to use preserve of symphytum, also [known as] consolida maior. And if it is against dysentery, you can rub the temples, the hollow of the hands, and the sole of the feet with wax oil and take a drop of two of it with a spoonful of broth. The root of consolida maior, crushed and put between pieces cuts in a piece of beef, then boiled, rejoins them, as it is said.
+
+
+

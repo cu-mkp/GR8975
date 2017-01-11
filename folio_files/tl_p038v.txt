@@ -1,63 +1,62 @@
-<page>038v</page>
+038v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image
 
-<div>
 
-<id>p038v_1</id>
 
-<head>Black color for dyeing </head>
+p038v_1
 
-<ab>Take <m>lye made from quicklime</m> and <m>white lead</m>, mix and leave to soak and you will have a dark brown dye, and reiterating the same you will make black. Try other colours with the <m>lye made of lime</m>.</ab>
+Black color for dyeing 
 
-</div>
+Take lye made from quicklime and white lead, mix and leave to soak and you will have a dark brown dye, and reiterating the same you will make black. Try other colours with the lye made of lime.
 
-<div>
 
-<id>p038v_2</id>
 
-<head>Against nose bleeding and for dyeing</head>
 
-<ab>Pound some of the kind of  <m>vinete</m> or <m>lapathum acutum</m> that is red-veined, which is called <m>dragon's blood</m>, and apply it on the bleeding person's forehead. This herb is a strong dye &amp; makes beautiful violet.</ab>
 
-</div>
+p038v_2
 
-<div>
+Against nose bleeding and for dyeing
 
-<id>p038v_3</id>
+Pound some of the kind of  vinete or lapathum acutum that is red-veined, which is called dragon's blood, and apply it on the bleeding person's forehead. This herb is a strong dye &amp; makes beautiful violet.
 
-<head>Beautiful artichokes</head>
 
-<ab>You need to trim them every year so that only one stem is left, and water them a lot. Also plant some more every year, because the second year they will bear very beautiful fruits.</ab>
 
-</div>
 
-<div>
 
-<id>p038v_4</id>
+p038v_3
 
-<head>Planting trees </head>
+Beautiful artichokes
 
-<ab>It is said that rarely a tree planted on Saint Paul's day will fail to take. To cover the young shoots, oxen manure is very appropriate, for it doesn't come apart in the rain like earth.</ab>  
+You need to trim them every year so that only one stem is left, and water them a lot. Also plant some more every year, because the second year they will bear very beautiful fruits.
 
-</div>
 
-<div>
 
-<id>p038v_5</id>
 
-<head>Merchants </head>
 
-<ab>Those who retail velvet and other materials do not keep double-entry books because they sell in small quantities and <sup>recording</sup> these details would be too much effort. They only have their sales book and account books. But those who sell in bulk and those who traffic in woad have a double-entry book.</ab>
+p038v_4
 
-</div>
+Planting trees 
 
-<div>
+It is said that rarely a tree planted on Saint Paul's day will fail to take. To cover the young shoots, oxen manure is very appropriate, for it doesn't come apart in the rain like earth.  
 
-<id>p038v_6</id>
 
-<head>Crimson</head>
 
-<ab>Because one aulne costs seven or eight lb. to dye, they use <sup>cloth</sup>worth seven or eight francs. But if one wants something beautiful, one should buy some white cloth worth fifteen francs an aulne and dye it with some pure crimson woad &amp; a little cochineal. Black fabrics are very fine because the dye is inexpensive.</ab>
 
-</div>
+
+p038v_5
+
+Merchants 
+
+Those who retail velvet and other materials do not keep double-entry books because they sell in small quantities and recording these details would be too much effort. They only have their sales book and account books. But those who sell in bulk and those who traffic in woad have a double-entry book.
+
+
+
+
+
+p038v_6
+
+Crimson
+
+Because one aulne costs seven or eight lb. to dye, they use clothworth seven or eight francs. But if one wants something beautiful, one should buy some white cloth worth fifteen francs an aulne and dye it with some pure crimson woad &amp; a little cochineal. Black fabrics are very fine because the dye is inexpensive.
+

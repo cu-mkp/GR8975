@@ -1,69 +1,68 @@
-<page>064v</page>
+064v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f134.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f134.image
 
-<div>
 
-<id>p064v_1</id>
 
-<head>Apprenticeship of the <pro>painter</pro></head>
+p064v_1
 
-<ab>He is first made to draw an <m>egg</m>, in which he must draw half a face, then the entire <sup>face</sup> with the ears, then the neck, then the parts of the body separately, then joined, then one figure, then two and three, and finally a narrative scene, teaching him how to hold the <m>charcoal</m> by the point, and also the paintbrush. Once he knows how to draw, he is taught how to apply colors.</ab>
+Apprenticeship of the painter
 
-</div>
+He is first made to draw an egg, in which he must draw half a face, then the entire face with the ears, then the neck, then the parts of the body separately, then joined, then one figure, then two and three, and finally a narrative scene, teaching him how to hold the charcoal by the point, and also the paintbrush. Once he knows how to draw, he is taught how to apply colors.
 
-<div>
 
-<id>p064v_2</id>
 
-<head>He is also shown these strokes and lines</head>
 
-<ab>The figure of the <m>egg</m> is the main pattern for faces and for curled-up bodies, as the cross is the model for a full, straight figure. Without these strokes you will never do anything well.</ab>
 
-</div>
+p064v_2
 
-<figure>
+He is also shown these strokes and lines
 
-<id>fig_p064v_1</id>
+The figure of the egg is the main pattern for faces and for curled-up bodies, as the cross is the model for a full, straight figure. Without these strokes you will never do anything well.
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M</link>
 
-</figure>
 
-<div>
 
-<id>p064v_3</id>
 
-<head>Softening</head>
+fig_p064v_1
 
-<ab>To soften well, you must not lay the colors thick, but rather lay them twice, except for <m>azure enamel</m>.</ab>
+https://drive.google.com/open?id=0B9-oNrvWdlO5NmZDTmZwc1Jqb2M
 
-<ab>
 
-<margin>left-middle</margin>
 
-All colors that lack body in <m>oil</m> also lack body in distemper. In distemper they even sink to the bottom. <m>Distempered colors</m> need to be fat, which you can tell when they stick to the palette after being distempered in <m>oil</m>.</ab>
 
-</div>
 
-<div>
+p064v_3
 
-<id>p064v_4</id>
+Softening
 
-<head>Straight lines</head>
+To soften well, you must not lay the colors thick, but rather lay them twice, except for azure enamel.
 
-<ab>You can use the ruler, but do not lay it flat on the painting, but somewhat lifted and resting on the edges of the panel. Otherwise you would smudge everything, and also you would not see the strokes well.</ab>
 
-</div>
 
-<div>
+left-middle
 
-<id>p064v_5</id>
+All colors that lack body in oil also lack body in distemper. In distemper they even sink to the bottom. Distempered colors need to be fat, which you can tell when they stick to the palette after being distempered in oil.
+
+
+
+
+
+p064v_4
+
+Straight lines
+
+You can use the ruler, but do not lay it flat on the painting, but somewhat lifted and resting on the edges of the panel. Otherwise you would smudge everything, and also you would not see the strokes well.
+
+
+
+
+
+p064v_5
 
   
 
-<head>Distemper</head>
+Distemper
 
-<ab>It is necessary that <m>distempered colors</m> are kept darker while you distemper them, because they become lighter when they dry. But <m>oil colors</m> remain the same colors.</ab>
+It is necessary that distempered colors are kept darker while you distemper them, because they become lighter when they dry. But oil colors remain the same colors.
 
-</div>

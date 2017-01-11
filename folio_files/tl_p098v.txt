@@ -1,31 +1,30 @@
-<page>098v</page> 
+098v 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f202.image
 
-<div><id>p098v_a1</id><head>Small dogs</head>
+p098v_a1Small dogs
 
-<ab>Small barbet dogs are recognizable thanks to their muzzle which is larger than that of other dogs.</ab>
+Small barbet dogs are recognizable thanks to their muzzle which is larger than that of other dogs.
 
- </div><div><id>p098v_a2</id><head>Salted <m>artichokes</m></head>
+ p098v_a2Salted artichokes
 
-<ab>One should put them fill and not too ripe in a small barrel full of <m>brine</m>. Then can be served all year long, with salads, <m>oil</m> and <m>vinegar</m>, raw, as prepared in this way they take long to cook. Make sure to try your <m>brine</m> with an <m>egg</m>: if it is good, the <m>egg</m> will float in it. If it does not float, it means [the <m>brine</m>] is not strong enough and would not conserve the <m>fruits</m>.</ab>
+One should put them fill and not too ripe in a small barrel full of brine. Then can be served all year long, with salads, oil and vinegar, raw, as prepared in this way they take long to cook. Make sure to try your brine with an egg: if it is good, the egg will float in it. If it does not float, it means [the brine] is not strong enough and would not conserve the fruits.
 
-</div><div><id>p098v_a3</id><head>Trees</head>
+p098v_a3Trees
 
-<ab>Those which carry <m>fruits</m> age early and do not last long.</ab>
+Those which carry fruits age early and do not last long.
 
  
 
-</div><div><id>p098v_a4</id><head>Birds</head>
+p098v_a4Birds
 
-<ab>Those who have been fed at the spit do not sing among or the company of other birds, they do only when they have their own cage. To teach them to sing well, they have to be taken from their nest as young as possible, and be covered with a <m>duvet</m> or <m>rabbit skin</m>. That way, having not seen their father and known their voice, they learn better to sing the way they are taught to.</ab>
+Those who have been fed at the spit do not sing among or the company of other birds, they do only when they have their own cage. To teach them to sing well, they have to be taken from their nest as young as possible, and be covered with a duvet or rabbit skin. That way, having not seen their father and known their voice, they learn better to sing the way they are taught to.
 
-</div><div><id>p098v_a5</id><head>Melting</head>
+p098v_a5Melting
 
-<ab>The <m>potée</m> is made of <m>burnt earth</m> which has served for the melting. It is the <m>earth</m> bourré bolvene in which it has been melted. It should be ground against a large <m>stone</m> slab, and of this one should make the first coat of the mantle of the bell, where the letters and ornementations are to be found. It does not require to be cooked again against <m>hay fire</m> and will mold very neatly.</ab>
+The potée is made of burnt earth which has served for the melting. It is the earth bourré bolvene in which it has been melted. It should be ground against a large stone slab, and of this one should make the first coat of the mantle of the bell, where the letters and ornementations are to be found. It does not require to be cooked again against hay fire and will mold very neatly.
 
-<ab>The <m>earth</m> used for the molding of the core is likely to swell if you do not strongly rub the molded piece with a brush or the finger and if it is not well <m>oil</m>ed. And you need to do it one coat at a time rather than all at once.</ab>
+The earth used for the molding of the core is likely to swell if you do not strongly rub the molded piece with a brush or the finger and if it is not well oiled. And you need to do it one coat at a time rather than all at once.
 
-<cont/>
 
-</div>
+

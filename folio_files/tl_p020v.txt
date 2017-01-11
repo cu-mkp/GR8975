@@ -1,75 +1,74 @@
-<page>020v</page>
+020v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f46.image
 
-<div>
 
-<id>p020v_1</id> 
 
-<head>To whiten the <bp>face</bp></head>
+p020v_1 
 
-<ab>Pound <m><pa>puffball</pa></m> in <m>cistern water</m>, and no other, and wash with this whitened <m>water</m>. This is highly regarded. And I believe that making it from <m><pa>wheat</pa> starch</m> and using that would be even better.</ab>
+To whiten the face
 
-</div>
+Pound puffball in cistern water, and no other, and wash with this whitened water. This is highly regarded. And I believe that making it from wheat starch and using that would be even better.
 
-<div>
 
-<id>p020v_2</id> 
 
-<head>Against windiness, colic, etc.</head>
 
-<ab><m>Sap squeezed<sup> from <pa>orange</pa> peel</sup></m> or <m>water distilled from <pa>orange</pa> peel</m> is excellent against windy colics. <m>Candied peel</m> is also excellent for <bp>stomach</bp> winds. And to try it, having poured <m>sparkling wine</m> in a <tl>glass</tl>, press <m><pa>orange</pa> juice</m> on the <m>wine's foam</m>, which comes only from vapor and wind, and you will see that the foam will immediately disappear. Also, if you squeeze <m>juice</m> against a candle it will burn brighter.
 
-</ab>
+p020v_2 
 
-</div>
+Against windiness, colic, etc.
 
-<div>
+Sap squeezed from orange peel or water distilled from orange peel is excellent against windy colics. Candied peel is also excellent for stomach winds. And to try it, having poured sparkling wine in a glass, press orange juice on the wine's foam, which comes only from vapor and wind, and you will see that the foam will immediately disappear. Also, if you squeeze juice against a candle it will burn brighter.
 
-<id>p020v_3</id>
 
-<head><m><fr><pa>Eschervis</pa> racine</fr></m></head>
 
-<ab>They want to be planted in a very humid place or such that, with <sup>water from</sup> wells or fountains, they can be frequently watered, because this makes them tender. Otherwise a hard core forms inside, which takes away all their goodness.
 
-</ab>
 
-</div>
 
-<div>
 
-<id>p020v_4</id>
+p020v_3
 
-<head>Against burns</head>
+Eschervis racine
 
-<ab>Pound an <m><pa>onion</pa></m> with <m>verjuice</m> and leave it to soak like this, then apply it.
+They want to be planted in a very humid place or such that, with water from wells or fountains, they can be frequently watered, because this makes them tender. Otherwise a hard core forms inside, which takes away all their goodness.
 
-Or better, apply <m>black soap</m> on the burn. Experimented.
 
-</ab>
 
-</div>
 
-<div>
 
-<id>p020v_5</id>
 
-<head>A common saying</head>
 
-<ab>Steeple of <pl>Rodez</pl>, church of <pl>Albi</pl>, bells of <pl>Mende</pl>. However, the bell of <pl>Toulouse</pl> named Cardaillac is held to be one of the most beautiful in <pl>France</pl>, all the more since it weighs two hundred and fifty <fr><ms>quintal</ms></fr>s.
+p020v_4
 
-</ab>
+Against burns
 
-</div>
+Pound an onion with verjuice and leave it to soak like this, then apply it.
 
-<div>
+Or better, apply black soap on the burn. Experimented.
 
-<id>p020v_6</id>
 
-<head>A form of regimen</head>
 
-<ab>Every <tmp>morning</tmp>, take two or three <m>eggs</m> laid on the same day or the <tmp>day</tmp> before. Heat them up but do not cook them. Eat the <m>yolk</m>s well dusted with <m>sugar</m>. And afterwards drink one <ms><bp>finger</bp></ms> of <m>wine</m>. And in addition to being nourishing, it is good for the <bp>stomach</bp>.
 
-</ab>
 
-</div>
+
+
+p020v_5
+
+A common saying
+
+Steeple of Rodez, church of Albi, bells of Mende. However, the bell of Toulouse named Cardaillac is held to be one of the most beautiful in France, all the more since it weighs two hundred and fifty quintals.
+
+
+
+
+
+
+
+p020v_6
+
+A form of regimen
+
+Every morning, take two or three eggs laid on the same day or the day before. Heat them up but do not cook them. Eat the yolks well dusted with sugar. And afterwards drink one finger of wine. And in addition to being nourishing, it is good for the stomach.
+
+
+

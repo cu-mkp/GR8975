@@ -1,35 +1,34 @@
-<page>004r</page>
+004r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image
 
-<div>
 
-<id>p004r_1</id>
 
-<head><m>Lavender spike oil</m> varnish</head>
+p004r_1
 
-<ab>One must heat <m>lavender spike oil</m> and, as it begins to simmer, put in powdered <m>sandarac gum</m> so that it soon melts. And stir continuously over a <m>charcoal</m> fire until the <m>sandarac</m> is well melted, which you will know by taking a little of the said varnish on a <tl>plate</tl> and, if it is fat enough when you handle it with a <tl><bp>finger</bp></tl>, it is ready. And for one pound of <m>lavender spike oil</m>, you should put five ounces of ground <m>sandarac</m>. Some only put in four ounces but this is not as good, nor as fat. The former dries promptly. To avoid the trouble of polishing their <m>ebony</m>, <pro>framemakers</pro> varnish it with this. So do <pro>guitarmakers</pro>. This <sup>varnish</sup> is not as fitting for paintings as fine <m>turpentine varnish</m>, though it is good for the paintings' moldings. When <m>linseed varnish</m> was in use, one would not commonly varnish the landscape of a painting because it would turn the landscape yellow. But with <m>turpentine varnish</m> one varnishes everywhere. Instead of <m>sandarac</m>, you can add to it pulverized <m>mastic</m> drop by drop or otherwise, and it will dry more quickly.</ab>
+Lavender spike oil varnish
 
-<ab>If you want to varnish <m>plaster</m> or a wall, first put on your <m>glue de retaille</m>, very hot, because if cold it would not penetrate the wall at all.  And when you would have put your varnish on, it would come off.</ab>
+One must heat lavender spike oil and, as it begins to simmer, put in powdered sandarac gum so that it soon melts. And stir continuously over a charcoal fire until the sandarac is well melted, which you will know by taking a little of the said varnish on a plate and, if it is fat enough when you handle it with a finger, it is ready. And for one pound of lavender spike oil, you should put five ounces of ground sandarac. Some only put in four ounces but this is not as good, nor as fat. The former dries promptly. To avoid the trouble of polishing their ebony, framemakers varnish it with this. So do guitarmakers. This varnish is not as fitting for paintings as fine turpentine varnish, though it is good for the paintings' moldings. When linseed varnish was in use, one would not commonly varnish the landscape of a painting because it would turn the landscape yellow. But with turpentine varnish one varnishes everywhere. Instead of sandarac, you can add to it pulverized mastic drop by drop or otherwise, and it will dry more quickly.
 
-<ab>
+If you want to varnish plaster or a wall, first put on your glue de retaille, very hot, because if cold it would not penetrate the wall at all.  And when you would have put your varnish on, it would come off.
 
-<margin>left-top</margin>
 
-<m>Aspic oil varnish</m> is not as apt for colors as that of <m>turpentine</m>, because <m>aspic oil</m> eats the colors, since it is too penetrating.</ab>
 
-</div>
+left-top
 
-<div>
+Aspic oil varnish is not as apt for colors as that of turpentine, because aspic oil eats the colors, since it is too penetrating.
 
-<head>To remove varnish from an old panel painting that has yellowed and varnish it again</head>
 
-<ab>Take some <m>white soap</m> and <m>ashes</m> strained through a <tl>sieve</tl>, and soak all together in <m>water</m>. And with a <tl>sponge</tl>, take some of the said <m>ashes</m> and <m>soap</m> and rub the painting with it. And when you see that the old varnish has been taken off, throw a bucket of <m>water</m> at the painting to clean it, then leave it for a quarter of an hour in the sun to dry and revive the colors. Once your painting is dried, you can apply your <m>turpentine varnish</m>.</ab>
 
-<ab>
 
-<margin>left-bottom</margin>
 
-Make sure the colors do not come off.</ab>
+To remove varnish from an old panel painting that has yellowed and varnish it again
 
-</div>
+Take some white soap and ashes strained through a sieve, and soak all together in water. And with a sponge, take some of the said ashes and soap and rub the painting with it. And when you see that the old varnish has been taken off, throw a bucket of water at the painting to clean it, then leave it for a quarter of an hour in the sun to dry and revive the colors. Once your painting is dried, you can apply your turpentine varnish.
+
+
+
+left-bottom
+
+Make sure the colors do not come off.
+

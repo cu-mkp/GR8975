@@ -1,31 +1,30 @@
-<page>153r</page>
+153r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f311.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f311.image
 
-<div>
 
-<id>p153r_1</id>
 
-<head>Moulding the hollow part of a mold for seals or other things</head>
+p153r_1
 
-<ab>Firstly fashion your figure in <m>wax</m> on an even slab of <m>glass</m> or <m>slate</m>. After, mold it with our aforesaid sand, having beforehand lightly oiled it with <m>oil</m> as you know, and having rubbed it with <m>spirits</m>, while tempering your sand with <m>hot water</m>.  Having made the hollow part, cast it in <m>lead</m>, using the same alloy as you do for other figures that come out very neatly. However, if it does not release cleanly, repair it.  And then mold you <m>lead</m> relief with some <m>wax</m>. After, in your <m>wax</m> hollow part, throw in your tempered sand which will give you a relief, upon which you will cast your hollow part with <m>silver</m>, or any other metal used for seals.  But note that you must not make your hollow part with melted <m>wax</m>, but only with <m>wax</m> warmed in hot <m>water</m>, or even better in hot <m>urine</m>. Or else, if you have a relief in <m>gold</m> or <m>silver</m>, or any other very neat and flawless metal, mold your <m>wax</m> hollow part directly upon it, and throw your sand in it <sup>wax hollow</sup>, which will form your relief, upon which you will cast your hollow part to make your seal or any other work.  You could also cast a hollow part directly from the main part of your metal, even <sup>should you want to cast</sup> in <m>lead</m> or <m>tin</m>, which will not make the main part of your metal melt, if it has been lightly brushed with <m>crushed chalk</m>, or covered with <m>candle soot</m>, or with dried <m>egg white</m>.</ab>
+Moulding the hollow part of a mold for seals or other things
 
- 
-
-<ab><margin>left-top</margin>When you have the <m>wax</m> imprint of your seal, mold in a noyau this piece of <m>wax</m>, which is hollow like your seal, and your noyau will make a mold similar to the imprint and the seal.</ab>
+Firstly fashion your figure in wax on an even slab of glass or slate. After, mold it with our aforesaid sand, having beforehand lightly oiled it with oil as you know, and having rubbed it with spirits, while tempering your sand with hot water.  Having made the hollow part, cast it in lead, using the same alloy as you do for other figures that come out very neatly. However, if it does not release cleanly, repair it.  And then mold you lead relief with some wax. After, in your wax hollow part, throw in your tempered sand which will give you a relief, upon which you will cast your hollow part with silver, or any other metal used for seals.  But note that you must not make your hollow part with melted wax, but only with wax warmed in hot water, or even better in hot urine. Or else, if you have a relief in gold or silver, or any other very neat and flawless metal, mold your wax hollow part directly upon it, and throw your sand in it wax hollow, which will form your relief, upon which you will cast your hollow part to make your seal or any other work.  You could also cast a hollow part directly from the main part of your metal, even should you want to cast in lead or tin, which will not make the main part of your metal melt, if it has been lightly brushed with crushed chalk, or covered with candle soot, or with dried egg white.
 
  
 
-<ab><margin>left-middle</margin>Your <m>wax</m> must be mixed with a color that has little body, so that you may better see your imprint.  The <m>lamp black</m> or <m>soot black</m> is good for this.  <m>White wax</m> to do this is even better.</ab></div>
+left-topWhen you have the wax imprint of your seal, mold in a noyau this piece of wax, which is hollow like your seal, and your noyau will make a mold similar to the imprint and the seal.
 
-<div>
+ 
 
-<id>p153r_2</id>
+left-middleYour wax must be mixed with a color that has little body, so that you may better see your imprint.  The lamp black or soot black is good for this.  White wax to do this is even better.
 
-<head>Giving a medal the thickness that you wish</head>
 
-<ab>Having cast your first mold, mix some <m>crocum</m> or well-ground <m>iron scales</m> to make it <sup>your mould</sup> firmer. And having taken hold, and made your hollow part very neat, take some paste made of fine</ab>
 
-<cont/>
+p153r_2
 
-</div>
+Giving a medal the thickness that you wish
+
+Having cast your first mold, mix some crocum or well-ground iron scales to make it your mould firmer. And having taken hold, and made your hollow part very neat, take some paste made of fine
+
+
+

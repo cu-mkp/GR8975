@@ -1,37 +1,36 @@
-<page>131r</page> 
+131r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r=
 
-<div><id>p131r_1</id><head><m>Herbs</m> difficult to burn in the mold</head>
+p131r_1Herbs difficult to burn in the mold
 
-<ab>Mold them in two or three castings; being annealed, your mold will open, and it will be easier to extract the <m>charcoal</m> from inside. </ab>
+Mold them in two or three castings; being annealed, your mold will open, and it will be easier to extract the charcoal from inside. 
 
-<ab><margin>left-top</margin>Try [this]</ab> 
-
- 
-
-</div><div><id>p131r_2</id><head>molded letter <m>paper</m></head>
-
-<ab>Write with some <m>ink</m> well thickened with gum or any other <m>color dye</m> which has body, and which is not erased if dampened with brandy. Then put your paper on the sheet of clay, and dampen it with <m>brandy</m>. Cast both sides [of paper].</ab>
-
-</div><div><id>p131r_3</id><head>Adorning beds, mirrors and similar things</head>
-
-<ab>Model any drawing in half relief on a flat <m>slate</m> in order to set it on round or flat things. Cast  with very fine <m>tin</m>, then you can gild it with <m>gold</m> leaf, and set it wherever you want. Fill the bottom of the relief with small <m>rubies</m>, <m>orpiment</m>, or any colored little <m>grains</m>.</ab>
+left-topTry [this] 
 
  
 
-</div><div><id>p131r_4</id><head>Training a dog </head>
+p131r_2molded letter paper
 
-<ab>You need to keep your dog attached; when it does what you command, to win its love, give it a piece of <m>cheese</m> which was held under the armpit. This <m>cheese</m> would be a bad drug if the master, or the apprentice, is red-haired. </ab>
+Write with some ink well thickened with gum or any other color dye which has body, and which is not erased if dampened with brandy. Then put your paper on the sheet of clay, and dampen it with brandy. Cast both sides [of paper].
 
-</div><div><id>p131r_5</id><head>Molded <m>wax</m></head>
+p131r_3Adorning beds, mirrors and similar things
 
-<ab>Wax representations made from <m>white lead</m> and <m>cerussite</m> are not made to be burned and melted in a mold where you want to cast <m>silver</m> and <m>gold</m>; this would make it brittle. Moreover if you use such a mold, the <m>wax</m> would be stripped thanks to the violence of the fire which makes it boil, and the mixture made of <m>cerrusite</m> or any other metal would attack the mold. That's why if you want to sketch things</ab>
+Model any drawing in half relief on a flat slate in order to set it on round or flat things. Cast  with very fine tin, then you can gild it with gold leaf, and set it wherever you want. Fill the bottom of the relief with small rubies, orpiment, or any colored little grains.
 
-<ab><margin>left-bottom</margin>
+ 
 
-<figure>+</figure><m>White wax</m> is more delicate than the other, and it doesn't leave any filth when you want to mold it as a core, or to mold hollow.</ab>
+p131r_4Training a dog 
 
-<cont/>
+You need to keep your dog attached; when it does what you command, to win its love, give it a piece of cheese which was held under the armpit. This cheese would be a bad drug if the master, or the apprentice, is red-haired. 
 
-</div>
+p131r_5Molded wax
+
+Wax representations made from white lead and cerussite are not made to be burned and melted in a mold where you want to cast silver and gold; this would make it brittle. Moreover if you use such a mold, the wax would be stripped thanks to the violence of the fire which makes it boil, and the mixture made of cerrusite or any other metal would attack the mold. That's why if you want to sketch things
+
+left-bottom
+
++White wax is more delicate than the other, and it doesn't leave any filth when you want to mold it as a core, or to mold hollow.
+
+
+

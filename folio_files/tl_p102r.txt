@@ -1,85 +1,84 @@
-<page>102r</page>
+102r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image
 
-<div>
 
-<id>p102r_1</id>
 
-<head>Provisions for the work of Colchos</head>
+p102r_1
 
-<ab>7 limbecks of <m>glasse</m>
+Provisions for the work of Colchos
 
-2 lbs. of <m><figure>☿</figure></m>
+7 limbecks of glasse
 
-One measure of coarse <m>salt</m>
+2 lbs. of ☿
 
-6 <m>unleaded</m> <m>earthenware</m> vessel
+One measure of coarse salt
 
-2 large <m>unleaded</m> pots for calcinating
+6 unleaded earthenware vessel
 
-2 alembics to distill <m>vinegar</m>
+2 large unleaded pots for calcinating
 
-4 pots of good <m>vinegar</m>
+2 alembics to distill vinegar
+
+4 pots of good vinegar
 
 3 or 4 lamps
 
-2 lbs. of <m>cotton</m>
+2 lbs. of cotton
 
-One pair of scissors</ab>
+One pair of scissors
 
-</div>
 
-<div>
 
-<id>p102r_2</id>
 
-<head>For the furnace</head>
 
-<ab>A chest with a ten inch wide square <m>stone</m>, and of a one-foot thickness, pierced in the middle
+p102r_2
 
-2 boxes or two <m>earthenware</m> pots with a lid
+For the furnace
 
-2 small pipes of <m>white iron</m> to evacuate the smoke of the furnace
+A chest with a ten inch wide square stone, and of a one-foot thickness, pierced in the middle
 
-<m>Turnipseed oil</m> for the lamps to heat the furnace
+2 boxes or two earthenware pots with a lid
 
-A fire-steel</ab>
+2 small pipes of white iron to evacuate the smoke of the furnace
 
-</div>
+Turnipseed oil for the lamps to heat the furnace
 
-<div>
+A fire-steel
 
-<id>p102r_3</id>
 
-<head><m>Royal cement</m></head>
 
-<ab>One pound and a half of <m>vitriol</m>
 
-As much <m>saltpeter</m>
 
-As much <m>rock alum</m></ab>
+p102r_3
 
-</div>
+Royal cement
 
-<div>
+One pound and a half of vitriol
 
-<id>p102r_4</id>
+As much saltpeter
 
-<head><m>Glass</m> vessel</head>
+As much rock alum
 
-<ab>The <m>glass</m> vessel must be either pear-shaped or round pyramid-shaped, of  the same thickness as the small back of a knife, round on the bottom without folding over on itself, like flasks, its opening of such a size that a <m><pl>Dutch</pl> feather</m> can just about get in, with a lip at the end, in this way of the height of seven fingers' width.
 
-<figure>
 
-<id>fig_p102r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M</link>
 
-<margin>bottom</margin>
+p102r_4
 
-</figure>
+Glass vessel
 
-</ab>
+The glass vessel must be either pear-shaped or round pyramid-shaped, of  the same thickness as the small back of a knife, round on the bottom without folding over on itself, like flasks, its opening of such a size that a Dutch feather can just about get in, with a lip at the end, in this way of the height of seven fingers' width.
 
-</div>
+
+
+fig_p102r_1
+
+https://drive.google.com/open?id=0B9-oNrvWdlO5MVhNYTRzOXJzR2M
+
+bottom
+
+
+
+
+

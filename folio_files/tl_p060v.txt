@@ -1,61 +1,60 @@
-<page>060v</page>
+060v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item</image>
+http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f126.item
 
-<div>
 
-<id>p060v_1</id>
 
-<head>Varnish that dries within an hour</head>
+p060v_1
 
-<ab>Take white <m>turpentine oil</m> and <m>turpentine</m> and powdered and finely sieved <m>mastic</m> and boil them together whilst continuously stirring with a stick until dry. And add two liards of <m>eau de vie</m> and if you take the <m>mastic</m> larme off, it will be whiter and clearer. There is no need to put <m>turpentine</m> but only white <m>turpentine oil</m>and <m>mastic</m>, pulverized as much as one wishes, until it is sufficiently thick.</ab></div>
+Varnish that dries within an hour
 
-<div>
+Take white turpentine oil and turpentine and powdered and finely sieved mastic and boil them together whilst continuously stirring with a stick until dry. And add two liards of eau de vie and if you take the mastic larme off, it will be whiter and clearer. There is no need to put turpentine but only white turpentine oiland mastic, pulverized as much as one wishes, until it is sufficiently thick.
 
-<id>p060v_2</id>
 
-<head>How to clean paintings</head>
 
-<ab>Some clean them with soapy <m>water</m>, others with <m>urine</m>, others with <m>white wine</m>, for dust damages the colors.</ab></div>
+p060v_2
 
-<div>
+How to clean paintings
 
-<id>p060v_3</id>  
+Some clean them with soapy water, others with urine, others with white wine, for dust damages the colors.
 
-<head><m>Wood</m> color</head>
 
-<ab>
 
-Apply one <m>bister</m> layer and then a layer of varnish.</ab></div>
+p060v_3  
 
-<div>
+Wood color
 
-<id>p060v_5</id>
 
-<margin>left-middle</margin>
+
+Apply one bister layer and then a layer of varnish.
+
+
+
+p060v_5
+
+left-middle
 
  
 
-<head><m>Aspic oil</m></head>
+Aspic oil
 
-<ab>Do not put any into colors because it is so strong and penetrating that it makes the colors flake and afterwards they come off. And that is why painters use it to clean their brushes when they are dry, because it softens and cleans them immediately by penetrating the dry color which makes them solid. Sometimes painters who are jealous of the work started by another, secretly, in the evening, pour a few drops of <m>aspic oil</m> on the top edge of the painting so that, running down, it produces a stain that penetrates as far as the <m>wood</m> and makes the colors come off. St that, in order to make their work even and uniform, they need to redo it completely and so they lose their efforts.</ab></div>
+Do not put any into colors because it is so strong and penetrating that it makes the colors flake and afterwards they come off. And that is why painters use it to clean their brushes when they are dry, because it softens and cleans them immediately by penetrating the dry color which makes them solid. Sometimes painters who are jealous of the work started by another, secretly, in the evening, pour a few drops of aspic oil on the top edge of the painting so that, running down, it produces a stain that penetrates as far as the wood and makes the colors come off. St that, in order to make their work even and uniform, they need to redo it completely and so they lose their efforts.
 
-<div>
 
-<id>p060v_4</id>
 
-<head>Flemish work</head>
+p060v_4
 
-<ab>They do all their <m>oil</m> paintings with the tip of the brush, like good illuminators, and grind their colors very finely, avoid any dust and often clean off the fragments of hair released by their brushes, for if these should remain on the painting it would be difficult to work neatly, which they do with great care. Thus their work appears very soft, especially small paintings, which require more diligence since one sees them closer. They usually complete the forehead, then the eyes, then the nose, finally the mouth and the rest. But they do not proceed like some others who apply two or three different flesh tones, one yellowish and one darker, because the colors always mix and end by fading. They just make their underlayer carefully.</ab>
+Flemish work
 
-<ab>
+They do all their oil paintings with the tip of the brush, like good illuminators, and grind their colors very finely, avoid any dust and often clean off the fragments of hair released by their brushes, for if these should remain on the painting it would be difficult to work neatly, which they do with great care. Thus their work appears very soft, especially small paintings, which require more diligence since one sees them closer. They usually complete the forehead, then the eyes, then the nose, finally the mouth and the rest. But they do not proceed like some others who apply two or three different flesh tones, one yellowish and one darker, because the colors always mix and end by fading. They just make their underlayer carefully.
 
-<margin>left-top</margin>
 
-<figure>+</figure>
 
-which you will know when it is placed on a knife in the wind and does not flow. This one is excellent for panels and is dry within an hour and does not stick like <m>turpentine</m>.</ab>
+left-top
 
-<cont/>
++
 
-</div>
+which you will know when it is placed on a knife in the wind and does not flow. This one is excellent for panels and is dry within an hour and does not stick like turpentine.
+
+
+

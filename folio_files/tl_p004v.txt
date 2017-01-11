@@ -1,35 +1,34 @@
-<page>004v</page> 
+004v 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image
 
-<div><id>p004v_a1</id><head>Black varnish for sword guards, <sup><m>metal</m></sup> bands for chests, etc.</head>
-
- 
-
-<ab>Take <m><pa>linseed</pa> oil</m> or, for a cheaper option, <m><pa>walnut</pa> oil</m>, and rid it of fat with <m><pa>garlic</pa> cloves</m> and <m><pa>hog's fennel</pa></m> (some also add <m>bread crusts</m>), which you will boil in it for a good quarter of an hour. Then add to one pound of the <m>oil</m> boiled in this way a piece of <m>black pitch</m> the size of a walnut and a <ms>double handful</ms> of <m><pa>wheat</pa></m>, without removing the <m><pa>garlic</pa></m> and <m><pa>onions</pa></m>, and allow to boil together for a good quarter of an hour. Once the <m>pitch</m> is well melted and the <m>oil</m> takes on body, you can remove it from the fire. Then, to varnish, place your <m>iron</m> over a warm <m>charcoal</m> fire and apply with a <tl>feather</tl> or a <tl>brush</tl>. When you see that it no longer smokes, it is done and your varnish is dry.</ab>
-
-<ab><margin>left-top</margin>For an excellent black varnish, add two or three <m>paternoster beads</m> to the rest.</ab>
-
-<ab><margin>left-top</margin>Some consider <m><pa>walnut</pa> oil</m> to be better.</ab>
-
-<ab><margin>left-top</margin>If there is a quantity of varnish, it needs to boil for at least half a day, because the more it boils, the better it is. Should the varnish boil over, it is dangerous for it to catch fire and it is difficult to extinguish. So do this in a <env>courtyard</env> or other <env>open space</env>.</ab>
-
-<ab><margin>left-middle</margin>In five or six lbs. of <m>oil</m>, one must put one lb. of <m>galipot</m>, which costs 4 sols, and some peeled <m><pa>garlic</pa> cloves</m>. This varnish is not black in and of itself, but turns black when exposed to fire.</ab>
+p004v_a1Black varnish for sword guards, metal bands for chests, etc.
 
  
 
-<ab><margin>left-middle</margin>See below, around the 3rd part of this book, after sands, in the chapter on <pro>furbishers</pro>.</ab>
+Take linseed oil or, for a cheaper option, walnut oil, and rid it of fat with garlic cloves and hog's fennel (some also add bread crusts), which you will boil in it for a good quarter of an hour. Then add to one pound of the oil boiled in this way a piece of black pitch the size of a walnut and a double handful of wheat, without removing the garlic and onions, and allow to boil together for a good quarter of an hour. Once the pitch is well melted and the oil takes on body, you can remove it from the fire. Then, to varnish, place your iron over a warm charcoal fire and apply with a feather or a brush. When you see that it no longer smokes, it is done and your varnish is dry.
 
-</div><div><id>p004v_a2</id><head>Black varnish without fire, without disassembling harnesses or removing <sup><m>metal</m></sup> bands from chests.</head>
+left-topFor an excellent black varnish, add two or three paternoster beads to the rest.
 
-<ab>Take <m><pa>spike lavender</pa> oil</m> varnish and mix it with <m>charcoal black</m> or <m>lampblack</m> and, without fire, it will mix in by itself. Apply the varnish with a brush and it will soon be dry. <m>Turpentine</m> varnish would work quite well but it does not dry as quickly.</ab>
+left-topSome consider walnut oil to be better.
+
+left-topIf there is a quantity of varnish, it needs to boil for at least half a day, because the more it boils, the better it is. Should the varnish boil over, it is dangerous for it to catch fire and it is difficult to extinguish. So do this in a courtyard or other open space.
+
+left-middleIn five or six lbs. of oil, one must put one lb. of galipot, which costs 4 sols, and some peeled garlic cloves. This varnish is not black in and of itself, but turns black when exposed to fire.
 
  
 
-</div><div><id>p004v_a3</id><head><pro>Iron engravers'</pro> varnish.</head>
+left-middleSee below, around the 3rd part of this book, after sands, in the chapter on furbishers.
 
-<ab>Take <m><pa>linseed</pa> oil</m> or <m><pa>walnut</pa> oil</m> and instead of <m>black pitch</m> you will add some <m>pine resin</m> and you must cook it like <m>black varnish</m> on fire. And to apply it, heat your <m>iron</m> and apply just one layer of varnish, and when it no longer smokes, it is dry. Then engrave with a <tl><m>steel</m> point</tl> whatever you want. Then take some <m>salt</m> and <m>verdigris</m> and soak it with as much of one as of the other in very strong <m>vinegar</m>, and leave it for XX4 hours before using it, and the whole will be soaked. Then spread this liqueur or sauce on the engraved object with a <tl>sponge</tl></ab>
+p004v_a2Black varnish without fire, without disassembling harnesses or removing metal bands from chests.
 
-<cont/>
+Take spike lavender oil varnish and mix it with charcoal black or lampblack and, without fire, it will mix in by itself. Apply the varnish with a brush and it will soon be dry. Turpentine varnish would work quite well but it does not dry as quickly.
 
-</div>
+ 
+
+p004v_a3Iron engravers' varnish.
+
+Take linseed oil or walnut oil and instead of black pitch you will add some pine resin and you must cook it like black varnish on fire. And to apply it, heat your iron and apply just one layer of varnish, and when it no longer smokes, it is dry. Then engrave with a steel point whatever you want. Then take some salt and verdigris and soak it with as much of one as of the other in very strong vinegar, and leave it for XX4 hours before using it, and the whole will be soaked. Then spread this liqueur or sauce on the engraved object with a sponge
+
+
+

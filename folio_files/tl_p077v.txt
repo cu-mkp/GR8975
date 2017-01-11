@@ -1,47 +1,46 @@
-<page>077v</page>
+077v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f160.image
 
-<div>
 
-<cont/>
 
-<id>p077r_4</id>
 
-<ab>but it should not be too small, then take a glass flask not too big <del/>, not too small and into it put a half of each, that means two and a half ounces. Then take the mentioned <m>vetjoin</m>, also roughly crushed, and add it immediately to the aforesaid water and let it rest for one and half day, and then take the aforementioned water and put it into another glass flask and let it soak very well. And on the rest of the aforementioned <m>betjoin</m>, which remains on the bottom of the first flask, add the rest of the water on this should it react well repeat the process you just did and mix the first water with the second, because you use this to make something more noble.</ab>
 
-</div>
+p077r_4
 
-<div>
+but it should not be too small, then take a glass flask not too big , not too small and into it put a half of each, that means two and a half ounces. Then take the mentioned vetjoin, also roughly crushed, and add it immediately to the aforesaid water and let it rest for one and half day, and then take the aforementioned water and put it into another glass flask and let it soak very well. And on the rest of the aforementioned betjoin, which remains on the bottom of the first flask, add the rest of the water on this should it react well repeat the process you just did and mix the first water with the second, because you use this to make something more noble.
 
-<id>p077v_1</id> 
 
-<head>Other approved varnishes</head>
 
-<ab>Take two ounces of <m>linnen oil</m>, and two ounces of <m>petrol oil</m>, and two ounces of <m>mastic</m>, the whitest you can find, and of <m>roche alum</m> and crush it and take a little bit of <m>white copperoze</m> and put all these drugs together into an <m>earth</m>en pot, which should be new. Put it for a while on hot ashes and you will have a beautiful varnish.</ab>
 
-</div>
 
-<div>
+p077v_1 
 
-<id>p077v_2</id> 
+Other approved varnishes
 
-<head>Another varnish</head>
+Take two ounces of linnen oil, and two ounces of petrol oil, and two ounces of mastic, the whitest you can find, and of roche alum and crush it and take a little bit of white copperoze and put all these drugs together into an earthen pot, which should be new. Put it for a while on hot ashes and you will have a beautiful varnish.
 
-<ab>Take<m>petrol oil</m> and <m>spike lavender oil</m>, in the same even quantity, and mix them together with <m>copperoze</m> and let them melt over hot ashes, depending on the quantity you need. To apply this varnish, put three coats on the work you want to varnish.</ab>
 
-</div>
+
+
+
+p077v_2 
+
+Another varnish
+
+Takepetrol oil and spike lavender oil, in the same even quantity, and mix them together with copperoze and let them melt over hot ashes, depending on the quantity you need. To apply this varnish, put three coats on the work you want to varnish.
+
+
 
  
 
-<div>
 
-<id>p077v_3</id> 
 
-<head>Another varnish</head>
+p077v_3 
 
-<ab>Take one ounce of <m>spike lavender oil</m> and of <m>san<del/><add>darac</add></m> and make</ab>
+Another varnish
 
-<cont/>
+Take one ounce of spike lavender oil and of sandarac and make
 
-</div>
+
+

@@ -1,61 +1,60 @@
-<page>111v</page>
+111v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f228.image
 
-<div>
 
-<id>p111v_1</id>
 
-<head><m>sal ammoniac water</m></head>
+p111v_1
 
-<ab>It is enough to use two <m>chestnuts</m>' worth of <m>sal ammoniac</m> pulverized in a pot of <m>water</m>, and that the water tastes lightly salted to your tongue, because too much is not good.</ab>
+sal ammoniac water
 
-<id>p111v_2</id>
+It is enough to use two chestnuts' worth of sal ammoniac pulverized in a pot of water, and that the water tastes lightly salted to your tongue, because too much is not good.
 
-<head><m>Sanguine</m></head>
+p111v_2
 
-<ab>To clean the various colors of <m>lead</m> and <m>tin</m>, <m>sanguine</m> is pulverized, and it is rubbed on the molded work with pieces of fabric.</ab>
+Sanguine
 
-<id>p111v_3</id>
+To clean the various colors of lead and tin, sanguine is pulverized, and it is rubbed on the molded work with pieces of fabric.
 
-<head><al>Crab</al> and <al>crayfish</al></head>
+p111v_3
 
-<ab>
+Crab and crayfish
 
-They are among the most difficult to mold, and whoever molds them well will mold many other very subtle things.</ab>
 
-<id>p111v_4</id>
 
-<head><al>Lizards</al></head>
+They are among the most difficult to mold, and whoever molds them well will mold many other very subtle things.
 
-<ab>When one grabs them with two fingers from the sides of the head, at the level of the ears, one makes them open their mouth with the tip of the fingernail, then one grabs the edge of their lower jaw, and then [the edge] of the upper one. He squeezes the fingernail like a pair of pincers, but he cannot go through it, but he squeezes it quite hard; and if he bit the flesh, he would never let go of his hold, and there would be no better remedy than to cut off his head promptly. In the spring, as they have shed their skin, they are better-looking.</ab>
+p111v_4
 
-<ab>
+Lizards
 
-<margin>left-middle</margin>
+When one grabs them with two fingers from the sides of the head, at the level of the ears, one makes them open their mouth with the tip of the fingernail, then one grabs the edge of their lower jaw, and then [the edge] of the upper one. He squeezes the fingernail like a pair of pincers, but he cannot go through it, but he squeezes it quite hard; and if he bit the flesh, he would never let go of his hold, and there would be no better remedy than to cut off his head promptly. In the spring, as they have shed their skin, they are better-looking.
 
-The small <al>lizards</al> that one catches in the summer, the size of small <al>female lizards</al>, grey on the back and green on the belly, are very appropriate to cast in silver, gold, or other metal, because their scales are rougher than those of <m><al>female lizards</al></m> and show better.
 
-</ab>
 
-</div>
+left-middle
 
-<div>
+The small lizards that one catches in the summer, the size of small female lizards, grey on the back and green on the belly, are very appropriate to cast in silver, gold, or other metal, because their scales are rougher than those of female lizards and show better.
 
-<id>p111v_5</id>
 
-<head>Composition of <m>sand</m></head>
 
-<ab>Everything being baked thoroughly as said above, take four 4 molds full of <m>plaster</m>, two 2 of <m>brick</m>, and one of <m>alum de plume</m>. Do not pass through the sieve to mix, because the <m>alum</m> would not go through. Mix it with your hands until neither one nor the other, neither white nor red, may be distinguished from the other. If your <m>plaster</m> is not strong, do not mix in as much <m>alum de plume</m> because it softens molds. Make sure too that your <m>sand</m> is not hot (since it has been baked thoroughly recently) when you will want to mix it with <m>water</m>, because that makes molds too soft and breakable.
 
-</ab>
+
+
+
+p111v_5
+
+Composition of sand
+
+Everything being baked thoroughly as said above, take four 4 molds full of plaster, two 2 of brick, and one of alum de plume. Do not pass through the sieve to mix, because the alum would not go through. Mix it with your hands until neither one nor the other, neither white nor red, may be distinguished from the other. If your plaster is not strong, do not mix in as much alum de plume because it softens molds. Make sure too that your sand is not hot (since it has been baked thoroughly recently) when you will want to mix it with water, because that makes molds too soft and breakable.
+
+
 
  
 
-<ab>
 
-<margin>left-bottom</margin>
 
-You may sometimes decrease the quantity of <m>plaster</m> if you do not find it strong enough to resist fire and if it splits, so that the proportion of crushed <m>tiles</m> sustains it, with the <m>alum de plume</m>, which you can also increase so that it creates a better bond.</ab>
+left-bottom
 
-</div>
+You may sometimes decrease the quantity of plaster if you do not find it strong enough to resist fire and if it splits, so that the proportion of crushed tiles sustains it, with the alum de plume, which you can also increase so that it creates a better bond.
+

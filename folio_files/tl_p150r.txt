@@ -1,51 +1,51 @@
-<page>150r</page>
+150r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f305.image
 
-<div>
 
-<id>p150r_1</id>
 
-<head>Very strong <m>wax</m></head>
+p150r_1
 
-<ab>Mix with this some <m>resin</m> and <m>bole</m>. Do not cast very hot.</ab></div>
+Very strong wax
 
- 
-
-<div>
-
-<id>p150r_2</id>
-
-<head>Diverse ligues of <m>tin</m> and <m>lead</m></head>
-
-<ab>For hollow things like <al>turtles</al>, <sup>use</sup> half refined <m>lead</m> and half <m>tin</m>.</ab>
-
-<ab>For flowers, <sup>use</sup> almost all <m>lead</m>, that is to say, a lb of refined <m>tin</m>, and two <figure>℥</figure> of refined <m>lead</m>.</ab>
-
-<ab>For <al>lizards</al> that are as thick as one or two fingers, <sup>use</sup> almost all <m>lead</m>, that is to say, a lb of refined <m>lead</m> and 4 <figure>℥</figure> of refined <m>tin</m>.</ab></div>
+Mix with this some resin and bole. Do not cast very hot.
 
  
 
-<div>
 
-<id>p150r_3</id>
 
-<head>Moulds</head>
+p150r_2
 
-<ab>They are less prone to cracking while reheating when they are very thick, rather than thin, provided that thickness is sufficient. Because when they are thin, they do not need to be fired for long, and prolonged exposure to heat corrupts them. The same thing will happen if you <m>plaster</m> is not strong.</ab>
+Diverse ligues of tin and lead
 
-<ab>It is better to reheat one mold on its own, rather than heating it with others, because should this be the case, you will need a stronger and hotter fire, than for just the one <sup>mold</sup>. And because <m>charcoal</m> will accumulate between multiple molds, the heat will transfer from mold to mold in such a way that you will often find that your molds have burst and crack on one side more than the other.</ab>
+For hollow things like turtles, use half refined lead and half tin.
 
-<ab>Therefore reheat your molds, not applying fire, except to cover it.</ab>
+For flowers, use almost all lead, that is to say, a lb of refined tin, and two ℥ of refined lead.
 
-<ab>And because your <m>lead</m> and <m>tin</m> become brittle when melting the over high heat, in order to make them less brittle, heat them over low heat, and cast in stick form.</ab>
+For lizards that are as thick as one or two fingers, use almost all lead, that is to say, a lb of refined lead and 4 ℥ of refined tin.
 
  
 
-<ab>Brick cools the <m>metal</m>, and if this is not for binding, it is not necessary.</ab>
+
+
+p150r_3
+
+Moulds
+
+They are less prone to cracking while reheating when they are very thick, rather than thin, provided that thickness is sufficient. Because when they are thin, they do not need to be fired for long, and prolonged exposure to heat corrupts them. The same thing will happen if you plaster is not strong.
+
+It is better to reheat one mold on its own, rather than heating it with others, because should this be the case, you will need a stronger and hotter fire, than for just the one mold. And because charcoal will accumulate between multiple molds, the heat will transfer from mold to mold in such a way that you will often find that your molds have burst and crack on one side more than the other.
+
+Therefore reheat your molds, not applying fire, except to cover it.
+
+And because your lead and tin become brittle when melting the over high heat, in order to make them less brittle, heat them over low heat, and cast in stick form.
 
  
 
-<ab><margin>left-middle</margin>The reheated moulds cannot withstand several casts, but the ones in which you only cast <m>tin</m> or <m>lead</m> and flat medals, these being dry, withstand a lot of casts.</ab>
+Brick cools the metal, and if this is not for binding, it is not necessary.
 
-<ab><margin>left-middle</margin><m>Iron filings</m> being finely ground, makes them <sup>molds</sup> very firm and strong.</ab></div>.
+ 
+
+left-middleThe reheated moulds cannot withstand several casts, but the ones in which you only cast tin or lead and flat medals, these being dry, withstand a lot of casts.
+
+left-middleIron filings being finely ground, makes them molds very firm and strong..

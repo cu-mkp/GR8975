@@ -1,73 +1,72 @@
-x<page>101v</page>
+x101v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f208.image
 
-<div>
 
-<cont/>
 
-<id>p101r_2</id>
 
-<ab>the crucible is red. Next, throw it on a marble, and you will have a white, hard &amp; uniform matter, like <m>alabaster</m>, from which you will be able to cast medals which will look like marble; but guard them from humidity.</ab>
 
-</div>
+p101r_2
+
+the crucible is red. Next, throw it on a marble, and you will have a white, hard &amp; uniform matter, like alabaster, from which you will be able to cast medals which will look like marble; but guard them from humidity.
+
+
 
   
 
-<div>
 
-<id>p101v_1</id>
 
-<head><m>Jacinth</m></head>
+p101v_1
 
-<ab>It is made, like <m>rubies</m>, with <m>gold</m>; but you do not need such a great fire. <m>Rubies</m> want fire for a whole day, and if there is not enough fire, it will only have red veins.</ab>
+Jacinth
 
-<ab>
+It is made, like rubies, with gold; but you do not need such a great fire. Rubies want fire for a whole day, and if there is not enough fire, it will only have red veins.
 
-<margin>left-top</margin>
+
+
+left-top
 
 Always heat up your crucibles.
 
-</ab>
 
-<ab>
 
-<margin>left-top</margin>
 
-One holds that rubified <m>antimony</m> makes <m>jacinth</m>.
 
-</ab>
+left-top
 
-</div>
+One holds that rubified antimony makes jacinth.
 
-<div>
 
-<id>p101v_2</id>
 
-<head><m>Topaz</m></head>
 
-<ab>I melted one part of calcinated &amp; pulverized <m>pumice stone</m> with three parts of <m>minium</m>, the stone having been pulverized in a steel mortar. A very beautiful yellow came to me, without any grain more yellow than the others. It is true that it was strongly charged with colour. I believe it would be better to pulverize the <m>pumice</m> in a glass mortar, because it &amp; the <m>minium</m> make enough yellow by themselves. A mass came to me, the top of which was the beautiful yellow, as mentioned, and the bottom was like a <m>fire-stone</m> without transparency. With which, in mixing other</ab>
 
-</div>
 
-<div>
 
-<id>p101v_3</id> 
+p101v_2
 
-<head>Varnish</head>
+Topaz
 
-<ab>The Germans thoroughly boil the <m>minium</m> in <m>linseed oil</m>, &amp; to give it the body of varnish, they mix in thoroughly pulverized <m>yellow amber</m>.</ab>
+I melted one part of calcinated &amp; pulverized pumice stone with three parts of minium, the stone having been pulverized in a steel mortar. A very beautiful yellow came to me, without any grain more yellow than the others. It is true that it was strongly charged with colour. I believe it would be better to pulverize the pumice in a glass mortar, because it &amp; the minium make enough yellow by themselves. A mass came to me, the top of which was the beautiful yellow, as mentioned, and the bottom was like a fire-stone without transparency. With which, in mixing other
 
-</div>
+
+
+
+
+p101v_3 
+
+Varnish
+
+The Germans thoroughly boil the minium in linseed oil, &amp; to give it the body of varnish, they mix in thoroughly pulverized yellow amber.
+
+
 
  
 
-<div>
 
-<id>p101v_4</id>
 
-<head><m>Ammoniacum</m></head>
+p101v_4
 
-<ab>One puts it by small lumps into a bit of good <m>vinegar</m>, &amp; heats it,  then passes it through a cloth strainer. All medicinal <m>gums</m> dissolve in <m>vinegar</m>.</ab>
+Ammoniacum
 
-</div>
+One puts it by small lumps into a bit of good vinegar, &amp; heats it,  then passes it through a cloth strainer. All medicinal gums dissolve in vinegar.
+

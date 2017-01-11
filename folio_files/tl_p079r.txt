@@ -1,53 +1,52 @@
-<page>079r</page>
+079r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f163.item
 
  
 
-<div>
 
-<cont/>
 
-<id>p078v_4</id>
 
-<ab>when you want to use it, dilute it with very clear <m>glue</m> and coat what you like two or three times, then leave to dry. But before coating it <sup>with the <m>bronze</m> mixture (2 or 3 times)</sup>, apply one coat of very clear <m>glue</m> and leave to dry. And after polish the <m>bronze</m> <sup>coat</sup> with a <m>wolf's tooth</m> or <m>dog<sup>'s tooth</sup></m>.</ab>
 
-</div>
+p078v_4
 
-<div>
+when you want to use it, dilute it with very clear glue and coat what you like two or three times, then leave to dry. But before coating it with the bronze mixture (2 or 3 times), apply one coat of very clear glue and leave to dry. And after polish the bronze coat with a wolf's tooth or dog's tooth.
 
-<id>p079r_1</id>
 
-<head>Making <m>gray wood</m></head>
 
-<ab>
 
-Take some <m>sandstone</m> powder, ___ ___ ___, <m>iron</m> filings, scrap <m>iron</m>, <m>alum</m>, du <m>noir de courroieur</m>, <m>copperas</m>, and <m>rock alum</m>.</ab>
 
-</div>
+p079r_1
 
-<div>
+Making gray wood
 
-<id>p079r_2</id>
 
-<head>Making <m>water</m> against illness of the eyes</head>
 
-<ab>
+Take some sandstone powder, ___ ___ ___, iron filings, scrap iron, alum, du noir de courroieur, copperas, and rock alum.
 
-Take some <m>white copperas</m>, heat lightly over fire, then grind it to powder. Put the powder on a white cloth stretched over a glass, then take some <m>fountain water</m> and filter it through the cloth, while stirring the powder with the finger until all the water has filtered through. Then wash your eyes as often as you wish and, with the help of god, you will feel well.</ab>
 
-</div>
 
-<div>
 
-<id>p079r_3</id>
 
-<head>Making <m>gold</m> colored <m>bronze</m></head>
+p079r_2
 
-<ab>
+Making water against illness of the eyes
 
-Take six ounces of tin […], six ounces of <m>natural sulphur</m>, and <m>sal ammoniac</m>. Melt the <m>tin</m> in a spoon. When it is molten add <m>quicksilver</m> and cast in a line. Then crush all the drugs together in a mortar, and</ab>
 
-<cont/>
 
-</div>
+Take some white copperas, heat lightly over fire, then grind it to powder. Put the powder on a white cloth stretched over a glass, then take some fountain water and filter it through the cloth, while stirring the powder with the finger until all the water has filtered through. Then wash your eyes as often as you wish and, with the help of god, you will feel well.
+
+
+
+
+
+p079r_3
+
+Making gold colored bronze
+
+
+
+Take six ounces of tin […], six ounces of natural sulphur, and sal ammoniac. Melt the tin in a spoon. When it is molten add quicksilver and cast in a line. Then crush all the drugs together in a mortar, and
+
+
+

@@ -1,33 +1,32 @@
-<page>002v</page>
+002v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image
 
-<div>
 
-<id>p002v_1</id>
 
-<it/><ab>Practica, cioè nova inventione di contegiare, stampata in <pl>Brescia</pl> per Vincenzo Sabio.</ab>
+p002v_1
 
-</div>
+Practica, cioè nova inventione di contegiare, stampata in Brescia per Vincenzo Sabio.
 
-<div>
 
-<id>p002v_2</id>
 
-<add><head><m>Emeralds of Brissac</m></head></add>
 
-<ab>I took <m>minium</m>, 26 <figure>℥</figure>, <m>crystal</m> <add>[…] and ground on marble</add> 12 <figure>℥</figure>, <m>verdigris</m>3 <figure>|ʒ|</figure>. Incorporated all together. Put in a crucible covered by another well luted crucible with a hole on top. Melting: 7 hours without blowing. The mass came out a fine green.</ab>
 
-<ab>I took <m>minium</m>, 12 <figure>℥</figure>, <m>crystal</m>, 6 <figure>℥</figure>, <m>verdigris</m>, 2 grains. Melting: moderate, vi hours, baked 24 hours. The mass came out green, yellow and red.</ab>
+p002v_2
 
-</div>
+Emeralds of Brissac
 
-<div>
+I took minium, 26 ℥, crystal […] and ground on marble 12 ℥, verdigris3 |ʒ|. Incorporated all together. Put in a crucible covered by another well luted crucible with a hole on top. Melting: 7 hours without blowing. The mass came out a fine green.
 
-<id>p002v_3</id>
+I took minium, 12 ℥, crystal, 6 ℥, verdigris, 2 grains. Melting: moderate, vi hours, baked 24 hours. The mass came out green, yellow and red.
 
-<head><m>Sapphire</m></head>
 
-<ab><m>Pebbles</m> or <m>crystal</m>, 8 <figure>℥</figure>; <m>minium</m>, 16 <figure>℥</figure>; <m><pro>smith</pro>'s salt</m>, 4 <figure>℥</figure>; sparkling <m>coryal</m>, 4 grains. Melting: 6 [?] hours.</ab>
 
-</div>
+
+
+p002v_3
+
+Sapphire
+
+Pebbles or crystal, 8 ℥; minium, 16 ℥; smith's salt, 4 ℥; sparkling coryal, 4 grains. Melting: 6 [?] hours.
+

@@ -1,43 +1,43 @@
-<page>041r</page>
+041r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image
 
-<div>
 
-<id>p041r_1</id>
 
-<head><m>Casting earth</m> for <pro>founders</pro></head>
+p041r_1
 
-<ab>It becomes fat by being beaten and also mixed with <m><al>horse</al> manure</m>. <m><pro>Potter</pro>'s earth</m> would be too soft and would break and wouldn't resist the fire. But [your soil] has to be mixed with one half of sand and a quarter or a fifth of <m><al>horse</al> manure</m>. And leave it to dry, then reduce it to powder, then put it through a sieve to make it fine and free from gravel, which would prevent it from casting cleanly. The <m>manure</m> makes the <m>earth</m> more amenable [to casting] &amp; easier to work with, but it should be free of <m>straw</m> and other things. And when the <m>earth</m> is very fat, you have to add more sand and more <m>manure</m>. But one does find fat varieties of <m>earth</m> [that are] naturally mixed with sand. If they are not, make them so artificially. One should always cook the <m>soils</m> again before casting.</ab></div>
+Casting earth for founders
 
-<div>
+It becomes fat by being beaten and also mixed with horse manure. Potter's earth would be too soft and would break and wouldn't resist the fire. But [your soil] has to be mixed with one half of sand and a quarter or a fifth of horse manure. And leave it to dry, then reduce it to powder, then put it through a sieve to make it fine and free from gravel, which would prevent it from casting cleanly. The manure makes the earth more amenable [to casting] &amp; easier to work with, but it should be free of straw and other things. And when the earth is very fat, you have to add more sand and more manure. But one does find fat varieties of earth [that are] naturally mixed with sand. If they are not, make them so artificially. One should always cook the soils again before casting.
 
-<id>p041r_02</id>
 
-<head>Garden lily</head>
 
-<ab>If it is broken during its first blossom, it will not grow or bloom until the following year, and I believe it is the same for bulbous flowers [in general].</ab></div>
+p041r_02
 
-<div>
+Garden lily
 
-<id>p041r_03</id>
+If it is broken during its first blossom, it will not grow or bloom until the following year, and I believe it is the same for bulbous flowers [in general].
 
-<head>Sand</head>
 
-<ab>The sand to be used for casting should be chosen such that it is not too dry for it won't hold together, nor should it be too fat. And although you find some in nature, however, it is not everywhere. And if you are in a place where it is not found, you can put it together yourself but not from fat <m>earth</m>, because the sand should contain none at all, since it makes it porous. But you can make it bind by mixing it with <m>brick</m> well ground on <m>marble</m>, or <m>plaster</m> or <m>calcinated alabaster</m> or something similar, or the <m>burned marrow of <al>ox</al> horn</m> or burned <m>asphalt</m>. If you grind it quite finely on <m>porphyry</m>, it binds better &amp; then you can burn it with <m>asphalt</m> or mix it with a quarter of <m>tripoli</m>. Make sure no <m>bread</m> falls into your sand because this makes it porous.</ab>
+
+p041r_03
+
+Sand
+
+The sand to be used for casting should be chosen such that it is not too dry for it won't hold together, nor should it be too fat. And although you find some in nature, however, it is not everywhere. And if you are in a place where it is not found, you can put it together yourself but not from fat earth, because the sand should contain none at all, since it makes it porous. But you can make it bind by mixing it with brick well ground on marble, or plaster or calcinated alabaster or something similar, or the burned marrow of ox horn or burned asphalt. If you grind it quite finely on porphyry, it binds better &amp; then you can burn it with asphalt or mix it with a quarter of tripoli. Make sure no bread falls into your sand because this makes it porous.
 
  
 
-<ab>
 
-<margin>left-middle</margin>
 
-Try mixing in soot black.</ab></div>
+left-middle
 
-<div>
+Try mixing in soot black.
 
-<id>p041r_04</id>
 
-<head><al>Ducks</al></head>
 
-<ab>Young domestic ones do not grow for a month after hatching but remain in this state. But after, they soon grow up, even if they go into the water. They are fed boiled <m>millet grains</m>, to which are added crumbled <m>bread</m> and finely chopped <m>lettuce</m>.</ab></div>
+p041r_04
+
+Ducks
+
+Young domestic ones do not grow for a month after hatching but remain in this state. But after, they soon grow up, even if they go into the water. They are fed boiled millet grains, to which are added crumbled bread and finely chopped lettuce.

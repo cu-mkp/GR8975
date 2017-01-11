@@ -1,27 +1,27 @@
-<page>007v</page> 
+007v 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image
 
- <div><id>p007v_1</id><head>To give the color of all kind of <m>metals</m> and <m>woods</m> and other things</head>
+ p007v_1To give the color of all kind of metals and woods and other things
 
-<ab>Take <m>touchstone</m> and <m>pumice stone</m> as much of one as of the other and grind them together, mix that with a <m>glue de retailles</m> stronger than that used for painting, and apply a layer of it on whatever you like. Once dry, rub this layer on any <m>metal</m> whatsoever, then burnish it.</ab>
+Take touchstone and pumice stone as much of one as of the other and grind them together, mix that with a glue de retailles stronger than that used for painting, and apply a layer of it on whatever you like. Once dry, rub this layer on any metal whatsoever, then burnish it.
 
   
 
-</div><div><id>p007v_2</id><head>Against windy colic</head>
+p007v_2Against windy colic
 
-<ab>Take a dozen dried <m>common <pa>walnuts</pa></m> and throw them one after another onto a good <tl>brazier</tl> where they may catch fire, and take them out with <tl>tongs</tl>, and let them burn and flame well in the air, and extinguish them in a glass of good <m>wine</m>. Then let the <m>wine</m> cool and filter it, then pour half of it, since six extinguished <m>nuts</m> make one dose. An excellent cure against suffocation of the matrix.</ab>
+Take a dozen dried common walnuts and throw them one after another onto a good brazier where they may catch fire, and take them out with tongs, and let them burn and flame well in the air, and extinguish them in a glass of good wine. Then let the wine cool and filter it, then pour half of it, since six extinguished nuts make one dose. An excellent cure against suffocation of the matrix.
 
  
 
-</div><div><id>p007v_3</id><head>To relieve the pain of g{out}</head>
+p007v_3To relieve the pain of g{out}
 
-<ab>Take half a pound of finely powdered golden and yellow <m>marcasite</m>, half an ounce of <m>storax</m>, 4 lb. of <m>urine</m>, incorporate well together, little by little, in a <tl>mortar</tl>, then boil all together quite strongly. But the pot needs to be well covered so the smoke does not escape. Then distill the imbibed <m>urine</m>, separated by inclination, in an <tl>alembic</tl>, well luted and covered with a <m>copper</m> head. And soak a cloth with the said <m>water</m> and apply it lukewarm on the pain.</ab>
+Take half a pound of finely powdered golden and yellow marcasite, half an ounce of storax, 4 lb. of urine, incorporate well together, little by little, in a mortar, then boil all together quite strongly. But the pot needs to be well covered so the smoke does not escape. Then distill the imbibed urine, separated by inclination, in an alembic, well luted and covered with a copper head. And soak a cloth with the said water and apply it lukewarm on the pain.
 
-</div><div><id>p007v_4</id><head>Against gonorrhea</head>
+p007v_4Against gonorrhea
 
-<ab>Cook .i. lb. of <m>old smiths' water</m>, .i. ℥ of <m><pl>Armenian</pl> bole</m> reduced in the finest powder, and .iii. ʒ of <m>common honey</m>, until the <m>honey</m> stops foaming. Once cooled, strain with great pressure and use the results of filtration by injection.</ab>
+Cook .i. lb. of old smiths' water, .i. ℥ of Armenian bole reduced in the finest powder, and .iii. ʒ of common honey, until the honey stops foaming. Once cooled, strain with great pressure and use the results of filtration by injection.
 
-</div>
+
 
  

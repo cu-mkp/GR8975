@@ -1,79 +1,78 @@
-<page>94v</page>
+94v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f194.image
 
-<div>
 
-<cont/>
 
-<id>p094r_1</id>
 
-<ab>The <m>gold</m> handles are made with some <m>yellow thin cloth</m> set below or other kind of <m>chalk-yellowed fabric</m>. And this <m>cloth</m> is set on with <m>glue</m> or aforesaid <m>gum</m>. This is in order to make the <m>thread</m> hold better on it. These latter are made of cordons like the <m>silk</m> ones and between two cordons are put one or two <m>threads</m> to enhance it. The <m>silver</m> one is identically made. And there is as much difficulty as for the <m>silk</m> one, not because <m>silk</m> is difficult to twisted, but it needs to be twisted twice. A fine <m>gold</m> handle is worth 28 or 20 cents.</ab>
 
-<ab>The best sword point is of <m>sage foliage</m>.</ab>
+p094r_1
+
+The gold handles are made with some yellow thin cloth set below or other kind of chalk-yellowed fabric. And this cloth is set on with glue or aforesaid gum. This is in order to make the thread hold better on it. These latter are made of cordons like the silk ones and between two cordons are put one or two threads to enhance it. The silver one is identically made. And there is as much difficulty as for the silk one, not because silk is difficult to twisted, but it needs to be twisted twice. A fine gold handle is worth 28 or 20 cents.
+
+The best sword point is of sage foliage.
 
  
 
-<ab>This long stick on which the sword is laid down and attached in order to furbish is called the chameau. It is commonly made from <m>rowan</m> which is hard and even.</ab>
+This long stick on which the sword is laid down and attached in order to furbish is called the chameau. It is commonly made from rowan which is hard and even.
 
-<ab>The stick underneath which is folded bow-like is called the arch.</ab>
+The stick underneath which is folded bow-like is called the arch.
 
-<ab>The stick above is called stick of the fustée.</ab>
+The stick above is called stick of the fustée.
 
-<ab>And this square piece, used on the sword to burnish it, is called the fustée.</ab>
+And this square piece, used on the sword to burnish it, is called the fustée.
 
-<ab>There are two horns, one is called the <m>oil</m> hornet and the other the <m>emery</m> hornet. </ab>
+There are two horns, one is called the oil hornet and the other the emery hornet. 
 
-<ab>There is an <m>iron</m> tool with the shape of a halberd point, square and made of very even and well limed <m>steel</m> called the grateau which helps to soften lime strokes on swords hilts and to sharpen blades once they are softened which is better than with <m>stone</m> or other tools which leave some scratches.</ab>
+There is an iron tool with the shape of a halberd point, square and made of very even and well limed steel called the grateau which helps to soften lime strokes on swords hilts and to sharpen blades once they are softened which is better than with stone or other tools which leave some scratches.
 
-<ab>To make the swords cut better, the edge from the point is also sharpened.</ab>
+To make the swords cut better, the edge from the point is also sharpened.
 
-<ab><pro>Those who create sword hilts</pro> are different craftsmen than <pro>furbishers</pro>.</ab>
+Those who create sword hilts are different craftsmen than furbishers.
 
-<ab>The fustée is a three-finger-thick, square <m>wood</m> tool, made of <m>boxwood</m> which fit in the middle of the fustée stick to furbish.</ab>
+The fustée is a three-finger-thick, square wood tool, made of boxwood which fit in the middle of the fustée stick to furbish.
 
-<ab>The fresil stick is made of <m>willow wood</m> which is to […] weapon with some <m>clinker</m> which is the <m>iron scale</m> falling from the <pro>blacksmiths</pro>' forge.</ab>
+The fresil stick is made of willow wood which is to […] weapon with some clinker which is the iron scale falling from the blacksmiths' forge.
 
-<figure>
 
-<id>fig_p094v_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs</link>
+fig_p094v_1
 
-<margin>left-top</margin>
+https://drive.google.com/open?id=0B9-oNrvWdlO5Q29MTEVLUGE5RGs
 
-<caption>le banc <lb/>
+left-top
 
-des fourreaux</caption>
+le banc 
 
-</figure><figure>
+des fourreaux
 
-<id>fig_p094v_2</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0</link>
 
-<margin>left-middle</margin>
+fig_p094v_2
 
-</figure>
+https://drive.google.com/open?id=0B9-oNrvWdlO5OEQ3OEFSNnEzeE0
 
-<ab><margin>left-middle</margin><figure/> a<figure/> <figure/>b<lb/>
+left-middle
 
-D<lb/>
 
-<figure/><lb/>
 
-le baston <lb/>
+left-middle a b
 
-a felinder<lb/>
+D
 
-<figure/><lb/>
 
-c<lb/>
 
-le <m>flin</m> ou <m>pierre<lb/>
+le baston 
 
-de fouldre</m></ab>
+a felinder
 
-<cont/>
 
-</div>
+
+c
+
+le flin ou pierre
+
+de fouldre
+
+
+

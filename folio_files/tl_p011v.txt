@@ -1,45 +1,45 @@
-<page>011v</page>
+011v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image
 
-<div>
 
-<id>p011v_1</id>
 
-<head>Applying the color of <m><pl>Damascene</pl> steel</m> on <tl>knives</tl></head>
+p011v_1
 
-<ab>Rub the <m>steel</m> with <m>common <la>aquis fortis</la></m> mixed with <m>earth</m>.  After, rub everything with <m>ashes</m> or <m>sand</m>. Do with the <m>gold</m> and <m>silver</m> as you would do on a <tl>touchstone</tl>.</ab></div>
+Applying the color of Damascene steel on knives
 
-<div>
+Rub the steel with common aquis fortis mixed with earth.  After, rub everything with ashes or sand. Do with the gold and silver as you would do on a touchstone.
 
-<id>p011v_2</id>
 
-<head>Getting rid of red <bp>eyes</bp> or black <bp>eyes</bp></head>
 
-<ab>Make two small licks of <m>raw <al>mutton</al> flesh</m>, and with a blindfold, apply it at night on your <bp>eyes</bp>.</ab></div>
+p011v_2
 
-<div>
+Getting rid of red eyes or black eyes
 
-<id>p011v_3</id>
+Make two small licks of raw mutton flesh, and with a blindfold, apply it at night on your eyes.
 
-<head>Applying unpolished <m>gold</m></head>
 
-<ab>There is nothing better than the black varnish of <pro>sword-makers</pro> to use as a base layer because it dries quickly and makes the <m>gold</m> appear very beautiful.</ab></div>
 
-<div>
+p011v_3
 
-<id>p011v_4</id>
+Applying unpolished gold
 
-<head>Making <tl><m>diamond</m> points</tl> for engraving</head>
+There is nothing better than the black varnish of sword-makers to use as a base layer because it dries quickly and makes the gold appear very beautiful.
 
-<ab>These are for sketching what you want to draw on <m>stones</m> and for engraving. When these <tl>points</tl> are too dull and cannot engrave, it is necessary to rub <m>diamond</m> against <m>diamond</m>; one can rub them with <m><tl>pumice stone</tl> powder</m>. It is necessary to strip what you want to engrave on a <tl><m>lead</m> wheel</tl> or with a <m><tl>stone</tl></m> or with <m><tl>glass</tl></m>, because the polishing is like varnish or <m>glass</m> and stops the <m>diamond</m> or <m>sapphire</m> from engraving well. This is why it does not engrave easily on <m>horn</m>, which is polished and fat.  But when the polish has been taken off, it is easy to engrave.</ab></div>
 
-<div>
 
-<id>p011v_5</id>
+p011v_4
+
+Making diamond points for engraving
+
+These are for sketching what you want to draw on stones and for engraving. When these points are too dull and cannot engrave, it is necessary to rub diamond against diamond; one can rub them with pumice stone powder. It is necessary to strip what you want to engrave on a lead wheel or with a stone or with glass, because the polishing is like varnish or glass and stops the diamond or sapphire from engraving well. This is why it does not engrave easily on horn, which is polished and fat.  But when the polish has been taken off, it is easy to engrave.
+
+
+
+p011v_5
 
  
 
-<head>Polishing a <tl><m>copper</m> wheel</tl></head>
+Polishing a copper wheel
 
-<ab>Instead of polishing your <m>stone</m>, it is necessary to remove the grease by rubbing the flesh side of a piece of <m>leather</m> <sup>on the <tl>wheel</tl></sup>, all while spinning the <tl>wheel</tl> if you have not worked on it in a long time.</ab></div>
+Instead of polishing your stone, it is necessary to remove the grease by rubbing the flesh side of a piece of leather on the wheel, all while spinning the wheel if you have not worked on it in a long time.

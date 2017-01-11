@@ -1,35 +1,35 @@
-<page>040v</page>
+040v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image
 
-<div>
 
-<id>p040v_1</id>
 
-<head>Cross of the commanders of <pl>Malta</pl></head>
+p040v_1
 
-<ab>The fine rouge clair which is the background of the white <m>enamel</m> cross is of fine <m>dragon's blood</m> drops soaked with <m>eau de vie</m> or <m><pl>Indian</pl> laque plate</m>, which I believe is made in <pl>Flanders</pl>, distempered with clear <m>turpentine</m> and <m>mastic</m> drops and applied on a <m>silver</m> leaf, not the one used by <pro>painters</pro> but a thicker one, which is burnished by the <pro>makers of foil backings for gemstones</pro> or by <pro>goldsmiths</pro>, and that gives it its fine brilliance.</ab></div>
+Cross of the commanders of Malta
 
-<div>
+The fine rouge clair which is the background of the white enamel cross is of fine dragon's blood drops soaked with eau de vie or Indian laque plate, which I believe is made in Flanders, distempered with clear turpentine and mastic drops and applied on a silver leaf, not the one used by painters but a thicker one, which is burnished by the makers of foil backings for gemstones or by goldsmiths, and that gives it its fine brilliance.
 
-<id>p040v_02</id>
 
-<head><m>Latten</m> and <m>calamine</m></head>
 
-<ab><pro>Founders</pro> do not melt <m>latten</m> in a bellow furnace but in crucibles, for in a bellow furnace and amid the <m>charcoals</m>, the <m>calamine</m> would disappear.</ab></div>
+p040v_02
 
-<div>
+Latten and calamine
 
-<id>p040v_03</id>
+Founders do not melt latten in a bellow furnace but in crucibles, for in a bellow furnace and amid the charcoals, the calamine would disappear.
 
-<head><m>Metal</m></head>
 
-<ab><m>Tin</m> needs to be pure because if there is any <m>lead</m>, it will go up in smoke whilst melting. Alloyed <m>tin</m> withstands fire for a long time but in <m>ashes</m> it will come apart.</ab></div>
 
-<div>
+p040v_03
 
-<id>p040v_04</id>
+Metal
 
-<head><m>Aqua fortis</m></head>
+Tin needs to be pure because if there is any lead, it will go up in smoke whilst melting. Alloyed tin withstands fire for a long time but in ashes it will come apart.
 
-<ab>If your retort is well luted you should not surround it with <m>ashes</m>, which would only prevent the vapors from escaping properly. But when, towards the end, you fire it intensely, surround it with <m>charcoals</m> lit elsewhere beforehand, such as those in the furnace should be, so they do not crackle or smoke. Place said lit <m>charcoals</m> around the body of the retort, not close to the neck, which does not need to be heated as much. The top grate, on which you place your retort, should be sufficiently far, one <ms>dour</ms> or half a foot, from the bottom grate where the <m>charcoal</m> is placed, since thus you will not waste as much <sup>aqua fortis</sup>.</ab></div>
+
+
+p040v_04
+
+Aqua fortis
+
+If your retort is well luted you should not surround it with ashes, which would only prevent the vapors from escaping properly. But when, towards the end, you fire it intensely, surround it with charcoals lit elsewhere beforehand, such as those in the furnace should be, so they do not crackle or smoke. Place said lit charcoals around the body of the retort, not close to the neck, which does not need to be heated as much. The top grate, on which you place your retort, should be sufficiently far, one dour or half a foot, from the bottom grate where the charcoal is placed, since thus you will not waste as much aqua fortis.

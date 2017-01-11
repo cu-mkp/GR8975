@@ -1,65 +1,64 @@
-<page>134v</page>
+134v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f274.image
 
-<div>
 
-<id>p134v_1</id>
 
-<head>
+p134v_1
 
-To make <m>gold</m> fluid </head>
 
-<ab>
 
-Put as much <m>verdigris</m> as <m>sal ammoniac</m>, as much <m>borax</m> as <m>saltpeter</m>. But don't add a greater quantity of <m>borax</m> and <m>saltpeter</m> than half the quantity of <m>verdegris</m> and <m>sal ammoniac</m>, in fact add as much <m>borax</m> and <m>saltpetre</m> all together as <m>verdigris</m>. Grind into powder the ingredients on the <m>marble</m> slab, then grind again with very good <m>vinegar</m> until it is very fine, like a ground color, grind <m>verdigris</m> with <m>oil</m>, then leave to dry if you have time, if you haven't so much time dry it with the fire of the forge, make so that it is very dry.</ab>
+To make gold fluid 
 
-<ab>
 
-<margin>left-top</margin>
 
-Grind</ab>
+Put as much verdigris as sal ammoniac, as much borax as saltpeter. But don't add a greater quantity of borax and saltpeter than half the quantity of verdegris and sal ammoniac, in fact add as much borax and saltpetre all together as verdigris. Grind into powder the ingredients on the marble slab, then grind again with very good vinegar until it is very fine, like a ground color, grind verdigris with oil, then leave to dry if you have time, if you haven't so much time dry it with the fire of the forge, make so that it is very dry.
 
- 
 
-<ab>
 
-<margin>left-top</margin>
+left-top
 
-One of the principal things for casting is to cast very hot, especially large metals</ab>
-
-</div>
-
-<div>
-
-<id>p134v_2</id>
-
-<head>
-
-Casting big works with <m>gold</m></head>
-
-<ab>
-
-Not only should one clamp the mold very well, but also strengthen it with good iron wire links or adequate straps.</ab>
+Grind
 
  
 
-<ab>
 
-<margin>left-middle</margin>
 
-Before casting with gold, clean thoroughly your forge with <m>lead</m> and <m>tin</m>.</ab>
+left-top
 
-</div>
+One of the principal things for casting is to cast very hot, especially large metals
 
-<div>
 
-<id>p134v_3</id>
 
-<head>Secret for soldering small works made of <m>gold</m> and <m>silver</m></head>
 
-<ab>
 
-If some little pieces of legs cannot be easily removed from <m>gold</m> or <m>silver</m> casting, it is because you didn't cast <m>wax</m> under these parts. Beat some soldering <m>gold</m> very finely, then cut it into very fine flakes, cut the quantity you need. Take some of this phlegm or white and thick <m>saliva</m> which is on the teeth, put some of this matter to the place you want to solder with the point of a burin, then place your flakes, then put to the opposite part a mixture made of a small quantity of soaked fat <m>earth</m>and <m>saliva</m>, thanks to the mixture the solder will better adhere. Then pulverize a bit of <m>borax</m> on it, and heat up <m>Quince pulp seed water</m> to a boil and others too.</ab>
+p134v_2
 
-</div>
+
+
+Casting big works with gold
+
+
+
+Not only should one clamp the mold very well, but also strengthen it with good iron wire links or adequate straps.
+
+ 
+
+
+
+left-middle
+
+Before casting with gold, clean thoroughly your forge with lead and tin.
+
+
+
+
+
+p134v_3
+
+Secret for soldering small works made of gold and silver
+
+
+
+If some little pieces of legs cannot be easily removed from gold or silver casting, it is because you didn't cast wax under these parts. Beat some soldering gold very finely, then cut it into very fine flakes, cut the quantity you need. Take some of this phlegm or white and thick saliva which is on the teeth, put some of this matter to the place you want to solder with the point of a burin, then place your flakes, then put to the opposite part a mixture made of a small quantity of soaked fat earthand saliva, thanks to the mixture the solder will better adhere. Then pulverize a bit of borax on it, and heat up Quince pulp seed water to a boil and others too.
+

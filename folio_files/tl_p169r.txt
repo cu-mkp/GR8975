@@ -1,99 +1,98 @@
-<page>169r</page> 
+169r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f343.item
 
-<underline>
 
-<ab><underline>Molding a tortoise</underline></ab>
 
-<ab><underline>Furry animals</underline></ab>
+Molding a tortoise
 
-<ab><underline>Birds</underline></ab>
+Furry animals
 
-<ab><underline>Leaf of vine - put</underline></ab><pl>
+Birds
 
-</pl><ab>Of the strawberry</ab>
+Leaf of vine - put
 
-<ab><underline>Piece molding</underline></ab><pl>
+Of the strawberry
 
-</pl><ab>Molding a vase in a chassis</ab>
+Piece molding
 
-<ab>Molding <la>capilli veneris</la></ab>
+Molding a vase in a chassis
 
-<ab>Molds that need to be <underline>supported by nets</underline></ab><pl>
+Molding capilli veneris
 
-</pl><ab>Molding a bouquet</ab>
+Molds that need to be supported by nets
 
-<ab><underline>Rose carnations</underline></ab><pl>
+Molding a bouquet
 
-</pl><ab><underline>Hollow molding</underline></ab>
+Rose carnations
 
-<ab>Hollow gilded <m>silver</m></ab>
+Hollow molding
 
-<ab><underline>Molding wort plant put</underline></ab><pl>
+Hollow gilded silver
 
-</pl><ab><figure>+</figure> <underline>Crayfish put and seen</underline></ab><pl>
+Molding wort plant put
 
-</pl><ab>Grasshoppers</ab>
++ Crayfish put and seen
 
-<ab>Barbots</ab>
+Grasshoppers
 
-<ab>Butterflies</ab>
+Barbots
 
-<ab><underline>Flies</underline></ab><pl>
+Butterflies
 
-</pl><ab>Bats</ab>
+Flies
 
-<ab>Enameling thin <m>gold</m></ab>
+Bats
 
-<ab>Molding in <m>sugar</m></ab>
+Enameling thin gold
 
-<ab>Molding fish</ab>
+Molding in sugar
 
-<ab><underline>Molding in <m>sulfur</m> put</underline></ab>
+Molding fish
 
-<ab><m>Cardboard</m></ab>
+Molding in sulfur put
 
-<ab><underline><figure>+</figure> <m>Wax</m> put</underline></ab>
+Cardboard
 
-<ab>Roughing out</ab>
++ Wax put
 
-<ab>Stamped medals full of <m>lead</m></ab>
+Roughing out
 
-<ab>Molding large carved <m>wooden</m> pieces</ab>
+Stamped medals full of lead
 
-<ab><underline>Molding and making casts of <m>metal</m> animals</underline></ab>
+Molding large carved wooden pieces
 
-<ab><figure>+</figure> <underline><m>Wheat oil</m> put and seen</underline></ab><pl>
+Molding and making casts of metal animals
 
-</pl><ab><underline>Stag beetle</underline></ab>
++ Wheat oil put and seen
 
-<ab>Foot of a bittern molded</ab>
+Stag beetle
 
-<ab><underline>Thickness of a medal</underline></ab>
+Foot of a bittern molded
 
-<ab><underline>Very hard <m>wax</m></underline></ab>
+Thickness of a medal
 
-<ab><underline>Molding the engraving on a ring</underline></ab><pl>
+Very hard wax
 
-</pl><ab>Molding pieces of carcanets</ab>
+Molding the engraving on a ring
 
-<ab>Things that do not release from the mold … </ab>
+Molding pieces of carcanets
 
-<ab>Fountains</ab>
+Things that do not release from the mold … 
 
-<ab>Grottoes</ab>
+Fountains
 
-<ab>Sundry mosses applied</ab>
+Grottoes
 
-<ab><underline>Molding in three chassis</underline></ab>
+Sundry mosses applied
 
-<ab>Tempering <m>iron</m> in order to engrave it</ab>
+Molding in three chassis
 
-<ab>Etching on <m>silver</m> and <m>iron</m></ab>
+Tempering iron in order to engrave it
 
-<ab>Stamping</ab>
+Etching on silver and iron
 
-<ab>White <m>enamel</m>, softening it with black calcinated <m>river pebbles</m></ab>
+Stamping
 
-</underline>
+White enamel, softening it with black calcinated river pebbles
+

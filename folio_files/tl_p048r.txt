@@ -1,33 +1,32 @@
-<page>048r</page> 
+048r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f101.image
 
-<div><id>p048r_1</id><head><pro>Founder</pro></head>
+p048r_1Founder
 
-<ab>The hot [part]<lb/>
+The hot [part]
 
-<figure>
 
-<id>fig_p048r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5YXhXTUJpMk44eTQ</link>
+fig_p048r_1
 
-</figure>
+https://drive.google.com/open?id=0B9-oNrvWdlO5YXhXTUJpMk44eTQ
 
-A furnace to cast a large quantity of <m>metal</m></ab>
 
-</div>
 
-<div><id>p048r_2</id><head>Curing dogs from mange</head>
+A furnace to cast a large quantity of metal
 
-<ab>Give them a pill of precipitate, that is to say 3, 4, or up to 5 <m>grains</m>, mixed with their <m>food</m>. Having given them one for one week, give them another seven or eight days later.</ab>
 
-</div><div><id>p048r_3</id><head>Excellent <m>mustard</m></head>
 
-<ab>Dry some <m>bread</m> in an oven, then stick <m>cloves</m> &amp; <m>cinnamon</m> into it and put it to soak in good <m>wine</m>. Then, being well crushed, pass everything through a <m>cloth</m> strainer and incorporate it with your <m>mustard seeds</m>.</ab>
+p048r_2Curing dogs from mange
 
-</div><div><id>p048r_4</id><head>Keeping birds and animals</head>
+Give them a pill of precipitate, that is to say 3, 4, or up to 5 grains, mixed with their food. Having given them one for one week, give them another seven or eight days later.
 
-<ab>Take a measurement from [the part of] their body that is fleshy and more susceptible to decay, with some <m>canvas</m> that you shall cut according to their size and width. Having filled this with <m>cotton</m> and stitched it, skin them. But leave the head, neck, wings and feet of birds, and head, legs, feet and tail of animals, because those dry easily. Then use that <m>skin</m> to dress the mold made of <m>canvas</m>. Small ones can be dried in an oven or covered in <m>sel ammoniac</m> and <m>(?)</m>.</ab>
+p048r_3Excellent mustard
 
-</div>
+Dry some bread in an oven, then stick cloves &amp; cinnamon into it and put it to soak in good wine. Then, being well crushed, pass everything through a cloth strainer and incorporate it with your mustard seeds.
+
+p048r_4Keeping birds and animals
+
+Take a measurement from [the part of] their body that is fleshy and more susceptible to decay, with some canvas that you shall cut according to their size and width. Having filled this with cotton and stitched it, skin them. But leave the head, neck, wings and feet of birds, and head, legs, feet and tail of animals, because those dry easily. Then use that skin to dress the mold made of canvas. Small ones can be dried in an oven or covered in sel ammoniac and (?).
+

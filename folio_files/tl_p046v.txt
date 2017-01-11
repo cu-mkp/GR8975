@@ -1,93 +1,92 @@
-<page>046v</page>
+046v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f98.image
 
-<div>
 
-<id>p046v_1</id>
 
-<head><m>Oil of sulfur</m> for the writer</head>
+p046v_1
 
-<ab>If the writer wants to quickly clean his quill of the thickness of the <m>ink</m> which dried on it, it only needs to be dipped in <m>oil of sulfur</m>, and immediately it will be white and clean. Urb.</ab>
+Oil of sulfur for the writer
 
-</div>
+If the writer wants to quickly clean his quill of the thickness of the ink which dried on it, it only needs to be dipped in oil of sulfur, and immediately it will be white and clean. Urb.
 
-<div>
 
-<id>p046v_2</id>
 
-<head><pro>Shoemaker</pro></head>
 
-<ab>If he wants to do some tanned work on black <m>leather</m> shoes, he can dip in <m>oil of sulfur</m> a writing quill and paint with it what he would like on shoes, boots, and colets. And he will obtain a reddish color which no effort will erase. Urb.
 
-</ab>
+p046v_2
 
-</div>
+Shoemaker
 
-<div>
+If he wants to do some tanned work on black leather shoes, he can dip in oil of sulfur a writing quill and paint with it what he would like on shoes, boots, and colets. And he will obtain a reddish color which no effort will erase. Urb.
 
-<id>p046v_3</id>
 
-<head>Erasing a letter</head>
 
-<ab>
 
-Dip a writing quill in fresh and good <m>oil of sulfur</m> and, thus, retrace all the letters with the dipped quill and they will disappear from the parchment. Urb.
 
-</ab>
 
-</div>
 
-<div>
+p046v_3
 
-<id>p046v_4</id>
+Erasing a letter
 
-<head>Writing without <m>ink</m></head>
 
-<ab>
 
-Write with <m>oil of sulfur</m> and heat [it], and the letter will become as black as this one. Urb.
+Dip a writing quill in fresh and good oil of sulfur and, thus, retrace all the letters with the dipped quill and they will disappear from the parchment. Urb.
 
-</ab>
 
-</div>
 
-<div>
 
-<id>p046v_5</id>
 
-<head>Making à jour letters in <m>paper</m> and other work</head>
 
-<ab>
 
-If you write <del>d</del> or trace something on the <m>paper</m> and heat it soon after, and immediately it will become black; then by rubbing with a sponge, the letter will be cut out because it will be burned. Urb. Or retrace the letter with a wiped quill <del>of</del>.
+p046v_4
 
-</ab>
+Writing without ink
 
-</div>
 
-<div>
 
-<id>p046v_6</id>
+Write with oil of sulfur and heat [it], and the letter will become as black as this one. Urb.
 
-<head>Making someone's boots burn</head>
 
-<ab>
 
-Rub the abovementioned <m>oil</m>, and as he warms himself they will burn without a flame.Urb.
 
-</ab>
 
-</div>
 
-<div>
 
-<id>p046v_7</id>
+p046v_5
 
-<head>Black letters on <m>stone</m></head>
+Making à jour letters in paper and other work
 
-<ab>
 
-The same <m>oil</m> on letters engraved in <m>stone</m>, once heated, becomes black and penetrates.</ab>
 
-</div>
+If you write d or trace something on the paper and heat it soon after, and immediately it will become black; then by rubbing with a sponge, the letter will be cut out because it will be burned. Urb. Or retrace the letter with a wiped quill of.
+
+
+
+
+
+
+
+p046v_6
+
+Making someone's boots burn
+
+
+
+Rub the abovementioned oil, and as he warms himself they will burn without a flame.Urb.
+
+
+
+
+
+
+
+p046v_7
+
+Black letters on stone
+
+
+
+The same oil on letters engraved in stone, once heated, becomes black and penetrates.
+

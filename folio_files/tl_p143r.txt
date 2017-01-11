@@ -1,57 +1,56 @@
-<page>143r</page>
+143r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image
 
-<div>
 
-<id>p143r_1</id>
 
-<head>Moulding <al>turtles</al> and <al>tortoises</al></head>
+p143r_1
 
-<ab>The <al>turtle</al> <sup>the one that lives in water</sup> is more beautiful to mold because it has prettier scales and straight legs.  And the <al>tortoises</al> have crooked ones. They eat a lot. To get ready to kill them, open their mouth and pass a long penknife through all the intestines. And then make it swallow some <m>vinegar</m> mixed with <m>spirits</m> or <m>urine</m>, as one does for snakes. It is necessary to mould them in several pieces, and even the back sometimes because the sides of certain ones are narrower than others and in this instance do not release <sup>from the cast</sup>.  To make them die, you must not boil them, because they come apart, even the shell, in the hot <m>water</m>.  They <sup>the shells</sup> come out better <sup>when</sup> hollowed because their great thickness spoils the mold. <al>Turtles</al> are more lively. The <al>tortoises</al> are leaner, slower, and more sleepy.  If you scratch <al>turtles</al> on their shells, no matter how sleepy they are, they move; <al>tortoises</al> do not.</ab>
+Moulding turtles and tortoises
 
- 
-
-<ab><margin>left-top</margin>They <sup><al>turtles/tortoises</al></sup> die rather quickly in <m>vinegar</m> mixed with a little <m>spirits</m> or <m>urine</m>, as with all other animals.</ab>
-
-<ab><margin>left-top</margin>They <sup><al>turtles/tortoises</al></sup> keep their eyes closed in the winter, and appear as dead, having been numbed by the cold.  They hide in the earth or under balls of grain or warm manure, and survive only on the dampness of the <m>earth</m>.</ab>
+The turtle the one that lives in water is more beautiful to mold because it has prettier scales and straight legs.  And the tortoises have crooked ones. They eat a lot. To get ready to kill them, open their mouth and pass a long penknife through all the intestines. And then make it swallow some vinegar mixed with spirits or urine, as one does for snakes. It is necessary to mould them in several pieces, and even the back sometimes because the sides of certain ones are narrower than others and in this instance do not release from the cast.  To make them die, you must not boil them, because they come apart, even the shell, in the hot water.  They the shells come out better when hollowed because their great thickness spoils the mold. Turtles are more lively. The tortoises are leaner, slower, and more sleepy.  If you scratch turtles on their shells, no matter how sleepy they are, they move; tortoises do not.
 
  
 
-<ab><margin>left-middle</margin>You must not mold them too soon after they die because they are still stiff.  But on the day after, you will be able to manipulate them and bend their legs as you wish.</ab>
+left-topThey turtles/tortoises die rather quickly in vinegar mixed with a little spirits or urine, as with all other animals.
 
-</div>
+left-topThey turtles/tortoises keep their eyes closed in the winter, and appear as dead, having been numbed by the cold.  They hide in the earth or under balls of grain or warm manure, and survive only on the dampness of the earth.
 
-<div>
+ 
 
-<id>p143r_2</id>
+left-middleYou must not mold them too soon after they die because they are still stiff.  But on the day after, you will be able to manipulate them and bend their legs as you wish.
 
-<head><pro>Moulders</pro> from <pl>Foix</pl></head>
 
-<ab>Those who mould from across <sup>the way</sup> make their sand from <m>crocum</m> ferri and <m>calcinated slate</m>, but <m>slate</m> always retains its bumpiness and swells because it is a fatty. In the noyau, it is not good; in sand, it can be put to use.  They <sup>the moulders from <pl>Foix</pl></sup> sieve their sand, grind it on <m>porphyry</m>, and soak it in <m>water</m>, and they keep the finest bits which are on the top, then they reheat it.</ab>
 
- </div>
 
-<div>
 
-<id>p143r_3</id>
+p143r_2
 
-<head><al>Toad</al></head>
+Moulders from Foix
 
-<ab>Having been molded, you can take it out it without burning it, because it releases <sup>easily</sup>from the mold.  Choose the biggest and the lumpiest <sup><al>toads</al></sup>.  Because they contain a lot of metal, it is best to mold them hollow, since they turn out better.  You could make your cast in one great piece, but it would be troublesome to cut.  It is best to do it in three or 4 parts, which will be thicker close to the animal, and include the most amount of edge that is close to the cast/mold.  Make as well some casting conduits all the way from the end <sup>of the cast</sup>.</ab>
+Those who mould from across the way make their sand from crocum ferri and calcinated slate, but slate always retains its bumpiness and swells because it is a fatty. In the noyau, it is not good; in sand, it can be put to use.  They the moulders from Foix sieve their sand, grind it on porphyry, and soak it in water, and they keep the finest bits which are on the top, then they reheat it.
 
-<ab><margin>left-bottom</margin>
+ 
 
-<figure>
 
-<id>fig_p143r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c</link>
+p143r_3
 
-</figure>
+Toad
 
-Let the mold cool rather than opening it, even for thick things.</ab>
+Having been molded, you can take it out it without burning it, because it releases easilyfrom the mold.  Choose the biggest and the lumpiest toads.  Because they contain a lot of metal, it is best to mold them hollow, since they turn out better.  You could make your cast in one great piece, but it would be troublesome to cut.  It is best to do it in three or 4 parts, which will be thicker close to the animal, and include the most amount of edge that is close to the cast/mold.  Make as well some casting conduits all the way from the end of the cast.
 
-<cont/>
+left-bottom
 
-</div>
+
+
+fig_p143r_1
+
+https://drive.google.com/open?id=0B9-oNrvWdlO5cnJFVXFaRURaY3c
+
+
+
+Let the mold cool rather than opening it, even for thick things.
+
+
+

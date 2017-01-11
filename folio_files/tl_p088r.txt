@@ -1,29 +1,28 @@
-<page>088r</page> 
+088r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image
 
-<div><id>p088r_a1</id><head>Vine</head>
+p088r_a1Vine
 
-<ab>As with a bramble, it can be planted on both sides. And those who plant the larger side facing a slope say that it makes a larger stock. But it only has a higher point, because it grows higher.</ab>
+As with a bramble, it can be planted on both sides. And those who plant the larger side facing a slope say that it makes a larger stock. But it only has a higher point, because it grows higher.
 
-</div><div><id>p088r_a2</id><head>Mortars</head>
+p088r_a2Mortars
 
-<ab>The fine <m>copper</m> mortars do not throw any flames, as long as the <m>iron</m> pestle is not tempered. If the mortar is indeed made from <m>metal</m>, when this is sour, in this case one makes the bottom of large mortars from fine <m>copper</m>.</ab>
+The fine copper mortars do not throw any flames, as long as the iron pestle is not tempered. If the mortar is indeed made from metal, when this is sour, in this case one makes the bottom of large mortars from fine copper.
 
-</div><div><id>p088r_a3</id><head><m>Varnish</m></head>
+p088r_a3Varnish
 
-<ab><m>Turpentine oil</m>: <m>turpentine</m> &amp; good <m>eau de vie</m>, to dry it out; heat it without mixing on the stove, so that it mixes <del/> of its own accord in melting. After, test it on a very clean blade, &amp; you will know from this whether it has enough body and whether it does not flow too much.</ab>
+Turpentine oil: turpentine &amp; good eau de vie, to dry it out; heat it without mixing on the stove, so that it mixes  of its own accord in melting. After, test it on a very clean blade, &amp; you will know from this whether it has enough body and whether it does not flow too much.
 
-</div><div><id>p088r_a4</id><head>Grafting</head>
+p088r_a4Grafting
 
-<ab>One knows from experience that the young shoot that <del>is</del> enters into the incision on the sunny side takes hardly often at all when it is also bowed.</ab>
+One knows from experience that the young shoot that is enters into the incision on the sunny side takes hardly often at all when it is also bowed.
 
-</div><div><id>p088r_a5</id><head><pro>Baker</pro></head>
+p088r_a5Baker
 
-<ab><m>Dust</m> guards wheat against being worm-eaten. And to clean it well when it is stained &amp; like rust, pass some <m>ashes</m> through a sieve and mix them with the <m>wheat</m>, then sift the whole thing with a bolting cloth made from <m>rough cloth</m> or <m>canvas</m>. The <m>ashes</m> will pass through &amp; your <m>wheat</m> will stay nicely yellow &amp; very fine.</ab>
+Dust guards wheat against being worm-eaten. And to clean it well when it is stained &amp; like rust, pass some ashes through a sieve and mix them with the wheat, then sift the whole thing with a bolting cloth made from rough cloth or canvas. The ashes will pass through &amp; your wheat will stay nicely yellow &amp; very fine.
 
-</div><div><id>p088r_a6</id><head><m>Looking-glass tin</m></head>
+p088r_a6Looking-glass tin
 
-<ab>It makes <m>material</m> whiter.</ab>
+It makes material whiter.
 
-</div>

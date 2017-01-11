@@ -1,49 +1,48 @@
-<page>075v</page>
+075v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item
 
-<div>
 
-<id>p075v_1</id>
 
-<head>Making grey <m>wood</m></head>
+p075v_1
 
-<ab>It is necessary to take three demi-sestiers of <m>iron</m> filings per 18 <del/> deniers of <m>rock alum</m>, and for as much <sup>18 deniers</sup> <m>green copperas</m> for six deniers of <m>verdigris</m>, <del/> pitch and a quart of <del/><m>currier water</m>; and if you can't find any, use <del/><m>rainwater</m> [blank] of a slight degree. </ab>
+Making grey wood
 
-</div>
+It is necessary to take three demi-sestiers of iron filings per 18  deniers of rock alum, and for as much 18 deniers green copperas for six deniers of verdigris,  pitch and a quart of currier water; and if you can't find any, use rainwater [blank] of a slight degree. 
 
-<div>
 
-<id>p075v_2</id>
 
-<head>Gilding <m>wood</m></head>
 
-<ab>First of all it is necessary to apply a coat of very clear <m>glue</m>; and when it is dry, you will apply a coat of <m>yellow gold</m>; and when this is done you will take <m>fig tree wood</m> and soak it for a while, and wash the place you want to gild, and cut your <m>gold</m> with a knife near where you will put it; and said <m>gold</m> must be applied with <m>cotton</m><del/>, and if you can find some <m>fig tree</m>, take an <m>egg white</m> and stir it frequently.</ab>
 
-<ab>
+p075v_2
 
-If your <m>gold</m> does not have a nice enough color, you will take a <m>partridge feather</m> burn it in a chafing-dish, and turn the smoke toward what you have gilded.</ab>
+Gilding wood
 
-</div> 
+First of all it is necessary to apply a coat of very clear glue; and when it is dry, you will apply a coat of yellow gold; and when this is done you will take fig tree wood and soak it for a while, and wash the place you want to gild, and cut your gold with a knife near where you will put it; and said gold must be applied with cotton, and if you can find some fig tree, take an egg white and stir it frequently.
 
-<div>
 
-<id>p075v_3</id>
 
-<head>Gilding with ground <m>gold</m></head>
+If your gold does not have a nice enough color, you will take a partridge feather burn it in a chafing-dish, and turn the smoke toward what you have gilded.
 
-<ab>Take a <ms>coquille</ms> of <m>gold</m>, soak it with gum water before you intend to work, and then apply it with a brush, and polish it with a <del/><m>wolf's tooth</m> once it is dry.</ab>
+ 
 
-</div>
 
-<div>
 
-<id>p075v_4</id>
+p075v_3
 
-<head>Recipe for coloring all <m>wood</m></head>
+Gilding with ground gold
 
-<ab>To make it black, the wood needs to be soaked in <m>olive oil</m> and tough <m>meat</m> in a similar case for four or five days, then boil it in where the wood has soaked for one hour, then take it <sup>the wood</sup> out of the oil. Take some <m>natural sulphur</m> if possible otherwise take another</ab>
+Take a coquille of gold, soak it with gum water before you intend to work, and then apply it with a brush, and polish it with a wolf's tooth once it is dry.
 
-<cont/>
 
-</div>
+
+
+
+p075v_4
+
+Recipe for coloring all wood
+
+To make it black, the wood needs to be soaked in olive oil and tough meat in a similar case for four or five days, then boil it in where the wood has soaked for one hour, then take it the wood out of the oil. Take some natural sulphur if possible otherwise take another
+
+
+

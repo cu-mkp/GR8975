@@ -1,25 +1,24 @@
-<page>028r</page>
+028r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f61.image</image> 
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f61.image 
 
-<div>
 
-<id>p028r_1</id>
 
-<head>The measures of the calibers of pieces</head>
+p028r_1
 
-<figure>
+The measures of the calibers of pieces
 
-<id>fig_p028r_1</id>
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5eUZXU293VGlmdVU</link>
 
-<margin>left</margin>
+fig_p028r_1
 
-<caption><margin>right-top</margin>
+https://drive.google.com/open?id=0B9-oNrvWdlO5eUZXU293VGlmdVU
 
-The numbers and dots show how many <ms>quintals</ms> a piece marked with that caliber weighs.</caption>
+left
 
-</figure>
+right-top
 
-</div>
+The numbers and dots show how many quintals a piece marked with that caliber weighs.
+
+
+

@@ -1,14 +1,14 @@
-<page>002r</page>
+002r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f9.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f9.image
 
-<div>
 
-<id>p002_1</id>
 
-<head>Books to recover</head>
+p002_1
 
-<ab>The chronicles of Sigebert
+Books to recover
+
+The chronicles of Sigebert
 
 Rufinus
 
@@ -22,18 +22,17 @@ Polydorus
 
 Bergomensis
 
-Philippe de Commines</ab>
+Philippe de Commines
 
-</div>
 
- <figure>------------------------</figure>
 
-<div>
+ ------------------------
 
-<id>p002r_2</id>
 
-<head>Against pain</head>
 
-<ab><m>Turpentine oil</m>, <m>oil of Jacob</m> and <m>salt from <pa>cabbage</pa> ashes</m>.</ab>
+p002r_2
 
-</div>
+Against pain
+
+Turpentine oil, oil of Jacob and salt from cabbage ashes.
+

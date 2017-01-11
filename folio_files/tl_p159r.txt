@@ -1,39 +1,38 @@
-<page>159r</page> 
+159r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f323.item.r=
 
-<div><id>p159r_a1</id><head>
+p159r_a1
 
-Portraits in <m>Wax</m></head>
+Portraits in Wax
 
-<ab>
 
-If you do not mix your <m>wax</m> with any color <m>dye</m>, and if you paint some colors on the <m>wax</m>, these colors would fade if you cast it en noyau. But the representation is not damaged, rub it very lightly with spirits diluted with hot <m>water</m>. If your representations are varnished, repeat the molding process two or three times in order to remove this <m>varnish</m> which sticks to the mold. When the <m>varnish</m> is removed, your mold is very clean. If your representation is set on <m>wood</m>, it is necessary to pour very hot melted <m>wax</m> on the <m>wood,</m> otherwise the mold sticks to the <m>wood</m>. It is much better to mix your white <m>wax</m> with <m>white lead</m> than <m>ceruse</m>, because <m>white lead</m> is whiter and more firm.</ab>
 
-</div><div><id>p159r_a2</id><head> 
+If you do not mix your wax with any color dye, and if you paint some colors on the wax, these colors would fade if you cast it en noyau. But the representation is not damaged, rub it very lightly with spirits diluted with hot water. If your representations are varnished, repeat the molding process two or three times in order to remove this varnish which sticks to the mold. When the varnish is removed, your mold is very clean. If your representation is set on wood, it is necessary to pour very hot melted wax on the wood, otherwise the mold sticks to the wood. It is much better to mix your white wax with white lead than ceruse, because white lead is whiter and more firm.
 
-Chasing tool</head>
+p159r_a2 
 
-<ab>
+Chasing tool
 
-If a chasing tool has passed through any part of the representation, it is necessary to rework the whole thing and follow it all again. Otherwise it would look like an additional piece.</ab>
+
+
+If a chasing tool has passed through any part of the representation, it is necessary to rework the whole thing and follow it all again. Otherwise it would look like an additional piece.
 
  
 
-</div><div><id>p159r_a3</id><head>
+p159r_a3
 
-<m>Fish glue</m></head>
+Fish glue
 
-<ab>
 
-Beat it very finely and thinly on a well-cleaned anvil, then dilute your <m>glue</m> with <m>spirits</m>, put the mixture on hot <m>ashes</m>, and on a low fire, it will melt very soon. If the <m>glue</m> is not strong and thick enough, add <m>spirits</m> in greater quantity. Do not melt it in a fatty <m>pot</m>, but in a new <m>pot</m> if possible. It melts on fire and dries very quickly on fire. When your <m>glue</m> sets on the work, heat it away from fire, it will stick very strongly. One reworks flowers and delicate things made from <m>silver</m>, <m>gold</m>, <m>tin</m> and other <m>metal</m> with this <m>glue</m> which will not spoil your work.</ab>
 
-</div><div><id>p159r_a4</id><head>  
+Beat it very finely and thinly on a well-cleaned anvil, then dilute your glue with spirits, put the mixture on hot ashes, and on a low fire, it will melt very soon. If the glue is not strong and thick enough, add spirits in greater quantity. Do not melt it in a fatty pot, but in a new pot if possible. It melts on fire and dries very quickly on fire. When your glue sets on the work, heat it away from fire, it will stick very strongly. One reworks flowers and delicate things made from silver, gold, tin and other metal with this glue which will not spoil your work.
 
-<m>Tin</m> and <m>lead</m></head>
+p159r_a4  
 
-<ab>
+Tin and lead
 
-They must be beaten out very finely and <m>tin</m> will not get brittle or break, <m>lead</m> is a bit fatter. But that is why it is necessary to reheat it under hot ashes, and to beat several leaves together.</ab>
 
-</div>
+
+They must be beaten out very finely and tin will not get brittle or break, lead is a bit fatter. But that is why it is necessary to reheat it under hot ashes, and to beat several leaves together.
+

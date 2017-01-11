@@ -1,19 +1,18 @@
-<page>001v</page>
+001v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f8.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f8.image
 
-<div>
 
-<id>p001v_1</id>
 
-<head>For easing the belly</head>
+p001v_1
 
-<ab><m><pa>Prunes</pa> of <pl>Saint Antonin</pl></m>, and if you like you can put leaves of <m><pa>malva</pa></m> and <m><pa>viola</pa></m>, adding some <m>sugar</m> and, if you like, some <m><pa>cinnamon</pa></m> for the stomach.</ab>
+For easing the belly
 
-<ab>Or in a <m><al>chicken</al> broth</m>, add some <m><pa>marshmallow</pa> root</m>. When fresh it is more mollifying.</ab>
+Prunes of Saint Antonin, and if you like you can put leaves of malva and viola, adding some sugar and, if you like, some cinnamon for the stomach.
+
+Or in a chicken broth, add some marshmallow root. When fresh it is more mollifying.
 
  
 
-<ab>Stirring together <m>cirop de <pa>guindoles</pa> doulces</m> with <m>water</m> and taking some of this in the morning eases the belly.</ab>
+Stirring together cirop de guindoles doulces with water and taking some of this in the morning eases the belly.
 
-</div>

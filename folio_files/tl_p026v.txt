@@ -1,23 +1,22 @@
-<page>026v</page>
+026v
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f58.item</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f58.item
 
-<div>
 
-<cont/>
 
-<id>p026r_1</id>
 
-<figure>
 
-<id>fig_p026v_1</id>
+p026r_1
 
-<link>https://drive.google.com/open?id=0B9-oNrvWdlO5TmZXTkNLdDFjWms</link>
 
-<caption>Culuerin bullet </caption>
 
-</figure>
+fig_p026v_1
 
-<cont/>
+https://drive.google.com/open?id=0B9-oNrvWdlO5TmZXTkNLdDFjWms
 
-</div>
+Culuerin bullet 
+
+
+
+
+

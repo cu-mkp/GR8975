@@ -1,57 +1,56 @@
-<page>032r</page>
+032r
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image</image>
-
- 
-
-<div>
-
-<id>p032r_1</id>
-
-<head>The body of the cuirass</head>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f69.image
 
  
 
-<ab>The high lames of the spaulder in a vambrace @ are like a master's chef d'œuvre, because these pieces have to be very precisely hollowed and adjusted so that movement may be free. The bodies of cuirasses must be very evenly beaten and worked with a hammer.</ab>
+
+
+p032r_1
+
+The body of the cuirass
 
  
 
-<ab>Morions from <pl>Milan</pl> are all in one piece and thus better than which are of two.</ab>
-
-</div>
+The high lames of the spaulder in a vambrace @ are like a master's chef d'œuvre, because these pieces have to be very precisely hollowed and adjusted so that movement may be free. The bodies of cuirasses must be very evenly beaten and worked with a hammer.
 
  
 
-<div>
+Morions from Milan are all in one piece and thus better than which are of two.
 
-<id>p032r_2</id>
 
-<head><pro>Painters</pro></head>
 
  
 
-<ab>As soon as the colors of paintings are well dried, the <pl>Flemish</pl> varnish them so they do not fade any further and remain in that state.</ab>
+
+
+p032r_2
+
+Painters
 
  
 
-<ab>Those who know well how to work in distemper will work well in <m>oil</m>.But on the contrary, those who know well how to work in <m>oil</m> will not be able to work in distemper.</ab>
-
-</div>
+As soon as the colors of paintings are well dried, the Flemish varnish them so they do not fade any further and remain in that state.
 
  
 
-<div>
+Those who know well how to work in distemper will work well in oil.But on the contrary, those who know well how to work in oil will not be able to work in distemper.
 
-<id>p032r_3</id>
 
-<head>To lay down <m>gold</m> in distemper</head>
 
  
 
-<ab><pro>Scribes</pro> and local <pro>painters</pro> make <m>batture</m>, which is <m>joiner's glue</m> tempered in <m>water</m> over the fire, somewhat clear, mixed with very little <m>honey</m>, that is a few drops to make it thicken, and then they use it to draw letters or whatever they want to <m>gild</m> with a brush, and immediately after lay down the <m>gold</m>, but the work they do is never quite neat, and if there is a lot of <m>honey</m> it dries only with great difficulty. This layer will be damaged in the rain. </ab>
+
+
+p032r_3
+
+To lay down gold in distemper
 
  
 
-<ab>Others do better, they temper <m>candy sugar</m> in <m>water</m> and mix it with <m>sanguine</m> that they call cocon, very crushed, and add a little <m>soap</m>. This makes it neat, and renders <m>gold</m> beautiful if one uses it as the underlayer.</ab>
+Scribes and local painters make batture, which is joiner's glue tempered in water over the fire, somewhat clear, mixed with very little honey, that is a few drops to make it thicken, and then they use it to draw letters or whatever they want to gild with a brush, and immediately after lay down the gold, but the work they do is never quite neat, and if there is a lot of honey it dries only with great difficulty. This layer will be damaged in the rain. 
 
-</div>
+ 
+
+Others do better, they temper candy sugar in water and mix it with sanguine that they call cocon, very crushed, and add a little soap. This makes it neat, and renders gold beautiful if one uses it as the underlayer.
+

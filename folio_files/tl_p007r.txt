@@ -1,33 +1,32 @@
-<page>007r</page> 
+007r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image</image>
-
- 
-
-<div><id>p007r_a1</id><head>To gild with <m>gold color</m> and <m>tinsel</m></head>
-
-<ab>Once you have colored <sup>or</sup> made your stamped ornament in <m>tin</m> (as previously described), or in <m>iron</m> or <m>copper</m>, you must not put <m>glue</m> as on <m>wood</m>, but just have some fatty <m>oil</m>, which is made in seven or eight days in the sun from <m>walnut oil</m> and <m>white lead</m>, stirring often, or cooked on fire if one should be in hurry. Then, with the <m>oil</m> thus made fatty, grind a little <m>white lead</m>, <m>massicot</m> and <m>black graphite</m>, at discretion, as much of one as of the other. <m>Minium</m> will color the <m>gold</m>. Then apply an even layer of that onto your stamp, taking care you do not fill the hollows. And once it is almost dry, apply the <m>gold</m> leaf on it using <m>cotton</m>. Such <m>gold</m> will withstand rain on houses or elsewhere. And if you have made your gilt with <m>tinsel</m>, color it with <m>smoke from a partridge</m> or from yellow or red <m>cloth</m>, and it will look as fine as pure <m>gold</m>. You can cover trunks, mirrors, bed valances and posts in colored <m>velvet</m> or <m>satin</m> and then apply the gilded stamped ornament on them with strong <m>glue</m>.</ab>
-
-</div><div><id>p007r_a2</id><head>To color stamped ornaments for trunks</head>
-
-<ab>The stamped ornament made from sheets of <m>copper</m> or <m>latten</m> are made with <m>wood from a <pa>service tree</pa></m> engraved and cut, should you want to spend less. Next, the stamped piece is colored with the aforesaid lacquer colours of <m>lacquer</m>, <m>verdet</m>, <m>blue enamel</m>, and soaked in <m>turpentine</m> varnish. But wherever you want to make it azure, apply some fer blanc, which is more appropriate for an azure background.</ab>
-
-  
-
-</div><div><id>p007r_a3</id><head>Doublets</head>
-
-<ab>Good <m>dragon's blood</m> soaked in <m>spirits</m> produces its own <m>mastic</m> or <m>glue</m>. So do <m>vert de vessie</m> and <m>saffron</m>.</ab>
-
-  
-
-</div><div><id>p007r_a4</id><head><m><al>Fish</al> glue</m> or <m>usblac</m> and <m>mouth glue</m></head>
-
-<ab>It is made from <m><al>codfish</al> skin</m> that has been boiled rather than <m>salted</m>. <pro>Joiners</pro> use it on their masterpieces and <pro>guitar makers</pro> use it for their more delicate works. It needs to be strongly whipped, then soaked gently in barely boiling <m>water</m>.</ab>
-
-<ab><m>Mouth glue</m> is made of <m>parchment</m> scraps and used to glue <m>paper</m> or similar things without fire, by wetting it with one's <tl><bp>mouth</bp></tl>.</ab>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image
 
  
 
-<ab><margin>left-bottom</margin>It is whipped and left to soak in <m>white wine</m> for one night, then melted over a low heat. Others soak it in <m>spirits</m>.</ab>
+p007r_a1To gild with gold color and tinsel
 
-</div>
+Once you have colored or made your stamped ornament in tin (as previously described), or in iron or copper, you must not put glue as on wood, but just have some fatty oil, which is made in seven or eight days in the sun from walnut oil and white lead, stirring often, or cooked on fire if one should be in hurry. Then, with the oil thus made fatty, grind a little white lead, massicot and black graphite, at discretion, as much of one as of the other. Minium will color the gold. Then apply an even layer of that onto your stamp, taking care you do not fill the hollows. And once it is almost dry, apply the gold leaf on it using cotton. Such gold will withstand rain on houses or elsewhere. And if you have made your gilt with tinsel, color it with smoke from a partridge or from yellow or red cloth, and it will look as fine as pure gold. You can cover trunks, mirrors, bed valances and posts in colored velvet or satin and then apply the gilded stamped ornament on them with strong glue.
+
+p007r_a2To color stamped ornaments for trunks
+
+The stamped ornament made from sheets of copper or latten are made with wood from a service tree engraved and cut, should you want to spend less. Next, the stamped piece is colored with the aforesaid lacquer colours of lacquer, verdet, blue enamel, and soaked in turpentine varnish. But wherever you want to make it azure, apply some fer blanc, which is more appropriate for an azure background.
+
+  
+
+p007r_a3Doublets
+
+Good dragon's blood soaked in spirits produces its own mastic or glue. So do vert de vessie and saffron.
+
+  
+
+p007r_a4Fish glue or usblac and mouth glue
+
+It is made from codfish skin that has been boiled rather than salted. Joiners use it on their masterpieces and guitar makers use it for their more delicate works. It needs to be strongly whipped, then soaked gently in barely boiling water.
+
+Mouth glue is made of parchment scraps and used to glue paper or similar things without fire, by wetting it with one's mouth.
+
+ 
+
+left-bottomIt is whipped and left to soak in white wine for one night, then melted over a low heat. Others soak it in spirits.
+

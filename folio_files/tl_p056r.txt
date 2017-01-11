@@ -1,17 +1,16 @@
-<page>056r</page> 
+056r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f117.image
 
-<div><id>p056r_a1</id><head>Excellent temper for breastplates</head>
+p056r_a1Excellent temper for breastplates
 
-<ab> Have the clearest and the most running <m>river water</m> you can, and heat it up slightly more than warm. Then have a bunch of <m>reseda,</m> take its seeds and dip them into the said <m>water</m> and bring it to a rolling boil it while stirring it with a <m>stick</m>. Then pour it into a muid or any other vessel, then throw into it two pecks of <m>salt</m>. </ab>
+ Have the clearest and the most running river water you can, and heat it up slightly more than warm. Then have a bunch of reseda, take its seeds and dip them into the said water and bring it to a rolling boil it while stirring it with a stick. Then pour it into a muid or any other vessel, then throw into it two pecks of salt. 
 
-<ab>Then take a big cauldron full of the said <m>river water</m> and heat it up slightly more than warm. Take three or four times the quantity of <m>red greasy earth</m> you can hold in two cupped hands, dip it and throw it into the cauldron filled with the said <m>water</m>. Have as much <m>pigeon manure</m> as of the said <m>earth</m>, as much <m>horse manure</m> and as much <m>iron scrapings</m>. And mix each of these separately, throw into the caldron and leave for two or three days. Then throw it into the said muid and stir all strongly altogether. And the older this temper is, the better it will work.</ab>
+Then take a big cauldron full of the said river water and heat it up slightly more than warm. Take three or four times the quantity of red greasy earth you can hold in two cupped hands, dip it and throw it into the cauldron filled with the said water. Have as much pigeon manure as of the said earth, as much horse manure and as much iron scrapings. And mix each of these separately, throw into the caldron and leave for two or three days. Then throw it into the said muid and stir all strongly altogether. And the older this temper is, the better it will work.
 
  
 
-</div><div><id>p056r_a2</id><head><m>Varnish</m> for tempera</head>
+p056r_a2Varnish for tempera
 
-<ab>You can make <m>tempera marble</m> with <m>lacquer</m> or <m>rose of Ghent</m> and <m>chalk</m>. Once dry, glaze it with <m>lacquer</m> mixed with <m>wine</m>, for <m>glue</m> will dull and blacken it. And the whole will firstly appear red, but the <m>varnish</m> you will apply, which will penetrate it, will make dark and light parts appear as they should. The <m>varnish</m> is made like this: mix with clear <m>Venice</m> <m>turpentine</m> some <m>aspic oil</m> until it becomes clear and liquid, and this is done without fire. This is for things done in tempera, and the <m>turpentine varnish</m> that you know is for panel paintings. Pure <m>lavender spike varnish</m> is not good for panel paintings because <m>lavender spike oil</m> is too penetrating and makes colours shine unless it has been made long beforehand.</ab>
+You can make tempera marble with lacquer or rose of Ghent and chalk. Once dry, glaze it with lacquer mixed with wine, for glue will dull and blacken it. And the whole will firstly appear red, but the varnish you will apply, which will penetrate it, will make dark and light parts appear as they should. The varnish is made like this: mix with clear Venice turpentine some aspic oil until it becomes clear and liquid, and this is done without fire. This is for things done in tempera, and the turpentine varnish that you know is for panel paintings. Pure lavender spike varnish is not good for panel paintings because lavender spike oil is too penetrating and makes colours shine unless it has been made long beforehand.
 
-</div>

@@ -1,37 +1,36 @@
-<page>093r</page> 
+093r 
 
-<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image</image>
+http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image
 
-<div><id>p093r_a1</id><head>Olives</head>
+p093r_a1Olives
 
-<ab>The olives go bad if you do not refresh their <m>salt water</m> once a month, do not touch it with your hands, otherwise they will go bad.</ab>
+The olives go bad if you do not refresh their salt water once a month, do not touch it with your hands, otherwise they will go bad.
 
-</div><div><id>p093r_a2</id><head>Country folk's observation</head>
+p093r_a2Country folk's observation
 
-<ab>When it freezes on Palm Sunday, it will freeze every month of the year</ab>
+When it freezes on Palm Sunday, it will freeze every month of the year
 
-<ab>When the first flowers fall because of the frost, the other flowers also start perish.</ab> 
+When the first flowers fall because of the frost, the other flowers also start perish. 
 
-</div><div><id>p093r_a3</id><head>Grafts</head>
+p093r_a3Grafts
 
-<ab>Do not use a graft from <m>old wood</m>, because it never makes a beautiful tree.</ab>
+Do not use a graft from old wood, because it never makes a beautiful tree.
 
-<ab>Leave only two shoots on the graft and no more, otherwise it will become weaker. The wind torments it and leaves it strengthless to propagate by cuttings.</ab>
+Leave only two shoots on the graft and no more, otherwise it will become weaker. The wind torments it and leaves it strengthless to propagate by cuttings.
 
-<ab>Trees which have big pith, such as peach trees, and all other trees of their kind, and the plum trees, can't be grafted when freezing because the cold damages their pith, which also has to be protected avoiding to cut the bottom of the graft.</ab>
+Trees which have big pith, such as peach trees, and all other trees of their kind, and the plum trees, can't be grafted when freezing because the cold damages their pith, which also has to be protected avoiding to cut the bottom of the graft.
 
-<ab>All grafts must not be done earlier than the sap flows up, otherwise they dry.</ab>
+All grafts must not be done earlier than the sap flows up, otherwise they dry.
 
-</div><div><id>p093r_a4</id><head><m>Sand</m></head>
+p093r_a4Sand
 
-<ab>The <m>white ash</m> of all kinds of <m>wood</m>, which still sticks to the <m>wood</m> while burning, and which has not fallen into the hearth, molds very clean</ab>
+The white ash of all kinds of wood, which still sticks to the wood while burning, and which has not fallen into the hearth, molds very clean
 
  
 
-</div><div><id>p093r_a5</id><head><m>Sand</m></head>
+p093r_a5Sand
 
-<ab>Very fine pulverized <m>soot</m> molds and removes easily from the mold.  The best <m>soot</m>, which is greasy and shiny, is the one from the big kitchens</ab>
+Very fine pulverized soot molds and removes easily from the mold.  The best soot, which is greasy and shiny, is the one from the big kitchens
 
-<ab>Very fine pulverized <m>quicklime</m> works, but mixed <m>flint,</m> crumbled into the hollow, does better.</ab>
+Very fine pulverized quicklime works, but mixed flint, crumbled into the hollow, does better.
 
-</div>
