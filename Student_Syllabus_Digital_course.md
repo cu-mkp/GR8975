@@ -1,3 +1,8 @@
+---
+layout: post
+title: History GR8975 Student Syllabus
+---
+
 # History GR8975
 
 **What is a Book in the 21st Century?**
