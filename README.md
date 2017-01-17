@@ -14,7 +14,7 @@ Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Pro
 
 **INSTRUCTORS**: **Terry Catapano** (CU Libraries) and **Pamela Smith** (History), with guest lectures by **Steven Feiner **(Computer Science)
 
-[**Course Syllabus**]({{ site.github.url }}/Student_Syllabus_Digital_course.md)
+[**Course Syllabus**]({{ site.github.url }}/Student_Syllabus_Digital_course)
 
 This course will introduce graduate students to techniques of working in digital environments. The course is intended mainly for humanities and social science students who are novices with little or no experience in using digital platforms, but we also welcome students from all disciplines, as well as those who might be familiar with constructing websites or blogs, or even with creating minimal editions. Through hands-on assignments (with plenty of assistance), you will master a variety of skills that constitute literacy in digital humanities, and, by the end of the semester, you will be able to take your newfound digital literacy with you as you pursue your own study, research, and future work.
 
