@@ -12,7 +12,7 @@ Some Friday Labs, 2-4pm, Studio @ Butler
 
 Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Professor Dennis Tenen’s class *GU4903: Critical Computing in the Humanities*
 
-**INSTRUCTORS**: **Terry Catapano** (CU Libraries) and **Pamela Smith** (History), with guest lectures by **Steven Feiner **(Computer Science)
+**INSTRUCTORS**: **Terry Catapano** (CU Libraries) and **Pamela Smith** (History), with guest lectures by **Steven Feiner** (Computer Science)
 
 [**Course Syllabus**](https://cu-mkp.github.io/Student_Syllabus_Digital_course.md)
 
