@@ -11,20 +11,20 @@ Wednesdays, 4:10pm-6pm, Studio @ Butler
 
 Some Friday Labs, 2-4pm, Studio @ Butler
 
-Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Professor Dennis Tenen’s class *GU4903: Critical Computing in the Humanities*
+Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Professor Dennis Tenen’s class <i>GU4903: Critical Computing in the Humanities</i>
 
 <b>INSTRUCTORS</b>: <b>Terry Catapano</b> (CU Libraries) and <b>Pamela Smith</b> (History), with guest lectures by <b>Steven Feiner</b> (Computer Science)
 </pre>
 
 This course will introduce graduate students to techniques of working in digital environments. The course is intended mainly for humanities and social science students who are novices with little or no experience in using digital platforms, but we also welcome students from all disciplines, as well as those who might be familiar with constructing websites or blogs, or even with creating minimal editions. Through hands-on assignments (with plenty of assistance), you will master a variety of skills that constitute literacy in digital humanities, and, by the end of the semester, you will be able to take your newfound digital literacy with you as you pursue your own study, research, and future work.
 
-Throughout the course, your skills will be built by implementing them to collectively create a small scale digital edition, which will be festively launched at the end of the semester. This digital edition will draw on collaboration with and research done by the [Making and Knowing Project](http://www.makingandknowing.org/) ([http://www.makingandknowing.org/](http://www.makingandknowing.org/)) on an anonymous sixteenth-century French compilation of artistic and technical recipes (BnF Ms. Fr. 640). The Project’s existing English translation of this manuscript will constitute the "data" with which students in this course will work to create their small scale edition.  
+Throughout the course, your skills will be built by implementing them to collectively create a small scale digital edition, which will be festively launched at the end of the semester. This digital edition will draw on collaboration with and research done by the [Making and Knowing Project](http://www.makingandknowing.org/) [(http://www.makingandknowing.org/)](http://www.makingandknowing.org/) on an anonymous sixteenth-century French compilation of artistic and technical recipes (BnF Ms. Fr. 640). The Project’s existing English translation of this manuscript will constitute the "data" with which students in this course will work to create their small scale edition.  
 
 This rare French manuscript resulted from the compilation of craft knowledge over time, followed by its subsequent "disassembly" in a late sixteenth-century workshop by an author-compiler-practitioner who experimented on techniques contained in the manuscript’s “recipes.” While the course will focus on this intriguing manuscript and the research that has been carried out on it, the skills you will learn over the course of the semester are widely applicable to other types of Digital Humanities projects, and, indeed, in many fields outside of traditional academic study.
 
 The [Making and Knowing Project](http://www.makingandknowing.org/), directed by Professor Smith, has produced the transcription and English translation of this manuscript, "disassembling" Ms. Fr. 640 through research seminars and workshops, involving multidisciplinary teams of students and scholars. The Project is now engaged in creating a complete critical digital edition, which represents a reassembly of this manuscript in a 21st-century form. In this course, you will be an active participant in the Project’s exploration of the technologies that allow not just a *reading* of the text but an *interaction* with the content itself. This is in direct resonance with the ways that this sixteenth-century recipe collection can only be transformed from *text* to *knowledge* when the techniques contained within it are *practiced*, whether in the sixteenth century or in the Making and Knowing Laboratory reconstructions today. Through this exploration, the course aims to foster reflection on the constraints of the codex as a framework and vehicle for the production of knowledge, and to re-think the technology of the book and what it means to read a text.  To this end, the course also includes collaboration with Professor Steven Feiner’s Computer Graphics and User Interfaces Lab ([CGUI](http://graphics.cs.columbia.edu/home/home/), [http://graphics.cs.columbia.edu/home/home/](http://graphics.cs.columbia.edu/home/home/)).
 
-_This course is one component of the **[History in Action Initiative](http://historyinaction.columbia.edu/)** of the Columbia Department of History. The American Historical Association (AHA) and the Andrew W. Mellon Foundation are collaborating to re-think career education for history PhD candidates at four selected universities (Columbia, Chicago, New Mexico, and UCLA) and to continue, expand, and enhance the AHA’s "**[Career Diversity and the History Ph*D](http://www.historians.org/jobs-and-professional-development/career-diversity-for-historians)*" initiative. The long-term goal is to establish a new norm: that doctoral graduates in history** and **the humanities will be equipped with the skills to pursue a wide spectrum of career opportunities and communicate their research to a broad audience._
+_This course is one component of the **[History in Action Initiative](http://historyinaction.columbia.edu/)** of the Columbia Department of History. The American Historical Association (AHA) and the Andrew W. Mellon Foundation are collaborating to re-think career education for history PhD candidates at four selected universities (Columbia, Chicago, New Mexico, and UCLA) and to continue, expand, and enhance the AHA’s "**[Career Diversity and the History PhD](http://www.historians.org/jobs-and-professional-development/career-diversity-for-historians)**" initiative. The long-term goal is to establish a new norm: that doctoral graduates in history **and** the humanities will be equipped with the skills to pursue a wide spectrum of career opportunities and communicate their research to a broad audience._
 
  ***
 
@@ -40,19 +40,19 @@ Final edition project:  60%
 
 ## <a name="schedule"></a>Schedule
 
-**Please note: You will encounter many unfamiliar and possibly intimidating terms in the following syllabus, but FEAR NOT!  Learning a new craft involves not just "how to do" it, but also “how to talk” about it. Hands-on techniques are in general difficult to put into words, so this practitioners’ jargon is often necessary. **
+**Please note: You will encounter many unfamiliar and possibly intimidating terms in the following syllabus, but FEAR NOT!  Learning a new craft involves not just "how to do" it, but also “how to talk” about it. Hands-on techniques are in general difficult to put into words, so this practitioners’ jargon is often necessary.**
 
-**Please see ****[here** ](https://docs.google.com/document/d/10uCbej4HOEBTzhUOaO5ZVJ64expe7Sm_Tojl8XaG0Go/edit)**for a short and easy to read version of the class schedule and syllabus that includes the digital skills introduced in each class.**
+**Please see** [here](https://docs.google.com/document/d/10uCbej4HOEBTzhUOaO5ZVJ64expe7Sm_Tojl8XaG0Go/edit) **for a short and easy to read version of the class schedule and syllabus that includes the digital skills introduced in each class.**
 
 **Be sure to bring your computer (not tablet) to every class.**
 
-**Week 1: Jan ****18 - Introduction **
+**Week 1: Jan 18 - Introduction**
 
 Get to know your many collaborators in this class!
 
 **To prepare in advance of the class on Jan 18:**
 
-* **To do:**
+- **To do:**
 
     * If you do not already have one, please create a GitHub account.
 
@@ -68,7 +68,7 @@ Get to know your many collaborators in this class!
 
         * Please consult the following [introductory document](https://docs.google.com/document/d/1SMbKEKZqGwQoWRdtkfNpaLrr7ggH9nm37KgOfvl_r3w/edit?usp=sharing) with more information about Google Drive, and which explains in brief how our files are organized within the folder, and provides further instructions and details about access.
 
-* **Read and ****Explore:**
+- **Read and Explore:**
 
     * The [Making and Knowing Project website](http://www.makingandknowing.org/)
 
@@ -128,13 +128,13 @@ Get to know your many collaborators in this class!
 
 * Practical help with GitHub
 
-**Week 2: Jan 2****5 - ****General introduction to text editing and scholarship**
+**Week 2: Jan 25 - General introduction to text editing and scholarship**
 
 What is a "book"? How does it organize text and content? What aims does it achieve? Who does it reach? What is Scholarly Editing and Textual Criticism? What are the rationale, purposes, scope, and features of scholarly editions?
 
 **In class on Jan 25:**
 
-* Discussion: What *is a *book?  Digital Humanities projects, scholarly editions, user stories
+* Discussion: What is a book?  Digital Humanities projects, scholarly editions, user stories
 
 **Homework assignment Jan 25:**
 
@@ -146,9 +146,10 @@ What is a "book"? How does it organize text and content? What aims does it achie
 
 * Reading (for Feb 1):
 
-    * Read the rest of the annotations relevant to your folios.
-
-**Lab 2: Jan 27 - Wiki, GD, and GitHub workshop**** **
+   * Read the rest of the annotations relevant to your folios.
+   
+   
+**Lab 2: Jan 27 - Wiki, GD, and GitHub workshop**
 
 * Wiki Scholars introduction and setup 
 
@@ -156,7 +157,7 @@ What is a "book"? How does it organize text and content? What aims does it achie
 
 * GitHub troubleshooting 
 
-**Week 3: Feb ****1 - ****Data and Project Management**
+**Week 3: Feb 1 - Data and Project Management**
 
 How do we think about the social, intellectual, and physical infrastructure of producing a "book" or a “digital project”? What is distinctive about digital projects? What is the range of concerns for a digital editing project? 
 
@@ -208,7 +209,7 @@ How do we think about the social, intellectual, and physical infrastructure of p
 
     * Federal Agencies Digitization Guidelines Initiative "[Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/FADGI_Still_Image_Tech_Guidelines_2015-09-02_v4.pdf)"
 
-**Lab 3: Feb 3 - Metadata **
+**Lab 3: Feb 3 - Metadata**
 
 What are the categories by which we organize our "content," our “materials,” our “digital assets”?
 
@@ -216,7 +217,7 @@ What are the categories by which we organize our "content," our “materials,”
 
 * What are the considerations we may need to have for creating a digital edition? What should our metadata be? 
 
-**Week ****4****: Feb ****8 - Digital Image Fundamentals**
+**Week 4: Feb 8 - Digital Image Fundamentals**
 
 Representing a representation: How are images represented digitally? How are they viewed, processed, and referenced? What are their advantages and limitations?
 
@@ -248,7 +249,7 @@ Representing a representation: How are images represented digitally? How are the
 
     * Unix for poets
 
-**Lab 4: Feb 10 - Omeka **
+**Lab 4: Feb 10 - Omeka**
 
 * Omeka introduction and workshop
 
@@ -392,7 +393,7 @@ Digital Text: How it works in practice, part 2. "Text Encoding" or “Markup” 
 
 * Working on Assignment 8 [DUE Monday Mar 20 to your peer reviewers]
 
-**Week 9: Mar 2****2 - Text Markup Continued: Establishing Consensus**
+**Week 9: Mar 22 - Text Markup Continued: Establishing Consensus**
 
 Digital Text: How it works in practice in collaborative projects (part 3). How to decide what to tag and what not to tag. The role of the "schema" in formally defining (i.e., for a computer) a “document type” or “tag set” 
 
@@ -426,17 +427,17 @@ Digital Text: How it works in practice in collaborative projects (part 3). How t
 
     * David Birnbaum: Digital humanities course XSLT materials
 
-    * **[http://dh.obdurodon.org/#xsl**t](http://dh.obdurodon.org/#xslt)
+    * **[http://dh.obdurodon.org/#xslt](http://dh.obdurodon.org/#xslt)**
 
         * [http://dh.obdurodon.org/xslt-basics.xhtml](http://dh.obdurodon.org/xslt-basics.xhtml)
 
         * [http://dh.obdurodon.org/xslt-basics-2.xhtml](http://dh.obdurodon.org/xslt-basics-2.xhtml)
 
-**Week 10: ****March 29 - Transformations, Representations, and Interfaces to Digital Resources Part 1**
+**Week 10: March 29 - Transformations, Representations, and Interfaces to Digital Resources Part 1**
 
 Digital text: How it really works.
 
-**In**** class on March 29:**
+**In class on March 29:**
 
 * Review and troubleshooting of your marked-up folios
 
@@ -460,7 +461,7 @@ Digital text: How it really works.
 
 *NOTE: In lieu of a lab this week, TA Office Hours for troubleshooting*
 
-**Week 11: ****Apri****l 5**** - Transformations, Representations, and Interfaces to Digital Resources Part 2**
+**Week 11: April 5 - Transformations, Representations, and Interfaces to Digital Resources Part 2**
 
 Moving from preparation of digital textual data to "processing" and “application”, particularly “transformation” or “conversion” into appropriate formats for publishing in an online edition.
 
@@ -494,7 +495,7 @@ Moving from preparation of digital textual data to "processing" and “applicati
 
 * Continued: Transformation of XML - XSLT
 
-**Week 13: Apr ****19**
+**Week 13: Apr 19**
 
 * Students Working on Editions 
 
@@ -502,7 +503,7 @@ Moving from preparation of digital textual data to "processing" and “applicati
 
 * Presentation by Computer Graphics and User Interface Lab (Feiner and digital assistants)
 
-**Week 14: Apr 2****6 - Review and Conclusion**
+**Week 14: Apr 26 - Review and Conclusion**
 
 The Future of Digital Text (yikes!): preservation, sustainability, archiving 
 
