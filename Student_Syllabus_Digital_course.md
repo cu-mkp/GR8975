@@ -1,10 +1,10 @@
-# History GR8975
+# <a name="home"></a>History GR8975
 
 ## What is a Book in the 21st Century?
 
 ## Working with Historical Texts in a Digital Environment
 
-```
+<pre>
 Spring 2017 
 
 Wednesdays, 4:10pm-6pm, Studio @ Butler
@@ -13,8 +13,8 @@ Some Friday Labs, 2-4pm, Studio @ Butler
 
 Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Professor Dennis Tenen’s class *GU4903: Critical Computing in the Humanities*
 
-**INSTRUCTORS**: **Terry Catapano** (CU Libraries) and **Pamela Smith** (History), with guest lectures by **Steven Feiner **(Computer Science)
-```
+<b>INSTRUCTORS</b>: <b>Terry Catapano</b> (CU Libraries) and <b>Pamela Smith</b> (History), with guest lectures by <b>Steven Feiner</b> (Computer Science)
+</pre>
 
 This course will introduce graduate students to techniques of working in digital environments. The course is intended mainly for humanities and social science students who are novices with little or no experience in using digital platforms, but we also welcome students from all disciplines, as well as those who might be familiar with constructing websites or blogs, or even with creating minimal editions. Through hands-on assignments (with plenty of assistance), you will master a variety of skills that constitute literacy in digital humanities, and, by the end of the semester, you will be able to take your newfound digital literacy with you as you pursue your own study, research, and future work.
 
@@ -24,11 +24,11 @@ This rare French manuscript resulted from the compilation of craft knowledge ove
 
 The [Making and Knowing Project](http://www.makingandknowing.org/), directed by Professor Smith, has produced the transcription and English translation of this manuscript, "disassembling" Ms. Fr. 640 through research seminars and workshops, involving multidisciplinary teams of students and scholars. The Project is now engaged in creating a complete critical digital edition, which represents a reassembly of this manuscript in a 21st-century form. In this course, you will be an active participant in the Project’s exploration of the technologies that allow not just a *reading* of the text but an *interaction* with the content itself. This is in direct resonance with the ways that this sixteenth-century recipe collection can only be transformed from *text* to *knowledge* when the techniques contained within it are *practiced*, whether in the sixteenth century or in the Making and Knowing Laboratory reconstructions today. Through this exploration, the course aims to foster reflection on the constraints of the codex as a framework and vehicle for the production of knowledge, and to re-think the technology of the book and what it means to read a text.  To this end, the course also includes collaboration with Professor Steven Feiner’s Computer Graphics and User Interfaces Lab ([CGUI](http://graphics.cs.columbia.edu/home/home/), [http://graphics.cs.columbia.edu/home/home/](http://graphics.cs.columbia.edu/home/home/)).
 
-*This course is one component of the **[History in Action Initiativ*e](http://historyinaction.columbia.edu/)* of the Columbia Department of History. The American Historical Association (AHA) and the Andrew W. Mellon Foundation are collaborating to re-think career education for history PhD candidates at four selected universities (Columbia, Chicago, New Mexico, and UCLA) and to continue, expand, and enhance the AHA’s "**[Career Diversity and the History Ph*D](http://www.historians.org/jobs-and-professional-development/career-diversity-for-historians)*" initiative. The long-term goal is to establish a new norm: that doctoral graduates in history** and** the humanities will be equipped with the skills to pursue a wide spectrum of career opportunities and communicate their research to a broad audience.*
+_This course is one component of the **[History in Action Initiative](http://historyinaction.columbia.edu/)** of the Columbia Department of History. The American Historical Association (AHA) and the Andrew W. Mellon Foundation are collaborating to re-think career education for history PhD candidates at four selected universities (Columbia, Chicago, New Mexico, and UCLA) and to continue, expand, and enhance the AHA’s "**[Career Diversity and the History Ph*D](http://www.historians.org/jobs-and-professional-development/career-diversity-for-historians)*" initiative. The long-term goal is to establish a new norm: that doctoral graduates in history** and **the humanities will be equipped with the skills to pursue a wide spectrum of career opportunities and communicate their research to a broad audience._
 
- 
+ ***
 
-**ASSE****SSMENT****:**
+## <a name="assessment"></a>Assessment
 
 Participation, initiative, effort: 10%
 
@@ -36,7 +36,9 @@ Weekly assignments and field notes: 30%
 
 Final edition project:  60%
 
-**SCHEDULE:**
+***
+
+## <a name="schedule"></a>Schedule
 
 **Please note: You will encounter many unfamiliar and possibly intimidating terms in the following syllabus, but FEAR NOT!  Learning a new craft involves not just "how to do" it, but also “how to talk” about it. Hands-on techniques are in general difficult to put into words, so this practitioners’ jargon is often necessary. **
 
@@ -514,10 +516,10 @@ The Future of Digital Text (yikes!): preservation, sustainability, archiving
 
 May 23-25: Working Group Meeting with invited scholars.  Attendance required, if at all possible.
 
-* * *
+***
 
 
-**S****tatement on Academic Integrity**
+## <a name="integrity"></a>Statement on Academic Integrity
 
 The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity. As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity.
 
@@ -527,7 +529,9 @@ In practical terms, this means that, as students, you must be responsible for th
 
 Any breach of this intellectual responsibility is a breach of faith with the rest of our academic community. It undermines our shared intellectual culture, and it cannot be tolerated. Students failing to meet these responsibilities should anticipate being asked to leave Columbia.
 
-**Disability-Related Accommodations**
+***
+
+## <a name="disability"></a>Disability-Related Accommodations
 
 In order to receive disability-related academic accommodations, students must first be registered with Disability Services (DS). More information on the DS registration process is available online at [www.health.columbia.edu/ods](http://www.health.columbia.edu/ods). Faculty must be notified of registered students’ accommodations before exam or other accommodations will be provided. Students who have (or think they may have) a disability are invited to contact Disability Services for a confidential discussion at (212) 854-2388 (Voice/TTY) or by email at [disability@columbia.edu](mailto:disability@columbia.edu).
 
