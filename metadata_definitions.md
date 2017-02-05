@@ -55,16 +55,16 @@
  * the URL of a third annotation described by annotation3_title above
  * Sample value: see annotation1_url above
 * place_names
- * One or more geographic names mentioned in the recipe
+ * Geographic names mentioned in the recipe
  * Sample value: "Armenia"
  * Note: May be empty. Multiple values are permitted. Use semicolons to delimit individual names. Avoid punctuation in terms.
 * person_names
-* One or more names of persons mentioned in the recipe
-* Sample value: "Cicero"
-* Note: May be empty. Multiple values are permitted. Use semicolons to delimit individual names. Avoid punctuation in terms.
+  * Names of persons mentioned in the recipe
+  * Sample value: "Cicero"
+  * Note: May be empty. Multiple values are permitted. Use semicolons to delimit individual names. Avoid punctuation in terms.
 * product
  * the intended end product of the recipe
- * Sample value: varnish
+ * Sample value: "varnish"
 * foreign_language
- * any foreign languages used in the text of the recipe
+ * foreign languages used in the text of the recipe
  * Sample value: "latin"								
