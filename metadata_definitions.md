@@ -1,5 +1,5 @@
 # Metadata Definitions
-Sample spreadsheet: https://docs.google.com/spreadsheets/d/1H8NLRIkKhsZOSPTaguAAH8wGy7uPPN5Ss1Owc8FMfSI/edit?usp=sharing 
+Sample spreadsheet: https://docs.google.com/spreadsheets/d/1H8NLRIkKhsZOSPTaguAAH8wGy7uPPN5Ss1Owc8FMfSI/edit?usp=sharing
 
 * Identifier
  * Definition: identifier assigned to the recipe in the transcription document.
@@ -68,4 +68,5 @@ Sample spreadsheet: https://docs.google.com/spreadsheets/d/1H8NLRIkKhsZOSPTaguAA
  * Sample value: "varnish"
 * foreign_language
  * foreign languages used in the text of the recipe
- * Sample value: "latin"								
+ * Sample value: "latin"
+ * Note: May be empty. Multiple values are permitted. Use semicolons to delimit individual languages. Avoid punctuation in terms.								
