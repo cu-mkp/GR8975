@@ -1,4 +1,5 @@
 # Metadata Definitions
+Sample spreadsheet: https://docs.google.com/spreadsheets/d/1H8NLRIkKhsZOSPTaguAAH8wGy7uPPN5Ss1Owc8FMfSI/edit?usp=sharing 
 
 * Identifier
  * Definition: identifier assigned to the recipe in the transcription document.
