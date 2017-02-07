@@ -16,19 +16,53 @@ Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Pro
 <b>INSTRUCTORS</b>: <b>Terry Catapano</b> (CU Libraries) and <b>Pamela Smith</b> (History), with guest lectures by <b>Steven Feiner</b> (Computer Science)
 </pre>
 
+**Course Instructors **
+
+Prof. Pamela Smith
+
+Office: Fayerweather 605 
+
+Email: ps2270@columbia.edu      Telephone:  212-854-7662	
+
+Office Hours: Thursdays, 1-3pm, and by appointment
+
+Prof. Terry Catapano
+
+Special Collections Analyst, Columbia Libraries (DLIST)
+
+Digital Lead, Making and Knowing Project
+
+Email: [thc4@columbia.edu](mailto:thc4@columbia.edu)
+
+**Project Manager**
+
+Naomi Rosenkranz
+
+Email: njr2128@columbia.edu     Telephone : (626) 374-9467
+
+**Course Assistants**
+
+Atif Ahmed: atif.ahmed@columbia.edu
+
+Mehul Kumar: mk3916@columbia.edu
+
+Varsha Maragi: vgm2115@columbia.edu
+
+Jeffrey Wayno: jmw2202@columbia.edu
+
 This course will introduce graduate students to techniques of working in digital environments. The course is intended mainly for humanities and social science students who are novices with little or no experience in using digital platforms, but we also welcome students from all disciplines, as well as those who might be familiar with constructing websites or blogs, or even with creating minimal editions. Through hands-on assignments (with plenty of assistance), you will master a variety of skills that constitute literacy in digital humanities, and, by the end of the semester, you will be able to take your newfound digital literacy with you as you pursue your own study, research, and future work.
 
-Throughout the course, your skills will be built by implementing them to collectively create a small scale digital edition, which will be festively launched at the end of the semester. This digital edition will draw on collaboration with and research done by the [Making and Knowing Project](http://www.makingandknowing.org/) [(http://www.makingandknowing.org/)](http://www.makingandknowing.org/) on an anonymous sixteenth-century French compilation of artistic and technical recipes (BnF Ms. Fr. 640). The Project’s existing English translation of this manuscript will constitute the "data" with which students in this course will work to create their small scale edition.  
+Throughout the course, your skills will be built by implementing them to collectively create a small scale digital edition, which will be festively launched at the end of the semester. This digital edition will draw on collaboration with and research done by the [Making and Knowing Project](http://www.makingandknowing.org/) ([http://www.makingandknowing.org/](http://www.makingandknowing.org/)) on an anonymous sixteenth-century French compilation of artistic and technical recipes (BnF Ms. Fr. 640). The Project’s existing English translation of this manuscript will constitute the "data" with which students in this course will work to create their small scale edition.  
 
 This rare French manuscript resulted from the compilation of craft knowledge over time, followed by its subsequent "disassembly" in a late sixteenth-century workshop by an author-compiler-practitioner who experimented on techniques contained in the manuscript’s “recipes.” While the course will focus on this intriguing manuscript and the research that has been carried out on it, the skills you will learn over the course of the semester are widely applicable to other types of Digital Humanities projects, and, indeed, in many fields outside of traditional academic study.
 
 The [Making and Knowing Project](http://www.makingandknowing.org/), directed by Professor Smith, has produced the transcription and English translation of this manuscript, "disassembling" Ms. Fr. 640 through research seminars and workshops, involving multidisciplinary teams of students and scholars. The Project is now engaged in creating a complete critical digital edition, which represents a reassembly of this manuscript in a 21st-century form. In this course, you will be an active participant in the Project’s exploration of the technologies that allow not just a *reading* of the text but an *interaction* with the content itself. This is in direct resonance with the ways that this sixteenth-century recipe collection can only be transformed from *text* to *knowledge* when the techniques contained within it are *practiced*, whether in the sixteenth century or in the Making and Knowing Laboratory reconstructions today. Through this exploration, the course aims to foster reflection on the constraints of the codex as a framework and vehicle for the production of knowledge, and to re-think the technology of the book and what it means to read a text.  To this end, the course also includes collaboration with Professor Steven Feiner’s Computer Graphics and User Interfaces Lab ([CGUI](http://graphics.cs.columbia.edu/home/home/), [http://graphics.cs.columbia.edu/home/home/](http://graphics.cs.columbia.edu/home/home/)).
 
-_This course is one component of the **[History in Action Initiative](http://historyinaction.columbia.edu/)** of the Columbia Department of History. The American Historical Association (AHA) and the Andrew W. Mellon Foundation are collaborating to re-think career education for history PhD candidates at four selected universities (Columbia, Chicago, New Mexico, and UCLA) and to continue, expand, and enhance the AHA’s "**[Career Diversity and the History PhD](http://www.historians.org/jobs-and-professional-development/career-diversity-for-historians)**" initiative. The long-term goal is to establish a new norm: that doctoral graduates in history **and** the humanities will be equipped with the skills to pursue a wide spectrum of career opportunities and communicate their research to a broad audience._
+*This course is one component of the **[History in Action Initiativ*e](http://historyinaction.columbia.edu/)* of the Columbia Department of History. The American Historical Association (AHA) and the Andrew W. Mellon Foundation are collaborating to re-think career education for history PhD candidates at four selected universities (Columbia, Chicago, New Mexico, and UCLA) and to continue, expand, and enhance the AHA’s "**[Career Diversity and the History Ph*D](http://www.historians.org/jobs-and-professional-development/career-diversity-for-historians)*" initiative. The long-term goal is to establish a new norm: that doctoral graduates in history** and** the humanities will be equipped with the skills to pursue a wide spectrum of career opportunities and communicate their research to a broad audience.*
 
- ***
+ 
 
-## <a name="assessment"></a>Assessment
+**ASSE****SSMENT****:**
 
 Participation, initiative, effort: 10%
 
@@ -36,23 +70,21 @@ Weekly assignments and field notes: 30%
 
 Final edition project:  60%
 
-***
+**SCHEDULE:**
 
-## <a name="schedule"></a>Schedule
+**Please note: You will encounter many unfamiliar and possibly intimidating terms in the following syllabus, but FEAR NOT!  Learning a new craft involves not just "how to do" it, but also “how to talk” about it. Hands-on techniques are in general difficult to put into words, so this practitioners’ jargon is often necessary. **
 
-**Please note: You will encounter many unfamiliar and possibly intimidating terms in the following syllabus, but FEAR NOT!  Learning a new craft involves not just "how to do" it, but also “how to talk” about it. Hands-on techniques are in general difficult to put into words, so this practitioners’ jargon is often necessary.**
-
-**Please see** [here](https://docs.google.com/document/d/10uCbej4HOEBTzhUOaO5ZVJ64expe7Sm_Tojl8XaG0Go/edit) **for a short and easy to read version of the class schedule and syllabus that includes the digital skills introduced in each class.**
+**Please see ****[here** ](https://docs.google.com/a/columbia.edu/document/d/10uCbej4HOEBTzhUOaO5ZVJ64expe7Sm_Tojl8XaG0Go/edit?usp=sharing)**for a short and easy to read version of the class schedule and syllabus that includes the digital skills introduced in each class.**
 
 **Be sure to bring your computer (not tablet) to every class.**
 
-**Week 1: Jan 18 - Introduction**
+**Week 1: Jan ****18 - Introduction **
 
 Get to know your many collaborators in this class!
 
 **To prepare in advance of the class on Jan 18:**
 
-- **To do:**
+* **To do:**
 
     * If you do not already have one, please create a GitHub account.
 
@@ -68,7 +100,7 @@ Get to know your many collaborators in this class!
 
         * Please consult the following [introductory document](https://docs.google.com/document/d/1SMbKEKZqGwQoWRdtkfNpaLrr7ggH9nm37KgOfvl_r3w/edit?usp=sharing) with more information about Google Drive, and which explains in brief how our files are organized within the folder, and provides further instructions and details about access.
 
-- **Read and Explore:**
+* **Read and ****Explore:**
 
     * The [Making and Knowing Project website](http://www.makingandknowing.org/)
 
@@ -92,11 +124,11 @@ Get to know your many collaborators in this class!
 
     * The Making and Knowing Project and BnF. Ms. Fr. 640 (Smith)
 
-    * Computer Graphics and User Interfaces Lab (Feiner)
+    * Digital literacy - resources and digital competencies (Jessica Brodsky) 
 
     * Overview of and Digital Editions and Editing (Catapano)
 
-    * Digital literacy - resources and digital competencies (Jessica Brodsky) 
+    * Computer Graphics and User Interfaces Lab (Feiner)
 
 **Homework assignment Jan 18:**
 
@@ -106,19 +138,17 @@ Get to know your many collaborators in this class!
 
 * Assignment 1 (due Jan 25):
 
-    * Pull your assigned folios from the course GitHub and read through them.
+    * Begin to familiarize yourself with your assigned folios from the[ course GitHub](https://github.com/cu-mkp/GR8975/tree/master/folio_files) and read through them. (You can also read in the pdfs we sent on
+Wednesday, but also find them on the GitHub repository.)
 
-    * Find and list the annotations (found in the Making and Knowing Google Drive) relevant to your assigned folios. Read at least two of them.
-
-    * Explore DH projects, specifically digital editions, and identify an interesting feature of an existing DH project that could be used on the digital critical edition of Ms. Fr. 640. Come to class ready to share your findings. 
-
-    * Complete Digital Competencies Evaluation #1
+    * Complete Digital Competencies Evaluation #1 and permission and contribution forms, and bring them to class.
 
 * Reading (for Jan 25):
 
-    * "User Story" [https://en.wikipedia.org/wiki/User_story](https://en.wikipedia.org/wiki/User_story)
+    * "User Story"[ https://en.wikipedia.org/wiki/User_story](https://en.wikipedia.org/wiki/User_story)
 
-    * G. Thomas Tanselle. *A Rationale of Textual Criticism* (Philadelphia: University of Pennsylvania Press, 1992). Available at Book Culture.
+    * G. Thomas Tanselle. *A Rationale of Textual Criticism* (Philadelphia:
+University of Pennsylvania Press, 1992). Available at Book Culture.
 
 **Lab 1: Jan 20 - workshop with Dennis Tenen**
 
@@ -126,44 +156,81 @@ Get to know your many collaborators in this class!
 
     * Be sure to have read Milligan and Baker: [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash)
 
-* Practical help with GitHub
+    * [D. Tenen GitHub notes and tutorials](https://github.com/dh-notes/dhnotes/tree/master/tutorials/command-line)
 
-**Week 2: Jan 25 - General introduction to text editing and scholarship**
+    * For Reference: [Cunix/unix tutorial](http://www1.cs.columbia.edu/~bert/courses/1003/cunix.html)
+
+        * [More info about using PuTTY](https://cuit.columbia.edu/putty-configuration-tutorial#howto) (for Windows users)
+
+* Practical help with GitHub [WILL HAPPEN IN NEXT LAB]
+
+**Week 2: Jan 2****5 - ****General introduction to text editing and scholarship**
 
 What is a "book"? How does it organize text and content? What aims does it achieve? Who does it reach? What is Scholarly Editing and Textual Criticism? What are the rationale, purposes, scope, and features of scholarly editions?
 
 **In class on Jan 25:**
 
-* Discussion: What is a book?  Digital Humanities projects, scholarly editions, user stories
+* Discussion: What *is a *book?  Digital Humanities projects, scholarly editions, user stories
+
+* Introduction of the [Casebooks Project](http://www.magicandmedicine.hps.cam.ac.uk/) by director, Prof. Lauren Kassell, Cambridge University
 
 **Homework assignment Jan 25:**
 
 * Assignment 2 (due Feb 1):
 
-    * From your exploration of DH editions and class discussion, derive 3-5 user stories related to the textual features of the online edition and add them to GitHub.
+    * Read about User Stories: [https://en.wikipedia.org/wiki/User_story](https://en.wikipedia.org/wiki/User_story)
 
-    * Create your first field notes entry (after WikiScholars workshop during Lab 2)
+    * From class on January 25, think about the [Casebooks Project](http://www.magicandmedicine.hps.cam.ac.uk/) and the [Making and Knowing Project](http://www.makingandknowing.org/), derive 3-5 user stories related to our proposed online edition of BnF Ms. Fr. 640, based on your reading of your folios. In class, we will discuss the user stories and create a document that we will collaboratively add to GitHub. 
 
-* Reading (for Feb 1):
+    * Create your profile in Wikischolars. If you have questions about how to do this, and can come to Monday’s lab class, please feel free to attend 10:10-2 for the whole class, OR, from 11:30-12:15, we’ll cover field notes, and from 12:30-2, we’ll cover an intro to using WikiScholars, and troubleshooting for GD and WikiScholars.  
 
-   * Read the rest of the annotations relevant to your folios.
-   
-   
-**Lab 2: Jan 27 - Wiki, GD, and GitHub workshop**
+    * If you can’t come to Monday’s class, there will be office hours for troubleshooting help announced later this week.
+
+Reading (for Feb 1):
+
+    * Identify and read the annotations relevant to your folios.
+
+**Lab 2: Jan 27 - Wiki, GD, and GitHub workshop**** **
+
+* Dennis Tenen, Introduction to GitHub 
 
 * Wiki Scholars introduction and setup 
 
-* M&K Google Drive troubleshooting
+* M&K Google Drive troubleshooting,GitHub troubleshooting 
 
-* GitHub troubleshooting 
+* Photos of today’s lecture notes from Dennis Tenen
 
-**Week 3: Feb 1 - Data and Project Management**
+    * [Whiteboard](https://flic.kr/p/RnBETf)
+
+    * [Workflow](https://flic.kr/p/RB7Ega)
+
+**Week 3: Feb ****1 - ****Data and Project Management**
 
 How do we think about the social, intellectual, and physical infrastructure of producing a "book" or a “digital project”? What is distinctive about digital projects? What is the range of concerns for a digital editing project? 
 
 **In class on Feb 1:**
 
+* Class discussion and exercise: 
+
+    * User stories 
+
+    * The whole class will:
+
+        * Discuss and refine user stories and collaboratively contribute to a shared document on the class Github repository
+
+        * From user stories create "feature requests" in the issue tracker 
+
 * Lecture and discussion:
+
+    * Project Management
+
+        * "Agile" development and management
+
+        * Collaboration and Communication
+
+        * Release Management
+
+        * Technical Debt and Digital Obsolescence
 
     * Data Management
 
@@ -179,45 +246,39 @@ How do we think about the social, intellectual, and physical infrastructure of p
 
         * Optimising for Re-use
 
-    * Project Management
-
-        * "Agile" development and management
-
-        * Collaboration and Communication
-
-        * Release Management
-
-        * Technical Debt and Digital Obsolescence
-
-* Class discussion and exercise: 
-
-    * User stories continued
-
-    * Articulate features for the edition ("feature requests") and add to “issue tracker” as a group
-
 **Homework assignment Feb 1:**
 
-* Assignment 3 (due Feb 8): 
+* In Wikischolars, create your profile. Begin taking rudimentary field notes that record the process of doing your homework. Transfer your field notes into Wikischolars field note pages.
 
-    * Create table of metadata (as determined during Lab 3) for your assigned folios and add to GitHub.
+* Metadata: For 5 of your folios (r and v), create a metadata table, based on the [schema/template](https://docs.google.com/spreadsheets/d/11eA8NzPmS8fL4jUtjjzIP3wHBfcbYYsJJbA6xTCqJsA/edit#gid=0) we came up with in class.
 
-    * Add to issue tracker as you come across issues while filling in the table 
+    * See this [sample](https://drive.google.com/open?id=1H8NLRIkKhsZOSPTaguAAH8wGy7uPPN5Ss1Owc8FMfSI) based on one of Tianna’s folios
 
-    * Update your field notes
+    * Remember, please read and use the [folios ](https://github.com/cu-mkp/GR8975/tree/master/folio_files)in GitHub. At the same time, have a look at the [manuscript pages](https://drive.google.com/open?id=0B42QaQPHLJloNnZhakpiVk9GRmM) in Google Drive, including looking at the HD images of your folios.
 
-* Reading (for Feb 8):
+* If you come up with additional metadata fields, please create a new issue in GitHub.  Also use the issue tracker tracker if you come across problems while filling in the table.  
+
+* Remember to do the reading also:
+
+Reading (for Feb 8):
 
     * Federal Agencies Digitization Guidelines Initiative "[Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/FADGI_Still_Image_Tech_Guidelines_2015-09-02_v4.pdf)"
 
-**Lab 3: Feb 3 - Metadata**
+**Lab 3: Feb 3 - Metadata **
 
 What are the categories by which we organize our "content," our “materials,” our “digital assets”?
 
-* Create master table of metadata elements collaboratively, to be filled in for homework 
+* We will start this assignment in the lab, and students will finish at home: 
 
-* What are the considerations we may need to have for creating a digital edition? What should our metadata be? 
+    * Create master table of metadata elements collaboratively, to be filled in for homework: What are the considerations we may need to have for creating a digital edition? What should our metadata be? 
 
-**Week 4: Feb 8 - Digital Image Fundamentals**
+    * Here is the Schema/template we came up with in class:
+
+    * Us the template to create table of metadata for your assigned folios and add to GitHub.
+
+        * Add to issue tracker as you come across issues while filling in the table
+
+**Week ****4****: Feb ****8 - Digital Image Fundamentals**
 
 Representing a representation: How are images represented digitally? How are they viewed, processed, and referenced? What are their advantages and limitations?
 
@@ -233,13 +294,13 @@ Representing a representation: How are images represented digitally? How are the
 
 * Tool: 
 
-    * Omeka 
+    * Viewshare
 
 **Homework assignment Feb 8:**
 
 * Assignment 4 (to be started during Lab 4 and due Feb 15): 
 
-    * Prepare an Omeka exhibition with images of folio pages with metadata from previous week 
+    * Prepare a Viewshare "view" with images presenting metadata from previous week 
 
     * Add photos from related annotations’ reconstruction experiments
 
@@ -249,9 +310,11 @@ Representing a representation: How are images represented digitally? How are the
 
     * Unix for poets
 
-**Lab 4: Feb 10 - Omeka**
+**Lab 4: Feb 10 - Using metadata in Viewshare **
 
-* Omeka introduction and workshop
+* Review metadata table
+
+* Create presentation metadata in Viewshare
 
 * Start Assignment 4 (if needed, finish for homework)
 
@@ -260,8 +323,6 @@ Representing a representation: How are images represented digitally? How are the
 What is digital text? What can it do that printed type on paper cannot? How may digital or "electronic" text be “processed”? What sorts of study and inquiry does text “processing” facilitate? How does the way digital text is “prepared” affect its possible uses? 
 
 **In class on Feb 15:**
-
-* Go over Omeka exhibits
 
 * Lecture and discussion: 
 
@@ -289,13 +350,11 @@ What is digital text? What can it do that printed type on paper cannot? How may 
 
 **Lab 5: Feb 17 - GitHub lab**
 
-* Together with Dennis Tenen
-
-* Unix/cunix introduction and tutorial
+* Git/Github practice and troubleshooting
 
 **Week 6: Feb 22 - Version Control**
 
-The mess of mechanical reproduction: how to maintain control of content, issue, edition, "release"? How can digital tools accommodate textual “instability”?  
+The mess of digital reproduction: how to maintain control of content, issue, edition, "release"? How can digital tools accommodate textual “instability”?  
 
 **In class on Feb 22:**
 
@@ -393,7 +452,7 @@ Digital Text: How it works in practice, part 2. "Text Encoding" or “Markup” 
 
 * Working on Assignment 8 [DUE Monday Mar 20 to your peer reviewers]
 
-**Week 9: Mar 22 - Text Markup Continued: Establishing Consensus**
+**Week 9: Mar 2****2 - Text Markup Continued: Establishing Consensus**
 
 Digital Text: How it works in practice in collaborative projects (part 3). How to decide what to tag and what not to tag. The role of the "schema" in formally defining (i.e., for a computer) a “document type” or “tag set” 
 
@@ -427,17 +486,17 @@ Digital Text: How it works in practice in collaborative projects (part 3). How t
 
     * David Birnbaum: Digital humanities course XSLT materials
 
-    * **[http://dh.obdurodon.org/#xslt](http://dh.obdurodon.org/#xslt)**
+    * **[http://dh.obdurodon.org/#xsl**t](http://dh.obdurodon.org/#xslt)
 
         * [http://dh.obdurodon.org/xslt-basics.xhtml](http://dh.obdurodon.org/xslt-basics.xhtml)
 
         * [http://dh.obdurodon.org/xslt-basics-2.xhtml](http://dh.obdurodon.org/xslt-basics-2.xhtml)
 
-**Week 10: March 29 - Transformations, Representations, and Interfaces to Digital Resources Part 1**
+**Week 10: ****March 29 - Transformations, Representations, and Interfaces to Digital Resources Part 1**
 
 Digital text: How it really works.
 
-**In class on March 29:**
+**In**** class on March 29:**
 
 * Review and troubleshooting of your marked-up folios
 
@@ -461,7 +520,7 @@ Digital text: How it really works.
 
 *NOTE: In lieu of a lab this week, TA Office Hours for troubleshooting*
 
-**Week 11: April 5 - Transformations, Representations, and Interfaces to Digital Resources Part 2**
+**Week 11: ****Apri****l 5**** - Transformations, Representations, and Interfaces to Digital Resources Part 2**
 
 Moving from preparation of digital textual data to "processing" and “application”, particularly “transformation” or “conversion” into appropriate formats for publishing in an online edition.
 
@@ -495,7 +554,7 @@ Moving from preparation of digital textual data to "processing" and “applicati
 
 * Continued: Transformation of XML - XSLT
 
-**Week 13: Apr 19**
+**Week 13: Apr ****19**
 
 * Students Working on Editions 
 
@@ -503,7 +562,7 @@ Moving from preparation of digital textual data to "processing" and “applicati
 
 * Presentation by Computer Graphics and User Interface Lab (Feiner and digital assistants)
 
-**Week 14: Apr 26 - Review and Conclusion**
+**Week 14: Apr 2****6 - Review and Conclusion**
 
 The Future of Digital Text (yikes!): preservation, sustainability, archiving 
 
@@ -517,10 +576,10 @@ The Future of Digital Text (yikes!): preservation, sustainability, archiving
 
 May 23-25: Working Group Meeting with invited scholars.  Attendance required, if at all possible.
 
-***
+* * *
 
 
-## <a name="integrity"></a>Statement on Academic Integrity
+**S****tatement on Academic Integrity**
 
 The intellectual venture in which we are all engaged requires of faculty and students alike the highest level of personal and academic integrity. As members of an academic community, each one of us bears the responsibility to participate in scholarly discourse and research in a manner characterized by intellectual honesty and scholarly integrity.
 
@@ -530,9 +589,7 @@ In practical terms, this means that, as students, you must be responsible for th
 
 Any breach of this intellectual responsibility is a breach of faith with the rest of our academic community. It undermines our shared intellectual culture, and it cannot be tolerated. Students failing to meet these responsibilities should anticipate being asked to leave Columbia.
 
-***
-
-## <a name="disability"></a>Disability-Related Accommodations
+**Disability-Related Accommodations**
 
 In order to receive disability-related academic accommodations, students must first be registered with Disability Services (DS). More information on the DS registration process is available online at [www.health.columbia.edu/ods](http://www.health.columbia.edu/ods). Faculty must be notified of registered students’ accommodations before exam or other accommodations will be provided. Students who have (or think they may have) a disability are invited to contact Disability Services for a confidential discussion at (212) 854-2388 (Voice/TTY) or by email at [disability@columbia.edu](mailto:disability@columbia.edu).
 
