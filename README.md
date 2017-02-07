@@ -15,7 +15,6 @@ Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Pro
 
 <b>INSTRUCTORS</b>: <b>Terry Catapano</b> (CU Libraries) and <b>Pamela Smith</b> (History), with guest lectures by <b>Steven Feiner</b> (Computer Science)
 </pre>
-
 **Course Instructors **
 
 Prof. Pamela Smith
@@ -138,7 +137,8 @@ Get to know your many collaborators in this class!
 
 * Assignment 1 (due Jan 25):
 
-    * Begin to familiarize yourself with your assigned folios from the[ course GitHub](https://github.com/cu-mkp/GR8975/tree/master/folio_files) and read through them. (You can also read in the pdfs we sent onWednesday, but also find them on the GitHub repository.)
+    * Begin to familiarize yourself with your assigned folios from the[ course GitHub](https://github.com/cu-mkp/GR8975/tree/master/folio_files) and read through them. (You can also read in the pdfs we sent on
+Wednesday, but also find them on the GitHub repository.)
 
     * Complete Digital Competencies Evaluation #1 and permission and contribution forms, and bring them to class.
 
@@ -146,7 +146,8 @@ Get to know your many collaborators in this class!
 
     * "User Story"[ https://en.wikipedia.org/wiki/User_story](https://en.wikipedia.org/wiki/User_story)
 
-    * G. Thomas Tanselle. *A Rationale of Textual Criticism* (Philadelphia:University of Pennsylvania Press, 1992). Available at Book Culture.
+    * G. Thomas Tanselle. *A Rationale of Textual Criticism* (Philadelphia:
+University of Pennsylvania Press, 1992). Available at Book Culture.
 
 **Lab 1: Jan 20 - workshop with Dennis Tenen**
 
