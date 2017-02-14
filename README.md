@@ -1,20 +1,3 @@
-# <a name="home">History GR8975</a>
-
-## What is a Book in the 21st Century?
-
-## Working with Historical Texts in a Digital Environment
-
-<pre>
-Spring 2017 
-
-Wednesdays, 4:10pm-6pm, Studio @ Butler
-
-Some Friday Labs, 2-4pm, Studio @ Butler
-
-Some shared sessions with the Experimental Methods Group (Fridays 3-5pm) and Professor Dennis Tenen’s class <i>GU4903: Critical Computing in the Humanities</i>
-
-<b>INSTRUCTORS</b>: <b>Terry Catapano</b> (CU Libraries) and <b>Pamela Smith</b> (History), with guest lectures by <b>Steven Feiner</b> (Computer Science)
-</pre>
 History GR8975
 
 **What is a Book in the 21st Century?**
@@ -267,7 +250,7 @@ How do we think about the social, intellectual, and physical infrastructure of p
 
 * Metadata: For 5 of your folios (r and v), create a metadata table, based on the [schema/template](https://docs.google.com/spreadsheets/d/11eA8NzPmS8fL4jUtjjzIP3wHBfcbYYsJJbA6xTCqJsA/edit#gid=0) we came up with in class.
 
-    * See this [sample](https://drive.google.com/open?id=1H8NLRIkKhsZOSPTaguAAH8wGy7uPPN5Ss1Owc8FMfSI) based on one of Tianna’s folios
+    * See this [sample](https://drive.google.com/open?id=1H8NLRIkKhsZOSPTaguAAH8wGy7uPPN5Ss1Owc8FMfSI) based on one of Tianna’s folios, and a [description ](https://github.com/cu-mkp/GR8975/blob/master/metadata_definitions.md)of the elements of the template
 
     * Remember, please read and use the [folios ](https://github.com/cu-mkp/GR8975/tree/master/folio_files)in GitHub. At the same time, have a look at the [manuscript pages](https://drive.google.com/open?id=0B42QaQPHLJloNnZhakpiVk9GRmM) in Google Drive, including looking at the HD images of your folios.
 
@@ -313,21 +296,29 @@ Representing a representation: How are images represented digitally? How are the
 
 **Homework assignment Feb 8:**
 
+* Add a few more items to your metadata table
+
+* Attempt to create a viewshare account, at viewshare.org
+
 * Assignment 4 (to be started during Lab 4 and due Feb 15):
 
-    * Prepare a Viewshare "view" with images presenting metadata from previous week
-
-    * Add photos from related annotations’ reconstruction experiments
+    * Using the [new metadata table](https://docs.google.com/spreadsheets/d/1ZjhCdnMyV96zeMasO5agRUP9JVa3tFitFIFHDrOs_e0/edit?usp=sharing), enter the data for your entries (see second sheet "Guide" for examples and descriptions of the fields)
 
     * Update your field notes
 
 * Reading (for Feb 15):
 
-    * Unix for poets
+    * Read [http://www.regular-expressions.info/quickstart.html](http://www.regular-expressions.info/quickstart.html)
+
+    * Re-read and re-do the exercises in Milligan and Baker: [Introduction to the Bash Command Line](http://programminghistorian.org/lessons/intro-to-bash)
+
+    * Take a look at  "Unix for Poets" [https://web.stanford.edu/class/cs124/lec/124-UnixForPoets.pdf](https://web.stanford.edu/class/cs124/lec/124-UnixForPoets.pdf), we will be doing the exercises together in class
+
+    * If you’re interested, here is a video on regular expressions: [https://www.youtube.com/watch?v=DRR9fOXkfRE](https://www.youtube.com/watch?v=DRR9fOXkfRE)
 
 **Lab 4: Feb 10 - Using metadata in Viewshare**
 
-* Review metadata table
+* Review metadata table - create a composite table
 
 * Create presentation metadata in Viewshare
 
@@ -394,6 +385,8 @@ The mess of digital reproduction: how to maintain control of content, issue, edi
 * Reading (for Mar 1):
 
     * Tenen, Dennis and Wythoff, Grant: [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+
+**Lab 6: Feb 24 - SPEAKER - STUDIO@BUTLER 2-3PM**
 
 **Week 7: March 1 - Text Markup: Introduction and Overview**
 
@@ -555,7 +548,7 @@ Moving from preparation of digital textual data to "processing" and “applicati
 
     * Update your field notes
 
-**Lab 7: Apr 7 - XSLT workshop**
+**Lab 7: Apr 7 - XSLT workshop - ****IN BUTLER 208**
 
 * Hands-on XSLT session
 
@@ -605,3 +598,4 @@ Any breach of this intellectual responsibility is a breach of faith with the res
 **Disability-Related Accommodations**
 
 In order to receive disability-related academic accommodations, students must first be registered with Disability Services (DS). More information on the DS registration process is available online at [www.health.columbia.edu/ods](http://www.health.columbia.edu/ods). Faculty must be notified of registered students’ accommodations before exam or other accommodations will be provided. Students who have (or think they may have) a disability are invited to contact Disability Services for a confidential discussion at (212) 854-2388 (Voice/TTY) or by email at [disability@columbia.edu](mailto:disability@columbia.edu).
+
