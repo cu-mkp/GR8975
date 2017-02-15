@@ -50,6 +50,19 @@ DaceyA@dnc.org |  MARSHALL@dnc.org;MirandaL@dnc.org;PaustenbachM@dnc.org | 2016-
 
 Structured as a table, the data becomes much more readily processed. The dataset may be sorted by any of the fields, filtered so only records with a field of a certain value (e.g., "DaceyA@dnc.org" as sender) are shown, etc...
 
+Data Formats
+===========
+
+Tabular data can be represented in variety of formats so that the same data can be exchanged between different systems and applications. A very common format is Comma Separated Values (CSV), in which each record is on its own line, and each field is separated by a comma. To allow for cases in which the value of a field may itself conatain a comma, double quotes are used to enclose the data values. The field labels occur on the first line, themselves separated by commas. For example:
+
+```
+"sender","recipient","date","subject"
+markpaustenbach@gmail.com","mirandal@dnc.org","2016-05-21 22:23","Bernie narrative"
+MARSHALL@dnc.org","MirandaL@dnc.org;PaustenbachM@dnc.org;DaceyA@dnc.org","2016-05-05 03:31","No shit"
+DaceyA@dnc.org"," MARSHALL@dnc.org;MirandaL@dnc.org;PaustenbachM@dnc.org","2016-05-05 12:23","Re: No shit"
+```
+
+
 Data Values
 ===========
 
