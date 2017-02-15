@@ -20,6 +20,7 @@ Media files such as mp3's and images often have embedded metadata describing the
 
 <a href="" target="_blank"><img src="assets/sea_sand_metadata.png"/></a>
 
+
 The Use and Value of Metadata
 =============================
 
@@ -38,7 +39,11 @@ In another vivid demonstration, the German magazine Die Zeit prepared a visualia
 Structured Data
 ===============
 
-From a technical perspective Data is "structured" information, prepared and optimized for computation in contrast to "unstructured" text. A useful structure for data is a "table" consisting of rows (or "records") and columns (or "fields"). Each record contains information about some object of interest; something to be analyzed, tracked, compared to other objects, etc... Each record contains "fields" which contain data describing some property of each object. Fields, in turn have "labels" (i.e. their name) "values". 
+From a technical perspective Data is "structured" information, prepared and optimized for computation in contrast to "unstructured" text. A useful structure for data is a "table" consisting of rows (or "records") and columns (or "fields"). Each record contains information about some object of interest; something to be analyzed, tracked, compared to other objects, etc... Each record contains "fields" which contain data describing some property of each object. Fields, in turn have "labels" (i.e. their name) "values". For example, a table of email metadata could look like this:
+
+
+sender | recipient | date | subject
+markpaustenbach@gmail.com | mirandal@dnc.org | 2016-05-21 22:23 | Bernie narrative
 
 
 
