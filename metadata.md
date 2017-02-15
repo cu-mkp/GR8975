@@ -55,7 +55,7 @@ Data Values
 
 Values of fields may contain multiple values. In the case above, the "recipient" field may contain multiple email addresses. To distinguish the distinct values, each is separated by a semi-colon. Other characters could have been used. Different applications using the tabular data will have different preferences for separating the values in so called "multi-valued fields". Semi-colons are a good bet because semicolons are a fairly uncommon character and unlikely to appear in the value itself (which would confuse a computer processing the table) and humans are used to seeing lists in which items are separated by semi-colons.
 
-
+The "date" field demonstrates another important feature of data values. Dates here are formatted in a very formal way, in the form of YYYY-MM-DD[space]HH:SS. This is an example of a controlled value. Structured consistently in this way, certain applications, like teh spreadsheet program Excel, can understand these data values as dates per se. Doing so, it could easily reformat the date to other representations (e.g,. MM-DD-YY) or even perform date arithmetic such as finding all the records with dates with 10 days of a given date.
 
 Footnotes
 =========
