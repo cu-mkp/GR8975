@@ -43,6 +43,7 @@ From a technical perspective Data is "structured" information, prepared and opti
 
 
 sender | recipient | date | subject
+------ | --------- | ---- | --------
 markpaustenbach@gmail.com | mirandal@dnc.org | 2016-05-21 22:23 | Bernie narrative
 
 
