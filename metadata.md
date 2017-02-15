@@ -45,6 +45,8 @@ From a technical perspective Data is "structured" information, prepared and opti
 sender | recipient | date | subject
 ------ | --------- | ---- | --------
 markpaustenbach@gmail.com | mirandal@dnc.org | 2016-05-21 22:23 | Bernie narrative
+MARSHALL@dnc.org | MirandaL@dnc.org;PaustenbachM@dnc.org;DaceyA@dnc.org | 2016-05-05 03:31 | No shit
+DaceyA@dnc.org |  MARSHALL@dnc.org;MirandaL@dnc.org;PaustenbachM@dnc.org | 2016-05-05 12:23 | Re: No shit
 
 
 
