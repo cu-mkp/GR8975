@@ -48,6 +48,12 @@ markpaustenbach@gmail.com | mirandal@dnc.org | 2016-05-21 22:23 | Bernie narrati
 MARSHALL@dnc.org | MirandaL@dnc.org;PaustenbachM@dnc.org;DaceyA@dnc.org | 2016-05-05 03:31 | No shit
 DaceyA@dnc.org |  MARSHALL@dnc.org;MirandaL@dnc.org;PaustenbachM@dnc.org | 2016-05-05 12:23 | Re: No shit
 
+Structured as a table, the data becomes much more readily processed. The dataset may be sorted by any of the fields, filtered so only records with a field of a certain value (e.g., "DaceyA@dnc.org" as sender) are shown, etc...
+
+Data Values
+===========
+
+Values of fields may contain multiple values. In the case above, the "recipient" field may contain multiple email addresses. To distinguish the distinct values, each is separated by a semi-colon. Other characters could have been used. Different applications using the tabular data will have different preferences for separating the values in so called "multi-valued fields". Semi-colons are a good bet because semicolons are a fairly uncommon character and unlikely to appear in the value itself (which would confuse a computer processing the table) and humans are used to seeing lists in which items are separated by semi-colons.
 
 
 
