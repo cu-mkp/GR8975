@@ -18,7 +18,7 @@ Subject: Bernie narrative
 Media files such as mp3's and images often have embedded metadata describing their contents. This helps us to organize and find the files which otherwise are not readily searchable. For example, an mp3 file viewed through iTunes "Get Info" function shows the following descriptive information:
 
 
-<a href="" target="_blank"><img src="sea_sand_metadata.png"/></a>
+<a href="" target="_blank"><img src="assets/sea_sand_metadata.png"/></a>
 
 The Use and Value of Metadata
 =============================
