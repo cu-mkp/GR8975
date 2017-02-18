@@ -20,7 +20,7 @@ It can be made quickly if you put very filings that are very neat and have been 
 
 ```
 
-The output could also be redirected to another file. To do this the symbol `>' is used with the name of the target file after; e.g.:
+The output could also be redirected to another file. To do this the symbol `>` is used with the name of the target file after; e.g.:
 
 ```
 $ cat tl_p161v.txt > /tmp/redirected_output.txt
@@ -38,7 +38,7 @@ It can be made quickly if you put very filings that are very neat and have been 
 
 Redirecting with `>` will create the target file if it does not exist, and will *overwrite* the file if it does. So be careful.
 
-Output may be *appended* (i.e., added to the very end) to a file using the symbol `>>`. Redirecting with `>>` will create the target file if it does not exist, but will *append* the output to the target file if it does.
+Output may be also *appended* (i.e., added to the very end) to a file using the symbol `>>`. Redirecting with `>>` will create the target file if it does not exist, but will *append* the output to the target file if it does.
 
 ```
 $ cat tl_p022r.txt >> /tmp/redirected_output.txt
