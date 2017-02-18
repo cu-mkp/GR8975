@@ -78,6 +78,30 @@ Note how the contents of tl_022r.txt have been appended to the file `/tmp/redire
 $ cd folio_files
 $ touch [your name]_all_folios.txt
 ```
+Then to create your "all_folios" file, by repeating this command for each of your foloio files:
+
+```
+$ cat [folio file] >> [your name]_all_folios.txt
+```
+
+Then add your "all folio file" to your git index
+
+```
+$ git add [your name]_all_folios.txt
+```
+
+then commit it (with a message) to your local git repository
+
+```
+$ git commit -m 'created all folios file' [your name]_all_folios.txt
+```
+
+then push it to the remote repository on Github
+
+```
+$ git push origin master
+```
+
 #### Redirection to Another Command ("piping")
 
 In addition to redirecting output to a file, you may also redirect to another command. This is called "piping". The string of connected pipes is called a "pipeline". The symbol "|" is used to redirect the output of one command to be the input to another. For example, in this pipeline a file is read by the `cat` command and its content is output to the pipe, which then sends it as input to the `wc` command, which counts the number of lines in the file and sends its output (a line count) to the terminal:
