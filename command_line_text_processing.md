@@ -78,13 +78,13 @@ Note how the contents of tl_022r.txt have been appended to the file `/tmp/redire
 $ cd folio_files
 $ touch [your name]_all_folios.txt
 ```
-Then to create your "all_folios" file, by repeating this command for each of your foloio files:
+Then to create your "all_folios" file, by repeating this command for each of your folio files:
 
 ```
 $ cat [folio file] >> [your name]_all_folios.txt
 ```
 
-Then add your "all folio file" to your git index
+Then add your "all folio file" to your local git repository
 
 ```
 $ git add [your name]_all_folios.txt
