@@ -80,7 +80,7 @@ $ touch [your name]_all_folios.txt
 ```
 #### Redirection to Another Command ("piping")
 
-In addition to redirecting output to a file, you may also redirect to another command. This is called "piping" and the string of connected pipes is called a "pipeline". The symbol "|" is used to redirect the output of one command to be the input to another. For example, in this pipeline the contents of a file is read by the `cat` command, then sent as input to the `wc` command which counts the number of lines in the file and sends its output (a line count) to the terminal:
+In addition to redirecting output to a file, you may also redirect to another command. This is called "piping". The string of connected pipes is called a "pipeline". The symbol "|" is used to redirect the output of one command to be the input to another. For example, in this pipeline a file is read by the `cat` command and its content is output to the pipe, which then sends it as input to the `wc` command, which counts the number of lines in the file and sends its output (a line count) to the terminal:
 
 ```
 $ cat tl_p161v.txt | wc -l
@@ -88,7 +88,7 @@ $ cat tl_p161v.txt | wc -l
 
 ```
 
-Note: To be complete, it should be noted that the contentns of a file may be directed as input to a command using the `<` symbol. For example:
+To be complete, it should be noted that the contents of a file may be directed as input to a command using the `<` symbol. For example:
 
 ```
 $ cat < tl_p161v.txt
@@ -102,7 +102,7 @@ It can be made quickly if you put very filings that are very neat and have been 
 
 ```
 
-Here the `cat` command receives it's input from a file through the `<` symbol. This is not necessary because `cat` takes the name of a file as input anyway. Some commands, notably `tr` (translate; a very important text processing command), do not take the name of a file to get its input, so the `<` operator is often needed.
+Here the `cat` command receives its input from a file through the `<` symbol. This is not necessary because `cat` takes the name of a file as input anyway. Some commands, notably `tr` (translate; a very important text processing command), do not take the name of a file to get its input, so the `<` operator is often needed.
 
 
 The ability to pipe commands together is key feature of the linux command line, giving the user the ability to manipulate and manage data extensively and efficiently.
