@@ -6,7 +6,7 @@ In the Linux command line files may be processed by a number of tools, called "c
 
 ### Redirection to a file
 
-The destination of the output by default is the command line itself (this is called "standard output"). However, the output may also "redirect" the output to somewhere else: to another file or to another command for further processing. For example the command `cat`takes a file as input and then simply sends the contents of the file to "standard output" (called STDOUT in tecnical speak); i.e., the command line terminal.
+The destination of the output by default is the command line itself. However, the output may also be "redirected" to somewhere else: to another file or to another command for further processing. For example the command `cat` takes a file as input and then simply sends the contents of the file to "standard output" (called STDOUT in technical speak) in this case, the command line terminal.
 
 ```
 $ cat tl_p161v.txt
