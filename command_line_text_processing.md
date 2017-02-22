@@ -270,3 +270,10 @@ $ grep -E -f birds.txt folio_files/*.txt
 ### Filtering and Transforming Text
 
 * `sed` - stream editor
+
+
+#### Resources
+
+1. RTFM! Read the man pages for any command. These are the most authoritative documentation on any command
+2. search on stackexchange.com: a knowledge base of community answered questions
+3. coomandlinefu.com 
