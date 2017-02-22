@@ -159,17 +159,39 @@ Using https://github.com/cu-mkp/GR8975/blob/master/entry-metadata.csv as input
 
 Using https://github.com/cu-mkp/GR8975/blob/master/entry-metadata.csv as input
 
-* get a case insensitive list of values of the tools field
-* get a list of values all lower-case with no punctuation
+* list of *all* values of tools field (i.e., including each item in semi-colon delimited list of values)
+
+```
+$ cut -d',' -f8 entry-metadata.csv | tr ';' '\n'
+```
+
+* sorted list of unique values of tools field
+
+```
+$ cut -d',' -f8 entry-metadata.csv | tr ';' '\n' | sort -u
+```
 
 Using one of your folio files (or your compiled folio file):
 
+```
+$ tr -sc 'A-Za-z' '\n' < folio_files/tl_p102v.txt | sort
+```
 *  get the 5 most frequently occurring words
+
+```
+$ tr -sc 'A-Za-z' '\n' < [folio file].txt | sort | uniq -c | sort -nr | head -5
+```
+
 
 ### n-grams
 
 * `tail` - read lines from end of file
 * `paste` - merge lines of a file
+
+```
+
+```
+
 
 ### Regular Expressions
 
