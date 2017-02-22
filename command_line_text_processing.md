@@ -247,9 +247,23 @@ $ grep 'chicken' folio_files/*.txt
 
 ```
  * find all words in a file ending in ''-ing'
+  * use `$` to "anchor" expression to end of line
 
 ```
 $ tr -sc 'A-Za-z' '\n' < folio_files/tl_p103v.txt | grep 'ing$'
+```
+
+* find all lines in folio files with the words in a list contained in a file
+ * use `-f` to indicate file containing patterns
+ * use `-E` "extended regular expression" option and provide a pipe delimited list of alternatives
+
+```
+$ grep -E -f birds.txt folio_files/*.txt
+
+```
+* get a list of all words in a file, removing common words ("stop words")
+
+```
 
 ```
 
