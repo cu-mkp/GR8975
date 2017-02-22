@@ -143,11 +143,26 @@ Using https://github.com/cu-mkp/GR8975/blob/master/entry-metadata.csv as input g
 
 * `sort` - sort lines
 * `uniq` - sort unique lines
+* `tr` - translate
 
 Using https://github.com/cu-mkp/GR8975/blob/master/entry-metadata.csv as input
 
-* get a list unique values
-* sorted by frequency
+* list of *all* values of tools field (i.e., including each item in semi-colon delimited list of values)
+ *  get the 8th field from each line
+ *  translate semicolons to new lines to separate out each value
+
+```
+$ cut -d',' -f8 entry-metadata.csv | tr ';' '\n'
+```
+
+* sorted list of unique values of tools field
+ * get the 8th field from each line
+ * translate semicolons to new lines to separate out each value
+ * sort unique values in list
+
+```
+$ cut -d',' -f8 entry-metadata.csv | tr ';' '\n' | sort -u
+```
 
 ## Working with Textual ("Unstructured") Data
 
@@ -157,45 +172,86 @@ Using https://github.com/cu-mkp/GR8975/blob/master/entry-metadata.csv as input
 * `wc`- word count
 * `head` - output lines from top of file
 
-Using https://github.com/cu-mkp/GR8975/blob/master/entry-metadata.csv as input
-
-* list of *all* values of tools field (i.e., including each item in semi-colon delimited list of values)
-
-```
-$ cut -d',' -f8 entry-metadata.csv | tr ';' '\n'
-```
-
-* sorted list of unique values of tools field
-
-```
-$ cut -d',' -f8 entry-metadata.csv | tr ';' '\n' | sort -u
-```
-
 Using one of your folio files (or your compiled folio file):
+
+* translate to newline ('\n') characters
+ *  the 'complement' (-c) of alphabetic characters (i.e., anything not an alphabetic character)
+ * while "squeezing" (-s) repeated "complement" characters
 
 ```
 $ tr -sc 'A-Za-z' '\n' < folio_files/tl_p102v.txt | sort
 ```
 *  get the 5 most frequently occurring words
 
+* do above, then
+ * sort the list of lines
+ * count unique lines in the sorted list
+ * sort the counts of unique lines numerically (-n) in reverse order (-r)
+ * print only first 5 lines
+
 ```
 $ tr -sc 'A-Za-z' '\n' < [folio file].txt | sort | uniq -c | sort -nr | head -5
 ```
 
+get sorted list of word frequencies normalized for case
+ *  translate to newline ('\n') characters
+  * the 'complement' (-c) of alphabetic characters (i.e., anything not an alphabetic character)
+  *  while "squeezing" (-s) repeated "complement" characters
+* translate upper case characters to lower case
+* sort the list of lines
+* count unique lines in the sorted list
+* sort the counts of unique lines numerically (-n) in reverse order (-r)
+
+```
+$ tr -sc 'A-Za-z' '\n' < folio_files/tl_p161v.txt | tr [:upper:] [:lower:] | sort | uniq -c | sort -nr
+```
 
 ### n-grams
 
 * `tail` - read lines from end of file
 * `paste` - merge lines of a file
 
-```
+get a list of all word pairs in a folio file
+* get a list of all words in the file
+* write to a file (e.g., "tl_p161v.txt.words")
+* get a list of all words in the file starting with the second word
+* write to file (e.g., "tl_p161v.txt.nextwords")
+* for each line in all words file "paste" matching line in "next words" file
+
 
 ```
+$ tr -sc 'A-Za-z' '\n' < folio_files/tl_p103v.txt > /tmp/tl_p161v.txt.words
+$ tail -n +2 /tmp/tl_p161v.txt.words > /tmp/tl_p161v.txt.nextwords
+$ paste /tmp/tl_p161v.txt.words /tmp/tl_p161v.txt.nextwords > /tmp/tl_p161v.txt.bigrams
 
+```
 
 ### Regular Expressions
 
+Rather than matching and manipulating exact strings (i.e., sequences of characters) in files, you can also find *patterns* of characters. The patterns can be defined using "regular expression" syntax.
+
+
 * `grep` - global regular expression print
+
+
+ * find lines in a file with the pattern 'chicken'
+
+```
+$ grep 'chicken' folio_files/tl_p103v.txt
+
+```
+ * find lines in any files with the pattern 'chicken'
+
+```
+$ grep 'chicken' folio_files/*.txt
+
+```
+ * find all words in a file ending in ''-ing'
+
+```
+$ tr -sc 'A-Za-z' '\n' < folio_files/tl_p103v.txt | grep 'ing$'
+
+```
 
 ### Filtering and Transforming Text
 
