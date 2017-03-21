@@ -19,13 +19,13 @@ position="left-bottom"
 url="https://drive.google.com/open?id=0B9-oNrvWdlO5MGtBY2MyYTNKTUE"/>
 
 
-<block position="left-bottom"><purpose type="making""advice">Because you have molded one of your halves with <material>plaster</material> and <material>wax</material>, you can do the same thing to the other half.</purpose></block>
+<block position="left-bottom"><purpose type="making" type="advice">Because you have molded one of your halves with <material>plaster</material> and <material>wax</material>, you can do the same thing to the other half.</purpose></block>
 
 
 <folio
 number="170r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image"/>
-<block>perfume and similar things. But be sure that the black wax with which you cast is hard, so it will come off rapidly when dry so you can see if it has been stamped correctly. It can be made harder by adding more <material>melted sulphur</material> in the melted wax, and a bit of <material>resin.</material></block>
+ <block><material>perfume</material> and similar things. But be sure that the <material>black wax</material> with which you cast is hard, so it will come off rapidly when dry so you can see if it has been stamped correctly. It can be made harder by adding more <material>melted sulphur</material> in the <material>melted wax</material>, and a bit of <material>resin.</material></block>
 </entry>
 
 
