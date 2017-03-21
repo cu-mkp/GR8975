@@ -5,7 +5,7 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image"/>
 
 <heading>Fly wings</heading>
 
-<block>So that they come out best, place wax sprues from the gate up to the tips of the wings. Also make sure there is enough wax under the belly, because that is what makes the cast succeed.</block>
+<block><purpose type="casting">So that they come out best, place <material>wax sprues</material> from the gate up to the tips of the <material>wings</material>. Also make sure there is enough <material>wax</material> under the <material position>belly</material>, because that is what makes the cast succeed.</purpose></block>
 
 <images
 number="fig_p165v_1"
