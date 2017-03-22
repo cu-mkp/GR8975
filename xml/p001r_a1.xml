@@ -3,12 +3,12 @@
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image"/>
 
 
-<list>
-  <block><item><personal_name>Nicolas Coste</personal_name>, in the <place>Rue de la Heaumerie</place>, at the sign of St Claude</place>/Mirrors</item></block>
+<ul>
+  <li><personal_name>Nicolas Coste</personal_name>, in the <place>Rue de la Heaumerie</place>, at the sign of St Claude</place>/Mirrors</li>
 
-<block><item><personal_name>Master Jehan Cousin</personal_name>, who resides in the <place>Faubourg St Germain</place>, knows about the master</item></block>
+<li><personal_name>Master Jehan Cousin</personal_name>, who resides in the <place>Faubourg St Germain</place>, knows about the master</li>
 
-<block><item><personal_name>Master Jehan Garnier</personal_name>, in the <place>Rue des Escrivains by St Jacques de la Boucherie</place>, <profession>currier</profession". Try <flora>woad flowers<flora></item></block>
+<li><personal_name>Master Jehan Garnier</personal_name>, in the <place>Rue des Escrivains by St Jacques de la Boucherie</place>, <profession>currier</profession". Try <flora>woad flowers<flora></ki>
 
-</list>
+</ul>
 </entry>
