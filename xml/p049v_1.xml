@@ -14,5 +14,5 @@
     The calandra lark should not be without river sand, and grey sand, a little rough, is the best. It rubs itself against it and
     purges itself [with it].</block>
   <block position="right-top"/>
-  <purpose="observation"/>
+  <purpose type="observation"/>
 </entry>
