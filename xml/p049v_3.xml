@@ -13,5 +13,5 @@
     in this country, they leave as turtledoves do. Siskins should also be caught after <time>All Saints' Day</time> and before
     <time>Christmas</time>, because afterwards they leave for the mountains to brood.</block>
   <block position="bottom"/>
-  <purpose="observation"/>
+  <purpose type="observation"/>
 </entry>
