@@ -1,0 +1,203 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT entry ((block|fig|heading|image|figure|folio|manuscript)+,
+                 (images|list|margin-block*))>
+<!ATTLIST entry
+  xmlns CDATA #FIXED ''
+  identifer NMTOKEN #IMPLIED
+  identifier NMTOKEN #IMPLIED>
+
+<!ELEMENT root (head,body)>
+<!ATTLIST root
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT figure EMPTY>
+<!ATTLIST figure
+  xmlns CDATA #FIXED ''
+  identifier NMTOKEN #REQUIRED
+  position NMTOKEN #REQUIRED
+  url CDATA #REQUIRED>
+
+<!ELEMENT folio (heading?,related-block?,block*)>
+<!ATTLIST folio
+  xmlns CDATA #FIXED ''
+  end NMTOKEN #IMPLIED
+  number NMTOKEN #IMPLIED
+  start NMTOKEN #IMPLIED
+  url CDATA #IMPLIED
+  url2 CDATA #IMPLIED>
+
+<!ELEMENT manuscript (#PCDATA)>
+<!ATTLIST manuscript
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT images EMPTY>
+<!ATTLIST images
+  xmlns CDATA #FIXED ''
+  number NMTOKEN #REQUIRED
+  position NMTOKEN #REQUIRED
+  url CDATA #REQUIRED>
+
+<!ELEMENT list (item)+>
+<!ATTLIST list
+  xmlns CDATA #FIXED ''
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT margin-block (#PCDATA|animal|fig|m|material|t|tool)*>
+<!ATTLIST margin-block
+  xmlns CDATA #FIXED ''
+  pisiton NMTOKEN #IMPLIED
+  position NMTOKEN #IMPLIED
+  purpose CDATA #IMPLIED>
+
+<!ELEMENT head (title)>
+<!ATTLIST head
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT body (p)+>
+<!ATTLIST body
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT related-block (block)+>
+<!ATTLIST related-block
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT heading (#PCDATA|activity|m)*>
+<!ATTLIST heading
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT block (#PCDATA|activity|animal|foreign_language|keyword|m
+                 |material|material_format|p|profession|ref|sub_recipe|t
+                 |tool|foreign|keyoword|keyowrd|pl|pro|purpose
+                 |subject_activity_keywords|sup|unit)*>
+<!ATTLIST block
+  xmlns CDATA #FIXED ''
+  position NMTOKEN #IMPLIED
+  purpose CDATA #IMPLIED>
+
+<!ELEMENT foreign (#PCDATA)>
+<!ATTLIST foreign
+  xmlns CDATA #FIXED ''
+  language NMTOKEN #REQUIRED>
+
+<!ELEMENT keyoword (#PCDATA)>
+<!ATTLIST keyoword
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT keyowrd (#PCDATA)>
+<!ATTLIST keyowrd
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT pl (#PCDATA)>
+<!ATTLIST pl
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT pro (#PCDATA)>
+<!ATTLIST pro
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT purpose (#PCDATA|material|material_format|profession|ref
+                   |sub_recipe|tool|embellishee|measurement)*>
+<!ATTLIST purpose
+  xmlns CDATA #FIXED ''
+  type NMTOKEN #REQUIRED>
+
+<!ELEMENT subject_activity_keywords EMPTY>
+<!ATTLIST subject_activity_keywords
+  xmlns CDATA #FIXED ''
+  type NMTOKEN #REQUIRED>
+
+<!ELEMENT sup (#PCDATA|m)*>
+<!ATTLIST sup
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT unit (#PCDATA)>
+<!ATTLIST unit
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT embellishee (#PCDATA|material)*>
+<!ATTLIST embellishee
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT measurement (#PCDATA)>
+<!ATTLIST measurement
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT fig EMPTY>
+<!ATTLIST fig
+  xmlns CDATA #FIXED ''
+  identifier NMTOKEN #REQUIRED
+  url CDATA #REQUIRED>
+
+<!ELEMENT image EMPTY>
+<!ATTLIST image
+  xmlns CDATA #FIXED ''
+  identifier NMTOKEN #IMPLIED
+  position NMTOKEN #IMPLIED
+  url CDATA #REQUIRED>
+
+<!ELEMENT t (#PCDATA)>
+<!ATTLIST t
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT material (#PCDATA|animal)*>
+<!ATTLIST material
+  xmlns CDATA #FIXED ''
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT animal (#PCDATA)>
+<!ATTLIST animal
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT m (#PCDATA)>
+<!ATTLIST m
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT tool (#PCDATA|material|tool)*>
+<!ATTLIST tool
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT p (#PCDATA|image)*>
+<!ATTLIST p
+  xmlns CDATA #FIXED ''
+  number CDATA #IMPLIED>
+
+<!ELEMENT activity (#PCDATA|activity|keyword|material)*>
+<!ATTLIST activity
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT profession (#PCDATA)>
+<!ATTLIST profession
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT sub_recipe (#PCDATA|foreign_language|material|tool)*>
+<!ATTLIST sub_recipe
+  xmlns CDATA #FIXED ''
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT material_format (#PCDATA|material)*>
+<!ATTLIST material_format
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ref (#PCDATA)>
+<!ATTLIST ref
+  xmlns CDATA #FIXED ''
+  identifier NMTOKEN #IMPLIED
+  type NMTOKEN #IMPLIED>
+
+<!ELEMENT keyword (#PCDATA)>
+<!ATTLIST keyword
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT foreign_language (material)>
+<!ATTLIST foreign_language
+  xmlns CDATA #FIXED ''
+  type NMTOKEN #REQUIRED>
