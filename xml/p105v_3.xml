@@ -9,7 +9,15 @@ See the 15th folio
 
 after this.
 </block>
-<block>
-In order to catch them, you must observe them in real life, the food that they favor and their mating season.  The nightingale, as long as he is singing, marks his own territory.  Therefore approach him by pretending to look for something on the ground.  Take some worms from old flour or from beneath what you are kneading or from mills, which nightingales love, and put some on your hat, fastened with a pin or in any other way, so that it can wiggle.  And five or six steps away from the hedge where it is singing, dig a hole, and place some worms in it, as well as your device made out of little criss-crossed sticks.  As soon as you leave it will be anxious to go and see what you have done.  And seeing worms it will enter.
+<block purpose="catching animals">
+In order to catch them, you must observe them in real life, the food that they favor and their mating season.  The <animal>nightingale</animal>, as long as he is singing, marks his own territory.  Therefore approach him by pretending to look for something on the ground.  Take some <animal>worms</animal> from <material>old flour</material> or from beneath what you are kneading or from mills, which <animal>nightingales</animal> love, and put some on your hat, fastened with a pin or in any other way, so that it can wiggle.  And five or six steps away from the hedge where it is singing, dig a hole, and place some worms in it, as well as your device made out of little criss-crossed sticks.  As soon as you leave it will be anxious to go and see what you have done.  And seeing <animal>worms</animal> it will enter.
 </block>
+
+<margin-block position="left-bottom" purpose="observation">
+Some people sell <animal>nightingales</animal> on trees.
+</margin-block>
+
+<margin-block position="left-bottom" purpose="catching animals">
+It is easier to catch <animal>nightingales</animal> in the cool of the morning or evening, near fountains or shaded areas.
+</margin-block>
 </entry>

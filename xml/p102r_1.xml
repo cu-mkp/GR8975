@@ -1,29 +1,29 @@
-<entry identifier="p102r_1">
+<entry identifier="p102r_1" group="Colchos">
 <folio
 number="102r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image"/>
 
 <heading>Provisions for the work of Colchos</heading>
 
-<list>
-7 limbecks of <material>glasse</material>
+<list purpose="making">
+<item>7 <unit><tool>limbecks</tool></unit> of <material>glasse</material></item>
 
-2 lbs. of <material>☿</material>
+<item>2 <unit>lbs.</unit> of <material>☿</material></item>
 
-One measure of coarse <material>salt</material>
+<item>One <unit>measure</unit> of <material>coarse salt</material></item>
 
-6 unleaded earthenware <tool>vessel</tool>
+<item>6 <tool>unleaded earthenware vessel</tool></item>
 
-2 large unleaded <tool>pots</tool> for calcinating
+<item>2 <tool>large unleaded pots</tool> for calcinating</item>
 
-2 <tool>alembics</tool> to distill vinegar
+<item>2 <tool>alembics</tool> to distill <material>vinegar</material></item>
 
-4 pots of good <material>vinegar</material>
+<item>4 <unit><tool>pots</tool></unit> of <material>good vinegar</material></item>
 
-3 or 4 <tool>lamps</tool>
+<item>3 or 4 <tool>lamps</tool></item>
 
-2 lbs. of <material>cotton</material>
+<item>2 <unit>lbs.</unit> of <material>cotton</material></item>
 
-One pair of <tool>scissors</tool>
+<item>One pair of <tool>scissors</tool></item>
 </list>
 </entry>
