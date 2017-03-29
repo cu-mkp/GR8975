@@ -1,10 +1,7 @@
 <entry identifier="p158v_3">
 <folio
-number="158v"/>
-
-<!---possible tagging alternative if we want the folio image to be displayed. This refers to Ben's user story discussed in class that was proposed by Ben that he wanted to see the facsimile and the digitized page adjacent to each other so that the reader could get access to both--->
-
-<manuscript>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image</manuscript>
+number="158v"
+image="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image"/>
 
 <heading>Candle smoke</heading>
 
