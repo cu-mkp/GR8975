@@ -13,6 +13,6 @@
       onto the paper lightly with a <tool>brush</tool>, and cast some <material>tallow</material> or <material>wax</material> or
       <material>sulphur</material> into it. And the paper, without burning, will give you a neat design that you can then mold in
       <material>plaster</material> or <material>tripoli</material> and then in <material>lead</material> and other metals.</block>
-    <block position="top">
-    <purpose="making">
+    <block position="top"/>
+    <purpose="making"/>
 </entry>
