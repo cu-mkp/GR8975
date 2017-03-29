@@ -4,13 +4,15 @@
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r=">
 
 
-<heading>To cast in sulfur</heading>
+<heading>To <activity>cast in <material>sulfur</material></activity></heading>
 
+<block purpose="making">
+To cast neatly in <material>sulfur</material>, arrange the pith of <keyword>bread</keyword> under the <tool>brazier</tool>, as you know. Mold whatever you want into it &amp; let it dry &amp; you will have very neat work.
+</block>
 
-To cast neatly in sulfur, arrange the pith of bread under the brazier, as you know. Mold whatever you want into it &amp; let it dry &amp; you will have very neat work.
-
-<block position="left-top">
-Try sulfur passed through melted wax, because it will no longer ignite &amp; and make eyelets.
+<block position="left-top"
+purpose="advice">
+Try <material>sulfur</material> passed through melted <material>wax</material>, because it will no longer ignite &amp; and make eyelets.
 </block>
 
 </folio>

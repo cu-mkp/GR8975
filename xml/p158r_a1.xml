@@ -9,4 +9,6 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f321.item.zoom"/>
 
 <block position="left-bottom"><purpose type="advice">Reheat your mold until it is good and red before casting, so that the ☿ evaporates well.</purpose></block>
 
+<!-- NR: I used purpose in a different way; I used it as a parameter for each block; wondering what you think about using "purpose" at the level of each block.. -->
+
 </entry>

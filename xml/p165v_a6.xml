@@ -7,6 +7,8 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image"/>
 
 <block><purpose type="casting">So that they come out best, place <material>wax sprues</material> from the gate up to the tips of the <material>wings</material>. Also make sure there is enough <material>wax</material> under the <material position>belly</material>, because that is what makes the cast succeed.</purpose></block>
 
+
+<!--NR: just to compare notes, I used "image" instead of "images" -->
 <images
 number="fig_p165v_1"
 position="left-middle"

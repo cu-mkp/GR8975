@@ -5,19 +5,23 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f217.image"/>
 
 <heading>Making gold run for casting</heading>
 
-<block>Because gold cools down very quickly, you have to give it a mixture when it is well melted that will keep the heat. Sublimate softens it nicely. But, since it vanishes into smoke, it won't aid you for very long. Therefore mix this mixture into it when you want to cast it: of sal ammoniac, the best verdigris that you can find, a bit of borax and some saltpeter. And this, held over the heat, will become neat. The saltpeter makes it clear and heats it. But the key thing in this mixture is the verdigris, which has to be good. This mixture softens your gold so much that it becomes as tractable as lead, even if it is good gold.</block>
+<block>Because <material>gold</material> cools down very quickly, you have to give it a mixture when it is well melted that will keep the heat. <material>Sublimate</material> softens it nicely. But, since it vanishes into <material>smoke</material>, it won't aid you for very long. Therefore mix this mixture into it when you want to cast it: of <material>sal ammoniac</material>, the best <material>verdigris</material> that you can find, a bit of <material>borax</material> and some <material>saltpeter</material>. And this, held over the heat, will become neat. The <material>saltpeter</material> makes it clear and heats it. But the key thing in this mixture is the <material>verdigris</material>, which has to be good. This mixture softens your <material>gold</material> so much that it becomes as tractable as <material>lead</material>, even if it is good <material>gold</material>.</block>
 
 <!-- Does everything that follows still belong to the 'Making gold run for casting' entry?-->
 
-<block>For sand for molding flowers and leaves &amp; other delicate things, mix in raw plaster, crushed brick and stone alum.</block>
+<block>For <material>sand</material> for molding <material>flowers</material> and <material>leaves</material> &amp; other delicate things, mix in <material>raw plaster</material>, <material>crushed brick</material> and <material>stone alum</material>.</block>
 
-<block>To moisten sand, spirits are excellent because it makes sand fine and leaves in a vapor when you reheat your box frame.</block>
+<block>To moisten <material>sand</material>, <material>spirits</material> are excellent because it makes <material>sand</material> fine and leaves in a vapor when you reheat your <tool>box frame</tool>.</block>
 
-<block>Dilute sal ammoniac is very good, is excellent for moistening sand, but for lots of water you only need a little bit of sal ammoniac.</block>
+<block><material>Dilute sal ammoniac</material> is very good, is excellent for moistening <material>sand</material>, but for lots of <material>water</material> you only need a little bit of <material>sal ammoniac</material>.</block>
 
-<block>A raw lump of metal, if you don't have crocum ferri, is good for gold.</block>
+<block>A raw lump of <material>metal</material>, if you don't have <material>crocum ferri</material>, is good for <material>gold</material>.</block>
 
-<block>The snakes and the lizards you wish to mold should not be kept for a long time, because if they are alive, they will waste away, and if they are dead, they will decay.</block>
+<block>The <animal>snakes</animal> and the <animal>lizards</animal> you wish to mold should not be kept for a long time, because if they are alive, they will waste away, and if they are dead, they will decay.</block>
 
-<block>Plaster of Paris is as hard as stone and very good. When you want to choose some for your sand, take the rawest and the hardest that is possible for you &amp; that does not make any powder. Transparent [plaster] and that which makes powder in giving way is that which is not good for this work. A sign of that which is near perfect is that it is hard &amp; makes shining grains that look almost like sugar. Finally, to mix it into the sand to cast gold, it has to be put in the fire twice, &amp; reheated twice.</block>
+<block><material>Plaster of Paris</material> is as hard as <material>stone</material> and very good. When you want to choose some for your <material>sand</material>, take the rawest and the hardest that is possible for you &amp; that does not make any powder. Transparent <material>[plaster]</material> and that which makes powder in giving way is that which is not good for this work. A sign of that which is near perfect is that it is hard &amp; makes shining grains that look almost like <material>sugar</material>. Finally, to mix it into the <material>sand</material> to cast <material>gold</material>, it has to be put in the fire twice, &amp; reheated twice.</block>
+
+<margin-block position="left-top" purpose="making">
+When <material>gold</material> is really pure, it is so dry that it can just barely endure a <tool>hammer</tool>. But this mixture softens it like <material>lead</material>.
+</margin-block>
 </entry>
