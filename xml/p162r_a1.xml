@@ -5,6 +5,8 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r="/>
 
 <heading>For La Boutique</heading>
 
+<!--NR: should "person" be defined as a parameter-value or parameter?; likewise with people...  -->
+
 <block>According to <name person>Herodotus</name> <name people="people">the Portuguese</name> did not invent [deep sea] navigation as they put about. At the beginning of the first book entitled <name book>Clio</name>, he says that the <name people>Phoenicians</name> used to come navigating straight across from the <name place>Red Sea</name> to the <name place>Greek coast</name>, mainly to <name place>Argos</name>, where they would bring merchandise from <name place>Egypt</name> and <name place>Assyria</name>, which they usually sold out within 6 days.</block>
 
 <heading position="left-top">Navigation, commerce</heading>

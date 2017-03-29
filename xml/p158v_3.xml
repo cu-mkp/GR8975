@@ -2,8 +2,11 @@
 <folio
 number="158v"/>
 
-<!---possible tagging alternative if we want the folio image to be displayed. This refers to Ben's user story discussed in class that was proposed by Ben that he wanted to see the facsimile and the digitized page adjacent to each other so that the reader could get access to both--->
+<!--
+SC: possible tagging alternative if we want the folio image to be displayed. This refers to Ben's user story discussed in class that was proposed by Ben that he wanted to see the facsimile and the digitized page adjacent to each other so that the reader could get access to both
 
+NR: having such a framework for a short entry is fine, but for entires that span multiple folios not sure how the above can be achieved...
+-->
 <manuscript>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image</manuscript>
 
 <heading>Candle smoke</heading>
