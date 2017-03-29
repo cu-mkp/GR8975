@@ -12,5 +12,5 @@
     and continually tap on the stick that holds it. And thus your lead will turn into round grains. And pass it through a large
     sieve to separate the larger grain from the smaller. The larger one will carry 25 to 30 paces.</block>
   <block position="middle"/>
-  <purpose="application"/>
+  <purpose type="application"/>
 </entry>
