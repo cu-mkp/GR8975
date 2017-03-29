@@ -1,5 +1,6 @@
 <entry identifier="p080v_mb2">
-<folio number="080v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image"/>
+<folio number="080v"
+  url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image"/>
 <margin-block pisiton="left-top">
 Try to carve with <m>distilled vinegar</m>.
 </margin-block>
