@@ -17,5 +17,5 @@
     the bottom of a deep well. Because in the winter the water in the tub would be too cold if your cellar is not warm enough, because
     the water needs to be like river water.</block>
     <block position="top"/>
-    <purpose="application"/>
+    <purpose type="application"/>
 </entry>
