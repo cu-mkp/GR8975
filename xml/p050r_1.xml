@@ -6,7 +6,7 @@
 
     <heading>Preserving fruit for the entire year</heading>
 
-    <block>Take a rounded <tool>glass phial</tool>, with a large enough opening to receive cherries and plums and whatever fruit you want.
+    <block position="top">Take a rounded <tool>glass phial</tool>, with a large enough opening to receive cherries and plums and whatever fruit you want.
     Put in some hot <material>water</material> and leave it for two hours, and once your water is cold, throw it out and turn the phial upside
     down onto its opening on a perfectly even table and in a room where there is not a bit of draft or wind. Then prepare a stopper of fresh wax,
     wrapped in oilcloth, and adapt it precisely to the glass phial so that it will be ready to stop it once you have put in the fruit. And once
@@ -16,6 +16,5 @@
     water, in a cellar, during the summer, and in the winter put your bottles into a basket filled with some weights and lower it to
     the bottom of a deep well. Because in the winter the water in the tub would be too cold if your cellar is not warm enough, because
     the water needs to be like river water.</block>
-    <block position="top"/>
-    <purpose type="application"/>
+  <purpose type="application"/>
 </entry>
