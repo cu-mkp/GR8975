@@ -3,12 +3,12 @@
   url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image"/>
 
 
-<heading><m>Tin</m> for casting</heading>
+<heading><material>Tin</material> for casting</heading>
 
-<block>They use common <m>tin</m>, which is the one that <pro>pewterers</pro> use for plates, which is composed of 9 or ten pounds of pure <m>lead</m> on one quintall of <m>tin</m>.</block>
+<block>They use common <material>tin</material>, which is the one that <profession>pewterers</profession> use for plates, which is composed of 9 or ten pounds of pure <material>lead</material> on one quintall of <material>tin</material>.</block>
 
-<margin-block position="left-bottom">
-Some find that there is nothing better than pure <m>tin</m>.
-</margin-block>
+<block position="left-bottom">
+Some find that there is nothing better than pure <material>tin</material>.
+</block>
 
 </entry>
