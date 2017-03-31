@@ -11,7 +11,7 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image">
 </block>
 
 <!-- apart from having marginalia as related blocks we also have related folios when the body of one entry moves to the next folio as below;
-When we use <realted-block> across folios it disrupts the positionality of marginalia -- if they lose their position, especially at the top of the page, where would they be placed in the consolidated entry? I am assuming that we are trying to have a continous entry without pagebreaks
+When we use <realted-block> across folios it disrupts the positionality of marginalia if they lose their position, especially at the top of the page, where would they be placed in the consolidated entry? I am assuming that we are trying to have a continous entry without pagebreaks
 
 -->
 
