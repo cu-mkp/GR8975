@@ -4,11 +4,10 @@
   url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f106.image"/>
 
 
-    <block><material>Steel</material> is applied to tools not on both sides, but underneath the part where one sharpens and whets
+    <block position="left-bottom"><material>Steel</material> is applied to tools not on both sides, but underneath the part where one sharpens and whets
     them, and this part must be made of very soft <material>iron</material>.</block>
-    <block position="left-bottom">
+  
 
-    <block><people>Levantines</people> refine our own steel because their country provides them with none, and they reheat it in
+    <block position="left-bottom"><people>Levantines</people> refine our own steel because their country provides them with none, and they reheat it in
     a <tool>pot</tool> with <material>bitumen</material> etc.</block>
-  <block position="left-bottom"/>
 </entry>
