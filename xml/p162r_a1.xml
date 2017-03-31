@@ -7,12 +7,11 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r="/>
 
 <block>According to <name type="person">Herodotus</name> <name type="people">the Portuguese</name> did not invent [deep sea] navigation as they put about. At the beginning of the first book entitled <name type="book">Clio</name>, he says that the <name type="people">Phoenicians</name> used to come navigating straight across from the <name type="place">Red Sea</name> to the <name type="place">Greek coast</name>, mainly to <name type="place">Argos</name>, where they would bring merchandise from <name type="place">Egypt</name> and <name type="place">Assyria</name>, which they usually sold out within 6 days.</block>
 
-<block>According to <name person>Herodotus</name> <name people="people">the Portuguese</name> did not invent [deep sea] navigation as they put about. At the beginning of the first book entitled <name book>Clio</name>, he says that the <name people>Phoenicians</name> used to come navigating straight across from the <name place>Red Sea</name> to the <name place>Greek coast</name>, mainly to <name place>Argos</name>, where they would bring merchandise from <name place>Egypt</name> and <name place>Assyria</name>, which they usually sold out within 6 days.</block>
->>>>>>> 708b6ac114591800be0eda6e74effea34d0a6b7a
+<block>According to <name type="person">Herodotus</name> <name type="people">the Portuguese</name> did not invent [deep sea] navigation as they put about. At the beginning of the first book entitled <name type="book">Clio</name>, he says that the <name type="people">Phoenicians</name> used to come navigating straight across from the <name type="place">Red Sea</name> to the <name type="place">Greek coast</name>, mainly to <name type="place">Argos</name>, where they would bring merchandise from <name type="place">Egypt</name> and <name type="place">Assyria</name>, which they usually sold out within 6 days.</block>
 
 <heading position="left-top">Navigation, commerce</heading>
 
-<block><name type="person">Herodotus,</name> <name type="book">page 1 of Clio</name>, says that the <name type="people">Greeks</name> traveled in a long ship to the <name type="place">coast of Colchis</name> and to the <name type="place">River Phasis</name>, where they carried off <name term="person">Medea</name>.</block>
+<block><name type="person">Herodotus,</name> <name type="book">page 1 of Clio</name>, says that the <name type="people">Greeks</name> traveled in a long ship to the <name type="place">coast of Colchis</name> and to the <name type="place">River Phasis</name>, where they carried off <name type="person">Medea</name>.</block>
 
 <heading position="left-top">Galleys.</heading>
 
