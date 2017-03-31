@@ -1,5 +1,9 @@
 _site
+<<<<<<< Updated upstream
 .sass-cache
 [Tt]humbs.db
 *.DS_Store
 *.xpr
+=======
+.sass-cache
+>>>>>>> Stashed changes
