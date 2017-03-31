@@ -6,13 +6,12 @@
 
     <heading>Molding</heading>
 
-      <block>If you want to quickly mold in demi-relief anything you come upon, fold some <material>paper</material> five or six times over,
-      and place it on the <material>medal</material> and make sure the paper is folded around the edges of the medal so it is very secure.
-      Next take a <material>stick</material>, broad at one end and with a well-dulled point at the other, and rub firmly on the paper, and
-      retrace the lines with the point of the stick until you reckon that your impression is well done. Then, at your convenience, rub oil
-      onto the paper lightly with a <tool>brush</tool>, and cast some <material>tallow</material> or <material>wax</material> or
-      <material>sulphur</material> into it. And the paper, without burning, will give you a neat design that you can then mold in
-      <material>plaster</material> or <material>tripoli</material> and then in <material>lead</material> and other metals.</block>
-    <block position="top"/>
-    <purpose type="making"/>
+    <block position="top">If you want to quickly mold in demi-relief anything you come upon, fold some <material>paper</material> five or six times over,
+    and place it on the <material>medal</material> and make sure the paper is folded around the edges of the medal so it is very secure.
+    Next take a <material>stick</material>, broad at one end and with a well-dulled point at the other, and rub firmly on the paper, and
+    retrace the lines with the point of the stick until you reckon that your impression is well done. Then, at your convenience, rub oil
+    onto the paper lightly with a <tool>brush</tool>, and cast some <material>tallow</material> or <material>wax</material> or
+    <material>sulphur</material> into it. And the paper, without burning, will give you a neat design that you can then mold in
+    <material>plaster</material> or <material>tripoli</material> and then in <material>lead</material> and other metals.</block>
+  <purpose type="making"/>
 </entry>
