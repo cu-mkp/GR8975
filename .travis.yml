@@ -5,4 +5,4 @@ addons:
 language: python
 python: 
   - "3.6" 
-script: "xmllint --xinclude --noout --dtdvalid schema/testentry.dtd"
+script: "xmllint --xinclude --noout --dtdvalid schema/testentry.dtd xml/*.xml"
