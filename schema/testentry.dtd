@@ -9,16 +9,8 @@
 
 <!ELEMENT entry_group (folio,(block|heading)+)>
 <!ATTLIST entry_group
-  xmlns CDATA #FIXED ''
   identifier NMTOKEN #REQUIRED>
-<!--
-<!ELEMENT images EMPTY>
-<!ATTLIST images
-  xmlns CDATA #FIXED ''
-  number NMTOKEN #REQUIRED
-  position NMTOKEN #REQUIRED
-  url CDATA #REQUIRED>
--->
+
 <!ELEMENT list (foreign|item+)>
 <!ATTLIST list
   xmlns CDATA #FIXED ''
@@ -36,9 +28,6 @@
   xmlns CDATA #FIXED ''>
 -->
 
-<!ELEMENT li (#PCDATA|place|profession|flora|personal_name)*>
-<!ATTLIST li
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT flora (#PCDATA)>
 <!ATTLIST flora
@@ -92,11 +81,11 @@
   start NMTOKEN #IMPLIED
   url CDATA #IMPLIED
   url2 CDATA #IMPLIED>
-
+<!--
 <!ELEMENT related-block (block+,folio?)>
 <!ATTLIST related-block
   xmlns CDATA #FIXED ''>
-
+-->
 <!ELEMENT block (#PCDATA|activity|animal|figure|foreign|foreign_language
                  |image|keyword|material|material_format|place
                  |profession|purpose|ref|sub_recipe|tool|unit|bird|color
@@ -115,18 +104,6 @@
 
 <!ELEMENT color (#PCDATA)>
 <!ATTLIST color
-  xmlns CDATA #FIXED ''>
-
-<!ELEMENT keyoword (#PCDATA)>
-<!ATTLIST keyoword
-  xmlns CDATA #FIXED ''>
-
-<!ELEMENT keyowrd (#PCDATA)>
-<!ATTLIST keyowrd
-  xmlns CDATA #FIXED ''>
-
-<!ELEMENT m (#PCDATA)>
-<!ATTLIST m
   xmlns CDATA #FIXED ''>
 
 <!ELEMENT name (#PCDATA)>
@@ -155,9 +132,6 @@
 <!ATTLIST time
   xmlns CDATA #FIXED ''>
 
-<!ELEMENT toolo (#PCDATA)>
-<!ATTLIST toolo
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT material (#PCDATA|animal)*>
 <!ATTLIST material
@@ -215,7 +189,3 @@
 <!ATTLIST unit
   xmlns CDATA #FIXED ''>
 
-<!ELEMENT foreign_language (material)>
-<!ATTLIST foreign_language
-  xmlns CDATA #FIXED ''
-  type NMTOKEN #REQUIRED>
