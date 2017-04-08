@@ -1,5 +1,5 @@
 <entry identifier="139v_1">
-    <folio number="139v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image">
+    <folio number="139v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image"/>
 
         <heading>
             <activity>Casting wax to mold an <keyword>animal that one has not
@@ -42,9 +42,9 @@
             affix to candles, it is necessary to cast them with <material>esbaucher wax</material>
             of all colors. </block>
 
-    </folio>
+ 
 
-    <folio number="140r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f285.image">
+    <folio number="140r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f285.image"/>
 
 
         <!-- in the block below there is a mention of preceeding recipes, how far back in terms of recipes does such a reference go; how do we reference these other recipes here? -->
@@ -91,9 +91,9 @@
             that they be even &amp; that the wax has more <material>silver</material> so that it can
             run all in one go without turning through the windings of the snake. </block>
 
-    </folio>
+   
 
-    <folio number="140v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r=">
+    <folio number="140v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r="/>
 
         <block purpose="making"> to engrave on <material>silver</material> &amp;
                 <material>copper</material> with <material>aqua fortis</material>. With this [wax]
@@ -104,5 +104,5 @@
 
         <block position="left-top"> Seals </block>
 
-    </folio>
+    
 </entry>
