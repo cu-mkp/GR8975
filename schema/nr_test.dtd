@@ -1,3 +1,5 @@
+
+<!--based on p142v_3.xml-->
 <?xml encoding="UTF-8"?>
 
 <!ELEMENT entry (folio,heading,block)>
