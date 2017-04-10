@@ -19,7 +19,7 @@
     <xsl:template match="material | tool">
 
         <xsl:value-of select="preceding::entry[1]/@identifier"/>
-        <xsl:text>|</xsl:text>
+        <xsl:text>,</xsl:text>
         <xsl:text>"</xsl:text>
         <xsl:value-of select="normalize-space(.)"/>
         <xsl:text>"</xsl:text>
