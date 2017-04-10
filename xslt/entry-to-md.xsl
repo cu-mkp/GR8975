@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" exclude-result-prefixes="#all">
     
     <xsl:output encoding="UTF-8" method="text"></xsl:output>
@@ -16,7 +16,7 @@
         <xsl:result-document method="text" encoding="utf-8"
             href="../_texts/{$sect_id}.md" omit-xml-declaration="yes">
             
-            <!-- SAT: YAML for Ed -->
+            <!-- YAML for Ed -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
             <xsl:value-of select="normalize-space(child::heading)"/>
@@ -50,7 +50,7 @@
     
     <xsl:template match="margin-block | block[@position]">
         <xsl:text>&#x0A;</xsl:text>
-        <xsl:text>*position::&#160;</xsl:text>
+        <xsl:text>*position:&#160;</xsl:text>
         <xsl:value-of select="@position"/>
         <xsl:text>*&#xa;&#xa;</xsl:text>
         <xsl:apply-templates/>
@@ -61,13 +61,16 @@
         <xsl:value-of select="replace(replace(replace(., '-', '—'), '\s+', ' '), '\+', '\\+')"></xsl:value-of>
     </xsl:template>
     
-    <!-- SAT: Crear el icono de la imagen y crear un enlace al folio correspondiente: -->
+    <!-- folio breaks and link to image -->
     <xsl:template match="folio">
-        <xsl:text>&lt;a href="</xsl:text>
+        <xsl:text>&lt;br/&gt;</xsl:text>
+        <xsl:text>- - - - -&lt;a href="</xsl:text>
         <xsl:value-of select="@url"></xsl:value-of>
         <xsl:text>"&gt;</xsl:text>
-        <xsl:text>&lt;img src="/assets/photo-icon.png" alt="Enlace al facsímil" style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
-        <xsl:text>&lt;/a&gt;</xsl:text>
+        <xsl:text>&lt;img src="assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
+        <xsl:value-of select="@number"/>
+        <xsl:text>&lt;/a&gt;- - - - -</xsl:text>
+        <xsl:text> &lt;br/&gt;</xsl:text>
     </xsl:template>
     
 </xsl:stylesheet>
