@@ -29,14 +29,14 @@
 -->
 
 
-<!ELEMENT flora (#PCDATA)>
-<!ATTLIST flora
+<!ELEMENT plant (#PCDATA)>
+<!ATTLIST plant
   xmlns CDATA #FIXED ''>
-
+<!--
 <!ELEMENT personal_name (#PCDATA)>
 <!ATTLIST personal_name
   xmlns CDATA #FIXED ''>
-
+-->
 <!ELEMENT figure EMPTY>
 <!ATTLIST figure
   xmlns CDATA #FIXED ''
@@ -87,9 +87,9 @@
   xmlns CDATA #FIXED ''>
 -->
 <!ELEMENT block (#PCDATA|activity|animal|figure|foreign
-                 |keyword|material|material_format|place
+                 |material|material_format|place|plant
                  |profession|purpose|ref|sub_recipe|tool|unit|color|name|people|q
-                 |subject_activity_keywords|sup|time)*>
+                 |sup|time)*>
 <!ATTLIST block
   xmlns CDATA #FIXED ''
   identifier NMTOKEN #IMPLIED
@@ -105,19 +105,14 @@
 <!ATTLIST name
   xmlns CDATA #FIXED ''
   type NMTOKEN #REQUIRED>
-
+<!--
 <!ELEMENT people (#PCDATA)>
 <!ATTLIST people
   xmlns CDATA #FIXED ''>
-
+-->
 <!ELEMENT q (foreign)>
 <!ATTLIST q
   xmlns CDATA #FIXED ''>
-
-<!ELEMENT subject_activity_keywords EMPTY>
-<!ATTLIST subject_activity_keywords
-  xmlns CDATA #FIXED ''
-  type NMTOKEN #REQUIRED>
 
 <!ELEMENT sup (#PCDATA|material)*>
 <!ATTLIST sup
@@ -175,11 +170,11 @@
   identifier NMTOKEN #REQUIRED
   position NMTOKEN #IMPLIED
   url CDATA #REQUIRED>
-
+<!--
 <!ELEMENT keyword (#PCDATA)>
 <!ATTLIST keyword
   xmlns CDATA #FIXED ''>
-
+-->
 <!ELEMENT unit (#PCDATA|tool)*>
 <!ATTLIST unit
   xmlns CDATA #FIXED ''>
