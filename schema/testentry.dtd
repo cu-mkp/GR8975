@@ -86,11 +86,10 @@
 <!ATTLIST related-block
   xmlns CDATA #FIXED ''>
 -->
-<!ELEMENT block (#PCDATA|activity|animal|figure|foreign|foreign_language
-                 |image|keyword|material|material_format|place
-                 |profession|purpose|ref|sub_recipe|tool|unit|bird|color
-                 |keyoword|keyowrd|m|name|people|q
-                 |subject_activity_keywords|sup|time|toolo)*>
+<!ELEMENT block (#PCDATA|activity|animal|figure|foreign
+                 |keyword|material|material_format|place
+                 |profession|purpose|ref|sub_recipe|tool|unit|bird|color|name|people|q
+                 |subject_activity_keywords|sup|time)*>
 <!ATTLIST block
   xmlns CDATA #FIXED ''
   identifier NMTOKEN #IMPLIED
