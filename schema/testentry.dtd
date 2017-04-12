@@ -34,18 +34,12 @@
   position NMTOKEN #IMPLIED>
 
 <!ELEMENT purpose (#PCDATA|activity|material|material_format|profession
-                   |ref|sub_recipe|tool|embellishee|measurement)*>
+                   |ref|sub_recipe|tool|unit)*>
 <!ATTLIST purpose
   xmlns CDATA #FIXED ''
   type NMTOKEN #REQUIRED>
 
-<!ELEMENT embellishee (#PCDATA|material)*>
-<!ATTLIST embellishee
-  xmlns CDATA #FIXED ''>
 
-<!ELEMENT measurement (#PCDATA)>
-<!ATTLIST measurement
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT profession (#PCDATA)>
 <!ATTLIST profession
@@ -55,15 +49,14 @@
 <!ATTLIST place
   xmlns CDATA #FIXED ''>
 
-<!ELEMENT folio (heading?,(block|image)*)>
+<!ELEMENT folio EMPTY>
 <!ATTLIST folio
   xmlns CDATA #FIXED ''
   end NMTOKEN #IMPLIED
   image CDATA #IMPLIED
   number NMTOKEN #IMPLIED
   start NMTOKEN #IMPLIED
-  url CDATA #IMPLIED
-  url2 CDATA #IMPLIED>
+  url CDATA #IMPLIED>
 
 <!ELEMENT block (#PCDATA|activity|animal|figure|foreign
                  |material|material_format|place|plant
