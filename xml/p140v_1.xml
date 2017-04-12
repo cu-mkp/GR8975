@@ -1,19 +1,17 @@
 <entry identifier="p140v_1">
 
-<folio number="140v"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r=">
+    <folio number="140v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r="/>
 
 
-<heading>To <activity>cast in <material>sulfur</material></activity></heading>
+        <heading>To cast in <material>sulfur</material></heading>
 
-<block purpose="making">
-To cast neatly in <material>sulfur</material>, arrange the pith of <keyword>bread</keyword> under the <tool>brazier</tool>, as you know. Mold whatever you want into it &amp; let it dry &amp; you will have very neat work.
-</block>
+        <block purpose="making"> To cast neatly in <material>sulfur</material>, arrange the pith of
+                <keyword>bread</keyword> under the <tool>brazier</tool>, as you know. Mold whatever
+            you want into it &amp; let it dry &amp; you will have very neat work. </block>
 
-<block position="left-top"
-purpose="advice">
-Try <material>sulfur</material> passed through melted <material>wax</material>, because it will no longer ignite &amp; and make eyelets.
-</block>
+        <block position="left-top" purpose="advice"> Try <material>sulfur</material> passed through
+            melted <material>wax</material>, because it will no longer ignite &amp; and make
+            eyelets. </block>
 
-</folio>
+    
 </entry>
