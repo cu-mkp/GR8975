@@ -88,7 +88,7 @@
 -->
 <!ELEMENT block (#PCDATA|activity|animal|figure|foreign
                  |keyword|material|material_format|place
-                 |profession|purpose|ref|sub_recipe|tool|unit|bird|color|name|people|q
+                 |profession|purpose|ref|sub_recipe|tool|unit|color|name|people|q
                  |subject_activity_keywords|sup|time)*>
 <!ATTLIST block
   xmlns CDATA #FIXED ''
@@ -96,10 +96,6 @@
   pisiton NMTOKEN #IMPLIED
   position NMTOKEN #IMPLIED
   purpose CDATA #IMPLIED>
-
-<!ELEMENT bird (#PCDATA)>
-<!ATTLIST bird
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT color (#PCDATA)>
 <!ATTLIST color
