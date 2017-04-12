@@ -133,7 +133,7 @@
   xmlns CDATA #FIXED ''>
 
 
-<!ELEMENT material (#PCDATA|animal)*>
+<!ELEMENT material (#PCDATA|animal | foreign)*>
 <!ATTLIST material
   xmlns CDATA #FIXED ''
   type NMTOKEN #IMPLIED>
@@ -169,7 +169,7 @@
   identifier NMTOKEN #IMPLIED
   type NMTOKEN #IMPLIED>
 
-<!ELEMENT sub_recipe (#PCDATA|foreign_language|material|tool)*>
+<!ELEMENT sub_recipe (#PCDATA|foreign|material|tool)*>
 <!ATTLIST sub_recipe
   xmlns CDATA #FIXED ''
   type NMTOKEN #IMPLIED>

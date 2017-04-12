@@ -1,16 +1,12 @@
-<entry
-  identifier="p007r_a3">
-  <folio
-  number="007r"
-  url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image"/>
+<entry identifier="p007r_a3">
+  <folio number="007r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image"/>
 
 
-  <heading>
-    Doublets
-  </heading>
+  <heading> Doublets </heading>
 
   <block>
-    <purpose type="observation"/>
-    Good <material>dragon's blood</material> soaked in <material>spirits</material> produces its own <material>mastic</material> or <material>glue</material>. So do <foreign_language type="french"><material>vert de vessie</material></foreign_language> and <material>saffron</material>.
-  </block>
+    <purpose type="observation"/> Good <material>dragon's blood</material> soaked in
+      <material>spirits</material> produces its own <material>mastic</material> or
+    <material>glue</material>. So do <material><foreign language="french">vert de
+        vessie</foreign></material> and <material>saffron</material>. </block>
 </entry>
