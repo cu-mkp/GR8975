@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<declarations>
+   <title>GR8975 Edition DTD</title>
+   <dtd relSysId="testentry.dtd"
+        systemId="file:///data/Github/GR8975/schema/testentry.dtd"/>
+   <elements>
+      <element name="block" dtdOrder="11">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="62"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|activity|animal|figure|foreign|material|material_format|place|plant|profession|purpose|ref|sub_recipe|tool|unit|color|name|q|sup|time)*"
+                        spaced="( #PCDATA | activity | animal | figure | foreign | material | material_format | place | plant | profession | purpose | ref | sub_recipe | tool | unit | color | name | q | sup | time )*">
+            <child>activity</child>
+            <child>animal</child>
+            <child>figure</child>
+            <child>foreign</child>
+            <child>material</child>
+            <child>material_format</child>
+            <child>place</child>
+            <child>plant</child>
+            <child>profession</child>
+            <child>purpose</child>
+            <child>ref</child>
+            <child>sub_recipe</child>
+            <child>tool</child>
+            <child>unit</child>
+            <child>color</child>
+            <child>name</child>
+            <child>q</child>
+            <child>sup</child>
+            <child>time</child>
+         </content-model>
+         <context>
+            <parent name="entry"/>
+         </context>
+      </element>
+      <element name="profession" dtdOrder="8">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="42"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="item" dtdOrder="21">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="110"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|material|tool|unit)*"
+                        spaced="( #PCDATA | material | tool | unit )*">
+            <child>material</child>
+            <child>tool</child>
+            <child>unit</child>
+         </content-model>
+         <context>
+            <parent name="foreign"/>
+            <parent name="list"/>
+         </context>
+      </element>
+      <element name="plant" dtdOrder="4">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="17"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+         </context>
+      </element>
+      <element name="animal" dtdOrder="18">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="97"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+            <parent name="material"/>
+         </context>
+      </element>
+      <element name="sub_recipe" dtdOrder="25">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="128"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|foreign|material|tool)*"
+                        spaced="( #PCDATA | foreign | material | tool )*">
+            <child>foreign</child>
+            <child>material</child>
+            <child>tool</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="activity" dtdOrder="22">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="114"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|activity|material)*"
+                        spaced="( #PCDATA | activity | material )*">
+            <child>activity</child>
+            <child>material</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="activity"/>
+            <parent name="heading"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="sup" dtdOrder="15">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="83"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|material)*"
+                        spaced="( #PCDATA | material )*">
+            <child>material</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+         </context>
+      </element>
+      <element name="foreign" dtdOrder="20">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="105"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|item)*"
+                        spaced="( #PCDATA | item )*">
+            <child>item</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="sub_recipe"/>
+            <parent name="q"/>
+            <parent name="list"/>
+            <parent name="material"/>
+         </context>
+      </element>
+      <element name="place" dtdOrder="9">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="46"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+         </context>
+      </element>
+      <element name="heading" dtdOrder="6">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="29"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|activity|material)*"
+                        spaced="( #PCDATA | activity | material )*">
+            <child>activity</child>
+            <child>material</child>
+         </content-model>
+         <context>
+            <parent name="entry_group"/>
+            <parent name="entry"/>
+         </context>
+      </element>
+      <element name="q" dtdOrder="14">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="79"/>
+         <content-model spec="element" minified="(foreign)" spaced="( foreign )">
+            <choice>
+               <child>foreign</child>
+            </choice>
+         </content-model>
+         <context>
+            <parent name="block"/>
+         </context>
+      </element>
+      <element name="material_format" dtdOrder="23">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="118"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|material)*"
+                        spaced="( #PCDATA | material )*">
+            <child>material</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="entry_group" dtdOrder="2" reachable="false">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="8"/>
+         <content-model spec="element"
+                        minified="(heading?,entry+)"
+                        spaced="( heading?, entry+ )">
+            <seq>
+               <child q="?">heading</child>
+               <child q="+">entry</child>
+            </seq>
+         </content-model>
+      </element>
+      <element name="ref" dtdOrder="24">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="122"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="image" dtdOrder="26" reachable="false">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="133"/>
+         <content-model spec="empty" minified="EMPTY" spaced="EMPTY"/>
+      </element>
+      <element name="list" dtdOrder="3">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="12"/>
+         <content-model spec="element"
+                        minified="(foreign|item+)"
+                        spaced="( foreign | item+ )">
+            <choice>
+               <child>foreign</child>
+               <child q="+">item</child>
+            </choice>
+         </content-model>
+         <context>
+            <parent name="entry"/>
+         </context>
+      </element>
+      <element name="tool" dtdOrder="19">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="101"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|material|tool)*"
+                        spaced="( #PCDATA | material | tool )*">
+            <child>material</child>
+            <child>tool</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="item"/>
+            <parent name="sub_recipe"/>
+            <parent name="tool"/>
+            <parent name="unit"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="entry" dtdOrder="1" root="true">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="1"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|block|figure|folio|heading|purpose|list)*"
+                        spaced="( #PCDATA | block | figure | folio | heading | purpose | list )*">
+            <child>block</child>
+            <child>figure</child>
+            <child>folio</child>
+            <child>heading</child>
+            <child>purpose</child>
+            <child>list</child>
+         </content-model>
+         <context>
+            <parent name="entry_group"/>
+         </context>
+      </element>
+      <element name="unit" dtdOrder="27">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="140"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|tool)*"
+                        spaced="( #PCDATA | tool )*">
+            <child>tool</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="item"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="name" dtdOrder="13">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="74"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+         </context>
+      </element>
+      <element name="color" dtdOrder="12">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="70"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+         </context>
+      </element>
+      <element name="purpose" dtdOrder="7">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="35"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|activity|material|material_format|profession|ref|sub_recipe|tool|unit)*"
+                        spaced="( #PCDATA | activity | material | material_format | profession | ref | sub_recipe | tool | unit )*">
+            <child>activity</child>
+            <child>material</child>
+            <child>material_format</child>
+            <child>profession</child>
+            <child>ref</child>
+            <child>sub_recipe</child>
+            <child>tool</child>
+            <child>unit</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="entry"/>
+         </context>
+      </element>
+      <element name="figure" dtdOrder="5">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="21"/>
+         <content-model spec="empty" minified="EMPTY" spaced="EMPTY"/>
+         <context>
+            <parent name="block"/>
+            <parent name="entry"/>
+         </context>
+      </element>
+      <element name="material" dtdOrder="17">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="92"/>
+         <content-model spec="mixed"
+                        minified="(#PCDATA|animal|foreign)*"
+                        spaced="( #PCDATA | animal | foreign )*">
+            <child>animal</child>
+            <child>foreign</child>
+         </content-model>
+         <context>
+            <parent name="block"/>
+            <parent name="item"/>
+            <parent name="sub_recipe"/>
+            <parent name="activity"/>
+            <parent name="sup"/>
+            <parent name="heading"/>
+            <parent name="material_format"/>
+            <parent name="tool"/>
+            <parent name="purpose"/>
+         </context>
+      </element>
+      <element name="folio" dtdOrder="10">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="50"/>
+         <content-model spec="empty" minified="EMPTY" spaced="EMPTY"/>
+         <context>
+            <parent name="entry"/>
+         </context>
+      </element>
+      <element name="time" dtdOrder="16">
+         <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                     lineNumber="87"/>
+         <content-model spec="text" minified="(#PCDATA)" spaced="( #PCDATA )"/>
+         <context>
+            <parent name="block"/>
+         </context>
+      </element>
+   </elements>
+   <attributes>
+      <attribute name="type">
+         <attributeDeclaration element="material" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="95"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="sub_recipe" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="131"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="purpose" type="NMTOKEN" mode="#REQUIRED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="38"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="name" type="NMTOKEN" mode="#REQUIRED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="77"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="ref" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="126"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="number">
+         <attributeDeclaration element="folio" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="55"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="figure" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="25"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="identifier">
+         <attributeDeclaration element="ref" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="125"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="image" type="NMTOKEN" mode="#REQUIRED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="136"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="entry_group" type="NMTOKEN" mode="#REQUIRED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="10"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="block" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="65"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="figure" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="24"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="entry" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="6"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="identifer">
+         <attributeDeclaration element="entry" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="5"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="url">
+         <attributeDeclaration element="image" type="CDATA" mode="#REQUIRED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="138"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="figure" type="CDATA" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="27"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="folio" type="CDATA" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="57"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="pisiton">
+         <attributeDeclaration element="block" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="66"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="language">
+         <attributeDeclaration element="foreign" type="NMTOKEN" mode="#REQUIRED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="108"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="group">
+         <attributeDeclaration element="entry" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="4"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="image">
+         <attributeDeclaration element="folio" type="CDATA" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="54"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="position">
+         <attributeDeclaration element="image" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="137"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="heading" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="32"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="figure" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="26"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="block" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="67"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="purpose">
+         <attributeDeclaration element="block" type="CDATA" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="68"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="list" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="15"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="xmlns">
+         <attributeDeclaration element="activity" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="116"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="block" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="64"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="tool" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="103"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="item" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="112"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="figure" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="23"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="name" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="76"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="place" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="48"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="folio" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="52"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="color" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="72"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="plant" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="19"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="sub_recipe" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="130"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="material_format"
+                               type="CDATA"
+                               defaultValue=""
+                               mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="120"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="entry" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="3"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="ref" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="124"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="sup" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="85"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="image" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="135"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="time" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="89"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="heading" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="31"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="foreign" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="107"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="animal" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="99"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="list" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="14"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="q" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="81"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="profession" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="44"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="material" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="94"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="unit" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="142"/>
+         </attributeDeclaration>
+         <attributeDeclaration element="purpose" type="CDATA" defaultValue="" mode="#FIXED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="37"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="end">
+         <attributeDeclaration element="folio" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="53"/>
+         </attributeDeclaration>
+      </attribute>
+      <attribute name="start">
+         <attributeDeclaration element="folio" type="NMTOKEN" mode="#IMPLIED">
+            <declaredIn systemId="file:///data/Github/GR8975/schema/testentry.dtd"
+                        lineNumber="56"/>
+         </attributeDeclaration>
+      </attribute>
+   </attributes>
+</declarations>
