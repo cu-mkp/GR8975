@@ -1,40 +1,28 @@
 
 # Element Definitions
 
-### activity
+### activity
 
-### animal
+### material
 
-### color
+### material_format
 
-### figure
+### name
 
-### foreign
+### place
 
-### material
+### purpose
 
-### material_format
+### q
 
-### name
+### ref
 
-### place
+### sub_recipe
 
-### plant
+### sup
 
-### profession
+### time
 
-### purpose
+### tool
 
-### q
-
-### ref
-
-### sub_recipe
-
-### sup
-
-### time
-
-### tool
-
-### unit
+### unit
