@@ -1,0 +1,43 @@
+<entry identifier="p005r_a1">
+    <folio number="005r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image"/>
+
+    <heading><material>Steel</material> mirrors</heading>
+
+    <block>
+        <activity type="casting"/>
+        <activity type="polishing"/>
+        <purpose type="observation">+ They are called <material>steel</material> mirrors because in
+            the past they were usually made of <material>steel</material> polished with
+                    <material_format><material>emery</material> paste</material_format>. But more
+            easily, various kinds are made of <material><foreign language="french">cuivre
+                    franc</foreign></material>, which is <material>rosette</material> and
+                <material>tin</material>, because these can be cast in a <tool>mold</tool> and made
+            round, hollow, convex or in whatever various shapes you want to represent.</purpose>
+    </block>
+    <block>
+        <purpose type="making">So take <unit>half</unit>
+            <material>rosette copper</material> and <unit>half</unit>
+            <material_format>soft <material>tin</material></material_format>, i.e. fine and yet
+            unused. Place them in a <tool>crucible</tool>, and first melt the
+                <material>copper</material>. Once it has been well melted, add the
+                <material>tin</material> and mix them together and cast that in a <tool>white stone
+                mold with no hole</tool>, and grease the <tool>mold</tool>, which should be
+            moderately warm, with <material>oil</material>. Then, once your mirror has been molded,
+            you can polish it in this manner.</purpose>
+    </block>
+    <block>
+        <purpose type="making">Set one mirror in <tool><material>plaster</material></tool> to hold
+            it firmly, then put the other one over it with <material_format>fine
+                    <material>sand</material></material_format> between them, and rub one against
+            the other, whether they are hollowed or flat, and thus you will polish both at once. If
+            you want to polish them on both sides, you only have to switch them, which means putting
+            the one that was polishing in the <tool><material>plaster</material></tool> and [using]
+            the one which was in the <tool><material>plaster</material></tool> to polish. Once they
+            have been polished with you can soften them with <material>tripoli of
+                    <place>Venice</place></material> that should not be sandy, and then with
+                <material>paste</material>. You use <material>water</material> with
+                    <material><foreign language="french">arene</foreign></material> to polish, but
+            polishing with <material>tripoli</material> and <material>paste</material> is done dry.
+            Once the mirror has been polished, you can set it.</purpose>
+    </block>
+</entry>

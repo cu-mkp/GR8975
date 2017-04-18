@@ -1,5 +1,3 @@
-<?xml encoding="UTF-8"?>
-
 <!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|list)*>
 <!ATTLIST entry
   xmlns CDATA #FIXED ''
@@ -7,7 +5,7 @@
   identifer NMTOKEN #IMPLIED
   identifier NMTOKEN #IMPLIED>
 
-<!ELEMENT entry_group (folio,(block|heading)+)>
+<!ELEMENT entry_group (heading?,entry+)>
 <!ATTLIST entry_group
   identifier NMTOKEN #REQUIRED>
 
@@ -16,27 +14,10 @@
   xmlns CDATA #FIXED ''
   purpose NMTOKEN #IMPLIED>
 
-<!--
-<!ELEMENT margin-block (#PCDATA|animal|material|tool)*>
-<!ATTLIST margin-block
-  xmlns CDATA #FIXED ''
-  position NMTOKEN #REQUIRED
-  purpose CDATA #IMPLIED>
-
-<!ELEMENT ul (li)+>
-<!ATTLIST ul
-  xmlns CDATA #FIXED ''>
--->
-
-
 <!ELEMENT plant (#PCDATA)>
 <!ATTLIST plant
   xmlns CDATA #FIXED ''>
-<!--
-<!ELEMENT personal_name (#PCDATA)>
-<!ATTLIST personal_name
-  xmlns CDATA #FIXED ''>
--->
+
 <!ELEMENT figure EMPTY>
 <!ATTLIST figure
   xmlns CDATA #FIXED ''
@@ -51,18 +32,12 @@
   position NMTOKEN #IMPLIED>
 
 <!ELEMENT purpose (#PCDATA|activity|material|material_format|profession
-                   |ref|sub_recipe|tool|embellishee|measurement)*>
+                   |ref|sub_recipe|tool|unit)*>
 <!ATTLIST purpose
   xmlns CDATA #FIXED ''
   type NMTOKEN #REQUIRED>
 
-<!ELEMENT embellishee (#PCDATA|material)*>
-<!ATTLIST embellishee
-  xmlns CDATA #FIXED ''>
 
-<!ELEMENT measurement (#PCDATA)>
-<!ATTLIST measurement
-  xmlns CDATA #FIXED ''>
 
 <!ELEMENT profession (#PCDATA)>
 <!ATTLIST profession
@@ -72,23 +47,18 @@
 <!ATTLIST place
   xmlns CDATA #FIXED ''>
 
-<!ELEMENT folio (heading?,(block|image|related-block)*)>
+<!ELEMENT folio EMPTY>
 <!ATTLIST folio
   xmlns CDATA #FIXED ''
   end NMTOKEN #IMPLIED
   image CDATA #IMPLIED
   number NMTOKEN #IMPLIED
   start NMTOKEN #IMPLIED
-  url CDATA #IMPLIED
-  url2 CDATA #IMPLIED>
-<!--
-<!ELEMENT related-block (block+,folio?)>
-<!ATTLIST related-block
-  xmlns CDATA #FIXED ''>
--->
+  url CDATA #IMPLIED>
+
 <!ELEMENT block (#PCDATA|activity|animal|figure|foreign
                  |material|material_format|place|plant
-                 |profession|purpose|ref|sub_recipe|tool|unit|color|name|people|q
+                 |profession|purpose|ref|sub_recipe|tool|unit|color|name|q
                  |sup|time)*>
 <!ATTLIST block
   xmlns CDATA #FIXED ''
@@ -105,11 +75,7 @@
 <!ATTLIST name
   xmlns CDATA #FIXED ''
   type NMTOKEN #REQUIRED>
-<!--
-<!ELEMENT people (#PCDATA)>
-<!ATTLIST people
-  xmlns CDATA #FIXED ''>
--->
+
 <!ELEMENT q (foreign)>
 <!ATTLIST q
   xmlns CDATA #FIXED ''>
@@ -145,7 +111,7 @@
 <!ATTLIST item
   xmlns CDATA #FIXED ''>
 
-<!ELEMENT activity (#PCDATA|activity|keyword|material)*>
+<!ELEMENT activity (#PCDATA|activity|material)*>
 <!ATTLIST activity
   xmlns CDATA #FIXED ''>
 
@@ -170,11 +136,7 @@
   identifier NMTOKEN #REQUIRED
   position NMTOKEN #IMPLIED
   url CDATA #REQUIRED>
-<!--
-<!ELEMENT keyword (#PCDATA)>
-<!ATTLIST keyword
-  xmlns CDATA #FIXED ''>
--->
+
 <!ELEMENT unit (#PCDATA|tool)*>
 <!ATTLIST unit
   xmlns CDATA #FIXED ''>

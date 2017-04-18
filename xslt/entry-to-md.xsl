@@ -64,12 +64,12 @@
     <!-- folio breaks and link to image -->
     <xsl:template match="folio">
         <xsl:text>&lt;br/&gt;</xsl:text>
-        <xsl:text>- - - - -&lt;a href="</xsl:text>
+        <xsl:text>- - - - - &lt;a href="</xsl:text>
         <xsl:value-of select="@url"></xsl:value-of>
         <xsl:text>"&gt;</xsl:text>
-        <xsl:text>&lt;img src="assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
+        <xsl:text>&lt;img src="/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"&gt;</xsl:text>
         <xsl:value-of select="@number"/>
-        <xsl:text>&lt;/a&gt;- - - - -</xsl:text>
+        <xsl:text>&lt;/a&gt; - - - - -</xsl:text>
         <xsl:text> &lt;br/&gt;</xsl:text>
     </xsl:template>
     
