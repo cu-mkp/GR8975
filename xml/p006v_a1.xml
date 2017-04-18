@@ -1,16 +1,18 @@
 <entry identifier="p006v_a1">
   <folio number="006v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image"/>
   <annotations>
-    <annotation url="https://docs.google.com/document/d/1hEo2AgxgnVOB8ArPqFRgTwDb_2t7wAood6JVk7J5nzM/edit?usp=sharing" title="&quot;For Cages&quot; and Glassmaking in Ms. Fr. 640: fol.6v"/>
+    <annotation
+      url="https://docs.google.com/document/d/1hEo2AgxgnVOB8ArPqFRgTwDb_2t7wAood6JVk7J5nzM/edit?usp=sharing"
+      title="&quot;For Cages&quot; and Glassmaking in Ms. Fr. 640: fol.6v"/>
   </annotations>
 
 
   <heading> For cages </heading>
 
   <block>
-    <subject_activity_keywords type="embellishing"/>
-    <subject_activity_keywords type="glasswork"/>
-    <purpose type="application">You can embellish <embellishee>them</embellishee> with thin
+    <activity type="embellishing"/>
+    <activity type="glasswork"/>
+    <purpose type="application">You can embellish them with thin
           <material_format><material>enamel</material> canes</material_format> of various colors by
       covering the <material>yellow latten</material> or <material_format><material>iron</material>
         wire</material_format> with said
@@ -28,11 +30,11 @@
       the end of the <material_format>cane</material_format>, so that it may be stretched without
       becoming blocked. The other end of the <material_format>cane</material_format> is held with
       the <tool>hand</tool>, as it is not hot. Once the <material_format>cane</material_format> is
-      stretched enough, the one who is working seated with his <tool>stove</tool>, <measurement>the
-        size of a carnation pot</measurement>, placed in front of him, breaks it off and carries on.
-      This is for making <material_format>cane</material_format> for capes, which may be cut, as
-      already mentioned, with a <tool>file</tool>. <profession>Glass-button makers</profession> also
-      use the said <tool>stove</tool>.</purpose>
+      stretched enough, the one who is working seated with his <tool>stove</tool>, <unit>the size of
+        a carnation pot</unit>, placed in front of him, breaks it off and carries on. This is for
+      making <material_format>cane</material_format> for capes, which may be cut, as already
+      mentioned, with a <tool>file</tool>. <profession>Glass-button makers</profession> also use the
+      said <tool>stove</tool>.</purpose>
   </block>
 
   <figure identifier="fig_p006v_1" position="middle-middle"

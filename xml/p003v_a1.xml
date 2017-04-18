@@ -1,0 +1,20 @@
+<entry identifier="p003v_a1">
+    <folio number="003v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f12.image"/>
+
+    <heading>To varnish</heading>
+    <block>
+        <activity type="varnish"/>
+        <purpose type="observation">
+            <material>Turpentine varnish</material> does not need any <material>glue</material>
+            since it is fat and viscous and does not penetrate the <material>wood</material> as
+                    <material_format><material>spike lavender</material> varnish</material_format>
+            and <material_format><material>sandarac</material> varnish</material_format> would.
+                    <material_format><material>Spike lavender</material> varnish</material_format>
+            does not require any <material>glue</material> on <material>iron</material> and similar
+            materials which cannot be permeated, but on <material>wood</material> and on
+                <material>colors</material> which do not contain <material>gum</material> or
+                    <material><foreign language="french">colle de détrempe</foreign></material>, it
+            is necessary to lay one coat of the said <material>glue <foreign language="french">colle
+                    de retailles</foreign></material> and allow to dry, then varnish. </purpose>
+    </block>
+</entry>
