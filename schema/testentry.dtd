@@ -56,7 +56,7 @@
 
 <!ELEMENT block (#PCDATA|activity|animal|figure|foreign
                  |material|material_format|place|plant
-                 |profession|purpose|ref|sub_recipe|tool|unit|color|name|q
+                 |profession|image|purpose|ref|sub_recipe|tool|unit|color|name|q
                  |sup|time)*>
 <!ATTLIST block
   xmlns CDATA #FIXED ''
