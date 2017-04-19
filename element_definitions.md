@@ -9,12 +9,12 @@ BNH: things like casting, metalworking---the realm of doing/making to which an e
 ### material
 THU: strictly surrounds a material (e.g., marble, iron, turpentine)
 JMW: physical materials, such as marble, iron, and turpentine (what one might term 'ingredients' if we were still usign the recipe formula)
-BNH: matter that is not a tool, without qualifiers
+BNH: matter that is not a tool, defined at its most basic level (i.e. without qualifiers)
 
 ### material_format
 THU: surrounds a material and describes its particular format (e.g., \<m_f>\<m>marble\</m> slab\</m_f>; iron wire; turpentine varnish)
 JMW: basically an adjective for a particular material (e.g. marble slab, iron wire), but I'm not sure this is necessary or useful
-BNH: the qualifiers that offer finer distinctions to materials
+BNH: the qualifiers that assign finer distinctions to materials
 
 ### name
 JMW: a personal name (e.g. Geoffrey Chaucer)
