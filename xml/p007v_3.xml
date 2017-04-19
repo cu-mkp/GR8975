@@ -1,0 +1,21 @@
+<entry identifier="p007v_3">
+    <folio number="007v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image"/>
+
+    <heading>To relieve the pain of g{out}</heading>
+
+    <block>
+        <activity type="medicine"/>
+        <purpose type="making"> Take <unit>half a pound</unit> of <material_format>finely powdered
+                golden and yellow <material>marcasite</material></material_format>, <unit>half an
+                ounce</unit> of <material>storax</material>, <unit>4 lb.</unit> of
+                <material>urine</material>, incorporate well together, little by little, in a
+                <tool>mortar</tool>, then boil all together quite strongly. But the <tool>pot</tool>
+            needs to be well <tool>cover</tool>ed so the smoke does not escape. Then distill the
+                <material_format>imbibed <material>urine</material></material_format>, separated by
+            inclination, in an <tool>alembic</tool>, well luted and covered with a
+                    <tool><material>copper</material> head</tool>.</purpose>
+        <purpose type="application">And soak a <tool>cloth</tool> with the <material>said
+                water</material><!-->this refers to the medicine, not water in any material sense-->
+            and apply it lukewarm on the pain.</purpose>
+    </block>
+</entry>

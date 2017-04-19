@@ -1,0 +1,15 @@
+<entry identifier="p008v_4">
+    <folio number="008v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image"/>
+
+    <heading><profession>Pewterers</profession>' mixture</heading>
+
+    <block>
+        <activity type="metalwork"/>
+        <purpose type="observation">Because they often mix in with the <material_format>pure
+                    <material>tin</material></material_format>
+            <unit>half</unit> the quantity of <material>lead</material>, which renders the
+                <material>tin</material> deaf. To correct this, they mix in some
+                    <material_format><material>latten</material> filings</material_format> to make
+            it resonant.</purpose>
+    </block>
+</entry>

@@ -1,0 +1,13 @@
+<entry identifier="p008r_1">
+    <folio number="008r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image"/>
+
+    <heading><material>Gold</material> lettering on <material>paper</material></heading>
+
+    <block>
+        <activity type="gilding"/>
+        <purpose type="making"> Write with <material>fig tree milk</material> then let it dry a
+            little, afterwards apply the <material_format><material>gold</material> in
+                leaf</material_format> and, once quite dry, rub with <tool>linen</tool> and only the
+            lettering will hold.</purpose>
+    </block>
+</entry>

@@ -1,0 +1,13 @@
+<entry identifier="p008v_1">
+    <folio number="008v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image"/>
+
+    <heading>To polish a ruby <foreign language="french"
+        >balay</foreign><!-- unclear if this is French or something else--></heading>
+
+    <block>
+        <activity type="polishing"/>
+        <purpose type="advice">Unlike others, you don't polish it with <material>tripoli</material>,
+            but with <material_format><material>marcasite</material> powder</material_format> and
+                <material>oil</material>.</purpose>
+    </block>
+</entry>
