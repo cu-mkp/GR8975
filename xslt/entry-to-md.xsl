@@ -89,10 +89,12 @@
     
     <xsl:template match="activity|animal|figure|foreign
         |material|material_format|place|plant
-        |profession|image|purpose|ref|sub_recipe|tool|unit|color|name|q
+        |profession|image|ref|sub_recipe|tool|unit|color|name|q
         |sup|time">
-        <span class="{local-name()}">
+        <xsl:text>&lt;span class="</xsl:text>
+        <xsl:value-of select="local-name()"/>
+        <xsl:text>"&gt;</xsl:text>
             <xsl:apply-templates/>
-        </span>
+        <xsl:text>&lt;/span&gt;</xsl:text>
     </xsl:template>
 </xsl:stylesheet>
