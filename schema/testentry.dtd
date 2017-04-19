@@ -87,7 +87,7 @@
   xmlns CDATA #FIXED ''>
 
 
-<!ELEMENT material (#PCDATA|animal | foreign)*>
+<!ELEMENT material (#PCDATA|animal | foreign | place)*>
 <!ATTLIST material
   xmlns CDATA #FIXED ''
   type NMTOKEN #IMPLIED>
