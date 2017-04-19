@@ -1,4 +1,4 @@
-<!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|list)*>
+<!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|list|annotations)*>
 <!ATTLIST entry
   xmlns CDATA #FIXED ''
   group NMTOKEN #IMPLIED
@@ -36,8 +36,6 @@
 <!ATTLIST purpose
   xmlns CDATA #FIXED ''
   type NMTOKEN #REQUIRED>
-
-
 
 <!ELEMENT profession (#PCDATA)>
 <!ATTLIST profession
@@ -113,7 +111,7 @@
 
 <!ELEMENT activity (#PCDATA|activity|material)*>
 <!ATTLIST activity
-  xmlns CDATA #FIXED ''>
+  type NMTOKEN #REQUIRED >
 
 <!ELEMENT material_format (#PCDATA|material)*>
 <!ATTLIST material_format
@@ -141,3 +139,10 @@
 <!ATTLIST unit
   xmlns CDATA #FIXED ''>
 
+<!ELEMENT annotations (annotation)+>
+<!ATTLIST annotations >
+
+<!ELEMENT annotation EMPTY>
+<!ATTLIST annotation
+  title CDATA #REQUIRED
+  url CDATA #REQUIRED >
