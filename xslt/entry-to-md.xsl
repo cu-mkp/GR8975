@@ -9,11 +9,14 @@
     </xsl:template>
     
     <!-- <xsl:strip-space elements="*"/>-->
-    <xsl:param name="materials">
-        <xsl:sequence select="distinct-values(normalize-space(//material))"/>
+    <xsl:param name="materials" >
+        <xsl:sequence select="//material/normalize-space(.)">
+        </xsl:sequence>
     </xsl:param>
+
     
     <xsl:template match="entry">
+        <xsl:message select="$materials"/>
         <xsl:variable name="sect_id" select="@identifier"/>
         <xsl:result-document method="text" encoding="utf-8"
             href="../_texts/{$sect_id}.md" omit-xml-declaration="yes">
@@ -30,7 +33,9 @@
             <xsl:text>editor: GR8975 Seminar Participants&#x0A;</xsl:text>
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
             <xsl:text>materials: </xsl:text>
-            <xsl:value-of select="$materials"/>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="replace($materials, ' ', ', ')"/>
+            <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>---&#x0A;&#x0A;</xsl:text>
             
@@ -72,10 +77,22 @@
         <xsl:text>- - - - - &lt;a href="</xsl:text>
         <xsl:value-of select="@url"></xsl:value-of>
         <xsl:text>"&gt;</xsl:text>
-        <xsl:text>&lt;img src="/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
+        <xsl:text>&lt;img src="../assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
         <xsl:value-of select="@number"/>
         <xsl:text>&lt;/a&gt; - - - - -</xsl:text>
         <xsl:text> &lt;br/&gt;</xsl:text>
     </xsl:template>
     
+    <xsl:template match="purpose">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="activity|animal|figure|foreign
+        |material|material_format|place|plant
+        |profession|image|purpose|ref|sub_recipe|tool|unit|color|name|q
+        |sup|time">
+        <span class="{local-name()}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 </xsl:stylesheet>
