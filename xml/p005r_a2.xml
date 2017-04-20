@@ -1,0 +1,39 @@
+<entry identifier="p005r_a2">
+    <folio number="005r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image"/>
+
+    <heading>Concave mirrors</heading>
+
+    <block>
+        <activity type="practical optics"/>
+        <purpose type="observation"/>A concave mirror shaped in the aforesaid form produces an
+        endless number of illusions which seem like magic. If one wants to see oneself from behind,
+        you have to place the concave mirror on the ground on its foot, at a slant, and then look at
+        it one step further. But if you look at it from a closer position, it shows you the right
+        way up but with the face quite large and the hairs of your beard as thick as </block>
+
+    <folio number="005v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f16.image"/>
+
+    <block>
+        <activity type="practical optics"/>
+        <purpose type="observation"/>a string and will reflect a nipple as large as a plate, and
+        women can see the secret places they do not want to show to surgeons. It projects the
+        reflection outwards, and if you touch with your finger the eye of the reflection, another
+        finger will come against yours.
+        <!--is there a block break here? PDF suggests as much; folio not really-->You will be able
+        to provide light at night for someone quite far away, if you set the concave mirror behind a
+        candle placed on a window sill. You will be able to read and write quite far from the candle
+        if you set it behind the candle and turn the concave face towards you. If you put the mirror
+        at the far end of a table with a candle on it, it will reflect two lights on the table for
+        you.
+        <!--is there anything worth encoding in the following observation? materials? tools?-->To
+        see what is happening in a street, shut the window, or the more you can shut the better,
+        make a hole in the bottom pane, the size of your little finger, perfectly round all the way
+        through. Then apply a sheet of paper onto the window and let the middle of the sheet be over
+        the hole. Pierce the sheet in the same place as the hole and of the same size. Then turn the
+        concave face of the mirror towards the hole, and anyone passing by in the street will be
+        reflected on the sheet of paper. Do the same with the pierced door of a closed room. You can
+        make wavy mirrors and triangular ones, such as are described by <name type="personal">Ptolemy</name> and
+            <name type="personal">Archimedes</name>. The concave sort can also set fire to
+            <material>straw</material> or light a candle from afar, using the <tool>sun</tool>. By
+        reverberating fire too, it can provide warmth. </block>
+</entry>

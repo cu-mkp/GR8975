@@ -1,0 +1,28 @@
+<entry identifier="p009r_1">
+    <folio number="009r" url="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f22.item"/>
+
+    <heading>
+        <profession>Plowman</profession>
+    </heading>
+
+    <block>
+        <activity type="agriculture"/>
+        <purpose type="observation">Since <material><plant>millet</plant></material> is naturally
+            very dry, <profession>harvesters</profession> thresh it most often in the cool of
+                <time>night</time> and in moonlight. Which could not be done with another, wetter,
+            grain, because you must let the <tool>sunbeams</tool> pass over it, and one rarely
+            threshes it before <time>midday</time>. Immediately after the
+                    <material><plant>millet</plant></material> is harvested, the earth needs to be
+            plowed because its roots eat and make lean the soil as much as if the
+                    <material><plant>millet</plant></material> was still standing. The ground where
+                    <material><plant>millet</plant></material> will have been sown becomes quite
+            diminished in fertility, which you can tell next time it is sown. But more than any
+            other the grain called <material><plant><foreign language="french"
+                    >pomole</foreign></plant></material> in <place>Gasconyor</place> or
+                        <material><plant><foreign language="french"
+                >baillard</foreign></plant></material> in northern <place>France</place>, makes the
+            earth shake, according to the common saying, seven years later. <plant>Broad
+                beans</plant> improve and enrich the soil, provided that one lets the roots and
+            stems rot in it.</purpose>
+    </block>
+</entry>

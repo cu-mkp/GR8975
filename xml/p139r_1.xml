@@ -1,11 +1,11 @@
 <entry identifier="p139r_1">
     <folio number="139r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image"/>
 
-    <heading><activity>Casting</activity> with lead and tin</heading>
+    <heading>Casting with lead and tin</heading>
 
     <!-- <related-block>  -->
     <block purpose="making">
-        <activity> The way I have done it <!-- casting --> for lizards and serpents is with two ℥ of
+        <activity type="casting"> The way I have done it <!-- casting --> for lizards and serpents is with two ℥ of
             pure <material>tin</material> for one lb. of unrefined <material>lead</material> that is
             impure.</activity> The mold is made out of the aforementioned sand, common for all
         metals, when it is reheated, leave it to cool until you can put your finger in it without

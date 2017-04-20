@@ -1,0 +1,30 @@
+<entry identifier="p004v_a3">
+    <folio number="004v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image"/>
+    
+    <heading><profession>Iron engravers</profession>' varnish</heading>
+    
+    <block>
+        <activity type="varnish"/>
+        <activity type="engraving"/>
+        <purpose type="making">Take <material>linseed oil</material> or <material>walnut
+                oil</material> and instead of <material>black pitch</material> you will add some
+                    <material_format><material>pine</material> resin</material_format> and you must
+            cook it like black varnish on <tool>fire</tool>.</purpose>
+        <purpose type="application">And to apply it, heat your
+            <material>iron</material><!--technically, the iron is not a material in a recipe but a thing to be etched-->
+            and apply just one layer of varnish, and when it no longer smokes, it is dry. Then
+            engrave with a <tool>steel point</tool> whatever you want. Then take some
+                <material>salt</material> and <material>verdigris</material> and soak it with
+                <unit>as much of one as of the other</unit> in <material_format>very strong
+                    <material>vinegar</material></material_format>, and leave it for <time>XX4
+                hours</time> before using it, and the whole will be soaked. Then spread this liqueur
+            or sauce on the engraved object with a <tool>sponge</tool></purpose>
+    </block>
+    <folio number="005r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f15.image"/>
+    <block>
+        <purpose type="application"> or <tool>linen cloth</tool> and leave it thus for <time>xx4
+                hours</time> and it will be engraved.</purpose>
+        <purpose type="advice">But if you should want to engrave it quickly, varnish all your work
+            and boil it in the aforementioned liquor, and this will engrave it quickly.</purpose>
+    </block>
+</entry>

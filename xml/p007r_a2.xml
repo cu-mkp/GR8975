@@ -7,8 +7,8 @@
   <block>
     <purpose type="making"/>
     <purpose type="application"/>
-    <subject_activity_keywords type="embellishment"/>
-    <subject_activity_keywords type="stamping"/> The stamped ornament made from
+    <activity type="embellishment"/>
+    <activity type="stamping"/> The stamped ornament made from
       <material_format>sheets of <material>copper</material> or
       <material>latten</material></material_format> are made with
         <material_format><material>wood</material> from a service tree engraved and

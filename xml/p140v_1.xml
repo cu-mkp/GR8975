@@ -6,7 +6,7 @@
         <heading>To cast in <material>sulfur</material></heading>
 
         <block purpose="making"> To cast neatly in <material>sulfur</material>, arrange the pith of
-                <keyword>bread</keyword> under the <tool>brazier</tool>, as you know. Mold whatever
+                <tool>bread</tool> under the <tool>brazier</tool>, as you know. Mold whatever
             you want into it &amp; let it dry &amp; you will have very neat work. </block>
 
         <block position="left-top" purpose="advice"> Try <material>sulfur</material> passed through

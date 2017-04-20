@@ -1,0 +1,23 @@
+<entry identifier="p009v_3">
+    <folio number="009v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image"/>
+    <heading>Waste book</heading>
+    <block>
+        <activity type="accounting"/>First, <name type="personal">François du Cros</name> owes from
+        2 September 1581, for 1 <material><foreign language="french">canne de
+            batiste</foreign></material> at <currency>8 livres</currency> per <material><foreign
+                language="french">canne</foreign></material>, total -- <currency>8 livres
+            tournois</currency>. </block>
+    <block position="left-middle">
+        <activity type="accounting"/>Moved to the sales book at r. 25/ <name type="personal"
+            >François du Cros</name> owes from 2 September 1581, for 1 <material><foreign
+                language="french">canne de batiste</foreign></material> at <currency>8
+            livres</currency> per <material><foreign language="french">canne</foreign></material>,
+        as shown by the waste book at r. 25 </block>
+    <block position="left-middle">
+        <activity type="accounting"/>Moved to the account book at r. 55/ <name type="personal"
+            >François du Cros</name> owes from 2 September 1581, for the merchandise taken by
+        himself, as specified in detail in the sales book, No. 7, at r. 55, the sum of <currency>8
+            livres</currency>, of which the aforesaid <name type="personal">du Cros</name> has made
+        a bill on the aforesaid day, to be payed on Saint Andrew's day next, total -- 8 [...] r.
+    </block>
+</entry>

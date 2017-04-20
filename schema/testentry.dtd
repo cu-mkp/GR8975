@@ -1,4 +1,4 @@
-<!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|list)*>
+<!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|list|annotations)*>
 <!ATTLIST entry
   xmlns CDATA #FIXED ''
   group NMTOKEN #IMPLIED
@@ -37,8 +37,6 @@
   xmlns CDATA #FIXED ''
   type NMTOKEN #REQUIRED>
 
-
-
 <!ELEMENT profession (#PCDATA)>
 <!ATTLIST profession
   xmlns CDATA #FIXED ''>
@@ -58,7 +56,7 @@
 
 <!ELEMENT block (#PCDATA|activity|animal|figure|foreign
                  |material|material_format|place|plant
-                 |profession|purpose|ref|sub_recipe|tool|unit|color|name|q
+                 |profession|image|purpose|ref|sub_recipe|tool|unit|color|name|q
                  |sup|time)*>
 <!ATTLIST block
   xmlns CDATA #FIXED ''
@@ -89,7 +87,7 @@
   xmlns CDATA #FIXED ''>
 
 
-<!ELEMENT material (#PCDATA|animal | foreign)*>
+<!ELEMENT material (#PCDATA|animal | foreign | place)*>
 <!ATTLIST material
   xmlns CDATA #FIXED ''
   type NMTOKEN #IMPLIED>
@@ -113,7 +111,7 @@
 
 <!ELEMENT activity (#PCDATA|activity|material)*>
 <!ATTLIST activity
-  xmlns CDATA #FIXED ''>
+  type NMTOKEN #REQUIRED >
 
 <!ELEMENT material_format (#PCDATA|material)*>
 <!ATTLIST material_format
@@ -141,3 +139,10 @@
 <!ATTLIST unit
   xmlns CDATA #FIXED ''>
 
+<!ELEMENT annotations (annotation)+>
+<!ATTLIST annotations >
+
+<!ELEMENT annotation EMPTY>
+<!ATTLIST annotation
+  title CDATA #REQUIRED
+  url CDATA #REQUIRED >

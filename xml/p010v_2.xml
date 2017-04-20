@@ -1,0 +1,15 @@
+<entry identifier="p010v_2">
+    <folio number="010v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image"/>
+
+    <heading>Underlayer for <material_format><material>gold</material> leaf</material_format> on
+            <material>parchment</material> or <material>paper</material></heading>
+
+    <block>
+        <activity type="painting"/>
+        <activity type="gilding"/>
+        <purpose type="advice"/>
+        <purpose type="application"/>Make <material_format>very clear starch
+                <material>glue</material></material_format>, showing little body. And apply six or
+        five layers, and when the last is almost dry, apply your <material>gold</material> to it.
+    </block>
+</entry>

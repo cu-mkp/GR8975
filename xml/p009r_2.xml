@@ -1,0 +1,13 @@
+<entry identifier="p009r_2">
+    <folio number="009r" url="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f22.item"/>
+
+    <heading>
+        <profession>Painters</profession>
+    </heading>
+
+    <block>
+        <activity type="painting"/>
+        <purpose type="observation">After laying down their colors, some smooth it with <tool>the
+                back of a feather</tool> but the <tool>large brush</tool> is best.</purpose>
+    </block>
+</entry>

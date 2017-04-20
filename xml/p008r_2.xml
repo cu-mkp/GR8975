@@ -1,0 +1,12 @@
+<entry identifier="p008r_2">
+    <folio number="008r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f21.image"/>
+
+    <heading>To explode grenades and give force to fireworks</heading>
+
+    <block>
+        <activity type="explosives"/>
+        <activity type="military"/>
+        <purpose type="making">Put into the <material><!--gunpowder-->powder</material> <unit>one sixth as much</unit> of
+                <material>quicksilver</material></purpose>
+    </block>
+</entry>

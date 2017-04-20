@@ -1,0 +1,17 @@
+<entry identifier="p007v_4">
+    <folio number="007v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f20.image"/>
+
+    <heading>Against gonorrhea</heading>
+
+    <block>
+        <activity type="medicine"/>
+        <purpose type="making"> Cook <unit>.i. lb.</unit> of <material_format>old smiths'
+                    <material>water</material></material_format>, <unit>.i. ℥</unit> of
+                        <material_format><material><place>Armenian</place> bole</material> reduced
+                in the finest powder</material_format>, and <unit>.iii. ʒ</unit> of
+                <material_format>common <material>honey</material></material_format>, until the
+                <material>honey</material> stops foaming. Once cooled, strain with great
+            pressure</purpose>
+        <purpose type="application">and use the results of filtration by injection.</purpose>
+    </block>
+</entry>
