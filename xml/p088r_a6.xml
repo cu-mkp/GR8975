@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p088r_a6">
+    <folio number="088r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image"/>
+    
+    <heading>Looking-glass tin</heading>
+    
+    <block>
+        It makes material whiter.
+    </block>
+</entry>
+
+
