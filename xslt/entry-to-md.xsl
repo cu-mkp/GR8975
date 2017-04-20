@@ -35,7 +35,7 @@
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>annotation: </xsl:text>
             <xsl:choose>
-                <xsl:when test="//annotations/annotation/normalize-space()">
+                <xsl:when test="//annotations/annotation/normalize-space(@title)">
                     <xsl:text>yes</xsl:text>
                 </xsl:when>
                 <xsl:otherwise>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE entry SYSTEM "file:/C:/Users/Ludovic/github/GR8975/schema/testentry.dtd">
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p088r_a6">
     <folio number="088r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image"/>
     
