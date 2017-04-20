@@ -13,6 +13,11 @@
         <xsl:sequence select="//material/normalize-space(.)">
         </xsl:sequence>
     </xsl:param>
+    
+    <xsl:param name="categories" >
+        <xsl:sequence select="//activity/normalize-space(@type)">
+        </xsl:sequence>
+    </xsl:param>
 
     
     <xsl:template match="entry">
@@ -32,7 +37,12 @@
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>editor: GR8975 Seminar Participants&#x0A;</xsl:text>
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
-            <xsl:text>materials: </xsl:text>
+            <xsl:text>categories: </xsl:text>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="replace($categories, ' ', ', ')"/>
+            <xsl:text>]</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <xsl:text>tags: </xsl:text>
             <xsl:text>[</xsl:text>
             <xsl:value-of select="replace($materials, ' ', ', ')"/>
             <xsl:text>]</xsl:text>
