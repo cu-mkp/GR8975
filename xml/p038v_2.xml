@@ -1,9 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "file:/Users/jwayno/Github/schema/testentry.dtd">
 <entry identifer="p038v_2">
+    
     <folio number="038v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image"/>
-
+    
     <heading>Against nose bleeding and for dyeing</heading>
-
-    <block purpose="making"><activity>Pound</activity> some of the kind of <material>vinette</material> or <material>lapathum
-        acutum</material> that is red-veined, which is called <material>dragon's blood</material>, and <activity>apply</activity> it on the bleeding
-        person's forehead. This <material>herb</material> is a strong dye &amp; makes beautiful <color>violet</color>.</block>
+    
+    <block>Pound some of the kind of vinete or lapathum acutum that is red-veined, which is called
+        dragon's blood, and apply it on the bleeding person's forehead. This herb is a strong dye &amp;
+        makes beautiful violet.</block>  
 </entry>

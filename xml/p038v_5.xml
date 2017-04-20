@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "file:/Users/jwayno/Github/schema/testentry.dtd">
+<entry identifer="p038v_5">
+    
+    <folio number="038v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image"/>
+    
+    <heading>Merchants</heading>
+    
+    <block> Those who retail velvet and other materials do not keep double-entry books because they
+        sell in small quantities and recording these details would be too much effort. They only
+        have their sales book and account books. But those who sell in bulk and those who traffic in
+        woad have a double-entry book.</block>
+</entry>

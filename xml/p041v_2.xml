@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "file:/Users/jwayno/Github/schema/testentry.dtd">
+<entry identifer="p041v_2">
+    <folio number="041v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image"/>
+    <heading>Sheared ewes</heading>
+    <block>If the shearer wounds them at some point, he applies the very excrement of the ewe on it.
+        When they are fat, they are easier to shear and do not get hurt as easily.</block>
+    <block position="left-middle">If the shearer wants to 'viscorter' them, that is to castrate them
+        as [they] are one or two years old, he must not have been with his wife, because this would
+        cause the sheep to die.</block>
+</entry>
