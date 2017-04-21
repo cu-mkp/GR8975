@@ -22,9 +22,7 @@
     <xsl:template match="entry">
         <xsl:message select="$materials"/>
         <xsl:variable name="sect_id" select="@identifier"/>
-        <xsl:result-document method="text" encoding="utf-8" href="../_texts/{$sect_id}.md"
-            omit-xml-declaration="yes">
-
+        <xsl:result-document encoding="utf-8" href="../_texts/{$sect_id}_md">
             <!-- YAML for Ed -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
@@ -62,8 +60,6 @@
             <xsl:text>---&#x0A;&#x0A;</xsl:text>
 
             <xsl:apply-templates/>
-
-
         </xsl:result-document>
     </xsl:template>
 
