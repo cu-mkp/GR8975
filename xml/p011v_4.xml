@@ -1,0 +1,19 @@
+<entry identifier="p011v_4">
+    <folio number="011v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image"/>
+
+    <heading>Making <tool><material>diamond</material> points</tool> for engraving</heading>
+
+    <block>
+        <activity type="engraving"/>
+        <purpose type="making"/> These are for sketching what you want to draw on
+            <material>stones</material> and for engraving. When these points are too dull and cannot
+        engrave, it is necessary to rub <material>diamond</material> against
+            <material>diamond</material>; one can rub them with <material_format><material>pumice
+                stone</material> powder</material_format>. It is necessary to strip what you want to
+        engrave on a <tool><material>lead</material> wheel</tool> or with a
+            <material>stone</material> or with <material>glass</material>, because the polishing is
+        like <material>varnish</material> or <material>glass</material> and stops the
+            <material>diamond</material> or <material>sapphire</material> from engraving well. This
+        is why it does not engrave easily on <material>horn</material>, which is polished and fat.
+        But when the polish has been taken off, it is easy to engrave.</block>
+</entry>
