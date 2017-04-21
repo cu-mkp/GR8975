@@ -22,7 +22,7 @@
     <xsl:template match="entry">
         <xsl:message select="$materials"/>
         <xsl:variable name="sect_id" select="@identifier"/>
-        <xsl:result-document encoding="utf-8" href="../_texts/{$sect_id}_md">
+        <xsl:result-document encoding="utf-8" href="../_texts/{$sect_id}.md">
             <!-- YAML for Ed -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
