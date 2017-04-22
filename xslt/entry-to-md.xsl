@@ -11,13 +11,13 @@
 
     <!-- <xsl:strip-space elements="*"/>-->
     <xsl:param name="materials">
-        <xsl:for-each select="distinct-values(//material[normalize-space()]/normalize-space(text()))">
+        <xsl:for-each select="distinct-values(//material[normalize-space()]/lower-case(normalize-space(text())))">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
 
     <xsl:param name="categories">
-        <xsl:for-each select="distinct-values(//activity/@type)">
+        <xsl:for-each select="distinct-values(//activity/lower-case(@type))">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
