@@ -1,13 +1,11 @@
 <entry identifier="p141r_1">
     <folio number="141r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image"/>
 
-    <heading>
-        <activity>Casting a crayfish</activity>
-    </heading>
+    <heading>Casting a crayfish</heading>
 
     <block purpose="making"> The <animal>crayfish</animal> is one of the most fantastical to cast,
-        but also <activity type="reference">provides an example for casting
-            other difficult things</activity>. You can distinguish males and female by the eggs that
+        but also <!-- <activity type="reference"> -->provides an example for casting
+            other difficult things<!-- </activity>  -->. You can distinguish males and female by the eggs that
         the females carry, and by the four little white back legs that males have in their tails
         after behind main eight legs. It is good to dry them out a bit so that the bumps come out
         more hard and beautiful, because none of what is made of shell shrinks. It is true that
@@ -38,21 +36,24 @@
             <material>spirits</material> before you mold. </block>
 
     <block position="left-top" purpose="making">
+    <!--   <activity type="reference"> -->
         <animal>Stag beetles</animal>, <animal>crayfish</animal> and <animal>crabs</animal> are
-        molded in the same way. </block>
+        molded in the same way.
+    <!--    </activity> -->
+    </block>
 
-    <block position="left-middle" purpose="advice"> If your crayfish has no eggs, mold the back on
+    <block position="left-middle" purpose="advice"> If your <animal>crayfish</animal> has no eggs, mold the back on
         top and the belly on the bottom. You can give it some. </block>
 
     <block position="left-middle" purpose="advice"> It the crayfish can be molded hollow for the
-        body, but not for the legs. And for a good result, take note that the crayfish is rather
-        fantastical to mold hollow, this ought to be reserved for turtles. </block>
+        body, but not for the legs. And for a good result, take note that the <animal>crayfish</animal> is rather
+        fantastical to mold hollow, this ought to be reserved for <animal>turtles</animal>. </block>
 
     <block position="left-bottom" purpose="making"> When you open your mold, you will find the
-        crayfish has white bones, but they will not be powder. And without opening it, the mercury
+        <animal>crayfish</animal> has white bones, but they will not be powder. And without opening it, the mercury
         will not have affected the process. </block>
 
-    <block position="bottom" purpose="making"> Apply very light oil colors. </block>
+    <block position="bottom" purpose="making"> Apply very <material>light oil colors</material>. </block>
 
     <block position="bottom" purpose="making"> To paint it, boil it with wine and a bit of
             <material>salt</material> so that they become very red and use this as a model. Paint
@@ -88,10 +89,10 @@
     <block position="left-top" purpose="making"> Fix what may raise the two padded edges on each
         side of the mouth with melted wax under them. </block>
 
-    <block position="left-middle">
-        <image identifier="fig_p141v_1"
+    
+        <figure identifier="fig_p141v_1" position="left-middle"
             url="https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk"/>
-    </block>
+    
     <!-- ![fig_p141v_1] (https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk)
 -->
 
