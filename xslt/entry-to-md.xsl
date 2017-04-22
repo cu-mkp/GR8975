@@ -11,7 +11,9 @@
 
     <!-- <xsl:strip-space elements="*"/>-->
     <xsl:param name="materials">
-        <xsl:sequence select="//material/normalize-space(.)"> </xsl:sequence>
+        <xsl:for-each select="distinct-values(//material[normalize-space()]/normalize-space(text()))">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
     </xsl:param>
 
     <xsl:param name="categories">
@@ -54,7 +56,7 @@
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>tags: </xsl:text>
             <xsl:text>[</xsl:text>
-            <xsl:value-of select="replace($materials, ' ', ', ')"/>
+                <xsl:value-of select="$materials"/>            
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>---&#x0A;&#x0A;</xsl:text>
