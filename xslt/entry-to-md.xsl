@@ -11,7 +11,7 @@
 
     <!-- <xsl:strip-space elements="*"/>-->
     <xsl:param name="materials">
-        <xsl:for-each select="distinct-values(//material[normalize-space()]/lower-case(normalize-space(text())))">
+        <xsl:for-each select="distinct-values(//material[normalize-space()]//lower-case(normalize-space(text())))">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
