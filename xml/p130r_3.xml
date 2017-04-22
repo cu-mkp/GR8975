@@ -2,18 +2,15 @@
 <entry identifier="p130r_3">
     <folio number="130r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f265.item.r="/>
 
-<heading>
-Molding a single spider
-</heading>
-    
-    <block>
-One has to display it on the jacket of clay as it is said for the vine leaf. Then do the first cast. And once it dry, peel the mold off to the middle of the legs and do the second cast.
-    </block>
-    
-    <!-- marginalia on left-bottom of 130r --> 
-<block>
-Also. One cannot mold the hairy legs of big spiders or any other hairy animal if they had not been rubbed with wheat oil before they are laid flat. This will make the hair firmer and will dry very quickly.  Hairy things entangle in the  sand, and do not burn very well.
-</block>
-    
-</entry>
+    <heading> Molding a single spider </heading>
 
+    <block> One has to display it on the jacket of clay as it is said for the vine leaf. Then do the
+        first cast. And once it dry, peel the mold off to the middle of the legs and do the second
+        cast. </block>
+
+    <!-- marginalia on left-bottom of 130r -->
+    <block> Also. One cannot mold the hairy legs of big spiders or any other hairy animal if they
+        had not been rubbed with wheat oil before they are laid flat. This will make the hair firmer
+        and will dry very quickly. Hairy things entangle in the sand, and do not burn very well. </block>
+
+</entry>
