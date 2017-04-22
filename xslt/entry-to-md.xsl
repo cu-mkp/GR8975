@@ -17,7 +17,9 @@
     </xsl:param>
 
     <xsl:param name="categories">
-        <xsl:sequence select="//activity/normalize-space(@type)"> </xsl:sequence>
+        <xsl:for-each select="distinct-values(//activity/@type)">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
     </xsl:param>
 
 
