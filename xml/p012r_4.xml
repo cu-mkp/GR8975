@@ -1,0 +1,33 @@
+<entry identifier="p012r_4">
+    <folio number="012r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image"/>
+
+    <heading>
+        <material>Plaster</material>
+    </heading>
+
+    <block>
+        <activity type="mold making"/>
+        <activity type="casting"/>
+        <purpose type="observation">
+            <material_format>Mountain <material>plaster</material></material_format> is
+                <color>grey</color>er, and that from the region of <place>Albi</place> is
+                <color>white</color>r. It has to be heated over a <tool>closed fire</tool>, such as
+            a <tool>reverberatory furnace</tool> or <tool><foreign language="french">fours de
+                    barbiers</foreign></tool>. The more freshly heated, the better it is to work
+            with.</purpose>
+        <purpose type="advice">It should be finely crushed on
+                <tool><material>marble</material></tool>. After preparing your <tool>hollow
+                mold</tool> of <material>sulfur</material> or another [material] and
+                <material>oil</material>ing it and surrounding it with a <tool>circle</tool>, soak
+            your <material>plaster</material> in <material>water</material>, not too thick, and rub
+            it well with your finger, and if it makes bubbles, throw on more <material_format>powder
+                of the said <material>plaster</material></material_format> and crush it with your
+            finger until +</purpose>
+    </block>
+
+    <block position="left-bottom">
+        <activity type="casting"/>
+        <purpose type="advice"/>+ it makes no more bubbles. Then once more throw and sprinkle
+                <material_format><material>plaster</material> powder</material_format> on top and
+        leave to set well, then scrape the <material>powder</material> off.</block>
+</entry>

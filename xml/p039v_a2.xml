@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE entry SYSTEM "file:/Users/jwayno/Github/schema/testentry.dtd">
-<entry identifer="p039v_a2">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p039v_a2">
     
     <folio number="039v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image"/>
     

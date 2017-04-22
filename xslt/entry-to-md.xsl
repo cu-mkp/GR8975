@@ -22,9 +22,7 @@
     <xsl:template match="entry">
         <xsl:message select="$materials"/>
         <xsl:variable name="sect_id" select="@identifier"/>
-        <xsl:result-document method="text" encoding="utf-8" href="../_texts/{$sect_id}.md"
-            omit-xml-declaration="yes">
-
+        <xsl:result-document encoding="utf-8" href="../_texts/{$sect_id}.md">
             <!-- YAML for Ed -->
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
@@ -62,8 +60,6 @@
             <xsl:text>---&#x0A;&#x0A;</xsl:text>
 
             <xsl:apply-templates/>
-
-
         </xsl:result-document>
     </xsl:template>
 
@@ -82,10 +78,13 @@
 
     <xsl:template match="margin-block | block[@position]">
         <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&gt; </xsl:text>
         <xsl:text>*position:&#160;</xsl:text>
         <xsl:value-of select="@position"/>
-        <xsl:text>*&#xa;&#xa;</xsl:text>
-        <xsl:apply-templates/>
+        <xsl:text>*</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&gt; </xsl:text><xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&gt; </xsl:text><xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
@@ -95,14 +94,14 @@
 
     <!-- folio breaks and link to image -->
     <xsl:template match="folio">
-        <xsl:text>&lt;br/&gt;</xsl:text>
+        <xsl:text>&lt;div class="folio" align="center"&gt;</xsl:text>
         <xsl:text>- - - - - &lt;a href="</xsl:text>
         <xsl:value-of select="@url"/>
-        <xsl:text>"&gt;</xsl:text>
-        <xsl:text>&lt;img src="../assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
+        <xsl:text>" target="_blank"&gt;</xsl:text>
+<!--        <xsl:text>&lt;img src="https://github.com/cu-mkp/GR8975-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>-->
         <xsl:value-of select="@number"/>
         <xsl:text>&lt;/a&gt; - - - - -</xsl:text>
-        <xsl:text> &lt;br/&gt;</xsl:text>
+        <xsl:text> &lt;/div&gt;</xsl:text>
     </xsl:template>
 
     <xsl:template match="purpose">

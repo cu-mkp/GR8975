@@ -1,8 +1,7 @@
-<!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|list|annotations)*>
+﻿<!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|list|annotations)*>
 <!ATTLIST entry
   xmlns CDATA #FIXED ''
   group NMTOKEN #IMPLIED
-  identifer NMTOKEN #IMPLIED
   identifier NMTOKEN #IMPLIED>
 
 <!ELEMENT entry_group (heading?,entry+)>
