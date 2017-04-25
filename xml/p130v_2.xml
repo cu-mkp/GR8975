@@ -4,6 +4,7 @@
 
 
     <heading>Stag beetle </heading>
-    <block> Like a crab, it [a stag beetle] is also difficult to burn, therefore do [stag beetles]
-        as you did crabs. </block>
+    <block> Like a <animal>crab</animal>, it [a <animal>stag beetle</animal>] is also difficult to
+        burn, therefore do [<animal>stag beetles</animal>] as you did <animal>crabs</animal>.
+    </block>
 </entry>

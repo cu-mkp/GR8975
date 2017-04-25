@@ -3,23 +3,23 @@
 
     <folio number="143r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f291.image"/>
 
-    <heading>Moulding turtles and tortoises</heading>
+    <heading>Moulding <animal>turtles</animal> and <animal>tortoises</animal></heading>
 
-    <block> The turtle the one that lives in water is more beautiful to mold because it has prettier
-        scales and straight legs. And the tortoises have crooked ones. They eat a lot. To get ready
-        to kill them, open their mouth and pass a long penknife through all the intestines. And then
-        make it swallow some vinegar mixed with spirits or urine, as one does for snakes. It is
+    <block> The <animal>turtle</animal> the one that lives in water is more beautiful to mold because it has prettier
+        scales and straight legs. And the <animal>tortoises</animal> have crooked ones. They eat a lot. To get ready
+        to kill them, open their mouth and pass a long <tool>penknife</tool> through all the intestines. And then
+        make it swallow some <material>vinegar</material> mixed with <material>spirits</material> or <material>urine</material>, as one does for <animal>snakes</animal>. It is
         necessary to mould them in several pieces, and even the back sometimes because the sides of
         certain ones are narrower than others and in this instance do not release from the cast. To
         make them die, you must not boil them, because they come apart, even the shell, in the hot
         water. They the shells come out better when hollowed because their great thickness spoils
-        the mold. Turtles are more lively. The tortoises are leaner, slower, and more sleepy. If you
-        scratch turtles on their shells, no matter how sleepy they are, they move; tortoises do not. </block>
+        the mold. <animal>Turtles</animal> are more lively. The <animal>tortoises</animal> are leaner, slower, and more sleepy. If you
+        scratch <animal>turtles</animal> on their shells, no matter how sleepy they are, they move; <animal>tortoises</animal> do not. </block>
 
-    <block position="left-top"> They turtles/tortoises die rather quickly in vinegar mixed with a little spirits
-        or urine, as with all other animals. </block>
+    <block position="left-top"> They <animal>turtles</animal>/<animal>tortoises</animal> die rather quickly in <material>vinegar</material> mixed with a little <material>spirits</material>
+        or <material>urine</material>, as with all other animals. </block>
 
-    <block position="left-top"> They turtles/tortoises keep their eyes closed in the winter, and appear as dead,
+    <block position="left-top"> They <animal>turtles</animal>/<animal>tortoises</animal> keep their eyes closed in the winter, and appear as dead,
         having been numbed by the cold. They hide in the earth or under balls of grain or warm
         manure, and survive only on the dampness of the earth. </block>
 

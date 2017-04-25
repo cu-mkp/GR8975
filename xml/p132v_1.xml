@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p132v_1">
     <folio number="132v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f270.item.r="/>
-    <heading>Common quarry sand</heading>
-    <block> In a frame, If you cast it hot, sand will bubble; thus you have to just dry it. </block>
-    <block position="left-top">I have tried to prevent molds blended with sand from cracking when
-        annealed, and thus not get any with flaws that crack. </block>
+    <heading><material>Common quarry sand</material></heading>
+    <block> In a frame, If you cast it hot, <material>sand</material> will bubble; thus you have to
+        just dry it. </block>
+    <block position="left-top">I have tried to prevent molds blended with <material>sand</material>
+        from cracking when annealed, and thus not get any with flaws that crack. </block>
 </entry>

@@ -2,26 +2,27 @@
 <entry identifier="p130v_1">
 
     <folio number="130v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item.r=.zoom"/>
-    <heading> Molding a crab </heading>
+    <heading> Molding a crab</heading>
 
     <block> It is a secret and a masterpiece to mold [a crab] well because it is necessary to
         proceed differently [than you would] with other animals, because its shell is quite
         difficult to [...] and that is why it is necessary to reheat the mold three or four times.
         And on top of all that, it leaves a hard crust [that is] gray like ash. It is not molded
         from one piece and one cast as [is done with] plants. Rather, [it is moulded] in two casts
-        as [is done] with serpents which are easily stripped from it [the mold]. After it is opened,
-        nimbly remove this crust with the very fine point of a pen-knife {and not with quicksilver
-        which removes nothing from it} and likewise those small crusts of the second cast which get
-        into the cavities that the sand or the molded animal made because it has curved legs. Here
-        is the subtlety and the secret of stripping it. As you molded it [the crab] from the back
-        side in the way [that you did for] the others [animals], remove the stomach and all the
-        curved legs from it. Make your second cast in the way [that you did for] the other
-        [animals], but as it will have set, take care that you not open the mold unless you have
-        first reheated it well. Otherwise, because of its curved legs, you would break the whole
-        thing. Herein lies the subtlety. If, after it has been well reheated and opened, you see
-        that the crust is not burned enough, reheat [it] until it is burned [enough]. </block>
+        as [is done] with <animal>serpents</animal> which are easily stripped from it [the mold].
+        After it is opened, nimbly remove this crust with the very fine point of a
+            <tool>pen-knife</tool> {and not with <tool>quicksilver</tool> which removes nothing from
+        it} and likewise those small crusts of the second cast which get into the cavities that the
+        sand or the molded animal made because it has curved legs. Here is the subtlety and the
+        secret of stripping it. As you molded it [the crab] from the back side in the way [that you
+        did for] the others [animals], remove the stomach and all the curved legs from it. Make your
+        second cast in the way [that you did for] the other [animals], but as it will have set, take
+        care that you not open the mold unless you have first reheated it well. Otherwise, because
+        of its curved legs, you would break the whole thing. Herein lies the subtlety. If, after it
+        has been well reheated and opened, you see that the crust is not burned enough, reheat [it]
+        until it is burned [enough]. </block>
 
-    <block position="left-top"> It [a crab] can be painted like a crayfish. </block>
+    <block position="left-top"> It [a crab] can be painted like a <animal>crayfish</animal>. </block>
     <block position="left-top"> It does nothing. </block>
     <block position="left-bottom"> For opening the mold, it is not necessary to soak it because,
         once reheated, it will open itself by itself. </block>

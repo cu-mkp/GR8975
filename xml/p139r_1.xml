@@ -1,16 +1,18 @@
 <entry identifier="p139r_1">
     <folio number="139r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image"/>
 
-    <heading>Casting with lead and tin</heading>
+    <heading>Casting with <material>lead</material> and <material>tin</material></heading>
 
     <!-- <related-block>  -->
     <block purpose="making">
-        <activity type="casting"> The way I have done it <!-- casting --> for lizards and serpents is with two ℥ of
-            pure <material>tin</material> for one lb. of unrefined <material>lead</material> that is
-            impure.</activity> The mold is made out of the aforementioned sand, common for all
-        metals, when it is reheated, leave it to cool until you can put your finger in it without
-        causing a breach in the gate of the cast. As for the <material>lead</material>, it is melted
-        in a <tool>crucible</tool> with a bellows' fire until both the crucible and the lead are
+        <!-- <activity type="casting">  --> The way I have done it <!-- casting --> for
+                <animal>lizards</animal> and <animal>serpents</animal> is with two <unit>℥</unit> of
+            pure <material>tin</material> for one <unit>lb</unit>. of unrefined
+                <material>lead</material> that is impure.<!-- </activity> -->The mold is made out of the
+        aforementioned <material>sand</material>, common for all metals, when it is reheated, leave
+        it to cool until you can put your finger in it without causing a breach in the gate of the
+        cast. As for the <material>lead</material>, it is melted in a <tool>crucible</tool> with a
+        bellows' fire until both the <tool>crucible</tool> and the <material>lead</material> are
         red. When it gets to that state, cleanse it anew with <material>charcoal</material> or with
         a specially made <tool>scraper</tool> or with the pufts of the little bellows. This done,
         leave it to rest in it red state and you can even reheat it, then if you want, throw in a
@@ -24,11 +26,12 @@
         cast heartily because for as long as your metal is red it will mix and join with the other
         one and will come out very neatly like the main one. The same thing can be said for pure
             <material>tin</material> used for thin things. And that way for doing pure
-            <material>tin</material> is one ℥ of new <material>lead</material> for one lb. of the
-        former. Large molds must be put in a press held tightly between <tool>two layers of
-            copper</tool>, and then bury the whole thing in sand, which is better than ashes,
-        because being heavy, it will seal better. Otherwise large molds are prone to open because
-        the metal is heavy. Some make square molds </block>
+            <material>tin</material> is one <unit>℥</unit> of new <material>lead</material> for one
+            <unit>lb</unit>. of the former. Large molds must be put in a press held tightly between
+        two <tool>layers of copper</tool>, and then bury the whole thing in
+            <material>sand</material>, which is better than ashes, because being heavy, it will seal
+        better. Otherwise large molds are prone to open because the metal is heavy. Some make square
+        molds </block>
 
     <!-- apart from having marginalia as related blocks we also have related folios when the body of one entry moves to the next folio as below;
 When we use <realted-block> across folios it disrupts the positionality of marginalia if they lose their position, especially at the top of the page, where would they be placed in the consolidated entry? I am assuming that we are trying to have a continous entry without pagebreaks
@@ -36,9 +39,9 @@ When we use <realted-block> across folios it disrupts the positionality of margi
 -->
 
     <folio number="139v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image"/>
-    <block>are made of earth or blades of copper, or iron, or wood covered with white iron, in order
-        to bury more easily these aforementioned molds between the thin <tool>sheets of copper,
-            estric or one of iron</tool>. </block>
+    <block>are made of earth or blades of <material>copper</material>, or <material>iron</material>,
+        or wood covered with white iron, in order to bury more easily these aforementioned molds
+        between the thin <tool>sheets of copper, estric or one of iron</tool>. </block>
 
     <!--in the above block I am not sure how to distinguish between material and tool-->
 
@@ -59,13 +62,15 @@ When we use <realted-block> across folios it disrupts the positionality of margi
     <block position="left-top" purpose="making"> Note that If you want to cast with cuttlefish bone,
         they cannot be too warm because that would burn the cuttefish. For this effect, try
             <material>paper</material>. It it becomes brown, it is enough, and it is good for
-        casting, but if it blackens the paper, then it is too hot. </block>
-
+        casting, but if it blackens the <material>paper</material>, then it is too hot.</block>
     <block position="left-bottom" purpose="making"> If you want to cast <material>paper</material>
-        with writing on it, make a mixture with half lead and half tin. As soon as it is melted,
-        throw it between two pieces of cardboard on a flat place that is level. And with a point or
-        gold or hard wood, engrave on the left the writing that you want. And having poured the lead
-        onto the cardboard, press onto it the other piece of cardboard. </block>
+        with writing on it, make a mixture with half <material>lead</material> and half
+            <material>tin</material>. As soon as it is melted, throw it between two pieces of
+            <material>cardboard</material> on a flat place that is level. And with a point or
+            <material>gold</material> or <material>hard wood</material>, engrave on the left the
+        writing that you want. And having poured the <material>lead</material> onto the
+            <material>cardboard</material>, press onto it the other piece of
+            <material>cardboard</material>.</block>
     <!-- </related-block>  -->
 
 

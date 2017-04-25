@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p143v_1">
-    <folio number="143v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image"/>    
-<heading>Openwork carcanets
-</heading>
-    
-<block>
-You can mold them "en noyau" like crayfish, first with one side being made higher with clay, which is hollow, and then you open it from the other side and make the second casting.  You can just as well cast them "en chassis", provided that they release well. If they do not, you can do a rough cast in wax, or you can fill up the cavities which do not release well with wax or clay.
-</block>
+    <folio number="143v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image"/>
+    <heading>Openwork carcanets </heading>
+
+    <block> You can mold them "en <material>noyau</material>" like <animal>crayfish</animal>, first
+        with one side being made higher with <material>clay</material>, which is hollow, and then
+        you open it from the other side and make the second casting. You can just as well cast them
+        "en chassis", provided that they release well. If they do not, you can do a rough cast in
+            <material>wax</material>, or you can fill up the cavities which do not release well with
+            <material>wax</material> or <material>clay</material>. </block>
 
 </entry>
