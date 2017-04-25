@@ -1,5 +1,9 @@
 <entry identifier="p004v_a1">
     <folio number="004v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image"/>
+    <annotations>
+            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDR09tZUQyanRod3c" title="Pain, Ostie, Rostie: Bread in Early Modern Europe, fols. 4v, 37r, 79v (Le Pouésard)"/>
+        </annotations>
+
     <heading>Black varnish for sword guards, metal bands for chests, etc.</heading>
     <block>
         <activity type="varnish"/>

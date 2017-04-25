@@ -1,5 +1,8 @@
 <entry identifier="p010v_2">
     <folio number="010v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image"/>
+    <annotations>
+            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDaHRZY1RlRVlvUHc" title="Gilding on Paper and Parchment, fol. 10v, 29v (Goldenberg)"/>
+        </annotations>
 
     <heading>Underlayer for <material_format><material>gold</material> leaf</material_format> on
             <material>parchment</material> or <material>paper</material></heading>

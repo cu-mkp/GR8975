@@ -1,11 +1,14 @@
-<entry identifier="139v_1">
+<entry identifier="p139v_1">
     <folio number="139v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f284.image"/>
+    <annotations>
+            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDTjV5QVV3NndVSVk" title="Black Sulfured Wax, fol. 139v (Kang and Lores-Chavez)"/>
+        </annotations>
 
         <heading>
             Casting wax to mold an animal that one has not got
         </heading>
 
-        <block purpose="making"> 
+        <block purpose="making">
             Take some <material>white wax</material> which is much more
             appropriate for this kind of work than anything else, because it is much firmer and does
             not leave as much filth, as much as you need to cast the animal that you propose, and no
@@ -42,7 +45,7 @@
             affix to candles, it is necessary to cast them with <material>esbaucher wax</material>
             of all colors. </block>
 
- 
+
 
     <folio number="140r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f285.image"/>
 
@@ -91,7 +94,7 @@
             that they be even &amp; that the wax has more <material>silver</material> so that it can
             run all in one go without turning through the windings of the <animal>snake</animal>. </block>
 
-   
+
 
     <folio number="140v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f286.item.r="/>
 
@@ -104,5 +107,5 @@
 
         <block position="left-top"> Seals </block>
 
-    
+
 </entry>

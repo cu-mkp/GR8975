@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p038v_2">
-    
+
     <folio number="038v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image"/>
-    
+    <annotations>
+            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDZU5YM1N3RjJKdEU" title="Dragon’s Blood, fol. 29v, 38v (Reich)"/>
+        </annotations>
+
     <heading>Against nose bleeding and for dyeing</heading>
-    
+
     <block>Pound some of the kind of vinete or lapathum acutum that is red-veined, which is called
         dragon's blood, and apply it on the bleeding person's forehead. This herb is a strong dye &amp;
-        makes beautiful violet.</block>  
+        makes beautiful violet.</block>
 </entry>
