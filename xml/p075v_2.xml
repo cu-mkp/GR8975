@@ -1,7 +1,8 @@
 <entry identifier="p075v_2">
   <folio number="075v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f156.item"/>
 
-
+<purpose type="making"/>
+<activity type="embellishing"/>
   <heading>
     <material>Gilding wood</material>
   </heading>
@@ -16,6 +17,6 @@
   <block>If your gold does not have a nice enough color, you will take a <material>partridge
       feather</material> burn it in a <tool>chafing-dish</tool>, and turn the smoke toward what you
     have gilded.</block>
-  
+
    <identifier>jkfjoehwfoihwoq ehcfo3  h 2oth  o </identifier>
 </entry>

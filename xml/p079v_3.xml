@@ -2,7 +2,8 @@
 <folio number="079v"
   url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f164.image"/>
 
-
+<purpose type="advice"/>
+<activity type="casting"/>
 <heading><material>Tin</material> for casting</heading>
 
 <block>They use common <material>tin</material>, which is the one that <profession>pewterers</profession> use for plates, which is composed of 9 or ten pounds of pure <material>lead</material> on one quintall of <material>tin</material>.</block>

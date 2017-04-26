@@ -2,7 +2,8 @@
 <folio number="080v"
   url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f166.image"/>
 
-
+<purpose type="advice"/>
+<activity type="metalwork"/>
 <heading>Founders of small <material>tin</material> work</heading>
 
 <block>
@@ -13,5 +14,17 @@
   url="https://drive.google.com/open?id=0B9-oNrvWdlO5VktqeFlScTAyczQ"/>
 
 <block>And if they want their work to last, they pierce <sup>it</sup> somewhere and fit in a piece of <material>cork</material>. <material>Lead</material> or <material>tin</material> will not damage it. </block>
+
+<block pisiton="left-top">
+Make sure the <tool>pegs</tool> of your frame fit in easily so  it will open with ease without moving anything else. Your box molds should fit well, and the table should be very flat.
+</block>
+
+<block pisiton="left-top">
+Try to carve with <material>distilled vinegar</material>.
+</block>
+
+<block pisiton="left-middle">
+Try calcined <material>oyster shells</material>; they are said to be excellent for molding.
+</block>
 
 </entry>
