@@ -2,7 +2,8 @@
 <entry identifier="p043v_3">
 
     <folio number="043v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f92.image"/>
-
+    <purpose typ='advice'/>
+    <purpose type='observation'/>
     <heading>Arquebusier</heading>
 
     <block>To shoot your arquebus precisely the end of the breech must come precisely on the edge of

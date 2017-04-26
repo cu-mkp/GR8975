@@ -2,7 +2,9 @@
 <entry identifier="p042v_a6">
 
     <folio number="042v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image"/>
-
+    <purpose type='making'/>
+    <purpose type='applicaiton'/>
+    <purpose type='advice'/>
     <heading>White varnish on plaster</heading>
 
     <block>Put down two or three layers of white glue for painting. Afterwards, varnish with varnish

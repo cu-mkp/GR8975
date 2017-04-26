@@ -2,6 +2,8 @@
 <!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p041v_3">
     <folio number="041v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image"/>
+    <purpose type='making'/>
+    <purpose type='application'/>
     <annotations>
         <annotation title="Colors and gilt on glass"
             url="https://docs.google.com/document/d/1Ju7l92d5a-3Rg-ZoGVlLDOnT3cXFWOf1Nf0e8PU8K_A/edit"/>

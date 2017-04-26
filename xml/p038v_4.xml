@@ -3,7 +3,8 @@
 <entry identifier="p038v_4">
     
     <folio number="038v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image"/>
-    
+    <purpose type='advice'/>
+    <purpose type='observation'/>
     <heading>Planting trees</heading>
     
     <block>It is said that rarely a tree planted on Saint Paul's day will fail to take. To cover the

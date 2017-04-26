@@ -3,7 +3,9 @@
 <entry identifier="p041r_1">
     
     <folio number="041r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image"/>
-    
+    <purpose type='making'/>
+    <purpose type='observation'/>
+    <purpose type='advice'/>
     <heading>Casting earth for founders</heading>
     
     <block>It becomes fat by being beaten and also mixed with horse manure. Potter's earth would be

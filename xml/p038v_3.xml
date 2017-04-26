@@ -3,7 +3,8 @@
 <entry identifier="p038v_3">
    
     <folio number="038v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image"/>
-   
+    <purpose type='advice'/>
+    <purpose type='observation'/>
     <heading>Beautiful artichokes</heading>
     
     <block>You need to trim them every year so that only one stem is left, and water them a lot.

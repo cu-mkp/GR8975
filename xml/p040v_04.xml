@@ -3,7 +3,8 @@
 <entry identifier="p040v_04">
     
     <folio number="040v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image"/>
-    
+    <purpose type='advice'/>
+    <purpose type='observation'/>
     <heading>Aqua fortis</heading>
     
     <block>If your retort is well luted you should not surround it with ashes, which would only

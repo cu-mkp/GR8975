@@ -3,7 +3,8 @@
 <entry identifier="p040r_4">
     
     <folio number="040r" url="hhttp://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image"/>
-    
+    <purpose type='observation'/>
+    <purpose type='application'/>
     <heading>Silver gilt buttons</heading>
     
     <block>Because silver gilt does not fear fire, it is cut into lozenges flat[illegible] on one

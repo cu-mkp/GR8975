@@ -3,7 +3,8 @@
 <entry identifier="p039r_2">
     
     <folio number="039r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f83.image"/>
-    
+    <purpose type='observation'/>
+    <purpose type='making'/>
     <heading>Dyers’ woad</heading>
     
     <block> It is grown in Lauragais where the deep soil is so fertile that every year wheat was
