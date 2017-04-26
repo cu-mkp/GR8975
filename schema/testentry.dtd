@@ -1,6 +1,6 @@
 <?xml encoding="UTF-8"?>
 
-<!ELEMENT entry (#PCDATA|activity|purpose|block|figure|folio|heading|purpose|annotations|list|margin-block)*>
+<!ELEMENT entry (#PCDATA|activity|block|figure|folio|heading|purpose|annotations|list|margin-block)*>
 <!ATTLIST entry
   group NMTOKEN #IMPLIED
   identifier NMTOKEN #REQUIRED>
