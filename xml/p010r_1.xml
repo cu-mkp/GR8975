@@ -1,8 +1,10 @@
 <entry identifier="p010r_1">
     <folio number="010r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image"/>
+    
     <annotations>
-            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDd2JGLVFjeHY4Z0U" title="Imitating Raw Nature, fol. 10r (Lores-Chavez and Kang)"/>
-        </annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDd2JGLVFjeHY4Z0U" title="Imitating Raw Nature, fol. 10r (Lores-Chavez and Kang)"/>   
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDZjE3TFN0b3YtVVk" title="Jasper Imitation on Horn"/>        
+    </annotations>
 
     <heading>Imitation <material>jasper</material></heading>
 

@@ -1,6 +1,10 @@
 <entry identifier="p010r_2">
     <folio number="010r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image"/>
-
+    
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDSU1RN3ExeW5WclU" title="Color for Green"/>
+    </annotations>
+    
     <heading>
         <material>Scudegrun</material>
     </heading>

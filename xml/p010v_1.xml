@@ -1,6 +1,10 @@
 <entry identifier="p010v_1">
     <folio number="010v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image"/>
-
+    
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDVXNZMHMyMnpQX2M" title="Oil on Taffeta"/>        
+    </annotations>
+    
     <heading>For painting in <material>oil</material> on <material>taffeta</material> without the
             <material>oil</material> running</heading>
 

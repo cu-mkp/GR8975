@@ -1,7 +1,11 @@
 <entry identifier="p142v_1">
   <folio number="142v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image"/>
-
-  <heading>Molding grasshoppers and things too thin</heading>
+  
+  <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDfkJmS2RybjBpTmpsVFhDQVo1RVZKMjRGY0d6QlNTYVhqS1VsYi13a0FkLUU" title="Too Thin Things"/>
+  </annotations>
+  
+  <heading>Molding <animal>grasshoppers</animal> and things too thin</heading>
 
   <!-- <related-block>  -->
     <block purpose="making"> If you have to mold a piece of written-on paper that
