@@ -2,7 +2,8 @@
 <entry identifier="p042r_2">
 
     <folio number="042r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f89.image"/>
-
+    <purpose type='advice'/>
+    <purpose type='making'/>
     <heading>Wax for seals and impressions</heading>
 
     <block>For large wax seals, you should always have tepid water handy, and keep your wax in it.

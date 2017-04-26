@@ -3,7 +3,8 @@
 <entry identifier="p040v_1">
     
     <folio number="040v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image"/>
-    
+    <purpose type='observation'/>
+    <purpose type='application'/>
     <heading>Cross of the commanders of Malta</heading>
     
     <block>The fine rouge clair which is the background of the white enamel cross is of fine

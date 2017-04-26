@@ -2,6 +2,8 @@
 <entry identifier="p043v_1">
 
     <folio number="043v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f92.image"/>
+    <purpose type='advice'/>
+    <purpose type='observation'/>
     <annotations>
         <annotation title="Sleight-of-hand tricks"
             url="https://docs.google.com/document/d/1g8zJFcK35VdDmYfw8bHrBRHvNiz35pRjAkri-hkfFTo/edit"

@@ -2,6 +2,8 @@
 <entry identifier="p042v_a3">
 
     <folio number="042v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image"/>
+    <purpose type='advice'/>
+    <purpose type='application'/>
     <annotations>
         <annotation title="Oil painting on taffeta"
             url="https://docs.google.com/document/d/18p6AkoM-WYiVqeYH1t1BF2ofsAvb8fJ0xKlaTTx3YdU/edit"

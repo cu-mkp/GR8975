@@ -3,7 +3,8 @@
 <entry identifier="p039v_a1">
     
     <folio number="039v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image"/>
-    
+    <purpose type='application'/>
+    <purpose type='observation'/>
     <heading>Enamel</heading>
     
     <block> Enamel takes more readily on copper than on silver. It is true that the cut needs to be
