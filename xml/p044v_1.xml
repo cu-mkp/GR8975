@@ -2,6 +2,8 @@
 <entry identifier="p044v_1">
 
     <folio number="044v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image"/>
+    <purpose type='observation'/>
+    <purpose type='making'/>
     <annotations>
         <annotation title="Fine raw silk sieves and horse hair sieves"
             url="https://drive.google.com/drive/search?q=annotation%20sieves"/>

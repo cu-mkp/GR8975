@@ -2,7 +2,8 @@
 <entry identifier="p044r_a4">
 
     <folio number="044r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image"/>
-
+    <puropse type='applicaiton'/>
+    <purpose type='advice'/>
     <heading>Lacquer</heading>
 
     <block>To test it, soak it and apply it to paper, and if one or two hours later it has not died

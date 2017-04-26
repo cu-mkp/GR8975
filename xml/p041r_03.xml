@@ -3,7 +3,9 @@
 <entry identifier="p041r_03">
     
     <folio number="041r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image"/>
-    
+    <purpose type='making'/>
+    <purpose type='observation'/>
+    <purpose type='advice'/>
     <heading>Sand</heading>
     
     <block>The sand to be used for casting should be chosen such that it is not too dry for it won't

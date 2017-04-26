@@ -2,7 +2,8 @@
 <entry identifier="p043r_a4">
 
     <folio number="043r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image"/>
-
+    <purpose type='application'/>
+    <purpose type='observation'/>
     <heading>White bronzing</heading>
 
     <block>Apply some black with glue on the medal, as described above, and then varnish it. Once

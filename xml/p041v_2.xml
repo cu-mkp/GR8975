@@ -2,6 +2,7 @@
 <!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p041v_2">
     <folio number="041v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image"/>
+    <purpose type='observation'/>
     <heading>Sheared ewes</heading>
     <block>If the shearer wounds them at some point, he applies the very excrement of the ewe on it.
         When they are fat, they are easier to shear and do not get hurt as easily.</block>

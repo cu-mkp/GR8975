@@ -2,7 +2,13 @@
 <entry identifier="p039v_a3">
 
     <folio number="039v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image"/>
+<<<<<<< HEAD
+    <purpose type='making'/>
+    <purpose type='application'/>
+    <purpose type='observation'/>
+=======
     
+>>>>>>> 32f9bf7f295765f5716963065d32271b7228e8c1
     <annotations>
         <annotation title="Tracing a history on glass"
                     url="https://docs.google.com/document/d/1hadGQunGoh9R6eJUndm-5MxRcoIi_r95EOG-ZqizP4Y/edit"/>
