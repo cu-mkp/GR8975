@@ -1,11 +1,13 @@
-<entry identifier="p102r_3">
+<entry identifier="p102r_3" group="Colchos">
 <folio
 number="102r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image"/>
+<purpose type="making"/>
 
 <heading>Royal cement</heading>
 
-<list purpose="making">
+<list>
+<activity type="Colchos"/>
 <item>One pound and a half of <material>vitriol</material></item>
 
 <item>As much <material>saltpeter</material></item>

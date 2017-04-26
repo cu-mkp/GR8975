@@ -1,10 +1,12 @@
 <entry identifier="p109r_3">
 <folio number="109r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f223.image"/>
 <purpose type="making"/>
+<activity type="molding"/>
+<activity type="waxwork"/>
 
 <heading>Molding <material>wax</material></heading>
 
-<block><activity type="molding"/>So that your mold takes hold without repelling any surface on a form or figure in <material>wax</material>, it is necessary to rub the <material>wax</material> with <material>oil</material> and soak your <material>sand</material> in lukewarm <material>water</material>, because cold <material>water</material> repels <material>oil</material> even more and will not make a good layer on the <material>wax</material>.</block>
+<block>So that your mold takes hold without repelling any surface on a form or figure in <material>wax</material>, it is necessary to rub the <material>wax</material> with <material>oil</material> and soak your <material>sand</material> in lukewarm <material>water</material>, because cold <material>water</material> repels <material>oil</material> even more and will not make a good layer on the <material>wax</material>.</block>
 
-<block position="left-middle"><activity type="molding"/> Rub the <material>oil</material> on very very lightly, use so little that it hardly appears at all. Then rub with some <material>spirits</material>. After soak your <material>sand</material> in lukewarm <material>water</material> so that it does not repel the <material>oil</material>.</block>
+<block position="left-middle"> Rub the <material>oil</material> on very very lightly, use so little that it hardly appears at all. Then rub with some <material>spirits</material>. After soak your <material>sand</material> in lukewarm <material>water</material> so that it does not repel the <material>oil</material>.</block>
 </entry>

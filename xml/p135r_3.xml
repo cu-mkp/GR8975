@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p135r_3">
     <folio number="135r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f275.item.r="/>"
-        <heading>Vine leaf and small frog</heading>
-    <block> To mold, take vine leaves as they are blooming, just as with all herbs &amp; flowers, or
-        a young vine regrowing after it has been cut or when the leaves come off in autumn, because
+    <heading><plant>Vine leaf</plant> and small frog</heading>
+    <block> To mold, take <plant>vine leaves</plant> as they are blooming, just as with all herbs &amp; flowers, or
+        a young <plant>vine</plant> regrowing after it has been cut or when the leaves come off in autumn, because
         new leaves are knottier &amp; have more evident veins. By contrast, old leaves are smooth
         all the way through &amp; full of holes in many places. Place therefore your leaf, its back
-        behind it against the clay plaster, and fasten it with little pins. Leave it nevertheless
-        with its natural curling. And make a notch in the clay to hide the stem for the first cast.
+        behind it against the <material>clay plaster</material>, and fasten it with little <tool>pins</tool>. Leave it nevertheless
+        with its natural curling. And make a notch in the <material>clay</material> to hide the stem for the first cast.
         And when it's done and dry, take out the stem of the leaf and clean it well with your jacket
-        and press it with a little scoop of clay. Afterwards, make many castings around the leaf
-        with wax, as you know well, &amp; make a slender casting &amp; with many lines &amp; knots. </block>
-
-    <block position="left-bottom"> You can cast a spider or frog &amp; whatever you like on the
+        and press it with a little scoop of <material>clay</material>. Afterwards, make many castings around the leaf
+        with <material>wax</material>, as you know well, &amp; make a slender casting &amp; with many lines &amp; knots. </block>
+    <block position="left-middle"> <plant>Vine leaf</plant> is painted with a <color>green</color> made of <material>scudegrun</material> &amp; verd de
+        terre. </block>
+    <block position="left-bottom"> You can cast a <animal>spider</animal> or <animal>frog</animal> &amp; whatever you like on the
         leaf. </block>
 </entry>
