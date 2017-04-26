@@ -1,6 +1,6 @@
 <?xml encoding="UTF-8"?>
 
-<!ELEMENT entry (#PCDATA|block|figure|folio|heading|purpose|annotations|list|margin-block)*>
+<!ELEMENT entry (#PCDATA|activity|purpose|block|figure|folio|heading|purpose|annotations|list|margin-block)*>
 <!ATTLIST entry
   group NMTOKEN #IMPLIED
   identifier NMTOKEN #REQUIRED>
@@ -133,7 +133,7 @@
 
 <!ELEMENT activity (#PCDATA|material)*>
 <!ATTLIST activity
-  type CDATA #IMPLIED>
+  type CDATA #REQUIRED>
 
 <!ELEMENT unit (#PCDATA|tool)*>
 <!ATTLIST unit
