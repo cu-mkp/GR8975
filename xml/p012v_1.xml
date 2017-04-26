@@ -1,11 +1,19 @@
 <entry identifier="p012v_1">
     <folio number="012v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f30.image"/>
 
-    <heading> Moulding <material>stucco</material> promptly </heading>
+    <heading>Moulding <material>stucco</material> promptly</heading>
 
-    <block>Crush and pulverize finely brick or Armenian bole or sanguine and incorporate it with
-        melted wax, and thus melted, cast like the others on a relief medal, and so you will have a
-        hollow mold where you will be able to cast ground paper or cimolee.</block>
-    
-    <block position="left-top">Finely sieved brick is better, since bole is too fat</block>
+    <block><activity type="molding"/>
+        <activity type="casting"/>
+        <purpose type="making"/> Crush and pulverize finely <material>brick</material> or
+            <material>Armenian bole</material> or <material>sanguine</material> and incorporate it
+        with <material_format>melted <material>wax</material></material_format>, and thus melted,
+        cast like the others on a <tool>relief medal</tool>, and so you will have a <tool>hollow
+            mold</tool> where you will be able to cast <material_format>ground
+                <material>paper</material></material_format> or
+        <material>cimolee</material>.</block>
+
+    <block position="left-top"><purpose type="observation"/><material_format>Finely sieved
+                <material>brick</material></material_format> is better, since
+            <material>bole</material> is too fat</block>
 </entry>

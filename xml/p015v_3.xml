@@ -1,6 +1,7 @@
 <entry identifier="p015v_3">
     <folio number="015v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item"/>
-
+    <purpose type="making"/>
+    <activity type="stamping"/>
     <heading>Stamping</heading>
 
     <block>If you have a bronze medal and you want to make it very light, make a lead cavity, then

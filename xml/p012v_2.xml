@@ -4,8 +4,9 @@
     <heading>Cleaning <color>yellow</color>
         <material>pearls</material></heading>
 
-    <block>Gently boil them in a goldsmith's bouteure then, with tripoly and a small piece of
-        leather, sprinkled on the flesh side with the powder of the said tripoly, rub and polish the
-        pearl.</block>
-    
+    <block><purpose type="application"/>
+        <activity type="polishing"/>Gently boil them in a goldsmith's bouteure then, with tripoly
+        and a small piece of leather, sprinkled on the flesh side with the powder of the said
+        tripoly, rub and polish the pearl.</block>
+
 </entry>

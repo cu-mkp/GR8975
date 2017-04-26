@@ -1,6 +1,8 @@
 <entry identifier="p013v_4">
     <folio number="013v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image"/>
-
+    <purpose type="observation"/>
+    <activity type="animals"/>
+    
     <heading>Snakes</heading>
 
     <block>It is said that if one calls a snake in Greek, saying ΟΦΗ ΟΦΗ, it will flee. Similarly,

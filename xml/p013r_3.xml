@@ -1,6 +1,7 @@
 <entry identifier="p013r_3">
     <folio number="013r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image"/>
-
+    <purpose type="observation"/>
+    <activity type="polishing"/>
     <heading>Polishing of stones</heading>
 
     <block>Engraved stones are not polished on a copper wheel, but with brushes and tripoli. Yet

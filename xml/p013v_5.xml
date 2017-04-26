@@ -1,6 +1,7 @@
 <entry identifier="p013v_1">
     <folio number="013v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image"/>
-
+    <purpose type="observation"/>
+    <activity type="waxwork"/>
     <heading>Candles</heading>
 
     <block>Candlemakers never make good candles when the autan wind blows because they always melt,

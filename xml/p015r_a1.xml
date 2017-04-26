@@ -4,7 +4,8 @@
     <annotations>
         <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDV0hwRWRzOFVad3c" title="Damasked Cloth"/>
     </annotations>
-    
+    <purpose type="making"/>
+    <activity type="dyeing"/>
     <heading>Damask Cloth</heading>
 
     <block>You can make damask cloth of two different colours and imitate embroidery without adding
