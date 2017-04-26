@@ -1,6 +1,7 @@
 <entry identifier="p015v_2">
     <folio number="015v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item"/>
-
+    <purpose type="observation"/>
+    <activity type="optics"/>
     <heading>Making letters easier to read</heading>
 
     <block>One cuts the largest pieces of beryl or crystal round on one side and flat on the other,

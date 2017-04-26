@@ -1,6 +1,8 @@
 <entry identifier="p013r_2">
     <folio number="013r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image"/>
-
+    <purpose type="making"/>
+    <purpose type="observation"/>
+    <activity type="dyeing"/>
     <heading>To dye</heading>
 
     <block>Mix sal ammoniac and vitriol and boil them together. Then mix in lake or verdigris and

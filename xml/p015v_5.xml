@@ -1,6 +1,7 @@
 <entry identifier="p015v_1">
     <folio number="015v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item"/>
-
+    <purpose type="observation"/>
+    <activity type="medicinal"/>
     <heading>Ears</heading>
 
     <block>When a defluxion occurs in the ear, be very careful not to put anything in it, and

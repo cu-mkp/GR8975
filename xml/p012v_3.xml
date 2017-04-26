@@ -1,6 +1,9 @@
 <entry identifier="p012v_3">
     <folio number="012v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f30.image"/>
-
+    <purpose type="making"/>
+    <purpose type="observation"/>
+    <activity type="polishing"/>
+    <activity type="engraving"/>
     <heading>To whiten enilanroc</heading>
 
     <block>Some believe the ceruse-color crust that is on top to be natural. Others say that it is a

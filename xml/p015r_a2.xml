@@ -1,6 +1,8 @@
 <entry identifier="p015r_a2">
     <folio number="015r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image"/>
-
+    <purpose type="making"/>
+    <purpose type="observation"/>
+    <activity type="casting"/>
     <heading>Casting metals</heading>
 
     <block>Candlesticks and small works are cast in a frame with sand. Having stamped the work,
