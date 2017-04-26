@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p093r_a2">
+    <folio number="093r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f191.image"/>
+    
+    <heading>Country folk's observation</heading>
+    
+    <block>
+       
+        When it freezes on Palm Sunday, it will freeze every month of the year
+        
+        When the first flowers fall because of the frost, the other flowers also start perish. 
+    </block>
+</entry>
+

@@ -11,11 +11,15 @@
 
     <!-- <xsl:strip-space elements="*"/>-->
     <xsl:param name="materials">
-        <xsl:sequence select="//material/normalize-space(.)"> </xsl:sequence>
+        <xsl:for-each select="distinct-values(//material[normalize-space()]/normalize-space())">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
     </xsl:param>
 
     <xsl:param name="categories">
-        <xsl:sequence select="//activity/normalize-space(@type)"> </xsl:sequence>
+        <xsl:for-each select="distinct-values(//activity[@type]/@type)">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
     </xsl:param>
 
 
@@ -49,12 +53,12 @@
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
             <xsl:text>categories: </xsl:text>
             <xsl:text>[</xsl:text>
-            <xsl:value-of select="replace($categories, ' ', ', ')"/>
+            <xsl:value-of select="$categories"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>tags: </xsl:text>
             <xsl:text>[</xsl:text>
-            <xsl:value-of select="replace($materials, ' ', ', ')"/>
+                <xsl:value-of select="$materials"/>            
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>---&#x0A;&#x0A;</xsl:text>

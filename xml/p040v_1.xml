@@ -1,12 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p040v_1">
-    
+
     <folio number="040v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image"/>
+<<<<<<< HEAD
     <purpose type='observation'/>
     <purpose type='application'/>
+=======
+    <annotations>
+            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDWm03YUhIbEltRHM" title="Rouge Clair, fol. 40v (Chang, Shi)"/>
+        </annotations>
+
+>>>>>>> 32f9bf7f295765f5716963065d32271b7228e8c1
     <heading>Cross of the commanders of Malta</heading>
-    
+
     <block>The fine rouge clair which is the background of the white enamel cross is of fine
         dragon's blood drops soaked with eau de vie or Indian laque plate, which I believe is made
         in Flanders, distempered with clear turpentine and mastic drops and applied on a silver

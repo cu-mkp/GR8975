@@ -1,9 +1,23 @@
 <entry identifier="p158v_1">
-<folio
-number="158v"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image"/>
+    <folio number="158v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f322.image"/>
+    
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDSU1RN3ExeW5WclU" title="Color for Green"/>
+    </annotations>
+    
+    <heading>Colors for green leafs</heading>
 
-<heading>Colors for green leafs</heading>
-
-<block><purpose type="making">One usually paints them with <material>oil colors</material>, because distemper colors do not stay on. For <material>marigold flowers</material>, lightly ground <material>minium</material> for some of them; for more yellowish ones, mix in a bit of <material>massicot</material>. For green, the <material>vert-de-gris</material> is dark and too somber. If it is a yellowish-green, you can mix with the <material>vert-de-gris</material> a bit of yellow ochre and scudegrum. If the green is dark, mix in some coals made from peach pits, which makes a greenish-black, in the same way than the bone of an ox foot bone makes a bluish-black. And in such a manner, by judgement and discretion, put the color on the natural flower or leaf to see whether it is similar to the original. But paint it on very lightly so as not to cover the features of the work.</purpose></block>
+    <block>
+        <purpose type="making">One usually paints them with <material><foreign>oil</foreign> colors</material>, because
+            distemper colors do not stay on. For <material>marigold flowers</material>, lightly
+            ground <material>minium</material> for some of them; for more yellowish ones, mix in a
+            bit of <material>massicot</material>. For green, the <material>vert-de-gris</material>
+            is dark and too somber. If it is a yellowish-green, you can mix with the
+                <material>vert-de-gris</material> a bit of yellow ochre and scudegrum. If the green
+            is dark, mix in some coals made from peach pits, which makes a greenish-black, in the
+            same way than the bone of an ox foot bone makes a bluish-black. And in such a manner, by
+            judgement and discretion, put the color on the natural flower or leaf to see whether it
+            is similar to the original. But paint it on very lightly so as not to cover the features
+            of the work.</purpose>
+    </block>
 </entry>
