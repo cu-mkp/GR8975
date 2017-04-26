@@ -2,15 +2,15 @@
 <entry identifier="p138v_2">
     <folio number="138v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r="/>
 
-    <heading>Gold casted very thinly</heading>
-    <block> When goldsmiths have to solder something quickly but don't have enough time to forge it,
-        they melt gold and then they pour it on a cloth or on anything else that withstands fire.
-        Then they flatten it swiftly with a hammer or another similar tool, and it [the gold] is
+    <heading><material>Gold</material> casted very thinly</heading>
+    <block> When <profession>goldsmiths</profession> have to solder something quickly but don't have enough time to forge it,
+        they melt <material>gold</material> and then they pour it on a <tool>cloth</tool> or on anything else that withstands fire.
+        Then they flatten it swiftly with a <tool>hammer</tool> or another similar tool, and it [the gold] is
         very tenuous and it even retains the impression of the cloth. </block>
 
-    <block> Unalloyed pure gold can be cast into a medal but not into herbs and lizards or other
+    <block> Unalloyed pure <material>gold</material> can be cast into a medal but not into <plant>herbs</plant> and <animal>lizards</animal> or other
         very delicate things if it is not alloyed. </block>
-    <block> A pansy which is oiled with wheat oil can be cast with alloyed gold. </block>
-    <block> And other fruit leaves, but with branch[es] that are not large and especially the
+    <block> A <plant>pansy</plant> which is oiled with <material>wheat oil</material> can be cast with alloyed <material>gold</material>. </block>
+    <block> And other <plant>fruit leaves</plant>, but with branch[es] that are not large and especially the
         leaves, once cast, can be soldered. </block>
 </entry>

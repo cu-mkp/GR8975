@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p137r_1">
     <folio number="137r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image"/>
-    <heading>Casting red copper</heading>
-    <block> Pure cauldron red copper, or copper of any other small works, is good to cast. To make
-        it runny, add some sal ammoniac to it, and when you are about to cast, add a little bit of
-        fine tin. One must cast the copper very hot into the mold, so that it is burning and very
-        red, like gold, silver, latten, and metal. You will know that it is hot enough when it is
+    <heading>Casting <material>red copper</heading>
+    <block> Pure cauldron <material>red copper</material>, or copper of any other small works, is good to cast. To make
+        it runny, add some <material>sal ammoniac</material> to it, and when you are about to cast, add a little bit of
+        fine <material>tin</material>. One must cast the <material>copper</material> very hot into the mold, so that it is burning and very
+        red, like <material>gold</material>, <material>silver</material>, <material>latten</material>, and metal. You will know that it is hot enough when it is
         clear and shining like a newly polished steel mirror, or like melted silver. Protect it from
         wind so that it doesn't cool down too soon. Cover your cast with tow in order to prevent it
-        from cooling down. Red copper is cleaner than latten, which smokes a lot, which prevents the
+        from cooling down. <material>Red copper</material> is cleaner than <material>latten</material>, which smokes a lot, which prevents the
         metal from running. I have moulded it as a noyau very neatly, and as thin as a piece of
         paper. It must be very hot, white and shining like melted silver, or a mirror. I have
         moulded it as a noyau with the same sand mentioned above. </block>
-    <block position="left-top"> It takes more time to melt copper and latten than any other metals,
-        even red copper. It will run and will comes out well if you cast it very hot, and as thin as
+    <block position="left-top"> It takes more time to melt <material>copper</material> and <material>latten</material> than any other metals,
+        even <material>red copper</material>. It will run and will comes out well if you cast it very hot, and as thin as
         water. </block>
     <block position="left-top"> Remove your mold from the fire, and set it into embers, which should
-        fill a pot or vessel. </block>
+        fill a <tool>pot</tool> or <tool>vessel</tool>. </block>
 </entry>
