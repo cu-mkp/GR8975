@@ -68,8 +68,8 @@
     </block>
 
         
-        <block>
-        left-middle a b
+        <block position="left-middle">
+        a b
         
         D
         
