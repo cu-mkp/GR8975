@@ -2,10 +2,14 @@
     <folio number="013v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image"/>
     <purpose type="observation"/>
     <activity type="animals"/>
-    
-    <heading>Snakes</heading>
 
-    <block>It is said that if one calls a snake in Greek, saying ΟΦΗ ΟΦΗ, it will flee. Similarly,
-        that if one calls a swine in Greek, ïon, it will come.</block>
+    <heading>
+        <animal>Snakes</animal>
+    </heading>
+
+    <block>It is said that if one calls a <animal>snake</animal> in Greek, saying <foreign
+            language="greek">ΟΦΗ ΟΦΗ</foreign>, it will flee. Similarly, that if one calls a
+            <animal>swine</animal> in Greek, <foreign language="greek">ïon</foreign>, it will
+        come.</block>
 
 </entry>

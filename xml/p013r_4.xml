@@ -1,18 +1,30 @@
 <entry identifier="p013r_4">
     <folio number="013r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image"/>
-    
-    <heading>Fine sieves of raw silk</heading>
+
+    <heading><tool>Fine sieves</tool> of <material_format>raw
+            <material>silk</material></material_format></heading>
 
     <block>
         <activity type="weaving"/>
         <purpose type="observation">
-        Tammy of raw silk is made on a weaver, to make very fine and delicate sieves.</purpose> <purpose type="advice">And for
-        that effect, you must not choose raw silk whitened by sulfur smoke: this covers the silk in
-        a sticky vapor that would hold the flour and in the end would prevent it from</purpose></block>
+            <material_format>Tammy</material_format> of <material_format>raw
+                    <material>silk</material></material_format> is made on a <tool>weaver</tool>, to
+            make <tool>very fine and delicate sieves</tool>.</purpose>
+        <purpose type="advice">And for that effect, you must not choose <material_format>raw
+                    <material>silk</material></material_format>
+            <color>white</color>ned by <material_format><material>sulfur</material>
+                smoke</material_format>: this covers the <material>silk</material> in a sticky vapor
+            that would hold the <material>flour</material> and in the end would prevent it
+            from</purpose>
+    </block>
 
     <folio number="013v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image"/>
 
-    <block><purpose type="advice">passing through so well. But for this effect, choose yellow and natural raw silk because
-        it is stronger and rejects flour as horsehair does.</purpose></block>
+    <block>
+        <purpose type="advice">passing through so well. But for this effect, choose
+                <material_format>yellow and natural raw <material>silk</material></material_format>
+            because it is stronger and rejects <material>flour</material> as
+                <material>horsehair</material> does.</purpose>
+    </block>
 
 </entry>

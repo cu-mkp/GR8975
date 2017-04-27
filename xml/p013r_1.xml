@@ -2,11 +2,16 @@
     <folio number="013r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image"/>
     <purpose type="observation"/>
     <activity type="painting"/>
-    <heading>Flesh color with arsenic</heading>
+    <heading><color>Flesh color</color> with <material>arsenic</material></heading>
 
-    <block>Sublimated arsenic, that is to say, the white kind sold as stone, when powdered on
-        marble, mixed with vermilion or laque or mine, produces a beautiful flesh color that always
-        shines. Yellow arsenic has a very beautiful color, the white one works well in oil and goes
-        well with lake.</block>
+    <block><material_format>Sublimated <material>arsenic</material></material_format>, that is to
+        say, the <color>white</color> kind sold as <material_format>stone</material_format>, when
+            <material_format>powdered</material_format> on <tool><material>marble</material></tool>,
+        mixed with <material>vermilion</material> or <material>lake</material> or
+            <material>mine</material>, produces a beautiful <color>flesh color</color> that always
+        shines. <material_format><color>Yellow</color>
+            <material>arsenic</material></material_format> has a very beautiful color, the
+            <color>white</color> one works well in <material>oil</material> and goes well with
+        lake.</block>
 
 </entry>

@@ -5,8 +5,9 @@
     <activity type="dyeing"/>
     <heading>To dye</heading>
 
-    <block>Mix sal ammoniac and vitriol and boil them together. Then mix in lake or verdigris and
-        azure or similar colors, and dye. This will not come off unless the animal sheds. @Non
-        bona.</block>
+    <block>Mix <material>sal ammoniac</material> and <material>vitriol</material> and boil them
+        together. Then mix in <material>lake</material> or <material>verdigris</material> and
+            <material>azure</material> or similar colors, and dye. This will not come off unless the
+        <animal>animal</animal> sheds. @Non bona.</block>
 
 </entry>

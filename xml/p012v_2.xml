@@ -5,8 +5,8 @@
         <material>pearls</material></heading>
 
     <block><purpose type="application"/>
-        <activity type="polishing"/>Gently boil them in a goldsmith's bouteure then, with tripoly
-        and a small piece of leather, sprinkled on the flesh side with the powder of the said
-        tripoly, rub and polish the pearl.</block>
+        <activity type="polishing"/>Gently boil them in a <tool><profession>goldsmith</profession>'s <foreign language="french">bouteure</foreign></tool> then, with <material>tripoli</material>
+        and a <tool>small piece of <material>leather</material></tool>, sprinkled on the flesh side with the powder of the said
+        <material>tripoli</material>, rub and polish the <material>pearl</material>.</block>
 
 </entry>

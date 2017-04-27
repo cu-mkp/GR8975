@@ -4,7 +4,8 @@
     <activity type="optics"/>
     <heading>Making letters easier to read</heading>
 
-    <block>One cuts the largest pieces of beryl or crystal round on one side and flat on the other,
-        then one fits it with a little handle and puts the flat side on the letter</block>
+    <block>One cuts the largest pieces of <material>beryl</material> or <material>crystal</material>
+        round on one side and flat on the other, then one fits it with a little handle and puts the
+        flat side on the letter</block>
 
 </entry>

@@ -4,8 +4,12 @@
     <activity type="stamping"/>
     <heading>Stamping</heading>
 
-    <block>If you have a bronze medal and you want to make it very light, make a lead cavity, then
-        spread upon it a thin plate of gold, or sheets of lead or reheated silver, place your bronze
-        medal on top and hammer it with a wood mallet.</block>
+    <block>If you have a <material_format><material>bronze</material> medal</material_format> and
+        you want to make it very light, make a <material>lead</material> cavity, then spread upon it
+        a <material_format>thin plate of <material>gold</material></material_format>, or
+            <material_format>sheets of <material>lead</material></material_format> or
+            <material_format>reheated <material>silver</material></material_format>, place your
+                <material_format><material>bronze</material> medal</material_format> on top and
+        hammer it with a <tool><material>wood</material> mallet</tool>.</block>
 
 </entry>

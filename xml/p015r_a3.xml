@@ -2,12 +2,16 @@
     <folio number="015r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image"/>
     <purpose type="observation"/>
     <activity type="casting"/>
-    <heading>Casting gold and silver</heading>
+    <heading>Casting <material>gold</material> and <material>silver</material></heading>
 
-    <block>The sand must be made from something very dry and arid and reheated well because, if it
-        were humid, like founder's sand, the gold and silver would leap out of the mold and sustain
-        damage. It is also necessary for the earth to absorb the metal because cast gold or silver
-        become very porous. That is why it must be beaten out again, otherwise it is brittle, as
-        seen in spoon handles.</block>
+    <block>The <material>sand</material> must be made from something very dry and arid and reheated
+        well because, if it were humid, like <material_format><profession>founder</profession>'s
+                <material>sand</material></material_format>, the <material>gold</material> and
+            <material>silver</material> would leap out of the <tool>mold</tool> and sustain damage.
+        It is also necessary for the <material>earth</material> to absorb the
+            <material>metal</material> because <material_format>cast
+            <material>gold</material></material_format> or <material_format>cast
+                <material>silver</material></material_format> becomes very porous. That is why it
+        must be beaten out again, otherwise it is brittle, as seen in spoon handles.</block>
 
 </entry>

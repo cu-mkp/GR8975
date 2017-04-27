@@ -4,9 +4,12 @@
     <activity type="medicinal"/>
     <heading>Toothache</heading>
 
-    <block>Some put a clove of garlic in the ear on the side of the aching tooth, and after two or
-        three hours they feel better. Others put in their nostril, on the same side as the tooth
-        that hurts, some green skin scraped from the stem of bisaube, namely that which is under the
-        grey one that looks like a vine.</block>
+    <block>Some put <material_format>a clove of <material>garlic</material></material_format> in the
+        ear on the side of the aching tooth, and after two or three hours they feel better. Others
+        put in their nostril, on the same side as the tooth that hurts, some
+                <material_format><color>green</color> skin scraped from the stem of
+                        <material><plant><foreign language="french"
+                >bisaube</foreign></plant></material></material_format>, namely that which is under
+        the <color>grey</color> one that looks like a <plant>vine</plant>.</block>
 
 </entry>

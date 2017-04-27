@@ -2,10 +2,12 @@
     <folio number="015v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item"/>
     <purpose type="observation"/>
     <activity type="preparing materials"/>
-    <heading>Softening horn</heading>
+    <heading>Softening <material>>horn</material></heading>
 
-    <block>Those who mount acou Agnus Deis and make circles from horn for certain little boxes
-        soften the said circles by soaking them in hot water and then shape them on a round or
-        oval-shaped triblet.</block>
+    <block>Those who mount <foreign language="french">acou</foreign>
+        <foreign language="latin">Agnus Dei</foreign>s and make circles from
+            <material>horn</material> for certain little boxes soften the said circles by soaking
+        them in <material_format>hot <material>water</material></material_format> and then shape
+        them on a <tool>round or oval-shaped triblet</tool>.</block>
 
 </entry>

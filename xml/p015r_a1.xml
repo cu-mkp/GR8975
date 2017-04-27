@@ -2,21 +2,23 @@
     <folio number="015r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f35.image"/>
 
     <annotations>
-        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDV0hwRWRzOFVad3c" title="Damasked Cloth"/>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDV0hwRWRzOFVad3c"
+            title="Damasked Cloth"/>
     </annotations>
     <purpose type="making"/>
     <activity type="dyeing"/>
     <heading>Damask Cloth</heading>
 
     <block>You can make damask cloth of two different colours and imitate embroidery without adding
-        anything else to it, as follows. Once it is is dyed yellow, pounce onto it such a pattern as
-        will please you. Then you will sew some string or a bigger cord loosely onto the pattern and
-        throw it into a dye of woad or pastel and it will become green, except that which is beneath
-        the string, which will remain yellow because the green dye will not have penetrated there.
-        And you can do the same with other colours and, instead of string or cord, add some pieces
-        of poor quality cloth cut in Moorish shapes on top of the first colour. In that manner, you
-        will have cheap embroidery.</block>
-    
-    <block position="left-middle">+ by the heat of molten metal</block>
+        anything else to it, as follows. Once it is is dyed <color>yellow</color>, pounce onto it
+        such a pattern as will please you. Then you will sew some <tool>string or a bigger
+            cord</tool> loosely onto the pattern and throw it into a dye of
+            <material>woad</material> or <material>pastel</material> and it will become
+            <color>green</color>, except that which is beneath the <tool>string</tool>, which will
+        remain <color>yellow</color> because the <color>green</color> dye will not have penetrated
+        there. And you can do the same with other colours and, instead of <tool>string or
+            cord</tool>, add some <tool>pieces of poor quality cloth cut in <name type="group"
+                >Moorish</name> shapes</tool> on top of the first colour. In that manner, you will
+        have cheap embroidery.</block>
 
 </entry>

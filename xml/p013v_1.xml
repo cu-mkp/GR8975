@@ -2,12 +2,15 @@
     <folio number="013v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image"/>
     <purpose type="observation"/>
     <activity type="painting"/>
-    <heading>To recognize good azur dust for oil</heading>
+    <heading>To recognize <material_format>good <material>azur</material> dust</material_format> for
+            <material>oil</material></heading>
 
     <block>The one that piles up in small clods and is lumpy is the best because it is finer. Also
-        the one that is also very pale in color, because oil darkens it. Certain sophists mix them
-        together, but you will find this out if you pour some onto a piece of paper and lay it flat
-        and spread it with your finger since, if it is mixed, it will be found varied and so to say
-        with light and darker stripes, but if it is whole it will be even and of one color.</block>
+        the one that is also <color>very pale in color</color>, because <material>oil</material>
+        darkens it. Certain <profession>sophists</profession> mix them together, but you will find
+        this out if you pour some onto <material_format>a piece of
+            <material>paper</material></material_format> and lay it flat and spread it with your
+            <tool>finger</tool> since, if it is mixed, it will be found varied and so to say with
+        light and darker stripes, but if it is whole it will be even and of one color.</block>
 
 </entry>
