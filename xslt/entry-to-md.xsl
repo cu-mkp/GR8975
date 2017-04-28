@@ -83,8 +83,10 @@
     <xsl:template match="margin-block | block[@position]">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text>
-        <xsl:text>*position:&#160;</xsl:text>
-        <xsl:value-of select="@position"/>
+        <xsl:text>*at&#160;</xsl:text>
+        <xsl:value-of select="replace(@position, '-', ' ')"/>
+        <xsl:text>&#160; margin of folio </xsl:text>
+        <xsl:value-of select="preceding::folio[1]/@number"/>
         <xsl:text>*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text><xsl:text>&#x0A;</xsl:text>
