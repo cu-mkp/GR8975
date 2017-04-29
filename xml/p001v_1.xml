@@ -1,15 +1,20 @@
 <entry identifier="p001v_1">
-
 <folio number="001r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f8.image"/>
 
+<heading>For easing the belly</heading>
 
-<purpose type="Medicinal">For easing the belly
-
+<activty type="Making"/>
+<purpose type="Medicine"/>
+<block>
 <material>Prunes of Saint Antonin</material>, and if you like you can put <material_format><material>leaves of malva</material> and <material>viola</material></material_format>, adding some <material>sugar</material> and, if you like, some <material>cinnamon</material> for the stomach.
+</block/
 
-Or in a <material>chicken broth</material>, add some <material>marshmallow root</material>. When fresh it is more mollifying.
+<block>
+  Or in a <material>chicken broth</material>, add some <material>marshmallow root</material>. When fresh it is more mollifying.
+</block>
 
+<block>
+  Stirring together <material_format>cirop de <material>guindoles doulces</material></material_format> with <material>water</material> and taking some of this in the morning eases the belly.
+</block>
 
-Stirring together <material_format>cirop de <material>guindoles doulces</material></material_format> with <material>water</material> and taking some of this in the morning eases the belly.
-</purpose>
 </entry>
