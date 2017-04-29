@@ -1,8 +1,7 @@
 <entry identifier="p001r_a1">
-  <folio number="001r"
-    url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image"/>
+  <folio number="001r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f7.image"/>
 
-<heading>[List of artisans with their locations]</heading>
+  <heading>[List of artisans with their locations]</heading>
   <list>
     <item><personal_name>Nicolas Coste</personal_name>, in the <place>Rue de la Heaumerie</place>,
       at the sign of <place>St Claude</place>/Mirrors</item>
@@ -11,8 +10,8 @@
         Germain</place>, knows about the master</item>
 
     <item><personal_name>Master Jehan Garnier</personal_name>, in the <place>Rue des Escrivains by
-      St Jacques de la Boucherie</place>, <profession>currier</profession>. Try <plant>woad</plant>
-        flowers</item>
+        St Jacques de la Boucherie</place>, <profession>currier</profession>. Try
+        <plant>woad</plant> flowers</item>
 
   </list>
 </entry>
