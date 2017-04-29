@@ -7,8 +7,10 @@
         <heading>
             Casting wax to mold an animal that one has not got
         </heading>
-
-        <block purpose="making">
+    <purpose type="making"/>
+    <activity type="casting"/>
+    <activity type="wax casting"/>
+        <block>
             Take some <material>white wax</material> which is much more
             appropriate for this kind of work than anything else, because it is much firmer and does
             not leave as much filth, as much as you need to cast the animal that you propose, and no

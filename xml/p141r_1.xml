@@ -2,7 +2,10 @@
     <folio number="141r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image"/>
 
     <heading>Casting a crayfish</heading>
-
+    <purpose type="making"/>
+    <activity type="casting"/>
+    <activity type="casting animals"/>
+    
     <block purpose="making"> The <animal>crayfish</animal> is one of the most fantastical to cast,
         but also <!-- <activity type="reference"> -->provides an example for casting
             other difficult things<!-- </activity>  -->. You can distinguish males and female by the eggs that

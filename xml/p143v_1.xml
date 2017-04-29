@@ -2,7 +2,8 @@
 <entry identifier="p143v_1">
     <folio number="143v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f292.image"/>
     <heading>Openwork carcanets </heading>
-
+    <purpose type="making"/>
+    <activity type="embellishing"/>
     <block> You can mold them "en <material>noyau</material>" like <animal>crayfish</animal>, first
         with one side being made higher with <material>clay</material>, which is hollow, and then
         you open it from the other side and make the second casting. You can just as well cast them

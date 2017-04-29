@@ -2,7 +2,10 @@
 <entry identifier="p137v_a1">
     <folio number="137v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f280.image"/>
 
-    <heading>Wetting <material>sand</material> to mold flat medals</heading>
+    <heading>Wetting sand to mold flat medals</heading>
+    <purpose type="making"/>
+    <activity type="casting"/>
+    
     <block> Flat medals, made of <material>wax</material> or metal, must be oiled very lightly and then touched with a
         brush of <material>spirits</material>. So that the already moistened mold takes well the oiled thing without
         rejecting it, one warms the water well in order to wet the <material>sand</material>, because with cold water it

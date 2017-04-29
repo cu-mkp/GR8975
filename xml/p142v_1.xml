@@ -5,8 +5,11 @@
         <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDfkJmS2RybjBpTmpsVFhDQVo1RVZKMjRGY0d6QlNTYVhqS1VsYi13a0FkLUU" title="Too Thin Things"/>
   </annotations>
   
-  <heading>Molding <animal>grasshoppers</animal> and things too thin</heading>
-
+  <heading>Molding grasshoppers and things too thin</heading>
+  <purpose type="making"/>
+  <activity type="casting"/>
+  <activity type="casting animals"/>
+<activity type="casting things too thin"/>   
   <!-- <related-block>  -->
     <block purpose="making"> If you have to mold a piece of written-on paper that
           is too thin, after you have done the first cast and it has set, give

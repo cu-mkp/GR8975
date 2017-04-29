@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p134r_2">
     <folio number="134r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f273.image"/>
-    <heading><material>Sand</material> made of <material>crocum [ferri]</material></heading>
+    <heading>Sand made of crocum [ferri]</heading>
+    <purpose type="making"/>
+    <activity type="making sand"/> 
     <block> You can use the mixture made of <material>crocum ferri</material> to cast
             <material>silver</material> or <material>gold</material>, this mixture will make these
         casts firm, and prevent these from cracking and making burrs. And I believe that for flat

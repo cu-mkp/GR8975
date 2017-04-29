@@ -2,6 +2,8 @@
 <entry identifier="p135v_a1">
     <folio number="135v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f276.item.r="/>"
     <heading>Casting <material>gold</material></heading>
+    <purpose type="making"/>
+    <activity type="casting"/>
     <block> Take a <tool>crusol</tool> that can contain a certain amount, as you wish to place roughly crushed
         <material>borax</material> into it. Place [the borax] at the bottom and then the <material>gold</material> on top of it. Arrange the
         <material>coal</material> in the forge in such a way that the wind of the bellow will blow above the <tool>crusol</tool> and

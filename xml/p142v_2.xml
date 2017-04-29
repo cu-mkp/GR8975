@@ -3,7 +3,9 @@
   
     <heading>Molds</heading>
     <!--this entry seems to be about advice on handling molds-->
-
+  <purpose type="making"/>
+  <activity type="maintenance"/>
+  
     <block purpose="advice">Make some notches in them the molds that enter more into the inside of
       the mold than the outside because in this way, they have more strength. Take care to keep from
       reheating them suddenly in a burning hot fire, because this will make them break. </block>

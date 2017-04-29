@@ -3,7 +3,9 @@
 
     <folio number="130v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f266.item.r=.zoom"/>
     <heading> Molding a crab</heading>
-
+<purpose type="making"/>
+    <purpose type="advice"/>
+    <activity type="casting animals"/>
     <block> It is a secret and a masterpiece to mold [a crab] well because it is necessary to
         proceed differently [than you would] with other animals, because its shell is quite
         difficult to [...] and that is why it is necessary to reheat the mold three or four times.

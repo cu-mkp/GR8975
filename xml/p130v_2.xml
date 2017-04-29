@@ -4,6 +4,8 @@
 
 
     <heading>Stag beetle </heading>
+    <purpose type="making"/>
+    <activity type="casting animals"/>
     <block> Like a <animal>crab</animal>, it [a <animal>stag beetle</animal>] is also difficult to
         burn, therefore do [<animal>stag beetles</animal>] as you did <animal>crabs</animal>.
     </block>

@@ -2,6 +2,8 @@
 <entry identifier="p131r_5">
     <folio number="131r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f267.item.r="/>
     <heading>Molded wax</heading>
+    <purpose type="making"/>
+
     <block>
         <material>Wax</material> representations made from <material>white lead</material> and
             <material>cerussite</material> are not made to be burned and melted in a mold where you

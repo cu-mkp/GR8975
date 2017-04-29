@@ -3,6 +3,8 @@
     <folio number="138v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f282.item.r="/>
 
     <heading><material>Gold</material> casted very thinly</heading>
+    <purpose type="making"/>
+    <activity type="casting"/>
     <block> When <profession>goldsmiths</profession> have to solder something quickly but don't have enough time to forge it,
         they melt <material>gold</material> and then they pour it on a <tool>cloth</tool> or on anything else that withstands fire.
         Then they flatten it swiftly with a <tool>hammer</tool> or another similar tool, and it [the gold] is

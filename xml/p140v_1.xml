@@ -7,7 +7,9 @@
     </annotations>
 
         <heading>To cast in <material>sulfur</material></heading>
-
+    <purpose type="making"/>
+    <activity type="casting"/>
+    <activity type="casting with sulfur"/>
         <block purpose="making"> To cast neatly in <material>sulfur</material>, arrange the pith of
                 <tool>bread</tool> under the <tool>brazier</tool>, as you know. Mold whatever
             you want into it &amp; let it dry &amp; you will have very neat work. </block>

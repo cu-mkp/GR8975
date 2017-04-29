@@ -4,6 +4,9 @@
     <folio number="137r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f279.image"/>
     <heading>
         <material>Huile tingente</material> to make metal runny </heading>
+    <purpose type="making"/>
+    <purpose type="advice"/>
+
     <block> Take some <material>mercury</material>, some real sublimate of
             <material>venice</material>, and not sublimate of <material>arsenic</material>,
             <material>aes ustum a poix</material>, <material>sal ammoniac</material>, <material>a

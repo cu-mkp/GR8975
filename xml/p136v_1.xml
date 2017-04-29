@@ -3,6 +3,8 @@
 <entry identifier="p136v_1">
     <folio number="136v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f278.image"/>
     <heading><material>latten</material> casting </heading>
+    <purpose type="making"/>
+    <activity type="casting"/>
     <block> Take <material>latten</material> from <tool>skillet pans</tool>, used to make baby's
         cereal, which is doulx and apt for the cast. Some people say that <tool>counter</tool> from
             <place>Germany</place> contain a lot of <material>calamine</material>. However, when

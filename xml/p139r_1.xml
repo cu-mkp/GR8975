@@ -2,7 +2,10 @@
     <folio number="139r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f283.image"/>
 
     <heading>Casting with <material>lead</material> and <material>tin</material></heading>
-
+    <purpose type="making"/>
+    <activity type="casting"/>
+    <activity type="casting animals"/>
+   
     <!-- <related-block>  -->
     <block purpose="making">
         <!-- <activity type="casting">  --> The way I have done it <!-- casting --> for
