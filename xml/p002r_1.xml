@@ -1,6 +1,7 @@
 <entry_identifier ="p002r_1">
 
-<folio number="001r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f9.image"/>
+<folio number="002r"
+  url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f9.image"/>
 
 
 <heading>Books to recover</heading>
@@ -23,3 +24,4 @@
   <item>Philippe de Commines</item>
 
 </list>
+</entry>
