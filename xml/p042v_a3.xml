@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p042v_a3">
-<<<<<<< HEAD
 
     <folio number="042v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image"/>
-    <purpose type='advice'/>
-    <purpose type='application'/>
-=======
-    
->>>>>>> 32f9bf7f295765f5716963065d32271b7228e8c1
+    <purpose type="advice"/>
+    <purpose type="application"/>
+
     <annotations>
-        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDTmhNdHU1YnRjeG8" title="Oil Painting on Taffeta"/>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDTmhNdHU1YnRjeG8"
+            title="Oil Painting on Taffeta"/>
     </annotations>
-    
+
     <folio number="042v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image"/>
-  
+
     <heading>Oil painting on taffeta</heading>
 
-    <block>In order that the oil not run, make your first layer with honey, water of alum, and
-        essence of amidin.</block>
+    <block>In order that the <material>oil</material> not run, make your first layer with
+        <material>honey</material>, <material>water of alum</material>, and <material>essence of amidin</material>.</block>
 </entry>

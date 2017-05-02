@@ -1,12 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p041r_04">
-    
     <folio number="041r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image"/>
-    <purpose type='observation'/>
+    <purpose type="observation"/>
     <heading>Ducks</heading>
-    
     <block>Young domestic ones do not grow for a month after hatching but remain in this state. But
-        after, they soon grow up, even if they go into the water. They are fed boiled millet grains,
-        to which are added crumbled bread and finely chopped lettuce.</block>
+        after, they soon grow up, even if they go into the water. They are fed boiled
+            <material>millet grains</material>, to which are added crumbled
+            <material>bread</material> and finely chopped <material>lettuce</material>.</block>
 </entry>

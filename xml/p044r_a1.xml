@@ -2,12 +2,13 @@
 <entry identifier="p044r_a1">
 
     <folio number="044r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image"/>
-    <purpose type='observation'/>
+    <purpose type="observation"/>
     <heading>The reach of an arquebuse</heading>
 
-    <block>The proportion of a fowling piece is: 4 king's feet long and the bullet weights xviii
-        pennyweights, the expulsion vi pennyweight of powder, its range iiii-by-xx pans and 3 and a
-        half feet and two thumbs and around a line, which is the Paris aulne. The medium arquebuse,
-        which is the usual one and the easiest, admits xv pennyweight of bullet, v pennyweight of
-        powder &amp; reaches lx paces.</block>
+    <block>The proportion of a fowling piece is: 4 king's feet long and the <tool>bullet</tool>
+        weights xviii pennyweights, the expulsion vi pennyweight of <material>powder</material>, its
+        range iiii-by-xx pans and 3 and a half feet and two thumbs and around a line, which is the
+            <place>Paris</place> aulne. The medium <tool>arquebus</tool>, which is the usual one and
+        the easiest, admits xv pennyweight of bullet, v pennyweight of powder &amp; reaches lx
+        paces.</block>
 </entry>

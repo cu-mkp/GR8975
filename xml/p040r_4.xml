@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p040r_4">
-    
     <folio number="040r" url="hhttp://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image"/>
-    <purpose type='observation'/>
-    <purpose type='application'/>
+    <purpose type="observation"/>
+    <purpose type="application"/>
     <heading>Silver gilt buttons</heading>
-    
-    <block>Because silver gilt does not fear fire, it is cut into lozenges flat[illegible] on one
-        side, then they are joined together in a star shape with a paste of crushed enamel, which is
-        then melted &amp; the enamel is gilt with gold leaf and then reheated.</block>
+    <block>Because <material>silver gilt</material> does not fear fire, it is cut into lozenges
+        flat[illegible] on one side, then they are joined together in a star shape with a paste of
+            <material>crushed enamel</material>, which is then melted &amp; the enamel is gilt with
+        <material>gold leaf</material> and then reheated.</block>
 </entry>

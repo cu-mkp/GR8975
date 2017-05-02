@@ -2,11 +2,13 @@
 <entry identifier="p044v_4">
 
     <folio number="044v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f94.image"/>
-    <purpose type='application'/>
-    <purpose type='advice'/>
+    <purpose type="application"/>
+    <purpose type="advice"/>
     <heading>Stucco</heading>
 
-    <block>To stick stones, some do not use gem and pitch black rosin because it is too greasy, but
-        they use as much rosin and sulphur and the same quantity of wax and then add finely ground
-        brick. Others some white chalk and crushed and powdered and sieved white stone.</block>
+    <block>To stick <material>stones</material>, some do not use <material>gem</material> and pitch
+        black <material>rosin</material> because it is too greasy, but they use as much rosin and
+            <material>sulphur</material> and the same quantity of <material>wax</material> and then
+        add finely ground <material>brick</material>. Others some <material>white chalk</material>
+        and crushed and powdered and sieved <material>white stone</material>.</block>
 </entry>

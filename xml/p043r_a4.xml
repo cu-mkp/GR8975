@@ -2,11 +2,12 @@
 <entry identifier="p043r_a4">
 
     <folio number="043r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f91.image"/>
-    <purpose type='application'/>
-    <purpose type='observation'/>
+    <purpose type="application"/>
+    <purpose type="observation"/>
     <heading>White bronzing</heading>
 
-    <block>Apply some black with glue on the medal, as described above, and then varnish it. Once
-        dry, rub it with English point using a brush or your finger. The said rubbed point
-        embellishes lead medals.</block>
+    <block>Apply some <material>black</material>black with <material>glue</material> on the medal,
+        as described above, and then varnish it. Once dry, rub it with <material>English
+            point</material> using a <tool>brush</tool> or your <tool>finger</tool>. The said rubbed
+        point embellishes <material>lead</material> medals.</block>
 </entry>

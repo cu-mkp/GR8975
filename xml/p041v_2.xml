@@ -2,10 +2,11 @@
 <!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p041v_2">
     <folio number="041v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image"/>
-    <purpose type='observation'/>
+    <purpose type="observation"/>
     <heading>Sheared ewes</heading>
-    <block>If the shearer wounds them at some point, he applies the very excrement of the ewe on it.
-        When they are fat, they are easier to shear and do not get hurt as easily.</block>
+    <block>If the shearer wounds them at some point, he applies the very
+            <material>excrement</material> of the ewe on it. When they are fat, they are easier to
+        shear and do not get hurt as easily.</block>
     <block position="left-middle">If the shearer wants to 'viscorter' them, that is to castrate them
         as [they] are one or two years old, he must not have been with his wife, because this would
         cause the sheep to die.</block>

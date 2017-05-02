@@ -1,22 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
 <entry identifier="p040v_1">
-
     <folio number="040v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image"/>
-<<<<<<< HEAD
-    <purpose type='observation'/>
-    <purpose type='application'/>
-=======
+    <purpose type="observation"/>
+    <purpose type="application"/>
     <annotations>
-            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDWm03YUhIbEltRHM" title="Rouge Clair, fol. 40v (Chang, Shi)"/>
-        </annotations>
-
->>>>>>> 32f9bf7f295765f5716963065d32271b7228e8c1
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDWm03YUhIbEltRHM"
+            title="Rouge Clair, fol. 40v (Chang, Shi)"/>
+    </annotations>
     <heading>Cross of the commanders of Malta</heading>
-
-    <block>The fine rouge clair which is the background of the white enamel cross is of fine
-        dragon's blood drops soaked with eau de vie or Indian laque plate, which I believe is made
-        in Flanders, distempered with clear turpentine and mastic drops and applied on a silver
-        leaf, not the one used by painters but a thicker one, which is burnished by the makers of
-        foil backings for gemstones or by goldsmiths, and that gives it its fine brilliance.</block>
+    <block>The fine rouge <material>clair</material> which is the background of the white enamel
+        cross is of fine <material>dragon's blood</material> drops soaked with <material>eau de
+            vie</material> or <material>Indian laque plate</material>, which I believe is made in
+            <place>Flanders</place>, distempered with clear <material>turpentine</material> and
+            <material>mastic</material> drops and applied on a <material>silver leaf</material>, not
+        the one used by painters but a thicker one, which is burnished by the makers of foil
+        backings for <material>gemstones</material> or by goldsmiths, and that gives it its fine
+        brilliance.</block>
 </entry>

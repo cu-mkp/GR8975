@@ -2,13 +2,15 @@
 <entry identifier="p044r_a5">
 
     <folio number="044r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image"/>
-    <purpose type='observation'/>
+    <purpose type="observation"/>
     <heading>Dyes from flowers</heading>
 
-    <block>Red poppies that grow amongst wheat make a very beautiful columbine on white leather. The
-        boufain makes a very beautiful blue. An herb which grows in hedges, which has a stem similar
-        to flax, long and broad leaves like little bugloss, which has a violet flower verging on
-        blue and looks like the fleur de lys, makes a quite beautiful turquin, better than azure.
-        Another columbine flower of the shape and size of the bugloss flower, which has a leaf like
-        that of the pansy, also makes a very beautiful turquin. It grows in wheat in light earth.</block>
+    <block><plant>Red poppies</plant> that grow amongst <plant>wheat</plant> make a very beautiful
+        columbine on white <material>leather</material>. The <material>boufain</material> makes a
+        very beautiful blue. An <plant>herb</plant> which grows in hedges, which has a stem similar
+        to <plant>flax</plant>, long and broad leaves like little <plant>bugloss</plant>, which has
+        a violet <plant>flower</plant> verging on blue and looks like the fleur de lys, makes a
+        quite beautiful turquin, better than azure. Another columbine flower of the shape and size
+        of the bugloss flower, which has a leaf like that of the <plant>pansy</plant>, also makes a
+        very beautiful turquin. It grows in wheat in light earth.</block>
 </entry>

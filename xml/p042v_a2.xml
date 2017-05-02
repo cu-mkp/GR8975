@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p042v_a2">
-    
+
     <folio number="042v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image"/>
-    <purpose type='advice'/>
-    <purpose type='making'/>
+    <purpose type="advice"/>
+    <purpose type="making"/>
     <heading>Canvas for oil painting without breaking</heading>
 
     <block>In order that your oil painting be not broken or ruined as you bend it, make your
-        (preparatory) layer with honey, a bit of oil, water, and flour.</block>
+        (preparatory) layer with <material>honey</material>honey, a bit of <material>oil</material>,
+            <material>water</material>, and <material>flour</material>.</block>
 </entry>

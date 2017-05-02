@@ -2,43 +2,45 @@
 <entry identifier="p039v_a3">
 
     <folio number="039v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f84.image"/>
-<<<<<<< HEAD
-    <purpose type='making'/>
-    <purpose type='application'/>
-    <purpose type='observation'/>
-=======
-    
->>>>>>> 32f9bf7f295765f5716963065d32271b7228e8c1
+    <purpose type="making"/>
+    <purpose type="application"/>
+    <purpose type="observation"/>
+
     <annotations>
         <annotation title="Tracing a history on glass"
-                    url="https://docs.google.com/document/d/1hadGQunGoh9R6eJUndm-5MxRcoIi_r95EOG-ZqizP4Y/edit"/>
+            url="https://docs.google.com/document/d/1hadGQunGoh9R6eJUndm-5MxRcoIi_r95EOG-ZqizP4Y/edit"
+        />
     </annotations>
 
     <heading>Tracing a history on glass</heading>
 
-    <block>If you want to trace a history in intaglio on glass, you can do so in different ways.
-        Place your glass pane on, as thin as possible, over the printed history, &amp; having
-        cleaned the glass well with lye &amp; ashes so that it is not at all greasy, trace over the
-        lines visible to you with oily black or scales black with a pinceau, if you want to paint
+    <block>If you want to trace a history in intaglio on <material>glass</material>, you can do so
+        in different ways. Place your glass pane on, as thin as possible, over the printed history,
+        &amp; having cleaned the glass well with <material>lye</material> &amp;
+            <material>ashes</material> so that it is not at all greasy, trace over the lines visible
+        to you with oily black or scales black with a <tool>pinceau</tool>, if you want to paint
         with colors in the manner of glaziers, who spread a wash of scales black all over their
         glass pane &amp; then scratch &amp; uncover what they want to coat with color, leaving that
         which is necessary for shading. But if you want to make gilt histories on glass with a
         background of colors, which imitates the basse-taille of goldsmiths, gild the whole glass
-        pane with gum water or garlic juice or fig-tree milk. Then moisten your printed history with
-        two wet linen cloths &amp; lay it down on the gilt glass. Then with a pin mounted on a small
-        stick, follow the lines of your history as if you wished to pounce it, &amp; thus you shall
-        vividly trace it on the gilding of the glass. &amp; next you shall uncover the background
-        &amp; what needs to be empty with a quite pointy steel awl, &amp; and neatly follow once
-        more the lines &amp; accomplish your work &amp; fashion your faces &amp; flesh tones in
-        pounded silver; then fill the background with azur d’esmail or verdigris or fine laque
-        platte, tempered with clear turpentine, mixed with a little larme de mastic if you want the
-        colors to be more unified &amp; not to run. Next, apply on the back of the glass &amp; over
-        the colors a white tin sheet. And once this is dry, you can cover the tin sheet of with
-        color to hide your secret. The tin sheet gives light to the colors. Thus you will be able to
-        paint without being</block>
+        pane with <material>gum water</material> or <material>garlic juice</material> or
+            <material>fig-tree milk</material>. Then moisten your printed history with two wet
+            <tool>linen cloths</tool> &amp; lay it down on the gilt glass. Then with a
+            <tool>pin</tool> mounted on a small <tool>stick</tool>, follow the lines of your history
+        as if you wished to pounce it, &amp; thus you shall vividly trace it on the gilding of the
+        glass. &amp; next you shall uncover the background &amp; what needs to be empty with a quite
+        pointy steel <tool>awl</tool>, &amp; and neatly follow once more the lines &amp; accomplish
+        your work &amp; fashion your faces &amp; flesh tones in <material>pounded silver</material>;
+        then fill the background with <material>azur d’esmail</material> or
+            <material>verdigris</material> or <material>fine laque platte</material>, tempered with
+        clear <material>turpentine</material>, mixed with a little <material>larme de
+            mastic</material> if you want the colors to be more unified &amp; not to run. Next,
+        apply on the back of the glass &amp; over the colors a white <tool>tin sheet</tool>. And
+        once this is dry, you can cover the tin sheet of with color to hide your secret. The tin
+        sheet gives light to the colors. Thus you will be able to paint without being</block>
     <folio number="040r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image"/>
     <block>being at all expert in painting. If your glass pane is bulging as if taken from the belly
         of a jar, it will show better. When you apply your turpentine colors to your glass panes,
-        first place them on a hot tile &amp;, once they are hot, spread your colors &amp; leave it a
-        while on the tile, then lay down your tin sheet.</block>
+        first place them on a <tool>hot tile</tool> &amp;, once they are hot, spread your colors
+        &amp; leave it a while on the tile, then lay down your tin sheet.</block>
 </entry>

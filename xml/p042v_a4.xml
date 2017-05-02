@@ -2,10 +2,10 @@
 <entry identifier="p042v_a4">
 
     <folio number="042v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f90.image"/>
-    <purpose type='advice'/>
-    <purpose type='observation'/>
+    <purpose type="advice"/>
+    <purpose type="observation"/>
     <heading>Casting sand</heading>
 
-    <block>The key is to grind it well upon marble, and that it be extremely fine; mix in a bit of
-        calcined alabaster.</block>
+    <block>The key is to grind it well upon <tool>marble</tool>, and that it be extremely fine; mix
+        in a bit of <material>calcined alabaster</material>.</block>
 </entry>

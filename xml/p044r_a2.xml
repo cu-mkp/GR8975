@@ -2,12 +2,14 @@
 <entry identifier="p044r_a2">
 
     <folio number="044r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image"/>
-    <purpose type='observation'/>
+    <purpose type="observation"/>
     <heading>Pewtermaker</heading>
 
-    <block>They mix viii or ten pounds of lead for each hundredweight of tin in the cities that have
-        regulated guilds. But elsewhere, they add as much as they can. One also uses ii. lb. of
-        estaim de glace to bind it and three lb. of broken brass, that is, copper scrap that
-        kettlemakers make. This makes the vessel more reverberant and it is not as breakable.</block>
-    <block location="left-middle">This pewter is called ordinary pewter.</block>
+    <block>They mix viii or ten pounds of <material>lead</material> for each hundredweight of
+            <material>tin</material> in the cities that have regulated guilds. But elsewhere, they
+        add as much as they can. One also uses ii. lb. of <material>estaim de glace</material> to
+        bind it and three lb. of broken <material> brass</material>, that is,
+            <material>copper</material> scrap that kettlemakers make. This makes the
+            <tool>vessel</tool> more reverberant and it is not as breakable.</block>
+    <block location="left-middle">This <material>pewter</material> is called ordinary pewter.</block>
 </entry>
