@@ -2,8 +2,9 @@
 <folio
 number="061r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image"/>
+  <purpose type="making"/>
 
 <heading>Making things round</heading>
 
-<block purpose="making">If you want to model well, soften round things by rounding them off with the <tool>brush point</tool> and the rest with a <tool>flat part</tool> if it is flat, and thus for the others according to their nature, and lightly with the dry and flattened brush point and with patience.</block>.
+<block><activity type="painting"/>If you want to model well, soften round things by rounding them off with the <tool>brush point</tool> and the rest with a <tool>flat part</tool> if it is flat, and thus for the others according to their nature, and lightly with the dry and flattened brush point and with patience.</block>.
 </entry>
