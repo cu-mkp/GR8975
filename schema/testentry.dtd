@@ -76,7 +76,7 @@
 
 <!ELEMENT name (#PCDATA)>
 <!ATTLIST name
-    type NMTOKEN #REQUIRED>
+    type NMTOKEN #IMPLIED>
 
 <!ELEMENT note (#PCDATA)>
 <!ATTLIST note
