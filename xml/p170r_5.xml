@@ -5,5 +5,5 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image"/>
 
 <heading>Thick tin pieces</heading>
 
-<block>They should not be casted with lead or red tin, like thin and fragile things. It is enough if they are well melted and hot. Fragile things need to be red hot and made of red tin.</block>
+<block><activity type="casting">They should not be casted with <material>lead</material> or red <material>tin</material>, like thin and fragile things. It is enough if they are well melted and hot. <material>Fragile things</material> need to be red hot and made of red tin.</activity></block>
 </entry>
