@@ -4,7 +4,6 @@
 
     <xsl:output encoding="UTF-8" method="text"/>
 
-    <!-- SAT: Selecciona las <div> de primer nivel: -->
     <xsl:template match="/">
         <xsl:apply-templates select="/entry"/>
     </xsl:template>
@@ -16,8 +15,20 @@
         </xsl:for-each>
     </xsl:param>
 
-    <xsl:param name="categories">
+    <xsl:param name="tools">
+        <xsl:for-each select="distinct-values(//tool[normalize-space()]/normalize-space())">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
+    </xsl:param>
+
+    <xsl:param name="activities">
         <xsl:for-each select="distinct-values(//activity[@type]/@type)">
+            <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
+        </xsl:for-each>
+    </xsl:param>
+    
+    <xsl:param name="purposes">
+        <xsl:for-each select="distinct-values(//purpose[@type]/@type)">
             <xsl:value-of select="."/><xsl:if test="position() != last()">, </xsl:if>
         </xsl:for-each>
     </xsl:param>
@@ -31,6 +42,9 @@
             <xsl:text>---&#x0A;layout: narrative&#x0A;</xsl:text>
             <xsl:text>title: </xsl:text>
             <xsl:value-of select="normalize-space(child::heading)"/>
+            <xsl:text>&#x0A;</xsl:text>
+            <xsl:text>identifier: </xsl:text>
+            <xsl:value-of select="@identifier"/>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>folio: </xsl:text>
             <xsl:value-of select="child::folio[1]/@number"/>
@@ -51,14 +65,24 @@
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>editor: GR8975 Seminar Participants&#x0A;</xsl:text>
             <xsl:text>rights: Public Domain&#x0A;</xsl:text>
-            <xsl:text>categories: </xsl:text>
+            <xsl:text>purposes: </xsl:text>
             <xsl:text>[</xsl:text>
-            <xsl:value-of select="$categories"/>
+            <xsl:value-of select="translate(translate($purposes, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
-            <xsl:text>tags: </xsl:text>
+            <xsl:text>activities: </xsl:text>
             <xsl:text>[</xsl:text>
-                <xsl:value-of select="$materials"/>            
+            <xsl:value-of select="translate(translate($activities, '[', ''), ']', '')"/>
+            <xsl:text>]</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <xsl:text>materials: </xsl:text>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="translate(translate($materials, '[', ''), ']', '')"/>
+            <xsl:text>]</xsl:text>
+            <xsl:text>&#x0A;</xsl:text>
+            <xsl:text>tools: </xsl:text>
+            <xsl:text>[</xsl:text>
+            <xsl:value-of select="translate(translate($tools, '[', ''), ']', '')"/>
             <xsl:text>]</xsl:text>
             <xsl:text>&#x0A;</xsl:text>
             <xsl:text>---&#x0A;&#x0A;</xsl:text>
@@ -104,11 +128,30 @@
         <xsl:text>- - - - - &lt;a href="</xsl:text>
         <xsl:value-of select="@url"/>
         <xsl:text>" target="_blank"&gt;</xsl:text>
-<!--        <xsl:text>&lt;img src="https://github.com/cu-mkp/GR8975-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>-->
+        <xsl:text>&lt;img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="folio image: " style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
         <xsl:value-of select="@number"/>
         <xsl:text>&lt;/a&gt; - - - - -</xsl:text>
         <xsl:text> &lt;/div&gt;</xsl:text>
     </xsl:template>
+    
+    
+    <!-- annotations -->
+    <xsl:template match="annotations">
+        <xsl:text>&lt;div class="annotation" align="left"&gt;</xsl:text>
+        <xsl:text>Annotations:</xsl:text>
+        <xsl:apply-templates select="annotation"/>
+        <xsl:text> &lt;/div&gt;</xsl:text>
+    </xsl:template>
+
+<xsl:template match="annotation">
+    <xsl:text>&#x0A;</xsl:text>
+    <xsl:text>&lt;a href="</xsl:text>
+    <xsl:value-of select="@url"/>
+    <xsl:text>" target="_blank"&gt;</xsl:text>
+    <xsl:value-of select="@title"/>
+    <xsl:text>&lt;/a&gt;</xsl:text>
+    <xsl:text>&#x0A;</xsl:text>
+</xsl:template>
 
     <xsl:template match="purpose">
         <xsl:apply-templates/>
