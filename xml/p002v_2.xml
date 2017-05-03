@@ -1,11 +1,12 @@
-<entry identifier="p002v_2">
+<entry identifier="p002v_a2">
 
-  <folio number="002v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image"/>
+  <folio number="002v" 
+    url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image"/>
 
   <heading><material>Emeralds</material> of <name>Brissac</name></heading>
 
-  <Activity type="Gem making"/>
-  <Purpose type="Making"/>
+  <activity type="Gem making"/>
+  <purpose type="Making"/>
 
   <block>I took <material>minium</material>, 26 <unit>℥</unit>, <material>crystal</material> […] and
     ground on <material_format>marble</material_format> 12 <unit>℥</unit>,

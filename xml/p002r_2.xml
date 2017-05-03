@@ -1,9 +1,13 @@
-<entry identifier="p002r_2">
+<entry identifier="p002r_a2">
+  
   <folio number="p002r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f9.image"/>
   <heading>Against pain</heading>
   <activity type="Making"/>
   <purpose type="Medicine"/>
-  <material>Turpentine oil</material>, <material>oil of Jacob</material> and <material>salt from
+  
+ <block>
+   <material>Turpentine oil</material>, <material>oil of Jacob</material> and <material>salt from
     cabbage ashes</material>. 
+ </block>
 
 </entry>

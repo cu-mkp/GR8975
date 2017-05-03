@@ -6,6 +6,7 @@
 
   <activity type="Making"/>
   <purpose type="Medicine"/>
+  
   <block>
     <material>Prunes of Saint Antonin</material>, and if you like you can put
         <material_format><material>leaves of malva</material> and
