@@ -46,7 +46,7 @@
   position NMTOKEN #IMPLIED>
 
 <!ELEMENT purpose (#PCDATA|activity|color|currency|material
-                   |material_format|place|plant|profession|ref
+                   |material_format|name|place|plant|profession|ref
                    |sub_recipe|time|tool|unit)*>
 <!ATTLIST purpose
   type NMTOKEN #REQUIRED>
@@ -131,7 +131,7 @@
 <!ATTLIST sub_recipe
   type NMTOKEN #IMPLIED>
 
-<!ELEMENT activity (#PCDATA|material)*>
+<!ELEMENT activity (#PCDATA|material|name)*>
 <!ATTLIST activity
   type CDATA #REQUIRED>
 
