@@ -141,6 +141,7 @@
         <xsl:text>Annotations:</xsl:text>
         <xsl:apply-templates select="annotation"/>
         <xsl:text> &lt;/div&gt;</xsl:text>
+        
     </xsl:template>
 
 <xsl:template match="annotation">
@@ -151,7 +152,7 @@
     <xsl:value-of select="@title"/>
     <xsl:text>&lt;/a&gt;</xsl:text>
     <xsl:text>&#x0A;</xsl:text>
-</xsl:template>
+   </xsl:template>
 
     <xsl:template match="purpose">
         <xsl:apply-templates/>
