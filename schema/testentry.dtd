@@ -14,7 +14,7 @@
   >
 
 
-<!ELEMENT list (foreign|item+)>
+<!ELEMENT list (foreign|folio|item+)>
 <!ATTLIST list  
   purpose NMTOKEN #IMPLIED>
 
@@ -107,7 +107,7 @@
 <!ATTLIST tool
   >
 
-<!ELEMENT item (#PCDATA|material|tool|unit)*>
+<!ELEMENT item (#PCDATA|material|tool|unit|folio)*>
 <!ATTLIST item
   >
 
