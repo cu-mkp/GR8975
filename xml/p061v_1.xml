@@ -2,8 +2,9 @@
 <folio
 number="061v"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image"/>
+<purpose type="making"/>
 
 <heading><material>Water</material> to make light for painters</heading>
 
-<block purpose="making">Distill some <material>vine water</material> and put it into a big <tool>bottle</tool>. Put your <tool>candle</tool> behind that, and it won't disturb your vision.</block>.
+<block><activity type="set up light for painting"/>Distill some <material>vine water</material> and put it into a big <tool>bottle</tool>. Put your <tool>candle</tool> behind that, and it won't disturb your vision.</block>.
 </entry>
