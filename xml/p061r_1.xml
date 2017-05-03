@@ -1,7 +1,8 @@
 ﻿<entry identifier="p061r_1">
     <folio number="061r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image"/>
+    <purpose type="making"/>
     <heading>Skin colors</heading>
-    <block purpose="making">It is necessary that you make it of two kinds, one more
+    <block><activity type="color making"/>It is necessary that you make it of two kinds, one more
             <color>red</color> to make the main layer, the other more pale for the highlights, as
         around the eyes. And then on this last skin color, you will touch lightly the main lights
         with a little <material>white lead</material>. But avoid applying too much of it because
