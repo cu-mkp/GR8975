@@ -1,12 +1,14 @@
 <entry identifier="p011v_5">
-    <folio number="011v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image"/>
+        <folio number="011v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image"/>
 
-    <heading>Polishing a <tool><material>copper</material> wheel</tool></heading>
+        <heading>Polishing a <tool><material>copper</material> wheel</tool></heading>
 
-    <block>
-        <activity type="polishing"/>
-        <purpose type="advice"/> Instead of polishing your <material>stone</material>, it is
-        necessary to remove the <material>grease</material> by rubbing <tool><material_format>the
-                flesh side of a piece of <material>leather</material></material_format></tool> on
-        the wheel, all while spinning the wheel if you have not worked on it in a long time.</block>
+        <block>
+                <activity type="polishing"/>
+                <purpose type="advice"/> Instead of polishing your <material>stone</material>, it is
+                necessary to remove the <material>grease</material> by rubbing
+                                <tool><material_format>the flesh side of a piece of
+                                        <material>leather</material></material_format></tool> on the
+                wheel, all while spinning the wheel if you have not worked on it in a long
+                time.</block>
 </entry>

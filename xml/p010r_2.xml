@@ -1,20 +1,19 @@
 <entry identifier="p010r_2">
     <folio number="010r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image"/>
-    
+
     <annotations>
-        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDSU1RN3ExeW5WclU" title="Color for Green"/>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDSU1RN3ExeW5WclU"
+            title="Color for Green"/>
     </annotations>
-    
+
     <heading>
         <material>Scudegrun</material>
     </heading>
 
     <block>
         <activity type="painting"/>
-        <purpose type="observation"/> 
-        It is made in <place>Lyon</place> from the
+        <purpose type="observation"/> It is made in <place>Lyon</place> from the
             <material_format>juice of <material>weld</material></material_format> mixed with
             <material>chalk</material> or better yet with <material>ceruse</material>, which is
-        appropriate for <material>tempera</material> and <material>oil</material>. 
-    </block>
+        appropriate for <material>tempera</material> and <material>oil</material>. </block>
 </entry>

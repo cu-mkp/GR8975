@@ -1,10 +1,12 @@
 <entry identifier="p006r_1">
     <folio number="006r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f17.image"/>
     <annotations>
-            <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDWm03YUhIbEltRHM" title="Rouge Clair, fol. 40v (Chang, Shi)"/>
-        </annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDWm03YUhIbEltRHM"
+            title="Rouge Clair, fol. 40v (Chang, Shi)"/>
+    </annotations>
     <annotations>
-        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDYVR5NE9zV1BfTUE" title="Esmail, fol. 39v, 103v, 104r, 116r, 136r (Chang, Clemens, Shi)"/>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDYVR5NE9zV1BfTUE"
+            title="Esmail, fol. 39v, 103v, 104r, 116r, 136r (Chang, Clemens, Shi)"/>
     </annotations>
 
     <heading>To lay down and set <material_format>burnished

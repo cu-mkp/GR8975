@@ -6,7 +6,7 @@
     <block>
         <activity type="explosives"/>
         <activity type="military"/>
-        <purpose type="making">Put into the <material><!--gunpowder-->powder</material> <unit>one sixth as much</unit> of
-                <material>quicksilver</material></purpose>
+        <purpose type="making">Put into the <material><!--gunpowder-->powder</material>
+            <unit>one sixth as much</unit> of <material>quicksilver</material></purpose>
     </block>
 </entry>

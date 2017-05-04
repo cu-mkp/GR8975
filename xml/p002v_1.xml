@@ -4,7 +4,9 @@
 
   <heading>[Book title]</heading>
 
-  <block><foreign language="italian">Practica, cioè nova inventione di contegiare, stampata in Brescia per
-    Vincenzo Sabio</foreign></block>
-  
+  <block>
+    <foreign language="italian">Practica, cioè nova inventione di contegiare, stampata in Brescia
+      per Vincenzo Sabio</foreign>
+  </block>
+
 </entry>
