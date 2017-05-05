@@ -1,11 +1,16 @@
 <entry identifier="p002v_a2">
 
   <folio number="002v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image"/>
+  <annotations>
+    <annotation
+      url="https://drive.google.com/open?id=0B33U03wERu0ecjZlckFDRE9YQXc"
+      title="Imitation Gemstones, Ruby Emerald, fol. 100r-v (Kremnitzer, Shah)"/>
+  </annotations>
 
   <heading><material>Emeralds</material> of <name>Brissac</name></heading>
 
-  <activity type="Gem making"/>
-  <purpose type="Making"/>
+  <activity type="imitation gem"/>
+  <purpose type="making"/>
 
   <block>I took <material>minium</material>, 26 <unit>℥</unit>, <material>crystal</material> […] and
     ground on <material_format>marble</material_format> 12 <unit>℥</unit>,

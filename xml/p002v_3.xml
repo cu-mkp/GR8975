@@ -1,12 +1,17 @@
 <entry identifier="p002v_a3">
 
   <folio number="002v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image"/>
-
+  <annotations>
+    <annotation
+      url="https://drive.google.com/open?id=0B33U03wERu0ecjZlckFDRE9YQXc"
+      title="Imitation Gemstones, Ruby Emerald, fol. 100r-v (Kremnitzer, Shah)"/>
+  </annotations>
+  
   <heading>
     <material>Sapphire</material>
   </heading>
   <block>
-    <activity type="Gem making"/>
+    <activity type="imitation gem"/>
     <purpose type="Making"/>
     <material_format>Pebbles</material_format> or <material>crystal</material>, 8 <unit>℥</unit>;
       <material>minium</material>, 16 <unit>℥</unit>; <material>smith's salt</material>, 4
