@@ -45,7 +45,7 @@
 <!ATTLIST heading
   position NMTOKEN #IMPLIED>
 
-<!ELEMENT purpose (#PCDATA|activity|color|currency|material
+<!ELEMENT purpose (#PCDATA|block|activity|color|currency|material
                    |material_format|name|place|plant|profession|ref
                    |sub_recipe|time|tool|unit)*>
 <!ATTLIST purpose
@@ -115,7 +115,7 @@
 <!ATTLIST foreign
   language NMTOKEN #IMPLIED>
 
-<!ELEMENT material_format (#PCDATA|color|material)*>
+<!ELEMENT material_format (#PCDATA|color|material|plant)*>
 <!ATTLIST material_format
   >
 

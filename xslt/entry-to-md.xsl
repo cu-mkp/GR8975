@@ -180,6 +180,7 @@
     <xsl:template match="item">
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>- {:.indent-3}</xsl:text>
+        <xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 </xsl:stylesheet>
