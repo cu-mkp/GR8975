@@ -170,4 +170,16 @@
         <xsl:apply-templates/>
         <xsl:text>&lt;/span&gt;</xsl:text>
     </xsl:template>
+    
+    <xsl:template match="list">
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="item">
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>- {:.indent-3}</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
 </xsl:stylesheet>
