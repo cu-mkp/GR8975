@@ -3,6 +3,7 @@
 number="160r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f325.item.r=.zoom"/>
 
+<activity type="making large presses"/>
 <heading>Presses for large moulds</heading>
 
 figure identifier="fig_p160r_1"
@@ -13,7 +14,7 @@ url="https://drive.google.com/open?id=0B9-oNrvWdlO5ZDNJT25PWjlUbGM"/>
 position="right-top"
 url="https://drive.google.com/open?id=0B9-oNrvWdlO5MEUzMjhxUVl1ZTA"/>
 
-    <block><purpose type="making"><activity type="large presses">It is made of two sheets of <material>iron</material>, fasten with four small <material>iron pillars</material>, in such a way that the upper sheet is able to move and run freely along the pillars, while the lower one is fixed. A <material>St André cross</material>, made of <material>iron</material>, stops at the end of the pillars; there is a screw in the middle of the cross, which squeezes the sheets against the molds placed between them.</activity></purpose></block>block>
+    <block><purpose type="making">It is made of two sheets of <material>iron</material>, fasten with four small <material>iron pillars</material>, in such a way that the upper sheet is able to move and run freely along the pillars, while the lower one is fixed. A <material>St André cross</material>, made of <material>iron</material>, stops at the end of the pillars; there is a screw in the middle of the cross, which squeezes the sheets against the molds placed between them.</purpose></block>block>
 
 <block>For <material>small molds</material>, we make a <material>frame</material>; having put the mold between two metal sheets, we squeeze it in the frame with  for  small moulds, put the mould between two iron sheets, and squeeze it  with <tool>wedges</tool>.</block>
 

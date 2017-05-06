@@ -1,10 +1,12 @@
 <entry identifier="p160v_a2">
     <folio number="p160v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f326.item.r="/>
 
+	<activity type="molding"/>
+
     <heading>Fine work made of gold or silver</heading>
 
-    <block><purpose type="advice">You can <activity type="molding">mold <material>flies</material> by <tool>hand</tool>,
+    <block><purpose type="advice">You can mold <material>flies</material> by <tool>hand</tool>,
             without casting; the <material>wings</material> and the <material>feet</material> can be
             soldered, which you could not do with fine works of <material>lead or tin</material>,
-            because they would melt. You can enamel the work made of gold.</activity></purpose></block>
+            because they would melt. You can enamel the work made of gold.</purpose></block>
 </entry>

@@ -4,11 +4,11 @@
     <annotations>
         <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDSU1RN3ExeW5WclU" title="Color for Green"/>
     </annotations>
-    
+    <activity type="making"/>
     <heading>Colors for green leafs</heading>
 
     <block>
-        <activity type="making">One usually paints them with <material>oil colors</material>, because
+        One usually paints them with <material>oil colors</material>, because
             distemper colors do not stay on. For <material>marigold flowers</material>, lightly
             ground <material>minium</material> for some of them; for more yellowish ones, mix in a
             bit of <material>massicot</material>. For <color>green</color>, the <material>vert-de-gris</material>
@@ -18,6 +18,6 @@
             same way than the <material>bone of an ox foot</material> bone makes a <color>bluish-black</color>. And in such a manner, by
             judgement and discretion, put the color on the <material>natural flower</material> or <material>leaf</material> to see whether it
             is similar to the original. But paint it on very lightly so as not to cover the features
-            of the work.</activity>
+            of the work.
     </block>
 </entry>
