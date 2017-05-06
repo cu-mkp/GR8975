@@ -1,9 +1,18 @@
-<entry identifier="p170r_2">
+<entry identifier="p170r_1">
 <folio
 number="170r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image"/>
 
-<heading>Casting</heading>
+<heading>Common medals</heading>
 
-<block>Do not cast all at once because in doing so, the <material>metal</material> overflows and gets cold instead of going to the bottom [of the mold]. Rather, cast it bit by bit, and gently.</block>
+<block><activity type="making awl"><purpose type="observation"><material>Relief awls</material> are made of <material>untempered steel</material>, and then it is tempered. With it we beat on a <tool>matrice</tool>, not red hot on the fire as some people think, but on some <tool>steeled iron</tool>, reheated and adoulcy, that is then tempered.</purpose></activity></block>
 </entry>
+
+
+
+
+
+
+
+
+

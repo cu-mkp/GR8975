@@ -8,16 +8,16 @@
     <heading>Colors for green leafs</heading>
 
     <block>
-        <purpose type="making">One usually paints them with <material><foreign>oil</foreign> colors</material>, because
+        <activity type="making">One usually paints them with <material>oil colors</material>, because
             distemper colors do not stay on. For <material>marigold flowers</material>, lightly
             ground <material>minium</material> for some of them; for more yellowish ones, mix in a
-            bit of <material>massicot</material>. For green, the <material>vert-de-gris</material>
-            is dark and too somber. If it is a yellowish-green, you can mix with the
-                <material>vert-de-gris</material> a bit of yellow ochre and scudegrum. If the green
-            is dark, mix in some coals made from peach pits, which makes a greenish-black, in the
-            same way than the bone of an ox foot bone makes a bluish-black. And in such a manner, by
-            judgement and discretion, put the color on the natural flower or leaf to see whether it
+            bit of <material>massicot</material>. For <color>green</color>, the <material>vert-de-gris</material>
+            is dark and too somber. If it is a <color>yellowish-green</color>, you can mix with the
+                <material>vert-de-gris</material> a bit of <color>yellow ochre</color> and <color>scudegrum</color>. If the <color>green</color>
+            is dark, mix in some <material>coals</material> made from peach pits, which makes a <color>greenish-black</color>, in the
+            same way than the <material>bone of an ox foot</material> bone makes a <color>bluish-black</color>. And in such a manner, by
+            judgement and discretion, put the color on the <material>natural flower</material> or <material>leaf</material> to see whether it
             is similar to the original. But paint it on very lightly so as not to cover the features
-            of the work.</purpose>
+            of the work.</activity>
     </block>
 </entry>

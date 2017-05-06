@@ -5,7 +5,7 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f336.image"/>
 
 <heading>Molds</heading>
 
-<block>After molding them do not keep them for long, but use them as soon as you can, because when kept for a long time, they are prone to spoiling.</block>
+<block><purpose type="observation"><activity type="molding">After molding them do not keep them for long, but use them as soon as you can, because when kept for a long time, they are prone to spoiling.</activity></purpose></block>
 
 <block>When your <material>molds</material> are reheated, the thing comes out better.</block>
 </entry>

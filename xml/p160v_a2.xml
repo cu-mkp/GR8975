@@ -3,8 +3,8 @@
 
     <heading>Fine work made of gold or silver</heading>
 
-    <block>You can <activity type="molding">mold <material>flies</material> by <tool>hand</tool>,
+    <block><purpose type="advice">You can <activity type="molding">mold <material>flies</material> by <tool>hand</tool>,
             without casting; the <material>wings</material> and the <material>feet</material> can be
             soldered, which you could not do with fine works of <material>lead or tin</material>,
-            because they would melt. You can enamel the work made of gold.</activity></block>
+            because they would melt. You can enamel the work made of gold.</activity></purpose></block>
 </entry>
