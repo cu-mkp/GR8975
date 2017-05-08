@@ -45,9 +45,10 @@
 <!ATTLIST heading
   position NMTOKEN #IMPLIED>
 
-<!ELEMENT purpose (#PCDATA|block|activity|color|currency|material
-                   |material_format|name|place|plant|profession|ref
-                   |sub_recipe|time|tool|unit)*>
+<!ELEMENT purpose (#PCDATA|block|animal|color|currency|figure|foreign
+                 |material|material_format|place|plant|profession
+                 |ref|sub_recipe|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST purpose
   type NMTOKEN #REQUIRED>
 
@@ -131,7 +132,10 @@
 <!ATTLIST sub_recipe
   type NMTOKEN #IMPLIED>
 
-<!ELEMENT activity (#PCDATA|material|name)*>
+<!ELEMENT activity (#PCDATA|block|animal|color|currency|figure|foreign
+                 |material|material_format|place|plant|profession
+                 |purpose|ref|sub_recipe|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST activity
   type CDATA #REQUIRED>
 
