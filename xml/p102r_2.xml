@@ -3,12 +3,12 @@
 number="102r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image"/>
 <purpose type="making"/>
+    <activity type="Colchos"/>
 
 <heading>For the furnace</heading>
 
 <list>
-    <activity type="Colchos"/>
-<item>A <tool>chest with a ten inch wide square <material>stone</material>, and of a one-foot thickness, pierced in the middle</tool></item>
+<item>A <tool>chest</tool> with a ten <unit>inch</unit> wide square <material>stone</material>, and of a one-<unit>foot</unit> thickness, pierced in the middle</item>
 
 <item>2 <tool>boxes</tool> or two <tool>earthenware pots with a lid</tool></item>
 
