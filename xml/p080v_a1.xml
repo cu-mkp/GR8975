@@ -18,6 +18,15 @@
 <block>And if they want their work to last, they pierce <sup>it</sup> somewhere and fit in a piece of <material>cork</material>. <material>Lead</material> or <material>tin</material> will not damage it. </block>
 
   <block position="left-top">
-Make sure the <tool>pegs</tool> of your frame fit in easily so  it will open with ease without moving anything else. Your box molds should fit well, and the table should be very flat.
+Make sure the <tool>pegs</tool> of your frame fit in easily so it will open with ease without moving anything else. Your box molds should fit well, and the table should be very flat.
+  </block>
+  
+<block position="left-top">
+Try to carve with <material>distilled vinegar</material>.
 </block>
+  
+  <block position="left-middle">
+Try calcined <material>oyster shells</material>; they are said to be excellent for molding.
+</block>
+  
 </entry>
