@@ -2,8 +2,8 @@
 <folio
 number="165r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f336.item"/>
-
+<activity type="stretching canvas"/>
 <heading>Stretching a canvas portrait</heading>
 
-<block><purpose type="application"><activity type="stretching canvas">If it is crumpled or folded from when it was rolled up, moisten the back side with a <tool>wet sponge</tool>. Then stretch it very evenly without damaging it.</activity></purpose></block>
+<block><purpose type="application">If it is crumpled or folded from when it was rolled up, moisten the back side with a <tool>wet sponge</tool>. Then stretch it very evenly without damaging it.</purpose></block>
 </entry>

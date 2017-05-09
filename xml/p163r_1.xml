@@ -2,10 +2,10 @@
 <folio
 number="163r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f331.image"/>
-
+<activity type="perfume making"/>
 <heading>Perfume-makers</heading>
 
-<block>T<purpose type="description"><activity type="perfume making">hey readily make their perfumes with <material>half amber</material> and <material>half musk</material>, and a <material>little civet</material>, because the scent of <material>amber</material> is stronger than the scent of <material>musk</material>.</activity></purpose></block>
+<block>T<purpose type="description">hey readily make their perfumes with <material>half amber</material> and <material>half musk</material>, and a <material>little civet</material>, because the scent of <material>amber</material> is stronger than the scent of <material>musk</material>.</purpose></block>
 
 <block><purpose type="observation">To save using amber, <profession>perfume-makers</profession> readily add add a <unit>small quantity</unit> of <material>musk</material> to the white layers, in order to get a stronger scent. But to remove or hide the blackness of musk, they add a bit of <material>starch from England</material>, which is perfectly white.</purpose></block>
 
