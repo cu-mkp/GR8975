@@ -127,7 +127,7 @@
   >
 
 <!ELEMENT tool (#PCDATA|animal|color|currency|figure|foreign
-                 |material| place|plant|profession
+                 |material| material-format | place|plant|profession
                  |ref|time|tool|unit
                  |name|note|people|q|sup)*>
 <!ATTLIST tool
