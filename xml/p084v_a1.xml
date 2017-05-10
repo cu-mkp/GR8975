@@ -12,33 +12,33 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f174.image"/>
 
 <heading><material>Sand</material></heading>
 
-<body>
+<block>
   <purpose type="making"/>
 I tried the <material>hoof of an ox</material>, quite burned, pulverized and very well crushed on <tool>porphyry</tool>, until it is fine enough to slip through your fingers without being felt. On its own, it makes a very clean mold. But because on its own it is very dry and lean, it demands to be well wet and humidified, with a <material>thick broth</material> with <material>elm root</material>.
-</body>
+</block>
 
-<body>
+<block>
   <purpose type="making"/>
 <material>Dross of Iron</material>, very burned <material>ox hoof</material>, and felt, all burn well in a closed fire. All three ground very finely on <tool>porphyry</tool> mold very neatly in lead, without any need to reheat it much, and by casting in a box mold either hot or cold.
-</body>
+</block>
 
-<body>
+<block>
   <purpose type="advice"/>
 Felt on its own provides a very clean mold if wet, and comes off easily. And also makes the other two come off easily
-</body>
+</block>
 
-<body position="left-top">
+<block position="left-top">
   <purpose type="advice"/>
 These sands can only undergo one cast
-</body>
+</block>
 
-<body position="left-tope">
+<block position="left-tope">
   <purpose type="advice"/>
 A fat sand which sticks together neatly, makes bubbles.
-</body>
+</block>
 
-<body position="left-middle">
+<block position="left-middle">
   <purpose type="advice"/>
 A fat metal needs lean sand.
-</body>
+</block>
 </entry>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <entry identifier="p044r_a2">
 
     <folio number="044r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f93.image"/>
@@ -11,5 +10,6 @@
         bind it and three lb. of broken <material> brass</material>, that is,
             <material>copper</material> scrap that kettlemakers make. This makes the
             <tool>vessel</tool> more reverberant and it is not as breakable.</block>
-    <block location="left-middle">This <material>pewter</material> is called ordinary pewter.</block>
+    
+    <block position="left-middle">This <material>pewter</material> is called ordinary pewter.</block>
 </entry>

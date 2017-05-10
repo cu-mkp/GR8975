@@ -2,7 +2,7 @@
 <entry identifier="p045v_1">
 
     <folio number="045v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f96.image"/>
-    <puropse type="observation"/>
+    <purpose type="observation"/>
     <purpose type="advice"/>
     <heading>Loading an arquebus</heading>
 
@@ -15,6 +15,7 @@
         remove the ramrod. That way, your powder will now be entirely in the breech without any
         grain or dust that lines the sides of the arquebus, which always has some grime in the
         chamber. That way it will not recoil, and you will shoot more true.</block>
+    
     <figure number="fig_p045v_1" position="left-middle"
         url="https://drive.google.com/open?id=0B9-oNrvWdlO5ZlVWTkcyU2FfanM"/>
 </entry>

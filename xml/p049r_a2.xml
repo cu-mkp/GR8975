@@ -3,7 +3,7 @@
     <purpose type="making"/>
     <activity type="making sand for lead casting"/>
 
-    <heading><material>Sand</material> for <m>lead</m> casting</heading>
+    <heading><material>Sand</material> for <material>lead</material> casting</heading>
 
     <block><material>Rye straw</material> ashes well boiled, dried and then well sieved. alloy it
         with <material>egg white</material>. One can add <material>copper</material>,

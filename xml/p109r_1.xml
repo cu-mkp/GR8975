@@ -4,7 +4,8 @@
 <activity type="waxwork"/>
 
 <annotations>
-  <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDfjdVNjVyWjZTVmNZMlEwMnVuai1oeGxwa3JlS1VaWWVTQXNLeC1JcWhabzg" titile="Wax and Tallow: A Material Investigation"/>
+  <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDfjdVNjVyWjZTVmNZMlEwMnVuai1oeGxwa3JlS1VaWWVTQXNLeC1JcWhabzg" 
+    title="Wax and Tallow: A Material Investigation"/>
 </annotations>
   
 <heading>Working in rough with <material>wax</material></heading>
