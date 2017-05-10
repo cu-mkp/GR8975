@@ -32,7 +32,6 @@
 <!ATTLIST annotation
 
   title CDATA #IMPLIED
-  titls CDATA #IMPLIED
   url CDATA #REQUIRED>
 
 <!ELEMENT figure (#PCDATA)>
@@ -59,9 +58,7 @@
                    |unit)*>
 <!ATTLIST purpose
 
-  typ NMTOKEN #IMPLIED
-  type CDATA #IMPLIED
-  ype NMTOKEN #IMPLIED >
+  type CDATA #IMPLIED >
 
 <!ELEMENT item (#PCDATA|material|name|place|plant|profession|tool
                 |unit)*>
