@@ -1,7 +1,9 @@
-﻿<?xml encoding="UTF-8"?>
+<?xml encoding="UTF-8"?>
 
 <!ELEMENT entry (#PCDATA|activity|block|figure|folio|heading|material
+
                  |purpose|annotations
+
                  |list|margin-block)*>
 <!ATTLIST entry
 
@@ -18,9 +20,11 @@
 <!ATTLIST annotations
 >
 
+
 <!ELEMENT list (foreign|(folio|item)+)>
 <!ATTLIST list
 >
+
 
 <!ELEMENT margin-block (#PCDATA|material|place)*>
 <!ATTLIST margin-block
@@ -51,6 +55,7 @@
                    |material_format|name|place|plant|profession|tool)*>
 <!ATTLIST heading
 
+
   position NMTOKEN #IMPLIED >
 
 <!ELEMENT purpose (#PCDATA|block|color|currency|material|material_format
@@ -58,7 +63,9 @@
                    |unit)*>
 <!ATTLIST purpose
 
+
   type CDATA #IMPLIED >
+
 
 <!ELEMENT item (#PCDATA|material|name|place|plant|profession|tool
                 |unit)*>
@@ -70,6 +77,7 @@
 
   number NMTOKEN #REQUIRED
   url CDATA #REQUIRED>
+
 
 <!ELEMENT foreign (#PCDATA|item|time)*>
 <!ATTLIST foreign
@@ -139,10 +147,13 @@
 
   type NMTOKEN #IMPLIED >
 
+
 <!ELEMENT sub_recipe (#PCDATA|material|tool)*>
 <!ATTLIST sub_recipe
 
+
   type NMTOKEN #IMPLIED >
+
 
 <!ELEMENT unit (#PCDATA|tool)*>
 <!ATTLIST unit
