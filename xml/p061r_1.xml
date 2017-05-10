@@ -1,5 +1,10 @@
-﻿<entry identifier="p061r_1">
+<entry identifier="p061r_1">
     <folio number="061r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image"/>
+     <annotations>
+         <annotation url="https://drive.google.com/open?id=0BwJi-u8sfkVDTkM0UklMWDhqZlU"
+                      title="Painting Skin and Shadows 'a destrempe,' fols 93v, fol. 65r and fol. 66r (Nisse)"/>
+     </annotations>
+     
     <purpose type="making"/>
     <activity type="color making"/>
     <heading>Skin colors</heading>
@@ -11,7 +16,7 @@
         makes a beautiful vivid skin color that resembles the complexion of <color>alexandrine
             pink</color> and <color>incarnadine</color></block>. 
      
-     <margin-block position="left-top"
+     <block position="left-top"
         purpose="observation"> Certain colors need to be ground like minium or massicot. The
-            <material>ashes</material> don't need to be ground at all.</margin-block>
+            <material>ashes</material> don't need to be ground at all.</block>
 </entry>
