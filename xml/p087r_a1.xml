@@ -1,1 +1,15 @@
 <entry identifier="p087r_a1">
+
+  <folio number="087r"
+    url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image"/>
+
+    <purpose type="observation"/>
+    <activity type="sand sourcing"/>
+
+    <heading><material>Sand</material> of <place>Toulouse</place></heading>
+
+    <block>
+      The <material>sand</material> generally considered good is the one found in a vineyard near <place>Pech-David</place>. But the best is the one is from the <place>Touch</place>, a river close to <place>Saint-Michel</place> and <place>Blagnac</place>, in a vineyard at a high altitude. This sand is thinner, and a bit greasier than the other, and better for small works. It should not be overheated.
+    </block>
+
+  </entry>
