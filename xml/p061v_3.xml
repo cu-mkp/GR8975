@@ -1,4 +1,4 @@
-<entry identifier="p061v_3">
+﻿<entry identifier="p061v_3">
 <folio
 number="061v"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image"/>
@@ -13,4 +13,5 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f128.image"/>
   </block>
 <block position="left bottom">
 <activity type="applying color"/>
+</block>
 </entry>

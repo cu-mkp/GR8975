@@ -1,4 +1,4 @@
-<entry identifier="p006v_a2">
+﻿<entry identifier="p006v_a2">
   <folio number="006v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f18.image"/>
 
 
@@ -7,16 +7,6 @@
 
   <block>
     <purpose type="making"/>
-<<<<<<< HEAD
-    <subject_activity_keywords type="etching"/>
-    <subject_activity_keywords type="metalwork"/>
-    <subject_activity_keywords type="stamping"/>
-    <sub_recipe type="engraving">Etch with <foreign_language type="latin"><material>aqua
-          fortis</material></foreign_language> on <material>iron</material> or
-        <material>copper</material> whatever you have pounced and drawn there, next make it neat
-      with a <tool>burin</tool> or <tool>chisel</tool>.</sub_recipe> Then pour <material_format>soft
-        <material>tin</material></material_format>, yet unused, onto <material_format>polished
-=======
     <activity type="etching"/>
     <activity type="metalwork"/>
     <activity type="stamping"/>
@@ -25,7 +15,6 @@
       whatever you have pounced and drawn there, next make it neat with a <tool>burin</tool> or
         <tool>chisel</tool>.</sub_recipe> Then pour <material_format>soft
       <material>tin</material></material_format>, yet unused, onto <material_format>polished
->>>>>>> 6b0ff79bc3af3bb6846acbbb926611aa6fede2e5
         <material>marble</material></material_format> and flatten it, making it quite thin, with a
         <tool><material>wooden</material> board</tool>. Or else pour it on a <tool>table</tool> as
     is done with <material>lead</material>, or put it through a <tool>roll-press</tool>. Next lay
