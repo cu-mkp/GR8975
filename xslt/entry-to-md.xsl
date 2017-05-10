@@ -173,11 +173,12 @@
     
     <!-- annotations -->
     <xsl:template match="annotations">
+        <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&lt;div class="annotation" align="left"&gt;</xsl:text>
         <xsl:text>Annotations:</xsl:text>
         <xsl:apply-templates select="annotation"/>
         <xsl:text> &lt;/div&gt;</xsl:text>
-        
+        <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
 <xsl:template match="annotation">
