@@ -1,4 +1,4 @@
-<?xml encoding="UTF-8"?>
+﻿<?xml encoding="UTF-8"?>
 
 <!ELEMENT entry (#PCDATA|activity|block|figure|folio|heading|purpose|annotations|list|margin-block)*>
 <!ATTLIST entry
@@ -29,10 +29,6 @@
   url CDATA #REQUIRED>
 
 
-<!ELEMENT personal_name (#PCDATA)>
-<!ATTLIST personal_name
-  >
-
 <!ELEMENT figure EMPTY>
 <!ATTLIST figure
   identifier NMTOKEN #IMPLIED
@@ -52,11 +48,17 @@
 <!ATTLIST purpose
   type NMTOKEN #REQUIRED>
 
-<!ELEMENT profession (#PCDATA)>
+<!ELEMENT profession (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST profession
   >
 
-<!ELEMENT place (#PCDATA)>
+<!ELEMENT place (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST place
   >
 
@@ -75,44 +77,73 @@
   position NMTOKEN #IMPLIED
   purpose CDATA #IMPLIED>
 
-<!ELEMENT name (#PCDATA)>
+<!ELEMENT name (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST name
     type NMTOKEN #IMPLIED>
 
-<!ELEMENT note (#PCDATA)>
+<!ELEMENT note (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST note
   >
 
-<!ELEMENT people (#PCDATA)>
+<!ELEMENT people (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST people
   >
 
-<!ELEMENT q (foreign)>
+<!ELEMENT q (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST q
   >
 
-<!ELEMENT sup (#PCDATA|material)*>
+<!ELEMENT sup (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST sup
   >
 
-<!ELEMENT material (#PCDATA|animal|color|foreign|place|plant
-                    |profession)*>
+<!ELEMENT material (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST material
   type NMTOKEN #IMPLIED>
 
-<!ELEMENT animal (#PCDATA)>
+<!ELEMENT animal (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST animal
   >
 
-<!ELEMENT tool (#PCDATA|foreign|material|material_format|plant|tool)*>
+<!ELEMENT tool (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST tool
   >
 
-<!ELEMENT item (#PCDATA|material|tool|unit|folio)*>
+<!ELEMENT item (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup|list|item)*>
 <!ATTLIST item
   >
 
-<!ELEMENT foreign (#PCDATA|item)*>
+<!ELEMENT foreign (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST foreign
   language NMTOKEN #IMPLIED>
 
@@ -120,11 +151,17 @@
 <!ATTLIST material_format
   >
 
-<!ELEMENT color (#PCDATA)>
+<!ELEMENT color (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST color
   >
 
-<!ELEMENT plant (#PCDATA|foreign)*>
+<!ELEMENT plant (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST plant
   >
 
@@ -139,19 +176,31 @@
 <!ATTLIST activity
   type CDATA #REQUIRED>
 
-<!ELEMENT unit (#PCDATA|tool)*>
+<!ELEMENT unit (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST unit
   >
 
-<!ELEMENT ref (#PCDATA)>
+<!ELEMENT ref (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST ref
   identifier NMTOKEN #IMPLIED
   type NMTOKEN #IMPLIED>
 
-<!ELEMENT currency (#PCDATA)>
+<!ELEMENT currency (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST currency
   >
 
-<!ELEMENT time (#PCDATA)>
+<!ELEMENT time (#PCDATA|animal|color|currency|figure|foreign
+                 |material| place|plant|profession
+                 |ref|time|tool|unit
+                 |name|note|people|q|sup)*>
 <!ATTLIST time
   >
