@@ -1,14 +1,5 @@
-<entry identifier="p170r_1">
-<<<<<<< HEAD
-    <folio number="170r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image"/>
+﻿<entry identifier="p170r_1">
 
-    <heading>Common medals</heading>
-
-    <block><material>Relief awls</material> are made of <material>untempered steel</material>, and
-        then it is tempered. With it we beat on a <tool>matrice</tool>, not red hot on the fire as
-        some people think, but on some <tool>steeled iron</tool>, reheated and adoulcy, that is then
-        tempered.</block>
-=======
 <folio
 number="170r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image"/>
@@ -16,5 +7,4 @@ url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f345.image"/>
 <heading>Common medals</heading>
 
 <block><purpose type="observation"><material>Relief awls</material> are made of <material>untempered steel</material>, and then it is tempered. With it we beat on a <tool>matrice</tool>, not red hot on the fire as some people think, but on some <tool>steeled iron</tool>, reheated and adoulcy, that is then tempered.</purpose></block>
->>>>>>> 6b0ff79bc3af3bb6846acbbb926611aa6fede2e5
 </entry>

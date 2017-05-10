@@ -1,11 +1,8 @@
 <div xmlns:pmc="http://www.ncbi.nlm.nih.gov/pmc/ns" xmlns:xs="http://www.w3.org/2001/XMLSchema" id="entry-wrapper">
    <h1>&lt;list&gt;</h1>
-   <h2>Attributes</h2>
-   <ul class="attributes">
-      <li><a href="#p=attr-purpose">@purpose</a></li>
-   </ul>
-   <h2>Content Model</h2><pre class="contentdesc">( foreign | item+ )</pre><p>May Contain:</p>
+   <h2>Content Model</h2><pre class="contentdesc">( foreign | ( folio | item )+ )</pre><p>May Contain:</p>
    <ul class="children">
+      <li><a href="#p=elem-folio">&lt;folio&gt;</a></li>
       <li><a href="#p=elem-foreign">&lt;foreign&gt;</a></li>
       <li><a href="#p=elem-item">&lt;item&gt;</a></li>
    </ul>

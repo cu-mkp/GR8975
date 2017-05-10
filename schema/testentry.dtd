@@ -1,7 +1,9 @@
 <?xml encoding="UTF-8"?>
 
 <!ELEMENT entry (#PCDATA|activity|block|figure|folio|heading|material
-                 |purpose|annotations|body
+
+                 |purpose|annotations
+
                  |list|margin-block)*>
 <!ATTLIST entry
 
@@ -18,15 +20,11 @@
 <!ATTLIST annotations
 >
 
-<!ELEMENT body (#PCDATA|material|place|purpose|tool)*>
-<!ATTLIST body
-
-  position CDATA #IMPLIED>
-
 
 <!ELEMENT list (foreign|(folio|item)+)>
 <!ATTLIST list
 >
+
 
 <!ELEMENT margin-block (#PCDATA|material|place)*>
 <!ATTLIST margin-block
@@ -38,7 +36,6 @@
 <!ATTLIST annotation
 
   title CDATA #IMPLIED
-  titls CDATA #IMPLIED
   url CDATA #REQUIRED>
 
 <!ELEMENT figure (#PCDATA)>
@@ -47,7 +44,7 @@
   identifier NMTOKEN #IMPLIED
   number NMTOKEN #IMPLIED
   position NMTOKEN #IMPLIED
-  url CDATA #IMPLIED>
+  url CDATA #IMPLIED >
 
 <!ELEMENT activity (#PCDATA|animal|material_format|profession|tool)*>
 <!ATTLIST activity
@@ -58,16 +55,17 @@
                    |material_format|name|place|plant|profession|tool)*>
 <!ATTLIST heading
 
-  position NMTOKEN #IMPLIED>
+
+  position NMTOKEN #IMPLIED >
 
 <!ELEMENT purpose (#PCDATA|block|color|currency|material|material_format
                    |name|place|plant|profession|ref|sub_recipe|time|tool
                    |unit)*>
 <!ATTLIST purpose
 
-  typ NMTOKEN #IMPLIED
-  type CDATA #IMPLIED
-  ype NMTOKEN #IMPLIED>
+
+  type CDATA #IMPLIED >
+
 
 <!ELEMENT item (#PCDATA|material|name|place|plant|profession|tool
                 |unit)*>
@@ -80,16 +78,17 @@
   number NMTOKEN #REQUIRED
   url CDATA #REQUIRED>
 
+
 <!ELEMENT foreign (#PCDATA|item|time)*>
 <!ATTLIST foreign
 
-  language NMTOKEN #IMPLIED>
+  language NMTOKEN #IMPLIED >
 
 <!ELEMENT material (#PCDATA|animal|color|foreign|place|plant|profession
                     |tool)*>
 <!ATTLIST material
 
-  type NMTOKEN #IMPLIED>
+  type NMTOKEN #IMPLIED >
 
 <!ELEMENT place (#PCDATA|foreign)*>
 <!ATTLIST place
@@ -107,7 +106,7 @@
 <!ATTLIST block
 
   identifier NMTOKEN #IMPLIED
-  position NMTOKEN #IMPLIED>
+  position NMTOKEN #IMPLIED >
 
 
 <!ELEMENT people (#PCDATA)>
@@ -146,14 +145,15 @@
 <!ELEMENT name (#PCDATA)>
 <!ATTLIST name
 
-  type NMTOKEN #IMPLIED>
-
+  type NMTOKEN #IMPLIED >
 
 
 <!ELEMENT sub_recipe (#PCDATA|material|tool)*>
 <!ATTLIST sub_recipe
 
-  type NMTOKEN #IMPLIED>
+
+  type NMTOKEN #IMPLIED >
+
 
 <!ELEMENT unit (#PCDATA|tool)*>
 <!ATTLIST unit
@@ -163,7 +163,7 @@
 <!ATTLIST ref
 
   identifier NMTOKEN #IMPLIED
-  type NMTOKEN #IMPLIED>
+  type NMTOKEN #IMPLIED >
 
 <!ELEMENT currency (#PCDATA)>
 <!ATTLIST currency
