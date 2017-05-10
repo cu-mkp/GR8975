@@ -2,8 +2,9 @@
 <folio
 number="164v"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f334.item"/>
-
+<activity type="molding"/>
+<purpose type="making"/>
 <heading>Molds</heading>
 
-<block><purpose type="making"><activity type="making">When you cast <material>lead</material>, your <material>molds</material> must be very dry, even if the <material>molds</material> are large. The outside of the molds must be reddened, and it is necessary to keep them in continuous <tool>heat</tool> until they do not smoke anymore inside. Do not reheat your <material>molds</material> several times, but continue when you have begun and do not let them cool in the cold because they will crack. Let them cool near the fire. When your molds are still as warm as above, remark, you can put your finger into the casting gate without burning your skin. If your <material>mold</material> is large, it takes more time to cure and to dry, and you must also cast warmer.</activity></purpose></block>
+<block>When you cast <material>lead</material>, your <material>molds</material> must be very dry, even if the <material>molds</material> are large. The outside of the molds must be reddened, and it is necessary to keep them in continuous <tool>heat</tool> until they do not smoke anymore inside. Do not reheat your <material>molds</material> several times, but continue when you have begun and do not let them cool in the cold because they will crack. Let them cool near the fire. When your molds are still as warm as above, remark, you can put your finger into the casting gate without burning your skin. If your <material>mold</material> is large, it takes more time to cure and to dry, and you must also cast warmer.</block>
 </entry>

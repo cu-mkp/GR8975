@@ -2,8 +2,8 @@
 <folio
 number="163v"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f332.image"/>
-
+<activity type="repairing"/>
 <heading>Repairing</heading>
 
-<block><purpose type="advice"><activity type="repairing">It is much better to only lightly repair your work with a <tool>burin called an "onglet"</tool> or the one called <tool>"chaple"</tool> or with a <tool>small file</tool>. Above all, avoid touching your work, but touch only the burr or lumpy parts that will have occurred during the casting. While reworking, moisten and rub your work with a <tool>small bristle brush</tool>.</activity></purpose></block>
+<block><purpose type="advice">It is much better to only lightly repair your work with a <tool>burin called an "onglet"</tool> or the one called <tool>"chaple"</tool> or with a <tool>small file</tool>. Above all, avoid touching your work, but touch only the burr or lumpy parts that will have occurred during the casting. While reworking, moisten and rub your work with a <tool>small bristle brush</tool>.</purpose></block>
 </entry>

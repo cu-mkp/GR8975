@@ -2,8 +2,8 @@
 <folio
 number="166v"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f338.image"/>
-
+<activity type="candle making"/>
 <heading>Scented candle from Le Mans</heading>
 
-<block><purpose type="making"><activity type="candle making">They melt in with<material>wax</material> and <material>candles</material> <material>rosin</material> that is called in <name type="place">France</name> [rosin] from <name type="place">Burgundy</name>, which is white and not as rough or dry as the other <material>rosin</material>. They also perfume the <material>wick</material> and the end of the wick.</activity></purpose></block>
+<block><purpose type="making">They melt in with<material>wax</material> and <material>candles</material> <material>rosin</material> that is called in <name type="place">France</name> [rosin] from <name type="place">Burgundy</name>, which is white and not as rough or dry as the other <material>rosin</material>. They also perfume the <material>wick</material> and the end of the wick.</purpose></block>
 </entry>

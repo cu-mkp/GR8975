@@ -3,9 +3,12 @@
 number="162r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f329.item.r="/>
 
+<activity type="literary and historical observations"/>
+<purpose type="observation"/>
+
 <heading>For La Boutique</heading>
 
-    <block><purpose type="observation"><activity type="history">According to <name type="personal">Herodotus</name> <name type="corporate">the Portuguese</name> did not invent [deep sea] navigation as they put about. At the beginning of the first book entitled <name type="book">Clio</name>, he says that the <name type="corporate">Phoenicians</name> used to come navigating straight across from the <name type="place">Red Sea</name> to the <name type="place">Greek coast</name>, mainly to <name type="place">Argos</name>, where they would bring merchandise from <name type="place">Egypt</name> and <name type="place">Assyria</name>, which they usually sold out within 6 days.</activity></purpose></block>
+    <block>According to <name type="personal">Herodotus</name> <name type="corporate">the Portuguese</name> did not invent [deep sea] navigation as they put about. At the beginning of the first book entitled <name type="book">Clio</name>, he says that the <name type="corporate">Phoenicians</name> used to come navigating straight across from the <name type="place">Red Sea</name> to the <name type="place">Greek coast</name>, mainly to <name type="place">Argos</name>, where they would bring merchandise from <name type="place">Egypt</name> and <name type="place">Assyria</name>, which they usually sold out within 6 days.</block>
 
 <block>According to <name type="personal">Herodotus</name> <name type="corporate">the Portuguese</name> did not invent [deep sea] navigation as they put about. At the beginning of the first book entitled <name type="book">Clio</name>, he says that the <name type="corporate">Phoenicians</name> used to come navigating straight across from the <name type="place">Red Sea</name> to the <name type="place">Greek coast</name>, mainly to <name type="place">Argos</name>, where they would bring merchandise from <name type="place">Egypt</name> and <name type="place">Assyria</name>, which they usually sold out within 6 days.</block>
 

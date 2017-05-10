@@ -2,8 +2,10 @@
 <folio
 number="165r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f336.item"/>
-
+<activity type="imitation"/>
+<purpose type="making"/>
+<purpose type="observation"/>
 <heading>Dragon's blood</heading>
 
-<block><purpose type="making"><activity type="imitation">You can imitate dragon's blood with <material>lacquer</material>, which surpasses it in beauty, if [when] diluted in <material>oil</material>, you use it to ice <material>gold or silver</material>. <purpose type="advice">Diluted with varnish, it fades.</purpose></activity></purpose></block>
+<block>You can imitate dragon's blood with <material>lacquer</material>, which surpasses it in beauty, if [when] diluted in <material>oil</material>, you use it to ice <material>gold or silver</material>. Diluted with varnish, it fades.</block>
 </entry>

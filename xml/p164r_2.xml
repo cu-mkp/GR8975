@@ -2,8 +2,8 @@
 <folio
 number="164r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f333.item"/>
-
+<activity type="repair"/>
 <heading>Repairing burrs</heading>
 
-<block><purpose type="advice"><activity type="repair">Remove burrs very carefully with the point of a <tool>chaple or a burin</tool>, then scrape the burrs with the side of a <tool>burin</tool>, or carefully with a <tool>small file</tool>, and rub with <tool>willow coals</tool> and small brushes. Continue, also, with the lines not interrupted by burrs.</activity></purpose></block>
+<block><purpose type="advice">Remove burrs very carefully with the point of a <tool>chaple or a burin</tool>, then scrape the burrs with the side of a <tool>burin</tool>, or carefully with a <tool>small file</tool>, and rub with <tool>willow coals</tool> and small brushes. Continue, also, with the lines not interrupted by burrs.</purpose></block>
 </entry>
