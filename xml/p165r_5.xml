@@ -2,9 +2,16 @@
 <folio
 number="165r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b9059316c/f336.item"/>
+  
+  <annotations>
+    <annotation url="https://drive.google.com/open?id=0BwJi-u8sfkVDZU5YM1N3RjJKdEU"
+                titls="Dragon's Blood, fols. 29v, 38v (Reich)"/>
+  </annotations>                
+             
 <activity type="imitation"/>
 <purpose type="making"/>
 <purpose type="observation"/>
+  
 <heading>Dragon's blood</heading>
 
 <block>You can imitate dragon's blood with <material>lacquer</material>, which surpasses it in beauty, if [when] diluted in <material>oil</material>, you use it to ice <material>gold or silver</material>. Diluted with varnish, it fades.</block>
