@@ -1,7 +1,7 @@
 ﻿<?xml encoding="UTF-8"?>
 
 <!ELEMENT entry (#PCDATA|activity|block|figure|folio|heading|material
-                 |purpose|annotations|body
+                 |purpose|annotations
                  |list|margin-block)*>
 <!ATTLIST entry
 
@@ -17,12 +17,6 @@
 <!ELEMENT annotations (annotation)>
 <!ATTLIST annotations
 >
-
-<!ELEMENT body (#PCDATA|material|place|purpose|tool)*>
-<!ATTLIST body
-
-  position CDATA #IMPLIED >
-
 
 <!ELEMENT list (foreign|(folio|item)+)>
 <!ATTLIST list
