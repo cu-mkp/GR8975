@@ -1,6 +1,9 @@
 <entry identifier="p077r_a2">
 <folio number="077r"
   url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f159.image"/>
+  <annotations>
+          <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDVEUtZWtJYy1XR0k" title="Smoke as Medicine, fol. 77r (DeVinney)"/>
+      </annotations>
 
 <purpose type="making"/>
 <activity type="therapeutics"/>

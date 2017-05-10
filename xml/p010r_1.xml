@@ -1,0 +1,64 @@
+<entry identifier="p010r_1">
+    <folio number="010r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image"/>
+
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDd2JGLVFjeHY4Z0U"
+            title="Imitating Raw Nature, fol. 10r (Lores-Chavez and Kang)"/>
+         </annotations>
+    
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDZjE3TFN0b3YtVVk"
+            title="Jasper Imitation on Horn, fol. 10r (Estrades)"/>
+    </annotations>
+
+    <heading>Imitation <material>jasper</material></heading>
+
+    <block>
+        <activity type="imitating"/>
+        <purpose type="advice"> Take <material>horn</material> as is used to make lanterns, quite
+            thin, and underneath imitate your <material>jasper</material>,
+                <material>cornaline</material>, and other stones. That will look more appropriate
+            than doing it on <material>glass</material>, which is too shiny. And the
+                <material>horn</material> gives a lustre and a fatty polish similar to
+                <material>jasper</material>.</purpose>
+    </block>
+
+
+    <block>
+        <activity type="imitating"/>
+        <purpose type="observation"/>
+        <purpose type="advice"/> You know how you can imitate <plant>roses</plant> with scrapings of
+        the said <material>horn</material>. The colors for this <material>jasper</material> need to
+        have as a base <material_format>clear <material>turpentine</material></material_format> or
+                <material_format><material>spike lavender</material> varnish</material_format>. And
+        matte, opaque colors are not appropriate, no matter how fine they are. You have to
+            <material>oil</material> the unpainted underside with <material>spike lavender
+            oil</material>. </block>
+
+    <block position="middle-top">
+        <purpose type="observation"/>
+        <material_format>Thin <material>glass</material></material_format> looks very fine for this
+        effect </block>
+
+    <block position="left-top">
+        <activity type="embellishing"/>
+        <purpose type="application">You can inlay beds with it, and on the joints you can throw
+                <material>talc</material> or <material_format><material>metal</material>
+                filings</material_format> on the fresh <material>cement</material> of the said
+            joints. You have to bond them with <material>gum amoniacum</material> soaked in
+                <material>vinegar</material>.</purpose>
+        <purpose type="making">To better imitate <material_format>marbled
+                    <material>jasper</material></material_format>, apply <material_format>coarse
+                    <material>wool</material> hair</material_format> dyed various colors and
+            intermingled. After you have laid down all the colors, scrape oblique lines into them
+            then lay down <material_format><material>gold</material> leaves</material_format> and
+                    <material_format><material>silver</material> leaves</material_format>. If you
+            lay down colors made of <material>turpentine</material> on the
+            <material>horn</material>, give it a backing of
+                    <material_format><material>silver</material> leaf</material_format>or of
+                    <material_format><material>tin</material> leaf</material_format>. You can also
+            file <material>horn</material> and mix it with strong <material>glue</material> and lay
+            it down onto the joints of the <material>horn</material> piece and finish with a
+                <tool>joiner's plane</tool>.</purpose>
+    </block>
+</entry>

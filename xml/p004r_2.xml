@@ -1,0 +1,26 @@
+<entry identifier="p004r_2">
+    <folio number="004r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image"/>
+
+
+    <heading>To remove varnish from an old panel painting that has yellowed and varnish it
+        again</heading>
+
+    <block>
+        <activity type="varnish"/>
+        <activity type="cleaning"/>
+        <purpose type="application">Take some <material_format>white
+                <material>soap</material></material_format> and <material>ashes</material> strained
+            through a <tool>sieve</tool>, and soak all together in <material>water</material>. And
+            with a <tool>sponge</tool>, take some of the said <material>ashes</material> and
+                <material>soap</material> and rub the painting with it. And when you see that the
+            old varnish has been taken off, throw a <unit>bucket</unit> of
+                <material>water</material> at the painting to clean it, then leave it for a
+                <time>quarter of an hour</time> in the <tool>sun</tool> to dry and revive the
+            colors. Once your painting is dried, you can apply your
+                    <material_format><material>turpentine</material>
+            varnish</material_format>.</purpose>
+    </block>
+    <block position="left-bottom">
+        <purpose type="advice">Make sure the colors do not come off.</purpose>
+    </block>
+</entry>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p041v_1">
+    <folio number="041v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f88.image"/>
+    <purpose type="observation"/>
+    <heading>Glassmaker's black</heading>
+    <block>Filings of <material>iron</material> taken from bars that have been in the fire for a
+        long time, which are thick, are much better than the common soft ones that fall under the
+            <tool>anvil</tool> in the <tool>forge</tool>, because they imitate niello. To said
+        black, described elsewhere, some people add a little <material>minium</material>.</block>
+</entry>

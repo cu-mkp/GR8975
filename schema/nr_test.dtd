@@ -1,0 +1,27 @@
+
+<!--based on p142v_3.xml-->
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT entry (folio,heading,block)>
+<!ATTLIST entry
+  xmlns CDATA #FIXED ''
+  identifier NMTOKEN #REQUIRED>
+
+<!ELEMENT folio EMPTY>
+<!ATTLIST folio
+  xmlns CDATA #FIXED ''
+  number NMTOKEN #REQUIRED
+  url CDATA #REQUIRED>
+
+<!ELEMENT heading (#PCDATA)>
+<!ATTLIST heading
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT block (#PCDATA|material)*>
+<!ATTLIST block
+  xmlns CDATA #FIXED ''
+  purpose NMTOKEN #REQUIRED>
+
+<!ELEMENT material (#PCDATA)>
+<!ATTLIST material
+  xmlns CDATA #FIXED ''>

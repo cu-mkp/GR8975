@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry identifier="p045v_1">
+
+    <folio number="045v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f96.image"/>
+    <puropse type="observation"/>
+    <purpose type="advice"/>
+    <heading>Loading an arquebus</heading>
+
+    <block>You must have different charges depending to the range that you want your
+            <tool>arquebus</tool> to have, all of which have a screw on the end that fits in the nut
+        of the the said arquebus' <tool>ramrod</tool>. So when you put the
+            <material>powder</material>powder in the charge, which is in the <tool>nut</tool>, hold
+        the ramrod upright. And raising your arquebus up, insert the said ramrod until the charge is
+        in the bottom of the arquebus, then straighten the arquebus, the mouth of the barrel up, and
+        remove the ramrod. That way, your powder will now be entirely in the breech without any
+        grain or dust that lines the sides of the arquebus, which always has some grime in the
+        chamber. That way it will not recoil, and you will shoot more true.</block>
+    <figure number="fig_p045v_1" position="left-middle"
+        url="https://drive.google.com/open?id=0B9-oNrvWdlO5ZlVWTkcyU2FfanM"/>
+</entry>

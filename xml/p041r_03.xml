@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p041r_03">
+    <folio number="041r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image"/>
+    <purpose type="making"/>
+    <purpose type="observation"/>
+    <purpose type="advice"/>
+    <heading>Sand</heading>
+    <block>The <material>sand</material> to be used for casting should be chosen such that it is not
+        too dry for it won't hold together, nor should it be too fat. And although you find some in
+        nature, however, it is not everywhere. And if you are in a place where it is not found, you
+        can put it together yourself but not from <material>fat earth</material>, because the sand
+        should contain none at all, since it makes it porous. But you can make it bind by mixing it
+        with <material>brick</material> well ground on <material>marble</material>, or
+            <material>plaster</material> or <material>calcinated alabaster</material> or something
+        similar, or the burned <material>marrow</material> of ox horn or burned
+            <material>asphalt</material>. If you grind it quite finely on <tool>porphyry</tool>, it
+        binds better &amp; then you can burn it with asphalt or mix it with a quarter of
+            <material>tripoli</material>. Make sure no bread falls into your sand because this makes
+        it porous.</block>
+    <block position="left-middle">Try mixing in soot black.</block>
+</entry>

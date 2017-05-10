@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p040r_1">
+    <folio number="040r" url="hhttp://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image"/>
+    <purpose type="making"/>
+    <heading>Dye</heading>
+    <block>Some take the <material>root of Lapathium acutum maius</material>, which looks like
+            <material>monk’s-rhubarb</material> or <material>sorrel</material>, &amp; using the
+        root, which is yellow in summer, they dye <material>threads</material> &amp; similar things.</block>
+</entry>

@@ -1,16 +1,32 @@
-<entry
-  identifier="p007r_a1">
-  <folio
-    number="007r"
-    url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image"/>
+<entry identifier="p007r_a1">
+  <folio number="007r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f19.image"/>
 
 
-  <heading>
-    To gild with gold color and tinsel
-  </heading>
+  <heading> To gild with gold color and tinsel </heading>
 
   <block>
-    <subject_activity_keywords type="embellishing"/>
-    <purpose type="making">Once you have colored or made your <ref identifier="p006v_a2">stamped ornament in tin</ref> (as previously described), or in <material>iron</material> or <material>copper</material>, you must not put <material>glue</material> as on <material>wood</material>, but just have some <ref type="sub_recipe">fatty oil</ref>, <sub_recipe>which is made in seven or eight days in the <tool>sun</tool> from <material>walnut oil</material> and <material>white lead</material>, stirring often, or cooked on <tool>fire</tool> if one should be in hurry</sub_recipe>. Then, with <ref type="sub_recipe"> the oil thus made fatty</ref>, grind a little <material>white lead</material>, <material>massicot</material> and <material>black graphite</material>, at discretion, <measurement>as much of one as of the other</measurement>.</purpose> <purpose type="observation"><material>Minium</material> will color the <material>gold</material>.</purpose> <purpose type="application">Then apply an even layer of that onto your <ref identifier="p006v_a2">stamp</ref>, taking care you do not fill the hollows. And once it is almost dry, apply the <material_format><material>gold</material> leaf</material_format> on it using <tool><material>cotton</material></tool>. Such <material>gold</material> will withstand rain on houses or elsewhere. And if you have made your <material>gilt</material> with <material>tinsel</material>, color it with <material_format><material>smoke</material> from a partridge or from yellow or red <material>cloth</material></material_format>, and it will look as fine as pure <material>gold</material>. You can cover <embellishee>trunks</embellishee>, <embellishee>mirrors</embellishee>, <embellishee>bed valances and posts</embellishee> in colored <embellishee><material>velvet</material></embellishee> or <embellishee><material>satin</material></embellishee> and then apply the gilded stamped ornament on them with strong <material>glue</material>.</purpose>
+    <activity type="embellishing"/>
+    <purpose type="making">Once you have colored or made your <ref identifier="p006v_a2">stamped
+        ornament in tin</ref> (as previously described), or in <material>iron</material> or
+        <material>copper</material>, you must not put <material>glue</material> as on
+        <material>wood</material>, but just have some <ref type="sub_recipe">fatty oil</ref>,
+        <sub_recipe>which is made in seven or eight days in the <tool>sun</tool> from
+          <material>walnut oil</material> and <material>white lead</material>, stirring often, or
+        cooked on <tool>fire</tool> if one should be in hurry</sub_recipe>. Then, with <ref
+        type="sub_recipe"> the oil thus made fatty</ref>, grind a little <material>white
+        lead</material>, <material>massicot</material> and <material>black graphite</material>, at
+      discretion, <unit>as much of one as of the other</unit>.</purpose>
+    <purpose type="observation"><material>Minium</material> will color the
+      <material>gold</material>.</purpose>
+    <purpose type="application">Then apply an even layer of that onto your <ref
+        identifier="p006v_a2">stamp</ref>, taking care you do not fill the hollows. And once it is
+      almost dry, apply the <material_format><material>gold</material> leaf</material_format> on it
+      using <tool><material>cotton</material></tool>. Such <material>gold</material> will withstand
+      rain on houses or elsewhere. And if you have made your <material>gilt</material> with
+        <material>tinsel</material>, color it with <material_format><material>smoke</material> from
+        a partridge or from yellow or red <material>cloth</material></material_format>, and it will
+      look as fine as pure <material>gold</material>. You can cover trunks, mirrors, bed valances
+      and posts in colored <material>velvet</material> or <material>satin</material> and then apply
+      the gilded stamped ornament on them with strong <material>glue</material>.</purpose>
   </block>
 </entry>

@@ -2,10 +2,12 @@
 <folio
 number="102r"
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f209.image"/>
+<purpose type="making"/>
+    <activity type="colchos"/>
 
 <heading>Provisions for the work of Colchos</heading>
 
-<list purpose="making">
+<list>
 <item>7 <unit><tool>limbecks</tool></unit> of <material>glasse</material></item>
 
 <item>2 <unit>lbs.</unit> of <material>☿</material></item>

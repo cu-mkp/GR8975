@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p088r_a4">
+    <folio number="088r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f181.image"/>
+    
+    <heading>Grafting</heading>
+    
+    <block>
+        One knows from experience that the young shoot that is enters into the incision on the sunny side takes hardly often at all when it is also bowed.
+    </block>
+</entry>

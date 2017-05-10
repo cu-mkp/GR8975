@@ -1,0 +1,13 @@
+<entry identifier="p013r_3">
+    <folio number="013r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f31.image"/>
+    <purpose type="observation"/>
+    <activity type="polishing"/>
+    <heading>Polishing of <material>stones</material></heading>
+
+    <block><material_format>Engraved <material>stones</material></material_format> are not polished
+        on a <tool><material>copper</material> wheel</tool>, but with <tool>brushes</tool> and
+                <tool><material>tripoli</material></tool>. Yet <material_format>faceted and flat
+                <material>stones</material></material_format> are polished on the said
+            <tool>wheel</tool>.</block>
+
+</entry>

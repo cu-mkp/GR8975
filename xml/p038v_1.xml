@@ -1,9 +1,17 @@
-<entry identifer="p038v_1">
-<folio
-number="038v"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image"/>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<entry identifier="p038v_1">
+    <folio number="038v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f82.image"/>
+    <purpose type="making"/>
+    <annotations>
+        <annotation title="Black color for dyeing"
+            url="https://docs.google.com/document/d/1ZNqXbJINti7teByIul9FVs52sOlzdV0NpW42-heVn3I/edit"
+        />
+    </annotations>
 
-<heading>Black color for dyeing</heading>
+    <heading>Black color for dyeing</heading>
 
-<block>Take lye made from quicklime and white lead, mix and leave to soak and you will have a dark brown dye, and reiterating the same you will make black. Try other colours with the lye made of lime.</block>
+    <block purpose="making">Take <material>lye</material> made from <material>quicklime</material>
+        and <material>white lead</material>, mix and leave to soak and you will have a dark brown
+        dye, and reiterating the same you will make black. Try other colours with the lye made of
+        <material>lime</material>.</block>
 </entry>

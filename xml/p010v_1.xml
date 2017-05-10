@@ -1,0 +1,26 @@
+<entry identifier="p010v_1">
+    <folio number="010v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f26.image"/>
+
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDVXNZMHMyMnpQX2M"
+            title="Oil on Taffeta, fol. 10v (Bowen, Lou)"/>
+    </annotations>
+
+    <heading>For painting in <material>oil</material> on <material>taffeta</material> without the
+            <material>oil</material> running</heading>
+
+    <block>
+        <activity type="painting"/>
+        <purpose type="making">One needs to make a layer of <material><foreign language="french"
+                    >batture</foreign></material>, which is made of <material><foreign
+                    language="french">colle forte</foreign></material> soaked for <time>24
+                hours</time> in <material>water</material> then gently boiled so it is not too
+            strong. Then stir in a little <material>honey</material> to soften it, and bring it all
+            to a boil.</purpose>
+        <purpose type="observation">And on top of this layer, which will soon be dry, you will be
+            able to paint in <material>oil</material>, which will soften the layer even more, and
+            which will also serve to make an underlayer for <material>gold</material>.
+                <material>Alum water</material> also keeps <material>oil</material> from
+            running.</purpose>
+    </block>
+</entry>

@@ -1,0 +1,23 @@
+<entry identifier="p009v_1">
+    <folio number="009v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f24.image"/>
+
+    <heading>
+        <profession>Painters</profession>
+    </heading>
+
+    <block>
+        <activity type="painting"/>
+        <purpose type="observation"/> They melt <material>orpiment</material> entirely in a
+            <tool>glass bottle</tool> on <tool>very hot ashes</tool>, but it would be more
+        appropriate to sublimate <material>orpiment</material> in a <tool>long-neck matrass</tool>
+        as for making garnets<material/>. The <material>orpiment</material> thus turns red like red
+            <material>enamel</material> and it has to be ground first in
+            <material>distemper</material>, because once entirely melted it is very brittle and
+        difficult to grind. Then, once dry, you can thin it with <material>oil</material> and it
+        will make a deep and saturated yellow. But to prevent <material>orpiment</material> from
+        fading in contact with other colours and make it compatible with these and to make it dry
+        quickly, a most rare secret is to calcine <material_format>common
+            <material>salt</material></material_format> and to grind it together with the
+            <material>orpiment</material>. <material>Green verditer</material> is not used with
+            <material>oil</material>. </block>
+</entry>

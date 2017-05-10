@@ -1,0 +1,18 @@
+<entry identifier="p008v_3">
+    <folio number="008v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f22.image"/>
+
+    <heading>Polishing stones</heading>
+
+    <block>
+        <activity type="polishing"/>
+        <purpose type="observation">There are three <tool>wheel</tool>s for this purpose, one of
+                <material>tin</material>, one of <material>lead</material>, and one of
+                <material_format>pure <material>copper</material></material_format>. On the
+                    <tool><material>copper</material> wheel</tool>, only
+                <material>diamonds</material>, <material>rubies</material>,
+                <material>sapphires</material> and <material>oriental jacinths</material> are
+            usually polished. The <tool><material>tin</material></tool> wheel is for softer stones
+            such as <material>emeralds</material>, <material>amethysts</material> and
+            others.</purpose>
+    </block>
+</entry>

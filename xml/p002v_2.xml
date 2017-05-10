@@ -1,0 +1,25 @@
+<entry identifier="p002v_a2">
+
+  <folio number="002v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f10.image"/>
+  <annotations>
+    <annotation
+      url="https://drive.google.com/open?id=0B33U03wERu0ecjZlckFDRE9YQXc"
+      title="Imitation Gemstones, Ruby Emerald, fol. 100r-v (Kremnitzer, Shah)"/>
+  </annotations>
+
+  <heading><material>Emeralds</material> of <name>Brissac</name></heading>
+
+  <activity type="imitation gem"/>
+  <purpose type="making"/>
+
+  <block>I took <material>minium</material>, 26 <unit>℥</unit>, <material>crystal</material> […] and
+    ground on <material_format>marble</material_format> 12 <unit>℥</unit>,
+      <material>verdigris</material> 3 <unit>|ʒ|</unit>. Incorporated all together. Put in a
+      <tool>crucible</tool> covered by another well luted <tool>crucible with a hole on top</tool>.
+    Melting: 7 <time>hours</time> without blowing. The mass came out a fine <color>green</color>.</block>
+
+  <block>I took <material>minium</material>, 12 <unit>℥</unit>, <material>crystal</material>, 6
+      <unit>℥</unit>, <material>verdigris</material>, 2 <unit>grains</unit>. Melting: moderate, vi
+      <time>hours</time>, baked 24 <time>hours</time>. The mass came out <color>green</color>, <color>yellow</color> and
+    <color>red</color>.</block>
+</entry>

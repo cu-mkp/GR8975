@@ -1,0 +1,26 @@
+<entry identifier="p012r_2">
+    <folio number="012r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image"/>
+
+    <heading>
+        <material>Cimolee</material>
+    </heading>
+
+    <block>
+        <activity type="mold making"/>
+        <activity type="casting"/>
+        <purpose type="observation"/>
+        <material>Cimolee</material> or <material><profession>fullers</profession>’ clay</material>
+            (<profession>fullers</profession> meaning those who finish <material>cloth</material>)
+        is an excellent material for molding hollow or in relief. If you want to reheat it, it
+        should first be warm and you should reheat gently from a distance, and little by little,
+        otherwise it will crack. To reheat the figure put it in a <tool>pot</tool> in an
+            <tool>oven</tool>, or in a <tool>closed oven</tool>. It comes out very smooth, clean and
+        fine. With <material>cimolee</material> you can make a <tool>hollow mold</tool> of an
+            <animal>animal</animal> and cast it in <material>lead</material>.</block>
+
+    <block position="left-middle">
+        <activity type="mold making"/>
+        <purpose type="advice"/>The work needs to have dried for <time>4 or 5 days</time> before you
+        bake it. When you are molding and making a hollow in <material>cimolee</material>, don't
+        press all at once, but gently, or else it would split. </block>
+</entry>

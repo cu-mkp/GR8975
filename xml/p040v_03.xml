@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p040v_03">
+    <folio number="040v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image"/>
+    <purpose type="observation"/>
+    <heading>Metal</heading>
+    <block><material>Tin</material> needs to be pure because if there is any
+            <material>lead</material>, it will go up in smoke whilst melting. Alloyed tin withstands
+        fire for a long time but in ashes it will come apart.</block>
+</entry>

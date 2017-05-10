@@ -1,0 +1,57 @@
+<entry identifier="p004v_a1">
+    <folio number="004v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image"/>
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDR09tZUQyanRod3c"
+            title="Pain, Ostie, Rostie: Bread in Early Modern Europe, fols. 4v, 37r, 79v (Le Pouésard)"
+        />
+    </annotations>
+
+    <heading>Black varnish for sword guards, metal bands for chests, etc.</heading>
+    <block>
+        <activity type="varnish"/>
+        <purpose type="making"> Take <material>linseed oil</material> or, for a cheaper option,
+                <material>walnut oil</material>, and rid it of fat with
+                    <material_format><material>garlic</material> cloves</material_format> and
+                <material>hog's fennel</material> (some also add
+                    <material_format><material>bread</material> crusts</material_format>), which you
+            will boil in it for <time>a good quarter of an hour</time>. Then add to <unit>one
+                pound</unit> of the <material>oil</material> boiled in this way a piece of
+                <material>black pitch</material>
+            <unit>the size of a walnut</unit> and <unit>a double handful</unit> of
+                <material>wheat</material>, without removing the <material>garlic</material> and
+                <material>onions</material>, and allow to boil together for <time>a good quarter of
+                an hour</time>. Once the <material>pitch</material> is well melted and the
+                <material>oil</material> takes on body, you can remove it from the
+            <tool>fire</tool>.</purpose>
+        <purpose type="application">Then, to varnish, place your
+            <material>iron</material><!--technically, iron is what the varnish is applied to, not a material in a recipe per se-->
+            over a <tool>warm charcoal fire</tool> and apply with a <tool>feather</tool> or a
+                <tool>brush</tool>. When you see that it no longer smokes, it is done and your
+            varnish is dry.</purpose>
+    </block>
+    <block position="left-top">
+        <purpose type="advice">For an excellent black varnish, add <unit>two or three</unit>
+            <material>paternoster beads</material> to the rest.</purpose>
+    </block>
+    <block position="left-top">
+        <purpose type="observation">Some consider <material>walnut oil</material> to be
+            better.</purpose>
+    </block>
+    <block position="left-top">
+        <purpose type="advice">If there is a quantity of varnish, it needs to boil for <time>at
+                least half a day</time>, because the more it boils, the better it is. Should the
+            varnish boil over, it is dangerous for it to catch fire and it is difficult to
+            extinguish. So do this in a courtyard or other open space.</purpose>
+    </block>
+    <block position="left-middle">
+        <purpose type="advice">In <unit>five or six lbs.</unit> of <material>oil</material>, one
+            must put <unit>one lb.</unit> of <material>galipot</material>, which costs <currency>4
+                sols</currency>, and some <material_format>peeled <material>garlic</material>
+                cloves</material_format>. This varnish is not black in and of itself, but turns
+            black when exposed to <tool>fire</tool>.</purpose>
+    </block>
+    <block position="left-middle">See below, around the 3rd part of this book, after
+            <material>sands</material>, in the chapter on furbishers.
+        <!--Is there such a "chapter"?-->
+    </block>
+</entry>

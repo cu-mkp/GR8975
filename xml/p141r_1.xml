@@ -1,138 +1,177 @@
 <entry identifier="p141r_1">
-<folio number= "141r"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image">
+    <folio number="141r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f287.image"/>
 
-<heading><activity>Casting a crayfish</activity></heading>
+    <heading>Casting a crayfish</heading>
+    <purpose type="making"/>
+    <activity type="casting"/>
+    <activity type="casting animals"/>
+    
+    <block purpose="making"> The <animal>crayfish</animal> is one of the most fantastical to cast,
+        but also <!-- <activity type="reference"> -->provides an example for casting
+            other difficult things<!-- </activity>  -->. You can distinguish males and female by the eggs that
+        the females carry, and by the four little white back legs that males have in their tails
+        after behind main eight legs. It is good to dry them out a bit so that the bumps come out
+        more hard and beautiful, because none of what is made of shell shrinks. It is true that
+        should you dry the little inside legs for too long, they become diminished and have no body.
+        If they are too dry, the flesh separates from the scales. Be sure then to maintain the mean.
+        They have certain hairs between the legs and at the end of the tail. And because all hair is
+        difficult to cast, because it gets mixed up in the sand and does not release, you can burn
+        it by putting a <tool>hot iron</tool> on the <animal>crayfish</animal> so that it the hair cannot be seen. As
+        for animals that have hair or feathers, you must grease the hair with <material>wheat
+            oil</material>, which is very dry and which will make the hair lay flat and straight. In
+        this way, you will have form of your animal and you will have the hair. Should it the hair
+        be wavy, it can be repaired. If your crayfish has eggs, which are delicate, and which will
+        be difficult to take out of the mold without breaking, you would do better to make the first
+        cast with the crayfish on its belly and eggs. In this way, you will open the mold with it
+        the <animal>crayfish</animal> on its back, which will be hard and easy to manipulate. And the belly and the
+        eggs will remain in the mold. And rather than opening your mold for the second time, you
+        will have to burn it with them in it. This way, it will open easily, and what has been
+        burned will come away cleanly. In this way, the second casting, which is done on the first
+        one that has successfully taken hold, separates easily from the first, after having been
+        refired. This is a singular secret for similar moldings. </block>
 
-<block purpose="making">
-The <keyword>crayfish</keyword> is one of the most fantastical to cast, but also <activity>provides an example for casting other difficult things</activity>. You can distinguish males and female by the eggs that the females carry, and by the four little white back legs that males have in their tails after behind main eight legs. It is good to dry them out a bit so that the bumps come out more hard and beautiful, because none of what is made of shell shrinks.  It is true that should you dry the little inside legs for too long, they become diminished and have no body.  If they are too dry, the flesh separates from the scales.  Be sure then to maintain the mean.  They have certain hairs between the legs and at the end of the tail.  And because all hair is difficult to cast, because it gets mixed up in the sand and does not release, you can burn it by putting a <tool>hot iron</tool> on the crayfish so that it the hair cannot be seen.  As for <keyword>animals</keyword> that have hair or feathers, you must grease the hair with <material>wheat oil</material>, which is very dry and which will make the hair lay flat and straight.  In this way, you will have form of your animal and you will have the hair.  Should it the hair be wavy, it can be repaired. If your crayfish has eggs, which are delicate, and which will be difficult to take out of the mold without breaking, you would do better to make the first cast  with the crayfish on its belly and eggs. In this way, you will open the mold with it the crayfish on its back, which will be hard and easy to manipulate.  And the belly and the eggs will remain in the mold. And rather than opening your mold for the second time, you will have to burn it with them in it. This way, it will open easily, and what has been burned will come away cleanly. In this way, the second casting, which is done on the first one that has successfully taken hold, separates easily from the first, after having been refired. This is a singular secret for similar moldings.
-</block>
+    <block position="left-top" purpose="making"> The casting is made by the very thin tail. </block>
 
-<block position="left-top"
-purpose="making">
-The casting is made by the very thin tail.
-</block>
+    <block position="top" purpose="advice"> If some little thing is missing, you can reattach it or
+        else fill it with <material>goldsmith's cement</material>. </block>
 
-<block position="top"
-purpose="advice">
-If some little thing is missing, you can reattach it or else fill it with <material>goldsmith's cement</material>.
-</block>
+    <block position="left-top" purpose="advice"> Do not forget to rub with
+            <material>spirits</material> before you mold. </block>
 
-<block position="left-top"
-purpose="advice">
-Do not forget to rub with <material>spirits</material> before you mold.
-</block>
+    <block position="left-top" purpose="making">
+    <!--   <activity type="reference"> -->
+        <animal>Stag beetles</animal>, <animal>crayfish</animal> and <animal>crabs</animal> are
+        molded in the same way.
+    <!--    </activity> -->
+    </block>
 
-<block position="left-top"
-purpose="making">
-<keyword>Stag beetles, crayfish and crabs</keyword> are molded in the same way.
-</block>
+    <block position="left-middle" purpose="advice"> If your <animal>crayfish</animal> has no eggs, mold the back on
+        top and the belly on the bottom. You can give it some. </block>
 
-<block position="left-middle"
-purpose="advice">
-If your crayfish has no eggs, mold the back on top and the belly on the bottom. You can give it some.
-</block>
+    <block position="left-middle" purpose="advice"> It the <animal>crayfish</animal> can be molded hollow for the
+        body, but not for the legs. And for a good result, take note that the <animal>crayfish</animal> is rather
+        fantastical to mold hollow, this ought to be reserved for <animal>turtles</animal>. </block>
 
-<block position="left-middle"
-purpose="advice">
-It the crayfish can be molded hollow for the body, but not for the legs. And for a good result, take note that the crayfish is rather fantastical to mold hollow, this ought to be reserved for turtles.
-</block>
+    <block position="left-bottom" purpose="making"> When you open your mold, you will find the
+        <animal>crayfish</animal> has white bones, but they will not be powder. And without opening it, the mercury
+        will not have affected the process. </block>
 
-<block position="left-bottom"
-purpose="making">
-When you open your mold, you will find the crayfish has white bones, but they will not be powder. And without opening it, the mercury will not have affected the process.
-</block>
+    <block position="bottom" purpose="making"> Apply very <material>light oil colors</material>. </block>
 
-<block position="bottom"
-purpose="making">
-Apply very light <keyowrd>oil colors</keyowrd>.
-</block>
+    <block position="bottom" purpose="making"> To paint it, boil it with <material>wine</material> and a bit of
+            <material>salt</material> so that they become very red and use this as a model. Paint
+        the back with <color>vermillion</color> mixed with <material>laquer</material>, and the
+        sides and the underside of the belly and the legs with <color>vermillion</color> and
+            <color>yellow ochre</color> and <color>white</color>. </block>
 
-<block position="bottom"
-purpose="making">
-To paint it, boil it with wine and a bit of <material>salt</material> so that they become very red and use this as a model.  Paint the back with <keyword>vermillion mixed with laquer</keyword>, and the sides and the underside of the belly and the legs with <keyowrd>vermillion and yellow ochre and white</keyowrd>.
-</block>
 
-</folio>
 
-<folio number="141v"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image">
+    <folio number="141v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f288.image"/>
 
-<block purpose="making">
-Let your crayfish dry a little in the sun, by itself. If it has spawns, they will shrink while drying, and be all the more beautiful for it. Make your paste out of yellow <material>potter's earth</material>, just like for the other representations.  Lay your crayfish on it, the back side down, and the other parts which are more tricky to mold -- legs, belly, eggs - side up. Drive in the back side in the clay paste up to the legs, which is about the half part of the crayfish's body. Fix the body with a pointy iron thread in the middle and, if you feel you need it, you can also drive another one at the edge of the tail.  And in order that the big legs be lower than the head, which is lower because it is linked from below, add a little <material>clay</material> under the head. Then add a bit of <material>clay</material> under the jacket in order to raise it. Hide the feelers under the clay and under the crusher claws, then arrange it as you like. Stretch out the walking legs to the joints, and for the first cast, bend the second part of the walking legs. Fix the joints of the legs with wax and a warm wire so they will not move. If you want to mould something fancier, fix the end of one walking legs on the body or on a crusher claw , using the same <material>wax</material>. If the female has spawns, bent half the tail over the spawns, and keep the shape by fixing the tail with a wire. Be sure that you will be able to clean this part. Finally <activity>rub your crayfish with spirits, and cast your sand</activity>. Once the sand is hardened, uncover the back side, the head, the eyes, and the small legs close to the crusher claws, and the walking legs all along. One must uncover these parts as much as possible. Then bend and cover the spawns again. The other animals
-</block>
+    <block purpose="making"> Let your crayfish dry a little in the sun, by itself. If it has spawns,
+        they will shrink while drying, and be all the more beautiful for it. Make your paste out of
+        yellow <material>potter's earth</material>, just like for the other representations. Lay
+        your <animal>crayfish</animal> on it, the back side down, and the other parts which are more tricky to mold
+        -- legs, belly, eggs - side up. Drive in the back side in the <material>clay</material> paste up to the legs,
+        which is about the half part of the crayfish's body. Fix the body with a pointy <material>iron thread</material>
+        in the middle and, if you feel you need it, you can also drive another one at the edge of
+        the tail. And in order that the big legs be lower than the head, which is lower because it
+        is linked from below, add a little <material>clay</material> under the head. Then add a bit
+        of <material>clay</material> under the <material>jacket</material> in order to raise it. Hide the feelers under
+        the clay and under the crusher claws, then arrange it as you like. Stretch out the walking
+        legs to the joints, and for the first cast, bend the second part of the walking legs. Fix
+        the joints of the legs with <material>wax</material> and a warm <material>wire</material> so they will not move. If you want to mould
+        something fancier, fix the end of one walking legs on the body or on a crusher claw , using
+        the same <material>wax</material>. If the female has spawns, bent half the tail over the
+        spawns, and keep the shape by fixing the tail with a <material>wire</material>. Be sure that you will be able to
+        clean this part. Finally rub your <animal>crayfish</animal> with <material>spirits</material>, and cast your <material>sand</material>. Once the sand
+        is hardened, uncover the back side, the head, the eyes, and the small legs close to the
+        crusher claws, and the walking legs all along. One must uncover these parts as much as
+        possible. Then bend and cover the spawns again. The other animals </block>
 
-<block position="left-top"
-purpose="making">
-Fix what may raise the two padded edges on each side of the mouth with melted wax under them.
-</block>
+    <block position="left-top" purpose="making"> Fix what may raise the two padded edges on each
+        side of the mouth with melted <material>wax</material> under them. </block>
 
-<image identifier="fig_p141v_1"
-position="left-middle"
-url="https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk"/>
+    
+        <figure identifier="fig_p141v_1" position="left-middle"
+            url="https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk"/>
+    
+    <!-- ![fig_p141v_1] (https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk)
+-->
 
-<!-- ![fig_p141v_1] (https://drive.google.com/open?id=0B9-oNrvWdlO5R0NIbHoyNTNQRlk)
---> 
+    <block position="left-middle" purpose="making"> Uncover as many parts as possible, but be sure
+        the channels you make are well stripped. </block>
 
-<block position="left-middle"
-purpose="making">
-Uncover as many parts as possible, but be sure the channels you make are well stripped.
-</block>
+    <block position="left-middle" purpose="making"> Incline your mould to the thickest side of the
+        animal. </block>
 
-<block position="left-middle"
-purpose="making">
-Incline your mould to the thickest side of the animal.
-</block>
+    <block position="left-bottom" purpose="making"> To paint the <animal>crayfish</animal>, one paints the middle of
+        the back with <color>vermilion</color>, mixed with a bit of <material>lacquer</material>.
+        The sides, the belly, and below the legs with a mixture made of <color>vermilion</color>,
+            <material>ceruse</material>, and a bit of <color>yellow ochre</color>. As with all
+        things, always keep the real one in front of you in order to copy it as realistically as
+        possible. </block>
+    <block position="left-bottom" purpose="making"> Lay the feelers on the crusher claws, or solder
+        this part with a wire made of bleached brass. </block>
+    <block position="bottom" purpose="making"> When you arrange the legs, be sure that they do not
+        get over the belly, and that they are well set against the belly otherwise [illegible] </block>
 
-<block position="left-bottom"
-purpose="making">
-To paint the crayfish, one paints the middle of the back with <keyword>vermilion, mixed with a bit of lacquer</keyword>. The sides, the belly, and below the legs with a mixture made of <keyword>vermilion, ceruse, and a bit of yellow ochre</keyword>. As with all things, always keep the real one in front of you in order to copy it as realistically as possible.
-</block>
-<block position="left-bottom"
-purpose="making">
-Lay the feelers on the crusher claws, or solder this part with a wire made of bleached brass.
-</block>
-<block position="bottom"
-purpose="making">
-When you arrange the legs, be sure that they do not get over the belly, and that they are well set against the belly otherwise [illegible]
-</block>
 
-</folio>
 
-<folio number= "142r"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image">
+    <folio number="142r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f289.image"/>
 
-<block purpose="making">
-are not so uncovered. But since crayfish are troublesome to burn &amp; clean, you have to uncover them as much as you can, even the little legs just until the tips, because they are troublesome &amp; if, in order to not alter them, you have to take them out, you could break something of the mold. Having uncovered it with the point of a <tool>knife</tool>, like an <tool>engraving stick</tool> or another fitting thing, clean off the <material>sand</material> at the joints &amp; elsewhere with your little brush really very scrupulously. And if something is loosed from the <keyword>crayfish</keyword>, attach it with <material>wax</material>, as is discussed. And also attach the horns this way. And also do the casting the length of the extremes of the little legs with wax. And refill the holes that have been made with the needles of <material>iron wire</material> with it. And everything being quite clean &amp; having uncovered more than half of it, oil your mold after having soaked the back side in water, &amp; do not forget to oil all the fine parts that are between the legs and the little beaks; then rub the crayfish with spirits. And do your second casting after having made the first mold even, so that the cramp-irons join better. Your mold must be larger on the side with the impression than on the back. Do not open your mold after the second casting, so that it not become clayed &amp; reheated &amp; that which is inside not be burned. Do not forget to mix crocum throughout your sand when you mold the crayfish, because you must really reheat it &amp; the <material>crocum</material> withstands this marvelously. <activity>To mold a crab &amp; to <activity></activity>mold a crayfish are exactly the same</activity>. When you have uncovered your crayfish on one side do not delay at all before doing the second casting, because crayfish dry out. It is not enough to uncover the crayfish such that you see the whole half the half you uncover, but take heed that your mold, even when you are uncovering, be good and stripped, because if the crayfish gets well burnt, you will not be able to open your mold without breaking it.
-</block>
+    <block purpose="making"> are not so uncovered. But since <animal>crayfish</animal> are troublesome to burn &amp;
+        clean, you have to uncover them as much as you can, even the little legs just until the
+        tips, because they are troublesome &amp; if, in order to not alter them, you have to take
+        them out, you could break something of the mold. Having uncovered it with the point of a
+            <tool>knife</tool>, like an <tool>engraving stick</tool> or another fitting thing, clean
+        off the <material>sand</material> at the joints &amp; elsewhere with your little brush
+        really very scrupulously. And if something is loosed from the <animal>crayfish</animal>,
+        attach it with <material>wax</material>, as is discussed. And also attach the horns this
+        way. And also do the casting the length of the extremes of the little legs with <material>wax</material>. And
+        refill the holes that have been made with the needles of <material>iron wire</material> with
+        it. And everything being quite clean &amp; having uncovered more than half of it, <material>oil</material> your
+        mold after having soaked the back side in water, &amp; do not forget to <material>oil</material> all the fine
+        parts that are between the legs and the little beaks; then rub the <animal>crayfish</animal> with <material>spirits</material>.
+        And do your second casting after having made the first mold even, so that the cramp-irons
+        join better. Your mold must be larger on the side with the impression than on the back. Do
+        not open your mold after the second casting, so that it not become clayed &amp; reheated
+        &amp; that which is inside not be burned. Do not forget to mix <material>crocum</material> throughout your sand
+        when you mold the <animal>crayfish</animal>, because you must really reheat it &amp; the
+        <material>crocum</material> withstands this marvelously. To mold a <animal>crab</animal> &amp;
+        to mold a <animal>crayfish</animal> are exactly the same. When you have uncovered
+        your <animal>crayfish</animal> on one side do not delay at all before doing the second casting, because
+        <animal>crayfish</animal> dry out. It is not enough to uncover the <animal>crayfish</animal> such that you see the whole half
+        the half you uncover, but take heed that your mold, even when you are uncovering, be good
+        and stripped, because if the <animal>crayfish</animal> gets well burnt, you will not be able to open your
+        mold without breaking it. </block>
 
-<block position="top"
-purpose="making">
-Restore it with a <tool>pen knife, little chisels, or engraving sticks</tool>.
-</block>
+    <block position="top" purpose="making"> Restore it with a <tool>pen knife</tool>, little <tool>chisels</tool>, or
+            <tool>engraving sticks</tool>. </block>
 
-<block position="left-top"
-purpose="making">
-As you see here, but a wax casting all around &amp; at the end of the tail, where you will do the principal casting, two or three more.
-</block>
+    <block position="left-top" purpose="making"> As you see here, but a wax casting all around &amp;
+        at the end of the tail, where you will do the principal casting, two or three more. 
+    </block>
+    <figure
+        identifier="fig_p142r_1"
+        position="left-top"
+        url="https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8"/>
 
-<image identifier="fig_p142r_1"
-url="https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8"/>
 
-<!--
+    <!--
 ![fig_p142r_1] (https://drive.google.com/open?id=0B9-oNrvWdlO5Qkh2MDhvUkFnUW8)
 -->
 
-<block position="left-middle"
-purpose="making">
-Make the casting with <material>candle wax</material> shaped in a thread like a large packthread, the whole length from the end of the claws to the extremity of the tail. If there is also some claw end or other part that is extended past the rank of the others or is raised up higher or turned up all alone, make a wax casting for it from its end just barely not joined to the body or to one of the large claws or to some other place where lots of metal will be wedged in.
-</block>
+    <block position="left-middle" purpose="making"> Make the casting with <material>candle
+            wax</material> shaped in a thread like a large packthread, the whole length from the end
+        of the claws to the extremity of the tail. If there is also some claw end or other part that
+        is extended past the rank of the others or is raised up higher or turned up all alone, make
+        a wax casting for it from its end just barely not joined to the body or to one of the large
+        claws or to some other place where lots of metal will be wedged in. </block>
 
-<block position="left-bottom"
-purpose="making">
-Having uncovered it, attach &amp; secure the two little bearded horns of the crayfish, and anything else that is not secured, with wax.
-</block>
+    <block position="left-bottom" purpose="making"> Having uncovered it, attach &amp; secure the two
+        little bearded horns of the crayfish, and anything else that is not secured, with wax. </block>
 
-</folio>
+
 
 </entry>

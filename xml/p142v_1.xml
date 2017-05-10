@@ -1,23 +1,38 @@
 <entry identifier="p142v_1">
-<folio number="142v"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image"/>
+  <folio number="142v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image"/>
+  
+  <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDfkJmS2RybjBpTmpsVFhDQVo1RVZKMjRGY0d6QlNTYVhqS1VsYi13a0FkLUU" title="Too Thin Things"/>
+  </annotations>
+  
+  <heading>Molding grasshoppers and things too thin</heading>
+  <purpose type="making"/>
+  <activity type="casting"/>
+  <activity type="casting animals"/>
+<activity type="casting things too thin"/>   
+  <!-- <related-block>  -->
+    <block purpose="making"> If you have to mold a piece of written-on paper that
+          is too thin, after you have done the first cast and it has set, give
+      a little thickness to the reverse of your paper with <material>melted butter</material>, which
+      is the most appropriate means there is, &amp; for strengthening the wings of either a
+      <animal>butterfly</animal> or a <animal>grasshopper</animal>, or any delicate part of an animal to which you need to
+      give thickness. But take heed to apply this melted <material>butter</material> under the wing or
+      in whichever place it will not be seen. For giving thickness to a <plant>pansy</plant> or other
+      flowers, <material>butter</material> is not good, but rather <material>wheat oil</material>, which is
+      soon dry &amp; holds firm. <material>Wax</material> would not be appropriate here for it is
+      too hot once melted, and it makes the thing to which it is applied contract. But butter is
+      amiable and handleable. </block>
 
-<heading>Molding grasshoppers and things too thin</heading>
+  <block position="left-top" purpose="advice">If you write on <material>paper</material> or on common <material>carton</material> and your
+      letters are made with <material>gum</material>, the moisture of the <tool>clay plate</tool>
+      (?) or the wet (?) <material>sand</material> for a <material>noyau</material> will moisten
+      your letters and undo them. Write therefore with <material>cinnabar</material> mixed with <material>oil</material>,
+    on oiled &amp; stamped (?) <material>paper</material>. </block>
+  <!-- </related-block>  -->
 
-<related-block>
-<block purpose="making">
-If you have to <activity>mold a piece of <keyword>written-on paper that is too thin</keyword></activity>, after you have done the first cast and it has set, give a little thickness to the reverse of your paper with <material>melted butter</material>, which is the most appropriate means there is, &amp; for strengthening the wings of either <keyword>a butterfly or a grasshopper</keyword>, or any delicate part of an animal to which you need to give <keyword>thickness</keyword>. But take heed to apply this melted butter under the wing or in whichever place it will not be seen.  For giving thickness to a <keyword>pansy or other flowers</keyword>, butter is not good, but rather <material>wheat oil</material>, which is soon dry &amp; holds firm.  <material>Wax</material> would not be appropriate here for it is too hot once melted, and it makes the thing to which it is applied contract.  But butter is amiable and handleable.
-</block>
-
-<block position="left-top"
-purpose="advice">If you write on paper or on common carton and your letters are made with <material>gum</material>, the moisture of the <tool>clay plate</tool> (?) or the wet (?) <material>sand</material> for a <material>noyau</material> will moisten your letters and undo them.  Write therefore with <material>cinnabar mixed with oil</material>, on oiled &amp; stamped (?) paper.
-</block>
-</related-block>
-
-<block position="left-middle"
-purpose="advice">
-  +
-Reheat your molds with <material>charcoal</material> firstly lit in the forge, so that the fire is not too hot and does not break the molds.  And do not fire as strongly where the mold is thin as where it is thick.
-</block>
+  <block position="left-middle" purpose="advice"> + Reheat your molds with
+      <material>charcoal</material> firstly lit in the forge, so that the fire is not too hot and
+    does not break the molds. And do not fire as strongly where the mold is thin as where it is
+    thick. </block>
 
 </entry>

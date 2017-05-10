@@ -1,9 +1,8 @@
 <entry identifier="p061r_3">
-<folio
-number="061r"
-url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image"/>
-
-<heading>White lead</heading>
-
-<block purpose="observation">Without this, you can't work on a small scale for which it is necessary to soften with great care. But you can't do it with <material>ceruse</material> because it does not have enough body.</block>.
-</entry>
+    <folio number="061r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f127.image"/>
+    <purpose type="observation"/>
+    <activity type="painting"/>
+    <heading>White lead</heading>
+    <block>Without this, you can't work on a small scale for which it is
+        necessary to soften with great care. But you can't do it with <material>ceruse</material>
+        because it does not have enough body.</block>. </entry>

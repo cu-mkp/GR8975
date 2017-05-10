@@ -5,12 +5,14 @@
 
 
     <heading>Birds</heading>
+  <purpose type="observation"/>
 
-    <block position="bottom">Those that are caught at <time>Michaelmas</time> are good to keep, but those that are caught in <time>March</time> die,
+    <block>Those that are caught at <time>Michaelmas</time> are good to keep, but those that are caught in <time>March</time> die,
     because they are starting to fall in love. <bird>Ortolans</bird> are fed oats all summer so that they eat without getting fat,
     to be more suitable for hunting and helping to catch others. Then, when one wants to fatten them to sell, one gives them millet.
     They sing at night. They must be caught after mid-July and before Michaelmas, because after the period when they have their young
     in this country, they leave as turtledoves do. Siskins should also be caught after <time>All Saints' Day</time> and before
     <time>Christmas</time>, because afterwards they leave for the mountains to brood.</block>
-  <purpose type="observation"/>
+  
+  <block position="left-bottom">Ortolans are ventriloquists, so that, singing without opening their beaks, they seem to be...</block>
 </entry>

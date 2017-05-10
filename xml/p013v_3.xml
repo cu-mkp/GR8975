@@ -1,0 +1,18 @@
+<entry identifier="p013v_3">
+    <folio number="013v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f32.image"/>
+    <purpose type="observation"/>
+
+    <heading>
+        <material>Toadstone</material>
+    </heading>
+
+    <block>
+        <activity type="painting">That which comes from the head of the <animal>toad</animal> and
+            has the shape of the <animal>toad</animal>, painted naturally as you have seen, is the
+            most excellent.</activity>
+        <activity type="medicine">It is said that if <material_format>powder made from
+                it</material_format> is put on a <tool>brazier</tool> in someone's room at night,
+            they will be unable to move, speak, or stop <profession>thieves</profession>.</activity>
+    </block>
+
+</entry>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p041r_02">
+    
+    <folio number="041r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f87.image"/>
+    <purpose type='observation'/>
+    <heading>Garden lily</heading>
+    
+    <block>If it is broken during its first blossom, it will not grow or bloom until the following
+        year, and I believe it is the same for bulbous flowers [in general].</block>
+</entry>

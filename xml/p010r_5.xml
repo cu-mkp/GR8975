@@ -1,0 +1,26 @@
+<entry identifier="p010r_5">
+    <folio number="010r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f25.image"/>
+
+    <annotations>
+        <annotation
+            url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDfm81MDNTQVNkanRWVXlndmtjMHAwRVFuRDAxWWNiLU5hN0EwdFVfSmg3bEU"
+            title="Powder for Hourglasses, fol. 10r (Marris, Pope)"/>
+    </annotations>
+
+    <heading>Powder for hourglasses</heading>
+
+    <block>
+        <purpose type="making"/> It must be made very fine and not subject to rust and with enough
+        weight to flow. Taking i <unit>lb.</unit> of <material>lead</material>, melt it and skim and
+        purify it from its filth, then pour into it four <unit>℥</unit> of <material_format>finely
+            ground common <material>salt</material></material_format>, and take care that there are
+        no stones or earth. And immediately after pouring it, stir continuously very well with an
+            <tool>iron tool</tool> until the <material>lead</material> and <material>salt</material>
+        are quite incorporated, and take it immediately off the <tool>fire</tool>, stirring
+        continuously. And if it seems too coarse, grind it on a
+                    <tool><material_format><material>marble</material> slab</material_format></tool>
+        and pass it through a <tool>fine sieve</tool>, then wash it as many as times as necessary
+        until the <material>water</material> runs clear, throwing out the fine powder that will
+        float on it, renewing the <material>water</material> as many times as necessary until it is
+        completely cleared. </block>
+</entry>

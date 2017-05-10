@@ -1,0 +1,15 @@
+<entry identifier="p015v_1">
+    <folio number="015v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f36.item"/>
+    <purpose type="observation"/>
+    <activity type="writing"/>
+    <activity type="embellishing"/>
+    <heading>Tablets</heading>
+
+    <block>Some are made from <material>boxwood</material> and inlaid with
+            <material>ebony</material>, <material>sandalwood</material>, <material>ivory</material>,
+        or from <material>gold</material> and <material>silver</material> like damascening. After
+        that one writes with <tool><material>silver</material>point</tool> and then erases by
+        rubbing them with a <tool><material><animal>cuttlefish</animal>
+        bone</material></tool>.</block>
+
+</entry>

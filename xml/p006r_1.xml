@@ -1,0 +1,73 @@
+<entry identifier="p006r_1">
+    <folio number="006r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f17.image"/>
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDWm03YUhIbEltRHM"
+            title="Rouge Clair, fol. 40v (Chang, Shi)"/>
+    </annotations>
+    <annotations>
+        <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDYVR5NE9zV1BfTUE"
+            title="Esmail, fol. 39v, 103v, 104r, 116r, 136r (Chang, Clemens, Shi)"/>
+    </annotations>
+
+    <heading>To lay down and set <material_format>burnished
+            <material>gold</material></material_format> and give it a red or green or blue
+        hue</heading>
+
+    <block>
+        <activity type="embellishing"/>
+        <activity type="gilding"/>
+        <purpose type="observation"><material>Ceruse</material> and
+                    <material_format><material>lead</material> white</material_format> is not
+            appropriate for polished white nor for burnishing because it is fat, but it is quite
+            good for <material_format>matte <material>gold</material></material_format>, which is
+            made with <material>oil</material> by mixing it with <material>yellow ochre</material>
+            and <material>mine</material> and tempering the whole with <material>oil</material>, and
+            this <material_format>matte <material>gold</material></material_format> so applied lasts
+            in the rain, like gilded leadwork and similar things.</purpose>
+        <purpose type="application">Therefore, for <material_format>burnished
+                    <material>gold</material></material_format> take <material_format>good
+                    <material>chalk</material>, quite white, well ground</material_format> and
+            soaked with <material>distemper glue</material> and do <unit>four</unit> coats of it,
+            one after the other, on the <material>wood</material>. And when the last one is dry, rub
+            it with <tool><plant>prêle</plant></tool>, which is a kind of grass otherwise named
+                    <tool><plant>horsetail</plant></tool>, to render it well polished. Afterwards,
+            take <material_format>fine <material><place>Armenian</place>
+                bole</material></material_format> and <material>sanguine</material>, <unit>as much
+                of one as of the other</unit>, a bit of <material><animal>lamb</animal>
+                tallow</material>
+            <unit>the size of a bean or a pea</unit> depending on the quantity of
+                <material>bole</material>, and <unit>a little</unit>
+            <material><plant>willow</plant> charcoal</material>, or <unit>as much as</unit> the
+                <material>tallow</material>, and <unit>half a walnut shell</unit> filled with
+                <material_format>half-burned <material>saffron</material></material_format>; some
+            put in <unit>a little</unit>
+            <material>candi sugar</material>. Grind everything together with
+                <material>water</material> and apply it without <material>gum</material> or
+                <material>glue</material>, and let it dry. And rub the place that you would like to
+            gild with a piece of <tool>white cloth</tool> to better unify it, and when the rubbed
+            place is a little shiny it is a sign that the <material>gold</material> will behave
+            well. After rubbing, wash the place that you want to gild with <tool>a clean
+                brush</tool> soaked with <material_format>clear
+                <material>water</material></material_format> and apply the <material>gold</material>
+            at once, which you will burnish when dry. And if you want to set <material><foreign
+                    language="french">rouge clair</foreign></material> and glaze with it, grind
+                    <material><place>Venice</place> lake</material> on the
+                    <tool><material>marble</material></tool> with <material>walnut oil</material> or
+                <material>linseed oil</material>. After grinding, mix in
+                    <material_format><material>turpentine</material> varnish</material_format> or
+                    <material_format><material>spike lavender</material> varnish</material_format>
+            and apply on <material>gold</material> with the <tool>brush</tool>.
+                <material>Brazilwood</material> and <material><foreign language="french">laque
+                    ronde</foreign></material> fade. For green, temper
+                <material>verdigris</material> with <material>walnut oil</material> or
+                <material>linseed oil</material> and grind it, then mix in some
+                    <material_format><material>turpentine</material> varnish</material_format>; not
+                    <material_format><material>aspic</material> varnish</material_format>, which is
+            not suitable for <material>verdigris</material>. If you want to glaze with
+                <material>azure</material> it must be set on <material_format>burnished
+                    <material>silver</material></material_format>. Take <material>azure
+                enamel</material>, and without grinding temper it with
+                    <material_format><material>turpentine</material> varnish</material_format> and
+            apply it.</purpose>
+    </block>
+</entry>

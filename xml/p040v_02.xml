@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p040v_02">
+    <folio number="040v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f86.image"/>
+    <purpose type="observation"/>
+    <heading>Latten and calamine</heading>
+    <block>Founders do not melt latten in a <tool>bellow furnace</tool> but in
+            <tool>crucibles</tool>, for in a bellow furnace and amid the
+            <material>charcoals</material>, the <material>calamine</material> would
+        disappear.</block>
+</entry>

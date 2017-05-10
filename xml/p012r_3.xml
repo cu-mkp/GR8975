@@ -1,0 +1,29 @@
+<entry identifier="p012r_2">
+    <folio number="012r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f29.image"/>
+
+    <heading>
+        <material>Paper</material>
+    </heading>
+
+    <block>
+        <activity type="mold making"/>
+        <activity type="casting"/>
+        <purpose type="observation"> The <color>whitest</color> and thinnest is the best. And when
+            the <tool>hollow mold</tool> is quite clean, as when it is made of
+                <material>sulfur</material> or <material_format>baked
+                <material>cimolee</material></material_format>, the <material>paper</material> comes
+            out very clean. You can apply a layer or two of
+                <material><color>white</color></material>, with a border of
+                <material>gold</material>, to imitate <material>alabaster</material>. And after
+            applying the <material><color>white</color></material> you may burnish it with a
+                <tool>tooth</tool>.</purpose>
+        <purpose type="advice"> Yet in order for it to take burnish you should soak the
+                <material>lead <color>white</color></material> with <material>egg white</material>
+            and <material_format>peelings from the <material><plant>fig
+                tree</plant></material></material_format>. Or better still, varnish your work with
+                    <material><color>white</color> varnish</material>. Also while you are molding
+            with <material>paper</material>, as it starts drying, burnish the back of it with the
+                <tool>tooth</tool>.</purpose>
+    </block>
+
+</entry>

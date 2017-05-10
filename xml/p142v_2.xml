@@ -1,22 +1,20 @@
 <entry identifier="p142v_2">
-  <folio number="142v"
-  url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image">
+  <folio number="142v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f290.image"/>
+  
+    <heading>Molds</heading>
+    <!--this entry seems to be about advice on handling molds-->
+  <purpose type="making"/>
+  <activity type="maintenance"/>
+  
+    <block purpose="advice">Make some notches in them the molds that enter more into the inside of
+      the mold than the outside because in this way, they have more strength. Take care to keep from
+      reheating them suddenly in a burning hot fire, because this will make them break. </block>
 
-<heading>Molds</heading>
-<!--this entry seems to be about advice on handling molds-->
+    <block position="right-middle" purpose="advice"> Do not keep them molds in a humid place, nor an
+      enclosed place if they are not well dry, because they will mold. The same with dried animals. </block>
 
-<block purpose="advice">Make some notches in them the molds that enter more into the inside of the mold than the outside because in this way, they have more strength.  Take care to keep from reheating them suddenly in a burning hot fire, because this will make them break.
-</block>
-
-<block position="right-middle"
-purpose="advice">
-Do not keep them molds in a humid place, nor an enclosed place if they are not well dry, because they will mold.  The same with dried animals.
-</block>
-
-<block position="left-middle"
-purpose="advice">
-It is not at all necessary to reheat the molds two times when the animal can pull away without burning, as do toads, which can very well be molded hollow like all thick animals. However, it is always good to redden the mold once.
-</block>
-
-</folio>
+    <block position="left-middle" purpose="advice"> It is not at all necessary to reheat the molds
+      two times when the animal can pull away without burning, as do <animal>toads</animal>, which can very well be
+      molded hollow like all thick animals. However, it is always good to redden the mold once. </block>
+  
 </entry>

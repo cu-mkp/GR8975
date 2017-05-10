@@ -1,0 +1,23 @@
+<entry identifier="p005v_a1">
+    <folio number="005v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f16.image"/>
+
+    <heading>For bronzing in yellow and white</heading>
+
+    <block>
+        <activity type="embellishing"/>
+        <purpose type="making">Take <material_format>mirror
+                <material>tin</material></material_format> and melt it. On <unit>half a pound</unit>
+            of this, put <unit>half an ounce</unit> of <material>quicksilver</material>, and remove
+            it immediately from the <tool>fire</tool> and grind it until it is <unit>like
+                ashes</unit>. Wash it thoroughly in <material_format>clean
+                    <material>water</material></material_format>, then grind it on a
+                        <tool><material_format><material>marble</material>
+                slab</material_format></tool> and soak it with <material>water</material> of
+                    <material><foreign language="french">colle de
+            retailles</foreign></material>.</purpose>
+        <purpose type="application">Then apply that on your <material>wood</material>en candlesticks
+            and any other works you like, and burnish with a <tool>tooth</tool>. You can grind
+                <material>pin filings</material> and apply them with the said <material><foreign
+                    language="french">colle de retailles</foreign></material>.</purpose>
+    </block>
+</entry>

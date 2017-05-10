@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p040r_5">
+    <folio number="040r" url="hhttp://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image"/>
+    <purpose type="observation"/>
+    <heading>Grottos</heading>
+    <block>To fill some empty place that cannot be laden with hanging rocks, one puts a piece of
+        thick <material>parchment</material> close to the fire, which shrinks &amp; crumples. Then
+        one paints it with <material>distemper</material>, then in <material>oil</material>. Next
+        one affixes it.</block>
+</entry>

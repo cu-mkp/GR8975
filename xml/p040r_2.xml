@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p040r_1">
+    <folio number="040r" url="hhttp://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image"/>
+    <purpose type="making"/>
+    <heading>Aqua fortis</heading>
+    <block>Some put on for four pounds of <material>aqua fortis matter</material> four that is in
+        the retort, four ounces of common <material>water</material> in the container, which is
+        better than putting it into the retort. The <material>alum</material> is de-phlegmed &amp;
+        calcined such that the water does not have as many dregs. Many make it without de-phlegming
+        the alum.</block>
+</entry>

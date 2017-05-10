@@ -1,0 +1,17 @@
+<entry identifier="p004v_a2">
+    <folio number="004v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f14.image"/>
+    <heading>Black varnish without fire, without disassembling harnesses or removing metal bands
+        from chests</heading>
+    <block>
+        <activity type="varnish"/>
+        <purpose type="making"> Take <material_format><material>spike lavender oil</material>
+                varnish</material_format> and mix it with <material>charcoal black</material> or
+                <material>lampblack</material> and, without fire, it will mix in by
+            itself.</purpose>
+        <purpose type="application">Apply the varnish with a <tool>brush</tool> and it will soon be
+            dry.</purpose>
+        <purpose type="observation"><material_format><material>Turpentine</material>
+                varnish</material_format> would work quite well but it does not dry as
+            quickly.</purpose>
+    </block>
+</entry>

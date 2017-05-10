@@ -1,0 +1,42 @@
+<entry identifier="p004r_1">
+    <folio number="004r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f13.image"/>
+    <heading>
+        <material_format><material>Lavender spike oil</material> varnish</material_format>
+    </heading>
+    <block>
+        <activity type="varnish"/>
+        <purpose type="making"> One must heat <material>lavender spike oil</material> and, as it
+            begins to simmer, put in <material_format>powdered <material>sandarac
+                gum</material></material_format> so that it soon melts. And stir continuously over a
+                <tool>charcoal fire</tool> until the <material>sandarac</material> is well melted,
+            which you will know by taking a little of the said varnish on a <tool>plate</tool> and,
+            if it is fat enough when you handle it with a <tool>finger</tool>, it is ready. And for
+                <unit>one pound</unit> of <material>lavender spike oil</material>, you should put
+                <unit>five ounces</unit> of <material_format>ground
+                <material>sandarac</material></material_format>.</purpose>
+        <purpose type="observation"> Some only put in <unit>four ounces</unit> but this is not as
+            good, nor as fat. The former dries promptly. To avoid the trouble of polishing their
+                <material>ebony</material>, <profession>framemakers</profession> varnish it with
+            this. So do <profession>guitarmakers</profession>. This varnish is not as fitting for
+            paintings as <material_format>fine <material>turpentine</material>
+                varnish</material_format>, though it is good for the paintings' moldings. When
+                    <material_format><material>linseed</material> varnish</material_format> was in
+            use, one would not commonly varnish the landscape of a painting because it would turn
+            the landscape yellow. But with <material_format><material>turpentine</material>
+                varnish</material_format> one varnishes everywhere. Instead of
+                <material>sandarac</material>, you can add to it <material_format>pulverized
+                    <material>mastic</material></material_format>
+            <unit>drop</unit> by <unit>drop</unit> or otherwise, and it will dry more
+            quickly.</purpose>
+        <purpose type="advice"> If you want to varnish <material>plaster</material> or a wall, first
+            put on your <material><foreign language="french">colle de retaille</foreign></material>,
+            very hot, because if cold it would not penetrate the wall at all. And when you would
+            have put your varnish on, it would come off.</purpose>
+    </block>
+    <block position="left-top">
+        <purpose type="observation">
+            <material_format><material>Aspic oil</material> varnish</material_format> is not as apt
+            for colors as that of <material>turpentine</material>, because <material>aspic
+                oil</material> eats the colors, since it is too penetrating.</purpose>
+    </block>
+</entry>

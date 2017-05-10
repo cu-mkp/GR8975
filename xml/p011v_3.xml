@@ -1,0 +1,14 @@
+<entry identifier="p011v_3">
+    <folio number="011v" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f28.image"/>
+
+    <heading>Applying <material_format>unpolished
+        <material>gold</material></material_format></heading>
+
+    <block>
+        <activity type="gilding"/>
+        <purpose type="application"/> There is nothing better than the
+                <material_format><color>black</color>
+            <material>varnish</material> of sword-makers</material_format> to use as a base layer
+        because it dries quickly and makes the <material>gold</material> appear very
+        beautiful.</block>
+</entry>

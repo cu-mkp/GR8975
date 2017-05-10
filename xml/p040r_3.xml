@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE entry SYSTEM "../schema/testentry.dtd">
+<entry identifier="p040r_3">
+    <folio number="040r" url="hhttp://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image"/>
+    <purpose type="making"/>
+    <purpose type="observation"/>
+    <heading>Vinegar</heading>
+    <block>One takes for granted that jec heat red-hot the <material>mineral salt</material> that
+        looks like <material>marble</material> &amp; that is called in <place>Catalonia</place>
+        &amp; at the border of <place>Spain</place>
+        <material>Cardana salt</material>C, &amp; throwing it in the red hot or quite hot in
+            <material>wine</material>, it turns it into very good <material>vinegar</material>. Some
+        make it with <material>water</material> poured on <material>pomace</material> soured after
+        being pressed by <tool>grape pickers</tool>, but it will not keep &amp; spoils in heat &amp;
+        thunder storms.</block>
+</entry>
