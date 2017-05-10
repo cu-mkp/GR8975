@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
     exclude-result-prefixes="#all">
 
@@ -235,8 +235,8 @@
         <xsl:text>&#160;margin of folio </xsl:text>
         <xsl:value-of select="preceding::folio[1]/@number"/>
         <xsl:text>*</xsl:text>
-        </xsl:if>
         <xsl:text>&#x0A;</xsl:text>
+        </xsl:if>
         <xsl:text>&gt; </xsl:text>
         <xsl:text>&lt;a href="</xsl:text>
         <xsl:value-of select="@url"/>
