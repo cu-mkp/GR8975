@@ -128,10 +128,12 @@
     </xsl:template>
 
     <xsl:template match="heading">
-        <xsl:text>&#xa;</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
         <xsl:text>## </xsl:text>
         <xsl:apply-templates/>
-        <xsl:text>&#xa;&#xa;</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
     <xsl:template match="block">
@@ -145,12 +147,13 @@
         <xsl:text>&gt; </xsl:text>
         <xsl:text>*at&#160;</xsl:text>
         <xsl:value-of select="replace(@position, '-', ' ')"/>
-        <xsl:text>&#160; margin of folio </xsl:text>
+        <xsl:text>&#160;margin of folio </xsl:text>
         <xsl:value-of select="preceding::folio[1]/@number"/>
         <xsl:text>*</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>&gt; </xsl:text><xsl:text>&#x0A;</xsl:text>
-        <xsl:text>&gt; </xsl:text><xsl:apply-templates/>
+        <xsl:text>&gt; </xsl:text>
+        <xsl:apply-templates/>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 
@@ -197,7 +200,7 @@
 
     <xsl:template
         match="
-            activity | animal | figure | foreign
+            activity | animal | foreign
             | material | material_format | place | plant
             | profession | image | ref | sub_recipe | tool | unit | color | name | q
             | sup | time">
@@ -218,6 +221,28 @@
         <xsl:text>&#x0A;</xsl:text>
         <xsl:text>- {:.indent-3}</xsl:text>
         <xsl:apply-templates/>
+        <xsl:text>&#x0A;</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="figure">
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&gt; *Figure*</xsl:text>
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:if test="@position">
+        <xsl:text>&gt; </xsl:text>       
+        <xsl:text>*at&#160;</xsl:text>
+        <xsl:value-of select="replace(@position, '-', ' ')"/>
+        <xsl:text>&#160;margin of folio </xsl:text>
+        <xsl:value-of select="preceding::folio[1]/@number"/>
+        <xsl:text>*</xsl:text>
+        </xsl:if>
+        <xsl:text>&#x0A;</xsl:text>
+        <xsl:text>&gt; </xsl:text>
+        <xsl:text>&lt;a href="</xsl:text>
+        <xsl:value-of select="@url"/>
+        <xsl:text>" target="_blank"&gt;</xsl:text>
+        <xsl:text>&lt;img src="https://cu-mkp.github.io/GR8975-edition/assets/photo-icon.png" alt="Figure" style="display:inline-block; margin-bottom:-3px;"/&gt;</xsl:text>
+        <xsl:text>&lt;/a&gt;</xsl:text>
         <xsl:text>&#x0A;</xsl:text>
     </xsl:template>
 </xsl:stylesheet>
