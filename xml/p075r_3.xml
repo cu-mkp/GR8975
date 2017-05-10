@@ -1,4 +1,15 @@
-<entry identifier="p075r_2">
+<entry identifier="p075r_3">
 
   <folio number="075r"
     url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f155.item"/>
+
+    <purpose type="making"/>
+    <actiity type="embellishing"/>
+
+    <heading>Bronze like tin</heading>
+
+    <block>
+      Take some <material>bismuth</material> and two ounces of <material>quicksilver</material>. Melt the <material>bismuth</material> into a new <tool>pot</tool>, as soon as it becomes completely melted add the <material>quicksilver</material> and then remove it from the fire. Leave the aforementioned glue to dry, then take a piece of <material>tin</material>, and burnish it on a <tool>marble slab</tool> with clear <material>water</material>, then coat it over the wood and polish it with a piece of <material>tin</material>.
+    </block>
+
+</entry>

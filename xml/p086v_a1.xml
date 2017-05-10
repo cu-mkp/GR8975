@@ -3,31 +3,68 @@
   <folio number="086v"
     url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f178.image"/>
 
-  <purpose type=""/>
-  <activity type=""/>
+    <activity type="sandmold making"/>
 
-  <heading>Excellent <material>sand</material> for <material>lead</material>, <material>tin</material> and <material>copper</material></heading>
+    <heading>Excellent <material>sand</material> for <material>lead</material>, <material>tin</material> and <material>copper</material></heading>
 
-  <block>
-    D
-  </block>
+    <block>
+      D
+    </block>
 
-  <block>
-    <purpose type="making"/>
-    Since, I molded with <material>burned bone</material>, <material>dross of iron</material> &amp; <material>burned felt</material>, really crushed and ground on <tool>marble</tool> and mixed together. I got them very wet with beaten <material>egg white</material>.  And, as in the other [casts], having covered the medal and filled the box frame with <material>sable de mine</material>, I gave it a little tap. I found it really stripped &amp; molded quite neatly. I let it sit for a night. The morning after next I reheated it little by little for over the course of seven or eight hours (because if possible there must not remain any humidity at all in the box frame). Two times, I cast <material>copper</material> alloyed with <material>☾</material> there, as old <material>K</material>. The material came out really lustrous &amp; resonant &amp; without a chappe. And my <material>sand</material> was not corrupted at all.  Since, I have cast in there many casts of sweet <material>lead</material> and <material>tin</material>, which came out the best and neatest of any others I have yet found.
-  </block>
+    <block>
+      <purpose type="making"/>
+      Since, I molded with <material>burned bone</material>, <material>dross of iron</material> &amp; <material>burned felt</material>, really crushed and ground on <tool>marble</tool> and mixed together. I got them very wet with beaten <material>egg white</material>.  And, as in the other [casts], having covered the medal and filled the box frame with <material>sable de mine</material>, I gave it a little tap. I found it really stripped &amp; molded quite neatly. I let it sit for a night. The morning after next I reheated it little by little for over the course of seven or eight hours (because if possible there must not remain any humidity at all in the box frame). Two times, I cast <material>copper</material> alloyed with <material>☾</material> there, as old <material>K</material>. The material came out really lustrous &amp; resonant &amp; without a chappe. And my <material>sand</material> was not corrupted at all.  Since, I have cast in there many casts of sweet <material>lead</material> and <material>tin</material>, which came out the best and neatest of any others I have yet found.
+    </block>
 
-  <block>
-    <purpose type="advice"/>
-    When you mold make some grooves around your mold in the <tool>box frame</tool>, so that you draw in this manner the matter from all sides.
-  </block>
+    <block>
+      <purpose type="advice"/>
+      When you mold make some grooves around your mold in the <tool>box frame</tool>, so that you draw in this manner the matter from all sides.
+    </block>
 
-  <figure identifier="fig_p086v_1"
+    <figure identifier="fig_p086v_1"
     url="https://drive.google.com/open?id=0B9-oNrvWdlO5dWFuOW9Db1ZjZFk"/>
 
-  <block>
-    <purpose type="advice"/>
-    <material>Potin</material> from <material>sernique</material> &amp; other works runs yet better than fine <material>latten</material>.  But I believe that half <material>copper</material> and half <material>latten</material> is better, which has served &amp; been in very thin works, like frying pans &amp; similar ones.  I've seen come out quite well this mixture of half
-  </block>
+    <block>
+      <purpose type="advice"/>
+      <material>Potin</material> from <material>sernique</material> &amp; other works runs yet better than fine <material>latten</material>.  But I believe that half <material>copper</material> and half <material>latten</material> is better, which has served &amp; been in very thin works, like frying pans &amp; similar ones.  I've seen come out quite well this mixture of half
+    </block>
+
+  <folio number="087r"
+    url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f179.image"/>
+
+    <block>
+      <purpose type="advice"/>
+      In order to mold well, it is necessary to cast several medals together in a large <material>box mold</mateial>, because when there is a lot of material and the <tool>crucible</tool> is almost full, it becomes hotter. Then, if you do not succeed with one of the medals, another will be good.
+    </block>
+
+    <block>
+      <purpose type="advice"/>
+      It is better to melt with a <tool>bellows furnace</tool> than with a <tool>wind furnace</tool>, because it heats more vigorously. It is true that <material>latten</material> melts better in the <tool>wind furnace</tool>, because it is more brittle than <tool>copper</tool>.
+    </block>
+
+    <block>
+      <purpose type="advice"/>
+      Some founders superstitiously believe that there are only three days in a week that are good for melting, that is, Tuesdays, Wednesdays Thursdays, and Saturdays. For them, the others are unlucky.
+    </block>
+
+    <block>
+      <purpose type="advice"/>
+      When you mold, do not excessively pound on the medal that is in <material>sand</material>, because that prevents it from being cleanly stripped, and cracks the mold.
+    </block>
+
+    <block>
+      <purpose type="advice"/>
+      See to it that <material>sand</material> does not go over the edges of the <tool>box mold</tool>, because if the molded medal is higher than the cast, metal will not easily enter the form. Therefore, always take care that the surface of your cast surpasses the mold in a straight line. To accomplish this, if you wish, put a piece of cardboard of whatever thickness you please on top of the mold.
+    </block>
+
+    <block>
+      <purpose type="advice"/>
+      To prevent their large casting works from becoming too porous, founders are careful to heat their molds very well. And to know if the molds are heated enough, they tap them with their finger, and if they start ringing like a pot, they are heated enough.
+    </block>
+
+    <block>
+      <purpose type="advice"/>
+      In order to cast their <material>canons</material> cleanly, they mix with their founder's earth some fine casting <material>sand</material>, if they can get any.
+    </block>
 
 </entry>

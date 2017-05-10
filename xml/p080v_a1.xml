@@ -5,12 +5,12 @@
 
 <purpose type="advice"/>
 <activity type="metalwork"/>
-=======
+
 <annotations>
   <annotation url="https://drive.google.com/drive/folders/0BwJi-u8sfkVDfnZ2cUFXWktPQWU0TTJPY3ZUeEVOdkFwS1g5eUhOM1hsRXVTSXRzQ0IxWVk" title="Founders of Small Tin Work"/>
 </annotations>
 
->>>>>>> 6b0ff79bc3af3bb6846acbbb926611aa6fede2e5
+
 <heading>Founders of small <material>tin</material> work</heading>
 
 <block>
@@ -22,7 +22,7 @@
 
 <block>And if they want their work to last, they pierce <sup>it</sup> somewhere and fit in a piece of <material>cork</material>. <material>Lead</material> or <material>tin</material> will not damage it. </block>
 
-<<<<<<< HEAD
+
 <block pisiton="left-top">
 Make sure the <tool>pegs</tool> of your frame fit in easily so  it will open with ease without moving anything else. Your box molds should fit well, and the table should be very flat.
 </block>
@@ -35,7 +35,7 @@ Try to carve with <material>distilled vinegar</material>.
 Try calcined <material>oyster shells</material>; they are said to be excellent for molding.
 </block>
 
-=======
+
   <block position="left-top">
 Make sure the <tool>pegs</tool> of your frame fit in easily so it will open with ease without moving anything else. Your box molds should fit well, and the table should be very flat.
   </block>
@@ -48,5 +48,5 @@ Try to carve with <material>distilled vinegar</material>.
 Try calcined <material>oyster shells</material>; they are said to be excellent for molding.
 </block>
 
->>>>>>> 6b0ff79bc3af3bb6846acbbb926611aa6fede2e5
+
 </entry>
