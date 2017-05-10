@@ -1,0 +1,37 @@
+System ID: /data/Github/GR8975/xml/p170r_1.xml
+Main validation file: /data/Github/GR8975/xml/p170r_1.xml
+Engine name: Xerces
+Severity: fatal
+Description: The content of elements must consist of well-formed character data or markup.
+Start location: 2:2
+
+System ID: /data/Github/GR8975/xml/p061v_4.xml
+Main validation file: /data/Github/GR8975/xml/p061v_4.xml
+Engine name: Xerces
+Severity: fatal
+Description: Attribute name "of" associated with an element type "unit" must be followed by the ' = ' character.
+Start location: 10:43
+End location: 10:45
+
+System ID: /data/Github/GR8975/xml/p006v_a2.xml
+Main validation file: /data/Github/GR8975/xml/p006v_a2.xml
+Engine name: Xerces
+Severity: fatal
+Description: The content of elements must consist of well-formed character data or markup.
+Start location: 10:2
+
+System ID: /data/Github/GR8975/xml/p061v_3.xml
+Main validation file: /data/Github/GR8975/xml/p061v_3.xml
+Engine name: Xerces
+Severity: fatal
+Description: The element type "block" must be terminated by the matching end-tag "</block>".
+Start location: 16:3
+
+System ID: /data/Github/GR8975/xml/p110r_2.xml
+Main validation file: /data/Github/GR8975/xml/p110r_2.xml
+Engine name: Xerces
+Severity: fatal
+Description: The value of attribute "type" associated with an element type "activity" must not contain the '<' character.
+Start location: 4:11
+End location: 4:15
+
