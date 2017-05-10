@@ -5,7 +5,7 @@
 
     <activity type="sandmold making"/>
 
-    <heading><material>Sand</material> from sand pit from <place>Toulouse<place></heading>
+    <heading><material>Sand</material> from sand pit from <place>Toulouse</place></heading>
 
     <block>
       <purpose type="making"/>
