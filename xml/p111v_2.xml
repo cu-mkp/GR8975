@@ -3,7 +3,7 @@
 <purpose type="making"/>
 <activity type="polishing"/>
 
-<heading>Sanguine</heading>
+<heading><material>Sanguine</material></heading>
 
-<block>To clean the various colors of lead and tin, sanguine is pulverized, and it is rubbed on the molded work with pieces of fabric.</block>
+  <block>To clean the various colors of lead and tin, <material>sanguine</material> is pulverized, and it is rubbed on the molded work with pieces of fabric.</block>
 </entry>
