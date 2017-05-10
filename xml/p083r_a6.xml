@@ -4,7 +4,11 @@
 url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f171.item"/>
 
 <purpose type="making"/>
-<activity type="sand making"/>
+<activity type="sandmold making"/>
+
+<annotations>
+  <annotation url="https://drive.google.com/drive/u/0/folders/0BwJi-u8sfkVDfm5VYmYwWFFESkM3RXRNcDNndnp5bThvOXlJbEFPWFR4N3VQZUNtRVhqNmc" title="Alabaster Sand"/>
+</annotations>
 
 <heading>Excellent <material>sand</material></heading>
 
