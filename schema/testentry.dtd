@@ -14,7 +14,7 @@
   >
 
 
-<!ELEMENT list (foreign|folio|item+)>
+<!ELEMENT list (foreign|folio|figure|purpose|activity|q|item+)>
 <!ATTLIST list  
   purpose NMTOKEN #IMPLIED>
 
@@ -43,7 +43,7 @@
 
 <!ELEMENT purpose (#PCDATA|block|animal|color|currency|figure|foreign
                  |material|material_format|place|plant|profession
-                 |ref|sub_recipe|time|tool|unit
+                 |ref|list|item|sub_recipe|time|tool|unit
                  |name|note|people|q|sup)*>
 <!ATTLIST purpose
   type NMTOKEN #REQUIRED>
@@ -100,7 +100,7 @@
 
 <!ELEMENT q (#PCDATA|animal|color|currency|figure|foreign
                  |material| place|plant|profession
-                 |ref|time|tool|unit
+                 |ref|list|item|time|tool|unit
                  |name|note|people|q|sup)*>
 <!ATTLIST q
   >
@@ -142,7 +142,7 @@
 
 <!ELEMENT foreign (#PCDATA|animal|color|currency|figure|foreign
                  |material| place|plant|profession
-                 |ref|time|tool|unit
+                 |ref|list|time|item|tool|unit
                  |name|note|people|q|sup)*>
 <!ATTLIST foreign
   language NMTOKEN #IMPLIED>
@@ -171,7 +171,7 @@
 
 <!ELEMENT activity (#PCDATA|block|animal|color|currency|figure|foreign
                  |material|material_format|place|plant|profession
-                 |purpose|ref|sub_recipe|time|tool|unit
+                 |purpose|list|item|ref|sub_recipe|time|tool|unit
                  |name|note|people|q|sup)*>
 <!ATTLIST activity
   type CDATA #REQUIRED>
