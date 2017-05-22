@@ -1,12 +1,15 @@
 <entry identifier="p059r_1">
     <folio number="059r" url="http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f123.item"/>
     <purpose type="observation"/>
-
+    
     <heading>Shadows</heading>
-
-    <block>First shadows which are closer to the daylight have to be light and very faint then the last
-        ones very dark to enhance strongly the relief. The Italians usually make three
-        shadows, the first one very faint, the second one darker and the third one very dark, then
-        put these three shadows together by hatching them from the darkest to the lightest</block>
-
+    
+    <block>First shadows which are closer to the daylight have to be light and very faint then the
+        last ones very dark to enhance strongly the relief. The Italians usually make three shadows,
+        the first one very faint, the second one darker and the third one very dark, then put these
+        three shadows together by hatching them from the darkest to the lightest</block>
+    
+    <block position="left-middle"/>The varnish is more beautiful on a painting when the color has
+    been completely soaked up<block/>
+    
 </entry>

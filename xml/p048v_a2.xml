@@ -6,21 +6,33 @@
         <material>Lead tin</material>
     </heading>
 
-    <block>They crack if they are often melted again and thicken and burn, so that even if a salmon is
-        made, the <material>tin</material> becomes thick at the bottom if it is not stirred often during casting.
-        It is better for casting to melt some <material>lead</material> and some <material>tin</material> and to renew it each
-        time. The <material>antimony</material> makes them breakable, the <material>iced tin</material> makes them whiter.
-            Pewterers mix a pound of <material>iced tin</material> with a quintal of <material>fine tin</material>
-        and two and a half or three pounds of <material>red, mild cauldron copper</material>, which is better than
-            <material>latten.</material> There is <material>fine and mild tin</material> and <material>sour tin</material>.
-            Pewterers cast the sour as grills to sell it better. They go better and more
-        cleanly in <material>stone</material> moulds than in <material>copper</material> molds because <material>copper</material> is fat and
-        draws the <material>mild tin</material> when heated. Or when casting a large work, three quarts of
-            <material>lead</material> with one pound of <material>mild tin</material> produces a very liquid mixture which is
-        appropriate for casting and is as shiny as a mirror. Laxunge <material>glass</material> lightens them. All
-        things that lighten <material>metals</material> a lot and remove their thickness and natural density and
+    <block>They crack if they are often melted again and thicken and burn, so that even if a salmon
+        is made, the <material>tin</material> becomes thick at the bottom if it is not stirred often
+        during casting. It is better for casting to melt some <material>lead</material> and some
+            <material>tin</material> and to renew it each time. The <material>antimony</material>
+        makes them breakable, the <material>iced tin</material> makes them whiter. Pewterers mix a
+        pound of <material>iced tin</material> with a quintal of <material>fine tin</material> and
+        two and a half or three pounds of <material>red, mild cauldron copper</material>, which is
+        better than <material>latten.</material> There is <material>fine and mild tin</material> and
+            <material>sour tin</material>. Pewterers cast the sour as grills to sell it better. They
+        go better and more cleanly in <material>stone</material> moulds than in
+            <material>copper</material> molds because <material>copper</material> is fat and draws
+        the <material>mild tin</material> when heated. Or when casting a large work, three quarts of
+            <material>lead</material> with one pound of <material>mild tin</material> produces a
+        very liquid mixture which is appropriate for casting and is as shiny as a mirror. Laxunge
+            <material>glass</material> lightens them. All things that lighten
+            <material>metals</material> a lot and remove their thickness and natural density and
         make them as liquid as water make them appropriate for casting because their thickness stops
-        them from flowing. The <material>mild tin</material> is more even than the <material>sour tin</material>, which is
-        whiter and seems to have been polished like a mirror.</block>
+        them from flowing. The <material>mild tin</material> is more even than the <material>sour
+            tin</material>, which is whiter and seems to have been polished like a mirror.</block>
+
+    <block position="left-bottom"> To properly alloy the <material>tin</material> and the
+            <material>lead</material>, you have to melt them together, Then, mix them together a
+        little bit at a time and throw it often on a <material>marble tile</material>. And when it
+        is going well, you will see it becoming unified and shining as if it were burnished. Because
+        sometimes it becomes spotted due to too much <material>lead</material> and sometimes due to
+        too much <material>tin</material>. There is some <material>tin</material> allied with more
+            <material>lead</material>. Ordinary <material>tin</material> is allied with some
+            <material>lead</material>.</block>
 
 </entry>

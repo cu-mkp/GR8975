@@ -21,4 +21,12 @@
             <material>steel</material>, which with another heating they make into a mass. The
             <place>Germans</place> make their files from strong <material>iron</material>.</block>
 
+    <block position="left-bottom"><material>Steel</material> is applied to tools not on both sides,
+        but underneath the part where one sharpens and whets them, and this part must be made of
+        very soft <material>iron</material>.</block>
+
+    <block position="left-bottom"><place>Levantines</place> refine our own
+            <material>steel</material> because their country provides them with none, and they
+        reheat it in a pot with <material>bitumen</material> etc.</block>
+
 </entry>
