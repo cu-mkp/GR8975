@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 Identifier,heading,image_url,folio_start,folio_start_r_or_v,folio_end,folio_end_r_or_v,material,tool,purpose,subject_activity_keywords
 ,,,,,,,multi-valued,multi-valued,multi-valued,"characterization of content of entry, of important concepts in entry, multi-valued"
 ,,,,,,,examples-,examples-,examples-,examples-
@@ -9,16 +8,3 @@ Identifier,heading,image_url,folio_start,folio_start_r_or_v,folio_end,folio_end_
 ,,,,,,,,,,color
 ,,,,,,,,,,medicinal remedy
 ,,,,,,,,,,glasswork
-=======
-Identifier,heading,image_url,folio_start,folio_start_r_or_v,folio_end,folio_end_r_or_v,material,tool,purpose,subject_activity_keywords
-,,,,,,,multi-valued,multi-valued,multi-valued,"characterization of content of entry, of important concepts in entry, multi-valued"
-,,,,,,,examples-,examples-,examples-,examples-
-,,,,,,,marble,marble slab,making,casting
-,,,,,,,copper,copper sheet,application,painting
-,,,,,,,,,observation,animals
-,,,,,,,,,advice,gardening
-,,,,,,,,,,color
-,,,,,,,,,,medicinal remedy
-,,,,,,,,,,glasswork
->>>>>>> Stashed changes
-,,,,,,,,,,dyeing
