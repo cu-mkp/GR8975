@@ -1,4 +1,5 @@
 # User Stories
+I am a -- I want to -- In order to --
 ## 1 Designer -- link two pages (eg one recipe on carnations at beg of MS with one at the end) -- reader can observe difference in methods
 ## 2 Reader -- see related images -- understand argument wrt images
 ## 3 Historian -- search specific ingredients -- taxonomy within MS
