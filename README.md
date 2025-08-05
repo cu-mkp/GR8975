@@ -1,3 +1,11 @@
+# History GR8975: What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment (Spring 2017)
+[![DOI](https://zenodo.org/badge/78666244.svg)](https://doi.org/10.5281/zenodo.16747575)
+
+For more detail about this course, see:
+- Tianna Helena Uchacz, Naomi Rosenkranz, and Terry Catapano, “Digital Competencies, Collaborations, and Cultures of Work: A Case Study in Extending the Research-Driven Pedagogy of The Making and Knowing Project,” in *Digital Pedagogy in Early Modern Studies: Method and Praxis*, ed. Andie Silva and Scott Schofield, New Technologies in Medieval and Renaissance Studies (Iter Press, 2024), 157–218, [https://press.uchicago.edu/ucp/books/book/distributed/D/bo151927625.html](https://press.uchicago.edu/ucp/books/book/distributed/D/bo151927625.html).
+
+## Course Information and Syllabus
+
 History GR8975
 
 **What is a Book in the 21st Century?**
